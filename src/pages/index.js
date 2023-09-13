@@ -1,3 +1,5 @@
+import RootLayout from "@/components/Layouts/RootLayout";
+
 export default function HomePage() {
   return (
     <div>
@@ -5,3 +7,7 @@ export default function HomePage() {
     </div>
   );
 }
+
+HomePage.getLayout = function getLayout(page) {
+  return <RootLayout>{page}</RootLayout>;
+};
