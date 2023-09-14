@@ -7,6 +7,15 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        main: "#081621", // dark black
+        primary: "#ef4a23", // yellow
+        secondary: "#3749bb", // blue
+        dark: "#01132d", // text black
+        dim: "#666666",
+        senary: "#",
+        "secondary-text": "#ef4a23", // secondary-text
+      },
       backgroundImage: {},
     },
   },
