@@ -16,7 +16,26 @@ module.exports = {
         senary: "#",
         "secondary-text": "#ef4a23", // secondary-text
       },
-      backgroundImage: {},
+      backgroundImage: {
+        "new-gradient":
+          "linear-gradient(-45deg, #00237e, #3749bb, #0bc1e9, #3749bb, #00237e)",
+      },
+      keyframes: {
+        blinkerKeyframe: {
+          "0%": { opacity: "1.0" },
+          "50%": { opacity: "0.0" },
+          "100%": { opacity: "1.0", color: "white" },
+        },
+        "gradient-keyframe": {
+          "0%": { "background-position": "0% 50%" },
+          "50%": { "background-position": "100% 50%" },
+          "100%": { "background-position": "0% 50%" },
+        },
+      },
+      animation: {
+        blinker: "blinkerKeyframe 2s infinite linear",
+        gradient: "gradient-keyframe 12s infinite ease",
+      },
     },
   },
   plugins: [],
