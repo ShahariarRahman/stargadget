@@ -5,3 +5,21 @@
 :root {
   scroll-behavior: smooth;
 }
+
+/* menu  :  */
+.ant-menu-title-content:hover,
+.ant-menu-title-content:hover > * {
+  color: #ef4a23;
+  transition-duration: 0s;
+  transition-delay: 0s;
+  transition-timing-function: unset;
+}
+.ant-menu-submenu-popup {
+  inset-block-start: 124px !important;
+}
+.ant-menu-submenu-popup > ul {
+  border-radius: 0 !important;
+}
+.ant-menu-title-content:hover {
+  color: white;
+}

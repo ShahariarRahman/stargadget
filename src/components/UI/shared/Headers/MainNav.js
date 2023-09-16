@@ -1,4 +1,4 @@
-import { Menu, Row, Col, Input, Button, Layout } from "antd";
+import { Row, Col, Input, Button, Layout } from "antd";
 import {
   UserOutlined,
   GiftOutlined,
@@ -19,7 +19,7 @@ export default function MainNav() {
         <span className="text-[11px] text-white/50">Latest Offers</span>
       </div>
     </Link>,
-    <Link href="/deals" key="deals" className="inline-flex">
+    <Link key="deals" href="/deals" className="inline-flex">
       <ThunderboltFilled className="!text-[1.4rem] text-primary animate-blinker" />
       <div className="ml-3 text-left flex flex-col">
         <h3 className="text-base">Desktop Deal</h3>
@@ -27,9 +27,13 @@ export default function MainNav() {
       </div>
     </Link>,
     <div key="login" className="inline-flex items-center">
-      <UserOutlined className="!text-[1.4rem] text-primary" />
+      <Link href="/account/login">
+        <UserOutlined className="!text-[1.4rem] text-primary" />
+      </Link>
       <div className="ml-3 text-left">
-        <h3 className="!text-white text-base">Account</h3>
+        <Link href="/account/login">
+          <h3 className="!text-white text-base">Account</h3>
+        </Link>
         <span className="flex space-x-1 text-[11px] text-white/50">
           <Link
             href="/account/register"
@@ -68,34 +72,29 @@ export default function MainNav() {
               </div>
             </Link>
             <Input
-              className="ml-12 mr-7 bg-white rounded w-full h-[42px] flex items-center"
+              className="ml-12 mr-7 !bg-white rounded w-full h-[42px] flex items-center"
               placeholder="Search"
               allowClear
               bordered={false}
               size="large"
-              addonAfter={
-                <button className="border-0 text-xl text-black">
+              suffix={
+                <button className="text-xl text-black">
                   <SearchOutlined />
                 </button>
               }
             />
           </Col>
           <Col className="flex items-center">
-            <Menu
-              className="flex [&>li]:!p-0 [&>li]:!m-0 w-full bg-inherit"
-              mode="inline"
-              items={mainNavData.map((content) => ({
-                label: (
-                  <Button
-                    size="large"
-                    className=" text-white hover:!text-white text-sm leading-snug border-none px-2.5 m-0"
-                    type="link"
-                  >
-                    {content}
-                  </Button>
-                ),
-              }))}
-            />
+            {mainNavData.map((content) => (
+              <Button
+                key={content.key}
+                size="large"
+                className=" text-white hover:!text-white text-sm leading-snug border-none  !py-0 px-2.5"
+                type="link"
+              >
+                {content}
+              </Button>
+            ))}
             <a href="https://stargadget.vercel.app/tool/pc_builder">
               <Button className="ml-5 !rounded bg-new-gradient bg-[400%,400%] animate-gradient border-0 h-[42px] !text-white font-semibold py-2 px-5">
                 PC Builder
