@@ -1,4 +1,5 @@
 import { headerNavItems } from "@/utils/constant/navItems";
+import { useState } from "react";
 import MainNav from "./MainNav";
 import Link from "next/link";
 import CategoryNav from "./CategoryNav";
@@ -18,9 +19,20 @@ const generateCategoryNav = (data, parentPath = "") =>
 
 export default function Headers() {
   const categoryNavItems = generateCategoryNav(headerNavItems);
+
+  const [open, setOpen] = useState({
+    menu: false,
+    search: false,
+    cart: false,
+  });
+
   return (
     <>
-      <MainNav />
+      <MainNav
+        categoryNavItems={categoryNavItems}
+        open={open}
+        setOpen={setOpen}
+      />
       <CategoryNav categoryNavItems={categoryNavItems} />
     </>
   );

@@ -1,16 +1,20 @@
-import { Row, Col, Input, Button, Layout } from "antd";
+import { Row, Col, Input, Button, Layout, Menu, Drawer, Badge } from "antd";
 import {
   UserOutlined,
   GiftOutlined,
   ThunderboltFilled,
   SearchOutlined,
+  MenuUnfoldOutlined,
+  ShoppingCartOutlined,
+  CloseOutlined,
+  LogoutOutlined,
 } from "@ant-design/icons";
 import Link from "next/link";
 import Image from "next/legacy/image";
 import logo from "@/assets/images/logo.png";
 import ContainerLayout from "@/components/Layouts/ContainerLayout";
 
-export default function MainNav() {
+export default function MainNav({ categoryNavItems, setOpen, open, user }) {
   const mainNavData = [
     <Link key="offer" href="/offer" className="inline-flex">
       <GiftOutlined className="!text-[1.4rem] text-primary" />
@@ -103,6 +107,92 @@ export default function MainNav() {
           </Col>
         </Row>
       </ContainerLayout>
+      <ContainerLayout container className="py-0.5 flex xl:hidden">
+        <Row justify="space-between" align="middle">
+          <div>
+            {!open.menu ? (
+              <MenuUnfoldOutlined
+                onClick={() => setOpen({ menu: true })}
+                className="text-[1.4rem] text-white p-1"
+              />
+            ) : (
+              <CloseOutlined
+                onClick={() => setOpen({ menu: false })}
+                className="text-[1.4rem] text-white bg-white/20 p-1 rounded-full"
+              />
+            )}
+            <Drawer
+              className="mt-[50px]"
+              placement="left"
+              closable={false}
+              onClose={() => setOpen({ menu: false })}
+              open={open.menu}
+            >
+              <Menu mode="inline" items={categoryNavItems} />
+            </Drawer>
+          </div>
+          <Link
+            className="flex justify-start items-center w-24 mb-1.5"
+            href="/"
+          >
+            <Image src={logo} alt="logo" />
+          </Link>
+          <div>
+            <span className="space-x-3 pr-4">
+              <SearchOutlined
+                onClick={() => setOpen({ search: !open.search })}
+                className={`${
+                  open.search ? "text-primary" : "text-white"
+                } text-[1.4rem]`}
+              />
+              <Badge
+                size="default"
+                color="#ef4a23"
+                offset={[1, 1]}
+                showZero
+                count={
+                  <p className="bg-primary text-white w-4 h-4 flex items-center justify-center rounded-full">
+                    {0}
+                  </p>
+                }
+              >
+                <ShoppingCartOutlined
+                  onClick={() => setOpen({ cart: true })}
+                  className="text-white text-[1.5rem]"
+                />
+              </Badge>
+            </span>
+            {user && (
+              <>
+                <span className=" pt-1 border-r border-dim"></span>
+                <button
+                  onClick={() => "signOut()"}
+                  type="text"
+                  className="pl-3 pr-2"
+                >
+                  <LogoutOutlined className="text-white text-xl" />
+                </button>
+              </>
+            )}
+          </div>
+        </Row>
+      </ContainerLayout>
+      {open.search && (
+        <Row className="bg-white w-full shadow-lg ">
+          <Input
+            className="py-3"
+            placeholder="Search"
+            allowClear
+            bordered={false}
+            size="large"
+            suffix={
+              <button>
+                <SearchOutlined className="text-xl mt-0.5 text-black/50" />
+              </button>
+            }
+          />
+        </Row>
+      )}
     </Layout.Header>
   );
 }
