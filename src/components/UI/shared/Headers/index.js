@@ -3,6 +3,7 @@ import { useState } from "react";
 import MainNav from "./MainNav";
 import Link from "next/link";
 import CategoryNav from "./CategoryNav";
+import FooterNav from "./FooterNav";
 
 const generateCategoryNav = (data, parentPath = "") =>
   data.map(({ navPath, navLabel, children }) => ({
@@ -34,6 +35,7 @@ export default function Headers() {
         setOpen={setOpen}
       />
       <CategoryNav categoryNavItems={categoryNavItems} />
+      <FooterNav />
     </>
   );
 }
