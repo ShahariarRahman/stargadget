@@ -4,6 +4,7 @@ import MainNav from "./MainNav";
 import Link from "next/link";
 import CategoryNav from "./CategoryNav";
 import FooterNav from "./FooterNav";
+import FloatingNav from "./FloatingNav";
 
 const generateCategoryNav = (data, parentPath = "") =>
   data.map(({ navPath, navLabel, children }) => ({
@@ -36,6 +37,7 @@ export default function Headers() {
       />
       <CategoryNav categoryNavItems={categoryNavItems} />
       <FooterNav />
+      <FloatingNav setOpen={setOpen} />
     </>
   );
 }
