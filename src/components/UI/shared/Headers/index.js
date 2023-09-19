@@ -5,6 +5,7 @@ import Link from "next/link";
 import CategoryNav from "./CategoryNav";
 import FooterNav from "./FooterNav";
 import FloatingNav from "./FloatingNav";
+import Cart from "../Cart";
 
 const generateCategoryNav = (data, parentPath = "") =>
   data.map(({ navPath, navLabel, children }) => ({
@@ -38,6 +39,7 @@ export default function Headers() {
       <CategoryNav categoryNavItems={categoryNavItems} />
       <FooterNav />
       <FloatingNav setOpen={setOpen} />
+      <Cart open={open} setOpen={setOpen} />
     </>
   );
 }
