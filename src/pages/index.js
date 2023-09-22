@@ -1,9 +1,10 @@
 import RootLayout from "@/components/Layouts/RootLayout";
+import Banner from "@/components/UI/home/Banner";
 
 export default function HomePage() {
   return (
-    <div>
-      <h1 className="text-2xl h-[300rem] bg-secondary">HomePage</h1>
+    <div className="lg:text-base md:leading-6 lg:leading-9">
+      <Banner />
     </div>
   );
 }

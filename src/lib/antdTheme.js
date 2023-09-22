@@ -20,5 +20,10 @@ export const theme = {
       menuItemBorderRadius: 0, // popup/dropdown:submenu button radius
       itemBorderRadius: 0, // inline menu: border radius
     },
+    Carousel: {
+      dotHeight: 8,
+      dotWidth: 30,
+      dotActiveWidth: 30,
+    },
   },
 };

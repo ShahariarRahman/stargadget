@@ -51,3 +51,11 @@
 .ant-drawer-body {
   padding: 0 !important;
 }
+
+/*  Carousel button override */
+.slick-dots > li > button {
+  border-radius: 0px !important;
+}
+.slick-dots > .slick-active > button {
+  background-color: #ef4a23 !important;
+}
