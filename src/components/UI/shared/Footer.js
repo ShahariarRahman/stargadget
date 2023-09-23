@@ -11,9 +11,9 @@ import ContainerLayout from "@/components/Layouts/ContainerLayout";
 
 export default function Footer() {
   return (
-    <footer className="text-center md:text-left py-0 bg-main text-dim mt-20 pt-14 w-full">
+    <footer className="text-center md:text-left py-0 bg-main text-dim mt-20 pt-5 md:pt-6 xl:pt-[50px] w-full">
       <ContainerLayout container space="none">
-        <div className="md:flex justify-between md:space-x-2 w-full [&>div>h4]:font-trebuchet [&>div>h4]:tracking-[4px] [&>div>h4]:text-white [&>div>h4]:uppercase [&>div>h4]:mb-7 [&>div]:mb-12 px-2">
+        <div className="md:flex justify-between md:space-x-2 w-full [&>div>h4]:text-[11px] [&>div>h4]:md:text-sm [&>div>h4]:tracking-[4px] [&>div>h4]:text-white [&>div>h4]:uppercase [&>div>h4]:mb-7 [&>div]:mb-12 px-4">
           <div>
             <h4>Support</h4>
             <div className="flex flex-col items-center whitespace-nowrap space-y-4">
@@ -39,9 +39,9 @@ export default function Footer() {
               ))}
             </div>
           </div>
-          <div>
+          <div className="pl-4">
             <h4>About Us</h4>
-            <ul className="flex flex-wrap justify-center [&>li]:pr-2 list-disc md:list-none md:grid grid-cols-2 xl:grid-cols-3 gap-5">
+            <ul className="flex flex-wrap justify-center [&>li]:pr-5 list-disc md:list-none md:grid grid-cols-2 xl:grid-cols-3 gap-2 md:gap-5">
               {[
                 ["EMI Terms", "#"],
                 ["About Us", "#"],
