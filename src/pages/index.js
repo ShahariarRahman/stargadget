@@ -3,6 +3,7 @@ import Banner from "@/components/UI/home/Banner";
 import ActivityMarquee from "@/components/UI/home/ActivityMarquee";
 import FeaturedCategory from "@/components/UI/home/FeaturedCategory";
 import FeaturedProduct from "@/components/UI/home/FeaturedProduct";
+import SEOContent from "@/components/UI/home/SEOContent";
 import { format } from "date-fns";
 import { config } from "@/config";
 
@@ -13,6 +14,7 @@ export default function HomePage({ products, date }) {
       <ActivityMarquee date={date} />
       <FeaturedCategory />
       <FeaturedProduct products={products} />
+      <SEOContent />
     </div>
   );
 }
