@@ -2,14 +2,31 @@
 @tailwind components;
 @tailwind utilities;
 
+/* import font: cdn */
+/* @import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap'); */
+
+/* import font: local (alt) */
+/* @font-face {
+  font-family: trebuchet;
+  src: url("../assets/fonts/trebuc.ttf") format("opentype");
+} */
+
+/* import font: local */
+@font-face {
+  font-family: "Trebuchet MS";
+  font-style: normal;
+  font-weight: normal;
+  src: local("../assets/fonts/trebuc.ttf"),
+    url("../assets/fonts/trebuc.ttf") format("ttf");
+}
+
 :root {
   scroll-behavior: smooth;
 }
 
-/* place holder */
-::-webkit-input-placeholder {
-  font-size: 15px;
-  color: gray !important;
+/* override: font */
+* {
+  font-family: "Trebuchet MS" !important;
 }
 
 /* menu  : */
@@ -58,4 +75,17 @@
 }
 .slick-dots > .slick-active > button {
   background-color: #ef4a23 !important;
+}
+
+/* placeholder: input */
+::-webkit-input-placeholder {
+  font-size: 15px;
+  color: gray !important;
+}
+
+/* placeholder: ant select*/
+.ant-select-selection-placeholder {
+  font-size: 15px;
+  color: gray !important;
+  margin-top: 1px !important;
 }
