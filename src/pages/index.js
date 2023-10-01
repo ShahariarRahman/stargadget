@@ -21,7 +21,12 @@ export default function HomePage({ products, date }) {
 
 HomePage.getLayout = function getLayout(page) {
   return (
-    <RootLayout space="middle" container>
+    <RootLayout
+      space="middle"
+      container
+      title="Star Gadget - Leading Computer, Laptop Gadget Shop in Bangladesh"
+      description="Star Gadget is the Best Laptop, Computer, Gaming PC, Component, Accessories, and Gadget retail &amp; Online shop in Bangladesh. Star Gadget offers the Latest Tech products with the most competitive price in BD."
+    >
       {page}
     </RootLayout>
   );
