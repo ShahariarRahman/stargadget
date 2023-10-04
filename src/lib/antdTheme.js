@@ -25,5 +25,13 @@ export const theme = {
       dotWidth: 30,
       dotActiveWidth: 30,
     },
+    Breadcrumb: {
+      iconFontSize: 13,
+      itemColor: "#000",
+      lastItemColor: "#666",
+      linkColor: "",
+      separatorColor: "#000",
+      separatorMargin: 8,
+    },
   },
 };
