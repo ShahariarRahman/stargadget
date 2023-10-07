@@ -613,3 +613,268 @@ export const headerNavItems = [
     ],
   },
 ];
+
+export const featuredNavItems = [
+  {
+    navPath: "drone",
+    navLabel: "Drone",
+    title: "Drones for Aerial Exploration",
+    description:
+      "Explore the skies with our range of high-quality drones. From beginners to professionals, find the perfect drone for your aerial exploration needs. Order yours now!",
+    children: [
+      {
+        navPath: "dji",
+        navLabel: "DJI",
+        title: "DJI Drones: Unmatched Aerial Photography",
+        description:
+          "Capture breathtaking aerial shots with DJI drones, known for their cutting-edge technology and unmatched photography capabilities. Elevate your photography and videography to new heights.",
+      },
+    ],
+  },
+  {
+    navPath: "gimbal",
+    navLabel: "Gimbal",
+    title: "Gimbal Price in Bangladesh",
+    description:
+      "Explore a wide range of gimbals in Bangladesh, offering superior stabilization for your photography and videography needs. Prices start from BDT 5,000 and may vary based on brand and features. Find the perfect gimbal for your camera and order now!",
+    children: [
+      {
+        navPath: "dji",
+        navLabel: "DJI",
+        title: "DJI Gimbals: Professional Stabilization",
+        description:
+          "Achieve professional-grade stabilization with DJI gimbals, known for their cutting-edge technology and reliable performance in the Bangladeshi market. Capture smooth and cinematic footage with DJI gimbals.",
+      },
+    ],
+  },
+  {
+    navPath: "laptop-battery",
+    navLabel: "Laptop-battery",
+    title: "Laptop Battery Price in Bangladesh",
+    description:
+      "Find the best laptop battery prices in Bangladesh. Ensure uninterrupted performance with high-quality laptop batteries. Explore a range of options and choose the one that suits your laptop model. Order now for reliable and long-lasting power!",
+    children: [
+      {
+        navPath: "non-brand",
+        navLabel: "Non-Brand",
+        title: "Non-Brand Laptop Batteries: Affordable Power",
+        description:
+          "Choose affordable power with Non-Brand laptop batteries. These budget-friendly options provide reliable performance to keep your laptop running smoothly in Bangladesh.",
+      },
+      {
+        navPath: "maxgreen",
+        navLabel: "MaxGreen",
+        title: "MaxGreen Laptop Batteries: Sustainable Performance",
+        description:
+          "Experience sustainable performance with MaxGreen laptop batteries. Known for their eco-friendly design and long-lasting power, MaxGreen batteries are a reliable choice for laptop users in Bangladesh.",
+      },
+    ],
+  },
+  {
+    navPath: "power-station",
+    navLabel: "Power Station",
+    title: "Power Stations for Every Need",
+    description:
+      "Explore a range of power stations designed to meet various power needs. From portable solutions to high-capacity units, find the perfect power station for your requirements. Browse the latest options from top brands and order yours now!",
+    children: [
+      {
+        navPath: "ecoflow",
+        navLabel: "EcoFlow",
+        title: "EcoFlow Power Stations: Portable and Reliable",
+        description:
+          "Discover EcoFlow power stations, offering portable and reliable power solutions. Ideal for camping, emergencies, or on-the-go charging, EcoFlow provides versatile and eco-friendly options for users.",
+      },
+    ],
+  },
+  {
+    navPath: "vr",
+    navLabel: "VR",
+    title: "Virtual Reality (VR) Experience",
+    description:
+      "Immerse yourself in the world of Virtual Reality (VR) with cutting-edge devices. Explore the latest VR technology for an unparalleled gaming and entertainment experience.",
+    children: [
+      {
+        navPath: "meta",
+        navLabel: "Meta",
+        title: "Meta VR: Redefining Reality",
+        description:
+          "Redefine your reality with Meta VR, offering state-of-the-art virtual reality experiences that transport you to new dimensions of gaming, social interaction, and more.",
+      },
+      {
+        navPath: "sony",
+        navLabel: "Sony",
+        title: "Sony VR: Innovation in Virtual Reality",
+        description:
+          "Experience innovation in virtual reality with Sony VR. Dive into immersive worlds, powered by Sony's cutting-edge technology and commitment to delivering top-notch VR experiences.",
+      },
+    ],
+  },
+  {
+    navPath: "smart-watch",
+    navLabel: "Smart Watch",
+    title: "Smart Watches in Bangladesh",
+    description:
+      "Explore a range of smart watches in Bangladesh with the latest features and technology. Find the perfect smart watch for your lifestyle. Order now!",
+    children: [
+      {
+        navPath: "apple",
+        navLabel: "Apple",
+        title: "Apple Smart Watches: Seamless Integration",
+        description:
+          "Experience seamless integration with Apple smart watches, known for their elegant design, advanced health features, and connectivity options in Bangladesh.",
+      },
+    ],
+  },
+  {
+    navPath: "printer",
+    navLabel: "Printer",
+    title: "Printer Price in Bangladesh",
+    description:
+      "Find the latest printers in Bangladesh with a range of options to suit your printing needs. Explore top brands and order your printer from Star Gadget Printer shop in BD. Browse below and choose the best one for you!",
+    children: [
+      {
+        navPath: "hp",
+        navLabel: "HP",
+        title: "HP Printers: Reliable Printing Solutions",
+        description:
+          "Explore reliable printing solutions with HP printers, known for their performance and quality in the printing market in Bangladesh.",
+      },
+      {
+        navPath: "epson",
+        navLabel: "EPSON",
+        title: "EPSON Printers: Precision and Clarity",
+        description:
+          "Achieve precision and clarity in your prints with EPSON printers, offering advanced printing technology for various applications in Bangladesh.",
+      },
+      {
+        navPath: "canon",
+        navLabel: "Canon",
+        title: "Canon Printers: Imaging Excellence",
+        description:
+          "Experience imaging excellence with Canon printers, known for their quality prints and innovative features in the printing industry in Bangladesh.",
+      },
+    ],
+  },
+  {
+    navPath: "headphone",
+    navLabel: "Headphone",
+    title: "Headphone Price in Bangladesh",
+    description:
+      "Explore a wide range of headphones in Bangladesh with prices ranging from BDT 2,000 to BDT 30,000. Find the latest models from top brands at Star Gadget Headphone shop. Order yours now for an immersive audio experience!",
+    children: [
+      {
+        navPath: "beyerdynamic",
+        navLabel: "Beyerdynamic",
+        title: "Beyerdynamic Headphones: Premium Sound Quality",
+        description:
+          "Experience premium sound quality with Beyerdynamic headphones, known for their exceptional audio performance and comfort.",
+      },
+      {
+        navPath: "jabra",
+        navLabel: "Jabra",
+        title: "Jabra Headphones: Wireless Freedom",
+        description:
+          "Enjoy wireless freedom with Jabra headphones, offering cutting-edge technology for clear audio and convenient communication in Bangladesh.",
+      },
+      {
+        navPath: "asus",
+        navLabel: "Asus",
+        title: "Asus Headphones: Gaming and Entertainment",
+        description:
+          "Dive into gaming and entertainment with Asus headphones, designed for immersive audio experiences and long-lasting comfort.",
+      },
+      {
+        navPath: "rode",
+        navLabel: "RODE",
+        title: "RODE Headphones: Studio-Grade Audio",
+        description:
+          "Achieve studio-grade audio with RODE headphones, providing precision and clarity for professionals and audio enthusiasts in Bangladesh.",
+      },
+    ],
+  },
+  {
+    navPath: "earbuds",
+    navLabel: "Earbuds",
+    title: "Earbuds Price in Bangladesh",
+    description:
+      "Explore a wide range of earbuds in Bangladesh, offering superior audio quality and comfort. Find the latest original earbuds from Star Gadget Earbuds shop. Browse below and choose the perfect pair for your needs!",
+    children: [
+      {
+        navPath: "apple",
+        navLabel: "Apple",
+        title: "Apple Earbuds: Iconic Design, Exceptional Sound",
+        description:
+          "Discover iconic design and exceptional sound with Apple earbuds, delivering a premium audio experience and seamless integration with Apple devices in Bangladesh.",
+      },
+      {
+        navPath: "jbl",
+        navLabel: "JBL",
+        title: "JBL Earbuds: Signature Sound Experience",
+        description:
+          "Immerse yourself in a signature sound experience with JBL earbuds, known for their high-quality audio and comfortable fit in Bangladesh.",
+      },
+      {
+        navPath: "jabra",
+        navLabel: "Jabra",
+        title: "Jabra Earbuds: Unmatched Connectivity",
+        description:
+          "Experience unmatched connectivity with Jabra earbuds, offering seamless wireless solutions and premium audio performance for consumers in Bangladesh.",
+      },
+    ],
+  },
+  {
+    navPath: "bluetooth-speaker",
+    navLabel: "Bluetooth Speaker",
+    title: "Bluetooth Speaker Price in Bangladesh",
+    description:
+      "Explore a wide range of Bluetooth speakers in Bangladesh, offering superior audio quality and portability. Prices start from BDT 2,000 and vary based on brand and specifications. Buy the latest Bluetooth speakers from Star Gadget Speaker shop in BD. Browse below and choose yours now!",
+    children: [
+      {
+        navPath: "edifier",
+        navLabel: "Edifier",
+        title: "Edifier Speakers: Audio Elegance",
+        description:
+          "Experience audio elegance with Edifier speakers, known for their premium sound quality and stylish designs in the Bangladeshi market.",
+      },
+      {
+        navPath: "sony",
+        navLabel: "Sony",
+        title: "Sony Speakers: High-fidelity Sound",
+        description:
+          "Enjoy high-fidelity sound with Sony speakers, offering a perfect blend of audio performance and cutting-edge technology for consumers in Bangladesh.",
+      },
+      {
+        navPath: "f&d",
+        navLabel: "F&D",
+        title: "F&D Speakers: Powerful and Affordable",
+        description:
+          "Get powerful and affordable sound solutions with F&D speakers, providing a wide range of options for budget-conscious consumers in Bangladesh.",
+      },
+    ],
+  },
+  {
+    navPath: "cc-camera",
+    navLabel: "Camera",
+    title: "CC Camera Price in Bangladesh",
+    description:
+      "Explore a wide range of CC cameras in Bangladesh. Find the latest surveillance solutions to enhance your security. Order high-quality CC cameras from Star Gadget Camera shop in BD.",
+    children: [
+      {
+        navPath: "dahua",
+        navLabel: "Dahua",
+        title: "Dahua Cameras: Security Redefined",
+        description:
+          "Redefined security with Dahua cameras, offering cutting-edge surveillance technology and reliable solutions for various applications in Bangladesh.",
+      },
+      {
+        navPath: "hikvision",
+        navLabel: "Hikvision",
+        title: "Hikvision Cameras: Advanced Surveillance",
+        description:
+          "Experience advanced surveillance with Hikvision cameras, known for their innovative features and high-performance imaging capabilities in the Bangladeshi market.",
+      },
+    ],
+  },
+];
+
+export const navItems = [...headerNavItems, ...featuredNavItems];
