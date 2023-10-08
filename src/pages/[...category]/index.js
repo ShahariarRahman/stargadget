@@ -48,3 +48,29 @@ CategoryPage.getLayout = function getLayout(page) {
     </RootLayout>
   );
 };
+
+export const getStaticPaths = () => {
+  const flattenPaths = [
+    ["processor"],
+    ["processor", "intel"],
+    ["processor", "amd"],
+  ];
+  const paths = flattenPaths.map((category) => ({
+    params: {
+      category,
+      // category: "abc"          // par/[category]    | par/abc
+      // category: ["abc","def"]  // par/[...category] | par/abc/def
+    },
+  }));
+
+  return { paths, fallback: false };
+};
+
+export async function getStaticProps(context) {
+  const { category } = context.params;
+  console.log(category);
+
+  return {
+    props: {},
+  };
+}

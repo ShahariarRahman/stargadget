@@ -7,6 +7,8 @@ export const theme = {
     Menu: {
       itemHoverBg: "#ef4a23", // menu+submenu button color
       itemHeight: 26, // menu+submenu button height
+      itemSelectedColor: "#000", // selected menu+submenu: text color
+      itemSelectedBg: "#ef4a2350", // selected menu+submenu: bg color
       itemPaddingInline: 0, // menu item space
       motionDurationMid: 0, // duration
       motionDurationSlow: 0, // duration
