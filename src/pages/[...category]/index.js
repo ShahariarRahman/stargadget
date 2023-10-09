@@ -1,5 +1,7 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
+import { navItems } from "@/utils/constant/navItems";
+import { helpers } from "@/utils/helpers";
 
 export default function CategoryPage() {
   return <div>CategoryPage</div>;
@@ -50,11 +52,7 @@ CategoryPage.getLayout = function getLayout(page) {
 };
 
 export const getStaticPaths = () => {
-  const flattenPaths = [
-    ["processor"],
-    ["processor", "intel"],
-    ["processor", "amd"],
-  ];
+  const flattenPaths = helpers.getFlattenPath(navItems);
   const paths = flattenPaths.map((category) => ({
     params: {
       category,
@@ -68,7 +66,8 @@ export const getStaticPaths = () => {
 
 export async function getStaticProps(context) {
   const { category } = context.params;
-  console.log(category);
+  const [categoryPath, brandPath] = category;
+  console.log({ categoryPath }, { brandPath });
 
   return {
     props: {},
