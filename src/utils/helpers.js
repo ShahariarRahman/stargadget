@@ -10,6 +10,64 @@ const getFlattenPath = (navItems, parentPath = "") => {
   return flattenPath;
 };
 
+const concatParentPathAtChildNav = (parent) => {
+  return parent.children
+    ? {
+        ...parent,
+        children: parent.children.map(({ navPath, ...rest }) => ({
+          navPath: `${parent.navPath}/${navPath}`,
+          ...rest,
+        })),
+      }
+    : parent;
+};
+
+const findParentAtEndpoint = (
+  navItems,
+  navPaths,
+  parent = {},
+  breadcrumbItems = []
+) => {
+  if (!navPaths) {
+    parent.breadcrumbItems = breadcrumbItems;
+    return parent;
+  }
+  if (navPaths.length === 0) {
+    parent.breadcrumbItems = breadcrumbItems;
+    return parent;
+  }
+  const [currPath, ...restPaths] = navPaths;
+
+  const parentPath = parent.navPath;
+  const parentNavItem = navItems.find(({ navPath }) => {
+    return parentPath
+      ? `${navPath}` === `${parentPath}/${currPath}`
+      : navPath === currPath;
+  });
+
+  if (!parentNavItem) {
+    return {};
+  }
+
+  const parentNavChildWithParentPath =
+    concatParentPathAtChildNav(parentNavItem);
+
+  const { navPath, navLabel } = parentNavChildWithParentPath;
+
+  breadcrumbItems.push({
+    title: navLabel,
+    path: navPath,
+  });
+
+  return findParentAtEndpoint(
+    parentNavChildWithParentPath.children || [],
+    restPaths,
+    parentNavChildWithParentPath,
+    breadcrumbItems
+  );
+};
+
 export const helpers = {
   getFlattenPath,
+  findParentAtEndpoint,
 };

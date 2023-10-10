@@ -8,43 +8,19 @@ export default function CategoryPage() {
 }
 
 CategoryPage.getLayout = function getLayout(page) {
-  const demoBreadcrumbItems = [
-    {
-      title: "Category Title",
-      path: "categoryPath",
-    },
-    {
-      title: "Brand Title",
-      path: "brandPath",
-    },
-    {
-      title: "Product Title",
-      path: "productPath",
-    },
-  ];
+  const { category } = page.props;
+  const parentAtEndpoint = helpers.findParentAtEndpoint(navItems, category);
+  const { description, title, children, breadcrumbItems } = parentAtEndpoint;
 
   const content = {
-    buttons: [
-      {
-        navLabel: "Brand Label",
-        navPath: "brand-label",
-      },
-      {
-        navLabel: "Brand Label",
-        navPath: "brand-label",
-      },
-    ],
-    title: "Test Title",
-    description: "Test Description",
+    buttons: children,
+    title,
+    description,
   };
 
   return (
-    <RootLayout>
-      <BreadcrumbLayout
-        container
-        content={content}
-        navItems={demoBreadcrumbItems}
-      >
+    <RootLayout title={title} description={description}>
+      <BreadcrumbLayout container content={content} navItems={breadcrumbItems}>
         {page}
       </BreadcrumbLayout>
     </RootLayout>
@@ -70,6 +46,8 @@ export async function getStaticProps(context) {
   console.log({ categoryPath }, { brandPath });
 
   return {
-    props: {},
+    props: {
+      category,
+    },
   };
 }
