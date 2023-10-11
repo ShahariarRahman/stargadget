@@ -1,5 +1,6 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
+import FilterLayout from "@/components/Layouts/FilterLayout";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
 
@@ -21,7 +22,7 @@ CategoryPage.getLayout = function getLayout(page) {
   return (
     <RootLayout title={title} description={description}>
       <BreadcrumbLayout container content={content} navItems={breadcrumbItems}>
-        {page}
+        <FilterLayout>{page}</FilterLayout>
       </BreadcrumbLayout>
     </RootLayout>
   );
