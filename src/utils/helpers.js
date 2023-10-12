@@ -67,7 +67,18 @@ const findParentAtEndpoint = (
   );
 };
 
+const makeQuery = (query) => {
+  let queryPath = "";
+  Object.entries(query).forEach(([key, value], index) => {
+    index === 0
+      ? (queryPath += `?${key}=${value}`)
+      : (queryPath += `&${key}=${value}`);
+  });
+  return queryPath;
+};
+
 export const helpers = {
   getFlattenPath,
   findParentAtEndpoint,
+  makeQuery,
 };
