@@ -8,4 +8,5 @@ export const filteringOptions = {
     ["Pre Order", "pre_order"],
     ["Upcoming", "upcoming"],
   ],
+  rating: ["1", "2", "3", "4", "5"],
 };

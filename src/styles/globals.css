@@ -89,3 +89,12 @@
   color: gray !important;
   margin-top: 1px !important;
 }
+
+/* checkbox: input */
+.ant-checkbox-inner {
+  border-color: gray !important;
+}
+.ant-checkbox-checked .ant-checkbox-inner {
+  border-color: #3749bb !important;
+  background-color: #3749bb !important;
+}
