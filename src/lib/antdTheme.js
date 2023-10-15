@@ -35,5 +35,8 @@ export const theme = {
       separatorColor: "#000",
       separatorMargin: 8,
     },
+    Select: {
+      optionSelectedBg: "#f1f3f5",
+    },
   },
 };

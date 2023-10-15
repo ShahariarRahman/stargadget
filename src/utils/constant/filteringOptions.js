@@ -9,4 +9,13 @@ export const filteringOptions = {
     ["Upcoming", "upcoming"],
   ],
   rating: ["1", "2", "3", "4", "5"],
+  filterMenu: {
+    name: "Product",
+    sortOptions: [
+      ["Default", "default"],
+      ["Price (Low > High)", "asc"],
+      ["Price (High > Low)", "desc"],
+    ],
+    showOptions: [20, 24, 48, 75, 90],
+  },
 };
