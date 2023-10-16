@@ -122,6 +122,7 @@ export default function MainNav({ categoryNavItems, setOpen, open, user }) {
               />
             )}
             <Drawer
+              width={290}
               className="mt-[50px]"
               placement="left"
               closable={false}

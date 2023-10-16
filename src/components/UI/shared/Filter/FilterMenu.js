@@ -1,12 +1,15 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/router";
-import { Button, Select } from "antd";
-import { FilterOutlined } from "@ant-design/icons";
+import { Button, Drawer, Select } from "antd";
+import { FilterOutlined, CloseOutlined } from "@ant-design/icons";
 import { helpers } from "@/utils/helpers";
+import { filteringOptions } from "@/utils/constant/filteringOptions";
+import FilterContainer from "./FilterContainer";
 
-export default function FilterMenu({ options }) {
-  const { showOptions, sortOptions, name } = options;
+export default function FilterMenu() {
+  const { showOptions, sortOptions, name } = filteringOptions.filterMenu;
   const [displayOption, setDisplayOption] = useState({});
+  const [open, setOpen] = useState(false);
   const router = useRouter();
 
   useEffect(() => {
@@ -34,12 +37,32 @@ export default function FilterMenu({ options }) {
     <div className="bg-white flex justify-between p-2 rounded shadow-sm font-semibold">
       <h3 className="text-base my-auto ml-2 hidden lg:block">{name}</h3>
       <Button
+        onClick={() => setOpen(true)}
         type="text"
         className="ml-2 flex lg:hidden items-center bg-dark/5 rounded"
       >
         <FilterOutlined className="mt-[.02rem]" />
         <span className="!hidden xs:!inline">Filter</span>
       </Button>
+      <Drawer
+        width={280}
+        closable={false}
+        open={open}
+        onClose={() => setOpen(false)}
+        className="mt-[50px]"
+        placement="right"
+      >
+        <div>
+          <Button
+            className="absolute -left-10 !py-0 hover:!bg-inherit"
+            onClick={() => setOpen(false)}
+            type="text"
+          >
+            <CloseOutlined className="text-lg text-white" />
+          </Button>
+          <FilterContainer />
+        </div>
+      </Drawer>
       <div className="space-x-2">
         <span className="space-x-2 hidden lg:inline">
           <span className="opacity-80">Show:</span>

@@ -25,9 +25,11 @@ export default function Ratings({ options }) {
   );
 
   return (
-    <div className="bg-white mt-1 px-4 pt-3 pb-5 rounded shadow-sm">
-      <h3 className="text-base my-auto font-semibold border-b pb-3">Ratings</h3>
-      <div className="mt-4 mb-2 space-y-1">
+    <div className="bg-white mt-1 pt-3 pb-5 rounded shadow-sm">
+      <h3 className="text-base my-auto font-semibold border-b pb-3 px-4">
+        Ratings
+      </h3>
+      <div className="mt-4 mb-2 space-y-1 px-4">
         {options.map((rating) => (
           <div key={rating}>
             <Checkbox

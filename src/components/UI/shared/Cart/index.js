@@ -5,6 +5,7 @@ import { underDevNotification } from "@/utils/underDev";
 export default function Cart({ open, setOpen }) {
   return (
     <Drawer
+      width={360}
       className="!bg-main"
       styles={{ header: { padding: 0 } }}
       title={
