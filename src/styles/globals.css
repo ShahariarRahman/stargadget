@@ -98,3 +98,28 @@
   border-color: #3749bb !important;
   background-color: #3749bb !important;
 }
+
+/* override styles: ant-pagination */
+.ant-pagination > li {
+  border-radius: 0.25rem !important;
+  border: none !important;
+  color: black !important;
+}
+.ant-pagination
+  > li:hover:not([aria-disabled="true"], .ant-pagination-total-text) {
+  background-color: #ef4a23 !important;
+}
+.ant-pagination > li:not([aria-disabled="true"]):hover > a,
+.ant-pagination-item-active > a {
+  color: white !important;
+  text-decoration: underline;
+}
+.ant-pagination-total-text {
+  position: absolute;
+  right: 0;
+}
+@media only screen and (max-width: 1280px) {
+  .ant-pagination-total-text {
+    display: none !important;
+  }
+}

@@ -35,11 +35,11 @@ export default function FilterMenu() {
 
   return (
     <div className="bg-white flex justify-between p-2 rounded shadow-sm font-semibold">
-      <h3 className="text-base my-auto ml-2 hidden lg:block">{name}</h3>
+      <h3 className="text-base my-auto ml-2 hidden xl:block">{name}</h3>
       <Button
         onClick={() => setOpen(true)}
         type="text"
-        className="ml-2 flex lg:hidden items-center bg-dark/5 rounded"
+        className="ml-2 flex xl:hidden items-center bg-dark/5 rounded"
       >
         <FilterOutlined className="mt-[.02rem]" />
         <span className="!hidden xs:!inline">Filter</span>

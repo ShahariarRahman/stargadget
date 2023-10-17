@@ -16,6 +16,11 @@ export const filteringOptions = {
       ["Price (Low > High)", "asc"],
       ["Price (High > Low)", "desc"],
     ],
-    showOptions: [20, 24, 48, 75, 90],
+    showOptions: ["20", "24", "48", "75", "90"],
+  },
+  pagination: {
+    pages: 1,
+    limit: 12,
+    total: 70,
   },
 };

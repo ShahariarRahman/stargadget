@@ -38,5 +38,10 @@ export const theme = {
     Select: {
       optionSelectedBg: "#f1f3f5",
     },
+    Pagination: {
+      itemActiveBg: "#ef4a23",
+      itemSize: 34,
+      itemSizeSM: 34,
+    },
   },
 };
