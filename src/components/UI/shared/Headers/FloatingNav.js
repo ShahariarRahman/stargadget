@@ -1,6 +1,6 @@
 import { Badge } from "antd";
 import { PlusSquareFilled, ShoppingCartOutlined } from "@ant-design/icons";
-import Compare from "../Compare";
+import Compare from "@/components/UI/shared/Compare";
 
 const FloatingButton = ({ Icon, label, value, ...restPros }) => (
   <Badge

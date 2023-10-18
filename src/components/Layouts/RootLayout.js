@@ -1,8 +1,8 @@
 import Head from "next/head";
 import { Layout } from "antd";
-import Headers from "../UI/shared/Headers";
-import Footer from "../UI/shared/Footer";
-import ContainerLayout from "./ContainerLayout";
+import Headers from "@/components/UI/shared/Headers";
+import Footer from "@/components/UI/shared/Footer";
+import ContainerLayout from "@/components/Layouts/ContainerLayout";
 const { Content } = Layout;
 
 export default function RootLayout({

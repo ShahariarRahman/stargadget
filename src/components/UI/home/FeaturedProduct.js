@@ -1,4 +1,4 @@
-import HomeProductCard from "../HomeProductCard";
+import HomeProductCard from "@/components/UI/HomeProductCard";
 
 export default function FeaturedProduct({ products }) {
   return (

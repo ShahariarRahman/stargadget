@@ -4,7 +4,7 @@ import { Button, Drawer, Select } from "antd";
 import { FilterOutlined, CloseOutlined } from "@ant-design/icons";
 import { helpers } from "@/utils/helpers";
 import { filteringOptions } from "@/utils/constant/filteringOptions";
-import FilterContainer from "./FilterContainer";
+import FilterContainer from "@/components/UI/shared/Filter/FilterContainer";
 
 export default function FilterMenu() {
   const { showOptions, sortOptions, name } = filteringOptions.filterMenu;

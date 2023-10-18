@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Breadcrumb, Button, Grid } from "antd";
 import { HomeFilled } from "@ant-design/icons";
-import ContainerLayout from "./ContainerLayout";
+import ContainerLayout from "@/components/Layouts/ContainerLayout";
 
 export default function BreadcrumbLayout({
   children,

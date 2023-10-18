@@ -5,7 +5,7 @@ import {
   PlusSquareFilled,
 } from "@ant-design/icons";
 import Link from "next/link";
-import Compare from "../Compare";
+import Compare from "@/components/UI/shared/Compare";
 
 export default function FooterNav() {
   const footerNavItems = [

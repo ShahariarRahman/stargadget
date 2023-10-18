@@ -1,11 +1,11 @@
-import { headerNavItems } from "@/utils/constant/navItems";
 import { useState } from "react";
-import MainNav from "./MainNav";
 import Link from "next/link";
-import CategoryNav from "./CategoryNav";
-import FooterNav from "./FooterNav";
-import FloatingNav from "./FloatingNav";
-import Cart from "../Cart";
+import MainNav from "@/components/UI/shared/Headers/MainNav";
+import CategoryNav from "@/components/UI/shared/Headers/CategoryNav";
+import FooterNav from "@/components/UI/shared/Headers/FooterNav";
+import FloatingNav from "@/components/UI/shared/Headers/FloatingNav";
+import Cart from "@/components/UI/shared/Cart";
+import { headerNavItems } from "@/utils/constant/navItems";
 
 const generateCategoryNav = (data, parentPath = "") =>
   data.map(({ navPath, navLabel, children }) => ({
