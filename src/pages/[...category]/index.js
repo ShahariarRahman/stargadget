@@ -3,8 +3,10 @@ import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
 import FilterLayout from "@/components/Layouts/FilterLayout";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
+import { config } from "@/config";
 
-export default function CategoryPage() {
+export default function CategoryPage({ products }) {
+  console.log(products);
   return <div>CategoryPage</div>;
 }
 
@@ -44,10 +46,15 @@ export const getStaticPaths = () => {
 export async function getStaticProps(context) {
   const { category } = context.params;
   const [categoryPath, brandPath] = category;
-  console.log({ categoryPath }, { brandPath });
+
+  const url = `${config.apiBaseUrl}/products/${categoryPath}`;
+
+  const res = await fetch(brandPath ? `${url}/${brandPath}` : url);
+  const data = await res.json();
 
   return {
     props: {
+      products: data?.data || [],
       category,
     },
   };
