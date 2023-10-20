@@ -1,13 +1,21 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
 import FilterLayout from "@/components/Layouts/FilterLayout";
+import FeaturedProductCard from "@/components/UI/FeaturedProductCard";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
 import { config } from "@/config";
 
 export default function CategoryPage({ products }) {
-  console.log(products);
-  return <div>CategoryPage</div>;
+  return (
+    products && (
+      <div className="mt-2.5 grid xs:grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 text-gray-700">
+        {products.map((product) => (
+          <FeaturedProductCard key={product._id} product={product} />
+        ))}
+      </div>
+    )
+  );
 }
 
 CategoryPage.getLayout = function getLayout(page) {
