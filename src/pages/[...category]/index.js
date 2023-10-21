@@ -9,7 +9,7 @@ import { config } from "@/config";
 export default function CategoryPage({ products }) {
   return (
     products && (
-      <div className="mt-2.5 grid xs:grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 text-gray-700">
+      <div className="grid xs:grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 text-gray-700">
         {products.map((product) => (
           <FeaturedProductCard key={product._id} product={product} />
         ))}
