@@ -65,5 +65,6 @@ export async function getStaticProps(context) {
       products: data?.data || [],
       category,
     },
+    revalidate: 3600, // rebuild in 60 min
   };
 }

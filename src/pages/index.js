@@ -40,5 +40,6 @@ export async function getStaticProps() {
       products: data?.data || [],
       date: format(new Date(), "do MMMM iiii"),
     },
+    revalidate: 3600, // rebuild in 60 min
   };
 }
