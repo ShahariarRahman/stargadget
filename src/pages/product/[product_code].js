@@ -3,7 +3,12 @@ import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
 import { config } from "@/config";
 
 export default function ProductPage({ product }) {
-  return <div>Product Page: {product}</div>;
+  return (
+    <div className="text-center">
+      <h1 className="text-xl">Product Page:</h1>
+      <h3 className="text-lg">Product: {product.product_name}</h3>
+    </div>
+  );
 }
 
 ProductPage.getLayout = function getLayout(page) {
@@ -46,10 +51,20 @@ export async function getStaticPaths() {
 
 export async function getStaticProps(context) {
   const { product_code } = context.params;
+  const { apiBaseUrl } = config;
+
+  let product = {};
+
+  const prodRes = await fetch(`${apiBaseUrl}/product/${product_code}`);
+  const prodData = await prodRes.json();
+
+  if (prodData?.data) {
+    product = prodData.data;
+  }
 
   return {
     props: {
-      product: product_code,
+      product,
     },
     revalidate: 3600, // rebuild in 60 min
   };
