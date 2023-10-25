@@ -1,6 +1,8 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
 import { config } from "@/config";
+import { navItems } from "@/utils/constant/navItems";
+import { helpers } from "@/utils/helpers";
 
 export default function ProductPage({ product }) {
   return (
@@ -12,21 +14,42 @@ export default function ProductPage({ product }) {
 }
 
 ProductPage.getLayout = function getLayout(page) {
-  const product_name = "product_name";
-  const description = "description";
-  const breadcrumbItems = [
-    {
-      title: product_name,
-      path: product_name,
-    },
-  ];
-  const content = {};
+  const { product } = page.props;
+
+  let breadcrumbItemsWithProduct = [];
+  let content = {};
+
+  const { category, brand, product_name, product_code, price_info } =
+    product || {};
+
+  if (product_code) {
+    const parentAtEndpoint = helpers.findParentAtEndpoint(navItems, [
+      category.toLowerCase(),
+      brand.toLowerCase(),
+    ]);
+
+    const { description, title, children, breadcrumbItems } = parentAtEndpoint;
+
+    breadcrumbItemsWithProduct = [
+      ...(breadcrumbItems || []),
+      {
+        title: product_name,
+        path: `product/${product_code}`,
+      },
+    ];
+
+    content = {
+      buttons: children,
+      title,
+      description,
+    };
+  }
 
   return (
-    <RootLayout title={product_name} description={description}>
+    <RootLayout title={product_name} description={price_info?.details}>
       <BreadcrumbLayout
         space="none"
-        navItems={breadcrumbItems}
+        navItems={breadcrumbItemsWithProduct}
         content={content}
       >
         {page}
