@@ -1,14 +1,28 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
+import ContainerLayout from "@/components/Layouts/ContainerLayout";
+import ShareOption from "@/components/UI/product/ShareOption";
 import { config } from "@/config";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
 
 export default function ProductPage({ product }) {
+  const {
+    product_name,
+    // category,
+  } = product || {};
+
   return (
-    <div className="text-center">
-      <h1 className="text-xl">Product Page:</h1>
-      <h3 className="text-lg">Product: {product.product_name}</h3>
+    <div className="text-dark text-sm lg:text-[15px] lg:leading-6">
+      <ContainerLayout
+        container
+        className="pb-8 md:px-0 lg:px-5 bg-white rounded"
+      >
+        <ShareOption />
+        <h2 className="pb-3 text-xl lg:text-[22px] text-secondary">
+          {product_name}
+        </h2>
+      </ContainerLayout>
     </div>
   );
 }
