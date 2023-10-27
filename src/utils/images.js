@@ -30,6 +30,8 @@ import bluetoothSpeakers from "@/assets/icons/bluetooth-speakers.png";
 import ccCamera from "@/assets/icons/cc-camera.png";
 import gamingConsole from "@/assets/icons/gaming-console.png";
 
+import bKashOffer from "@/assets/images/bKash-offer.png";
+
 export const Images = {
   banner: {
     freeDelivery,
@@ -64,5 +66,8 @@ export const Images = {
     bluetoothSpeakers,
     ccCamera,
     gamingConsole,
+  },
+  other: {
+    bKashOffer,
   },
 };

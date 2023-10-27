@@ -2,6 +2,7 @@ import RootLayout from "@/components/Layouts/RootLayout";
 import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
 import ContainerLayout from "@/components/Layouts/ContainerLayout";
 import ShareOption from "@/components/UI/product/ShareOption";
+import ProductImages from "@/components/UI/product/ProductImages";
 import { config } from "@/config";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
@@ -9,6 +10,7 @@ import { helpers } from "@/utils/helpers";
 export default function ProductPage({ product }) {
   const {
     product_name,
+    image_url,
     // category,
   } = product || {};
 
@@ -19,9 +21,14 @@ export default function ProductPage({ product }) {
         className="pb-8 md:px-0 lg:px-5 bg-white rounded"
       >
         <ShareOption />
-        <h2 className="pb-3 text-xl lg:text-[22px] text-secondary">
-          {product_name}
-        </h2>
+        <div className="flex md:flex-row flex-col justify-around gap-8 lg:gap-16 ">
+          <ProductImages image_url={image_url} product_name={product_name} />
+          <article>
+            <h2 className="pb-3 text-xl lg:text-[22px] text-secondary">
+              {product_name}
+            </h2>
+          </article>
+        </div>
       </ContainerLayout>
     </div>
   );
