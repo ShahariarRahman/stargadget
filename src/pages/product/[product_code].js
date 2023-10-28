@@ -3,14 +3,20 @@ import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
 import ContainerLayout from "@/components/Layouts/ContainerLayout";
 import ShareOption from "@/components/UI/product/ShareOption";
 import ProductImages from "@/components/UI/product/ProductImages";
+import InfoBadges from "@/components/UI/product/InfoBadges";
 import { config } from "@/config";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
 
 export default function ProductPage({ product }) {
   const {
-    product_name,
     image_url,
+    product_name,
+    price,
+    regular_price,
+    status,
+    product_code,
+    brand,
     // category,
   } = product || {};
 
@@ -27,6 +33,13 @@ export default function ProductPage({ product }) {
             <h2 className="pb-3 text-xl lg:text-[22px] text-secondary">
               {product_name}
             </h2>
+            <InfoBadges
+              price={price}
+              regular_price={regular_price}
+              status={status}
+              product_code={product_code}
+              brand={brand}
+            />
           </article>
         </div>
       </ContainerLayout>
