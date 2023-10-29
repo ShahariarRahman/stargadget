@@ -4,6 +4,7 @@ import ContainerLayout from "@/components/Layouts/ContainerLayout";
 import ShareOption from "@/components/UI/product/ShareOption";
 import ProductImages from "@/components/UI/product/ProductImages";
 import InfoBadges from "@/components/UI/product/InfoBadges";
+import KeyFeatures from "@/components/UI/product/KeyFeatures";
 import { config } from "@/config";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
@@ -17,6 +18,7 @@ export default function ProductPage({ product }) {
     status,
     product_code,
     brand,
+    features,
     // category,
   } = product || {};
 
@@ -40,6 +42,7 @@ export default function ProductPage({ product }) {
               product_code={product_code}
               brand={brand}
             />
+            <KeyFeatures features={features} />
           </article>
         </div>
       </ContainerLayout>
