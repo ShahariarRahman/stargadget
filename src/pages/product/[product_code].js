@@ -5,6 +5,7 @@ import ShareOption from "@/components/UI/product/ShareOption";
 import ProductImages from "@/components/UI/product/ProductImages";
 import InfoBadges from "@/components/UI/product/InfoBadges";
 import KeyFeatures from "@/components/UI/product/KeyFeatures";
+import ViewMoreOption from "@/components/UI/product/ViewMoreOption";
 import { config } from "@/config";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
@@ -19,6 +20,7 @@ export default function ProductPage({ product }) {
     product_code,
     brand,
     features,
+    rating,
     // category,
   } = product || {};
 
@@ -43,6 +45,7 @@ export default function ProductPage({ product }) {
               brand={brand}
             />
             <KeyFeatures features={features} />
+            <ViewMoreOption rating={rating} />
           </article>
         </div>
       </ContainerLayout>
