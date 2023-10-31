@@ -1,5 +1,5 @@
-import { Button, Rate } from "antd";
 import Link from "next/link";
+import { Button, Rate } from "antd";
 
 export default function ViewMoreOption({ rating }) {
   return (
