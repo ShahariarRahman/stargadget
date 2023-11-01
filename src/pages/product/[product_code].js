@@ -7,6 +7,7 @@ import InfoBadges from "@/components/UI/product/InfoBadges";
 import KeyFeatures from "@/components/UI/product/KeyFeatures";
 import ViewMoreOption from "@/components/UI/product/ViewMoreOption";
 import PriceOptions from "@/components/UI/product/PriceOptions";
+import CartOption from "@/components/UI/product/CartOption";
 import { config } from "@/config";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
@@ -48,6 +49,7 @@ export default function ProductPage({ product }) {
             <KeyFeatures features={features} />
             <ViewMoreOption rating={rating} />
             <PriceOptions price={price} regular_price={regular_price} />
+            <CartOption />
           </article>
         </div>
       </ContainerLayout>

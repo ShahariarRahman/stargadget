@@ -123,3 +123,11 @@
     display: none !important;
   }
 }
+
+/* input: input-number */
+.ant-input-number-group-addon {
+  border-radius: 0 !important;
+}
+.ant-input-number-input {
+  text-align: center !important;
+}

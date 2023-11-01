@@ -43,5 +43,13 @@ export const theme = {
       itemSize: 34,
       itemSizeSM: 34,
     },
+    InputNumber: {
+      paddingInline: 0, // padding x-axis none
+      paddingBlock: 0, // padding y-axis none
+      activeBorderColor: "", // input border none: active
+      hoverBorderColor: "", // input border none: hover
+      activeShadow: "", // input shadow none
+      addonBg: "", // addon background none
+    },
   },
 };
