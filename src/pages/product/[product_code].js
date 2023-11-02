@@ -8,6 +8,7 @@ import KeyFeatures from "@/components/UI/product/KeyFeatures";
 import ViewMoreOption from "@/components/UI/product/ViewMoreOption";
 import PriceOptions from "@/components/UI/product/PriceOptions";
 import CartOption from "@/components/UI/product/CartOption";
+import ProductInfoNav from "@/components/UI/product/ProductInfoNav";
 import { config } from "@/config";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
@@ -23,6 +24,8 @@ export default function ProductPage({ product }) {
     brand,
     features,
     rating,
+    reviews,
+    questions,
     // category,
   } = product || {};
 
@@ -30,10 +33,10 @@ export default function ProductPage({ product }) {
     <div className="text-dark text-sm lg:text-[15px] lg:leading-6">
       <ContainerLayout
         container
-        className="pb-8 md:px-0 lg:px-5 bg-white rounded"
+        className="pb-8 md:px-0 lg:px-5 bg-white rounded shadow-sm"
       >
         <ShareOption />
-        <div className="flex md:flex-row flex-col justify-around gap-8 lg:gap-16 ">
+        <div className="flex md:flex-row flex-col justify-around gap-8 lg:gap-16">
           <ProductImages image_url={image_url} product_name={product_name} />
           <article>
             <h2 className="pb-3 text-xl lg:text-[22px] text-secondary">
@@ -51,6 +54,11 @@ export default function ProductPage({ product }) {
             <PriceOptions price={price} regular_price={regular_price} />
             <CartOption />
           </article>
+        </div>
+      </ContainerLayout>
+      <ContainerLayout container>
+        <div className=" mt-5">
+          <ProductInfoNav questions={questions} reviews={reviews} />
         </div>
       </ContainerLayout>
     </div>

@@ -179,7 +179,7 @@ export default function MainNav({ categoryNavItems, setOpen, open, user }) {
         </Row>
       </ContainerLayout>
       {open.search && (
-        <Row className="bg-white w-full shadow-lg ">
+        <Row className="bg-white w-full shadow-lg">
           <Input
             className="py-3"
             placeholder="Search"
