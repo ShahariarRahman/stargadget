@@ -9,6 +9,7 @@ import ViewMoreOption from "@/components/UI/product/ViewMoreOption";
 import PriceOptions from "@/components/UI/product/PriceOptions";
 import CartOption from "@/components/UI/product/CartOption";
 import ProductInfoNav from "@/components/UI/product/ProductInfoNav";
+import ProductSpecification from "@/components/UI/product/ProductSpecification";
 import { config } from "@/config";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
@@ -25,6 +26,7 @@ export default function ProductPage({ product }) {
     features,
     rating,
     reviews,
+    specification,
     questions,
     // category,
   } = product || {};
@@ -57,9 +59,12 @@ export default function ProductPage({ product }) {
         </div>
       </ContainerLayout>
       <ContainerLayout container>
-        <div className=" mt-5">
-          <ProductInfoNav questions={questions} reviews={reviews} />
-        </div>
+        <section className="lg:grid grid-cols-4 gap-5">
+          <div className="col-span-3 space-y-5 mt-5">
+            <ProductInfoNav questions={questions} reviews={reviews} />
+            <ProductSpecification specification={specification} />
+          </div>
+        </section>
       </ContainerLayout>
     </div>
   );
