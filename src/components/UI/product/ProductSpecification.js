@@ -29,7 +29,10 @@ export default function ProductSpecification({ specification }) {
   );
 
   return (
-    <div id="product-specification" className="px-4 lg:px-5 bg-white rounded">
+    <div
+      id="product-specification"
+      className="px-4 lg:px-5 bg-white rounded shadow-sm"
+    >
       <div className="py-5">
         <h2 className="text-lg lg:text-xl font-semibold">Specification</h2>
       </div>
