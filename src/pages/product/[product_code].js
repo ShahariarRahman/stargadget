@@ -11,6 +11,7 @@ import CartOption from "@/components/UI/product/CartOption";
 import ProductInfoNav from "@/components/UI/product/ProductInfoNav";
 import ProductSpecification from "@/components/UI/product/ProductSpecification";
 import ProductDescription from "@/components/UI/product/ProductDescription";
+import PriceInformation from "@/components/UI/product/PriceInformation";
 import { config } from "@/config";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
@@ -29,6 +30,7 @@ export default function ProductPage({ product }) {
     reviews,
     specification,
     descriptions,
+    price_info,
     questions,
     // category,
   } = product || {};
@@ -66,6 +68,7 @@ export default function ProductPage({ product }) {
             <ProductInfoNav questions={questions} reviews={reviews} />
             <ProductSpecification specification={specification} />
             <ProductDescription descriptions={descriptions} />
+            <PriceInformation price_info={price_info} />
           </div>
         </section>
       </ContainerLayout>
