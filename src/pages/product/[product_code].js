@@ -14,11 +14,12 @@ import ProductDescription from "@/components/UI/product/ProductDescription";
 import PriceInformation from "@/components/UI/product/PriceInformation";
 import ProductQuestions from "@/components/UI/product/ProductQuestions";
 import ProductReviews from "@/components/UI/product/ProductReviews";
+import RelatedProducts from "@/components/UI/product/RelatedProducts";
 import { config } from "@/config";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
 
-export default function ProductPage({ product }) {
+export default function ProductPage({ product, relatedProducts }) {
   const {
     image_url,
     product_name,
@@ -74,6 +75,9 @@ export default function ProductPage({ product }) {
             <ProductQuestions />
             <ProductReviews reviews={reviews} />
           </div>
+          <aside className="col-span-1 space-y-5 mt-5">
+            <RelatedProducts products={relatedProducts} />
+          </aside>
         </section>
       </ContainerLayout>
     </div>
@@ -144,17 +148,29 @@ export async function getStaticProps(context) {
   const { apiBaseUrl } = config;
 
   let product = {};
+  let relatedProducts = [];
 
   const prodRes = await fetch(`${apiBaseUrl}/product/${product_code}`);
   const prodData = await prodRes.json();
 
   if (prodData?.data) {
     product = prodData.data;
+    const category = product.category;
+
+    const relatedProdRes = await fetch(`${apiBaseUrl}/products/${category}`);
+    const relatedProdData = await relatedProdRes.json();
+
+    if (relatedProdData?.data?.length) {
+      relatedProducts = relatedProdData.data.filter(
+        (rProd) => rProd.product_code !== product.product_code
+      );
+    }
   }
 
   return {
     props: {
       product,
+      relatedProducts,
     },
     revalidate: 3600, // rebuild in 60 min
   };
