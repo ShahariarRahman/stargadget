@@ -15,6 +15,7 @@ import PriceInformation from "@/components/UI/product/PriceInformation";
 import ProductQuestions from "@/components/UI/product/ProductQuestions";
 import ProductReviews from "@/components/UI/product/ProductReviews";
 import RelatedProducts from "@/components/UI/product/RelatedProducts";
+import RecentlyViewedProducts from "@/components/UI/product/RecentlyViewedProducts";
 import { config } from "@/config";
 import { navItems } from "@/utils/constant/navItems";
 import { helpers } from "@/utils/helpers";
@@ -66,7 +67,7 @@ export default function ProductPage({ product, relatedProducts }) {
         </div>
       </ContainerLayout>
       <ContainerLayout container>
-        <section className="lg:grid grid-cols-4 gap-5">
+        <section className="lg:grid grid-cols-4 gap-5 mb-2">
           <div className="col-span-3 space-y-5 mt-5">
             <ProductInfoNav questions={questions} reviews={reviews} />
             <ProductSpecification specification={specification} />
@@ -77,6 +78,7 @@ export default function ProductPage({ product, relatedProducts }) {
           </div>
           <aside className="col-span-1 space-y-5 mt-5">
             <RelatedProducts products={relatedProducts} />
+            <RecentlyViewedProducts />
           </aside>
         </section>
       </ContainerLayout>
