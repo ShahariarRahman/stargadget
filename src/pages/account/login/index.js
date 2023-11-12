@@ -1,5 +1,6 @@
 import RootLayout from "@/components/Layouts/RootLayout";
 import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
+import SocialAuthLayout from "@/components/Layouts/SocialAuthLayout";
 
 export default function LoginPage() {
   return (
@@ -23,7 +24,9 @@ LoginPage.getLayout = function getLayout(page) {
 
   return (
     <RootLayout title="Account Login">
-      <BreadcrumbLayout navItems={items}>{page}</BreadcrumbLayout>
+      <BreadcrumbLayout navItems={items}>
+        <SocialAuthLayout>{page}</SocialAuthLayout>
+      </BreadcrumbLayout>
     </RootLayout>
   );
 };
