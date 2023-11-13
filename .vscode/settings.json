@@ -1,4 +1,4 @@
 {
   "css.lint.unknownAtRules": "ignore",
-  "cSpell.words": ["Kash"]
+  "cSpell.words": ["Kash", "NEXTAUTH"]
 }
