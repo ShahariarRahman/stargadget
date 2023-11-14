@@ -1,30 +1,43 @@
 import React from "react";
+import { useRouter } from "next/router";
+import { signIn } from "next-auth/react";
 import { Button, Row, Col } from "antd";
 import {
   GoogleOutlined,
   GithubOutlined,
   FacebookFilled,
 } from "@ant-design/icons";
+import { config } from "@/config";
+import { underDevNotification } from "@/utils/underDev";
 
 export default function SocialAuthLayout({ children }) {
+  const { query } = useRouter();
+  const callbackUrl = query?.callbackUrl || config.baseUrl;
+
   const continueWithButtons = [
     {
       provider: "GitHub",
       icon: GithubOutlined,
       bgColor: "#0d1117",
-      handler: () => console.log("Continue with Github"),
+      handler: () =>
+        signIn("github", {
+          callbackUrl,
+        }),
     },
     {
       provider: "Google",
       icon: GoogleOutlined,
       bgColor: "#e94235",
-      handler: () => console.log("Continue with Google"),
+      handler: () =>
+        signIn("google", {
+          callbackUrl,
+        }),
     },
     {
       provider: "Facebook",
       icon: FacebookFilled,
       bgColor: "#0674e8",
-      handler: () => console.log("Continue with Facebook"),
+      handler: () => underDevNotification,
     },
   ];
 
@@ -57,7 +70,7 @@ export default function SocialAuthLayout({ children }) {
                   </div>
                   <div className="w-full pr-4">
                     <span className="hidden sm:inline">Continue with </span>
-                    <span>GitHub</span>
+                    <span>{provider}</span>
                   </div>
                 </Button>
               </Col>

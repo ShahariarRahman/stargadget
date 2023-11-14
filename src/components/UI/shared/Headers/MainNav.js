@@ -1,3 +1,5 @@
+import Link from "next/link";
+import Image from "next/legacy/image";
 import { Row, Col, Input, Button, Layout, Menu, Drawer, Badge } from "antd";
 import {
   UserOutlined,
@@ -9,10 +11,8 @@ import {
   CloseOutlined,
   LogoutOutlined,
 } from "@ant-design/icons";
-import Link from "next/link";
-import Image from "next/legacy/image";
-import logo from "@/assets/images/logo.png";
 import ContainerLayout from "@/components/Layouts/ContainerLayout";
+import logo from "@/assets/images/logo.png";
 
 export default function MainNav({ categoryNavItems, setOpen, open, user }) {
   const mainNavData = [
@@ -56,7 +56,7 @@ export default function MainNav({ categoryNavItems, setOpen, open, user }) {
       </div>
     </div>,
   ];
-
+  console.log(user?.name);
   return (
     <Layout.Header className="w-full bg-main sticky xl:static top-0 z-50 shadow p-0  h-full !leading-none">
       <ContainerLayout container className="hidden xl:flex py-3.5">

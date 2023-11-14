@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Link from "next/link";
+import { useSession } from "next-auth/react";
 import MainNav from "@/components/UI/shared/Headers/MainNav";
 import CategoryNav from "@/components/UI/shared/Headers/CategoryNav";
 import FooterNav from "@/components/UI/shared/Headers/FooterNav";
@@ -22,6 +23,7 @@ const generateCategoryNav = (data, parentPath = "") =>
 
 export default function Headers() {
   const categoryNavItems = generateCategoryNav(headerNavItems);
+  const { data } = useSession();
 
   const [open, setOpen] = useState({
     menu: false,
@@ -35,6 +37,7 @@ export default function Headers() {
         categoryNavItems={categoryNavItems}
         open={open}
         setOpen={setOpen}
+        user={data?.user}
       />
       <CategoryNav categoryNavItems={categoryNavItems} />
       <FooterNav />
