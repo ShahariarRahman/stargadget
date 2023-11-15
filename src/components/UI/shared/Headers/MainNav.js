@@ -1,6 +1,18 @@
 import Link from "next/link";
 import Image from "next/legacy/image";
-import { Row, Col, Input, Button, Layout, Menu, Drawer, Badge } from "antd";
+import { signOut } from "next-auth/react";
+import {
+  Row,
+  Col,
+  Input,
+  Button,
+  Layout,
+  Menu,
+  Drawer,
+  Badge,
+  Avatar,
+  Tooltip,
+} from "antd";
 import {
   UserOutlined,
   GiftOutlined,
@@ -13,23 +25,50 @@ import {
 } from "@ant-design/icons";
 import ContainerLayout from "@/components/Layouts/ContainerLayout";
 import logo from "@/assets/images/logo.png";
+import { config } from "@/config";
 
-export default function MainNav({ categoryNavItems, setOpen, open, user }) {
-  const mainNavData = [
-    <Link key="offer" href="/offer" className="inline-flex">
-      <GiftOutlined className="!text-[1.4rem] text-primary" />
-      <div className="ml-3 text-left flex flex-col">
-        <h3 className="text-base">Offers</h3>
-        <span className="text-[11px] text-white/50">Latest Offers</span>
+const renderUserSection = (user) =>
+  user ? (
+    <div key="logout" className="inline-flex items-center h-full">
+      <Avatar
+        className="bg-secondary/50"
+        size="default"
+        shape="circle"
+        src={
+          <Image
+            width={50}
+            height={50}
+            layout="responsive"
+            src={user.image}
+            alt="profile-image"
+          />
+        }
+      />
+      <div className="ml-3">
+        <Tooltip title={user.name}>
+          <h3 className="text-base">
+            {user?.name?.length > 12
+              ? user.name.slice(0, 12) + ".."
+              : user.name}
+          </h3>
+        </Tooltip>
+        <span className="flex space-x-1 text-[11px] text-white/50">
+          <span onClick={() => signOut()} className="hover:text-primary">
+            Logout
+          </span>
+          <span>or</span>
+          <span
+            onClick={() =>
+              signOut({ callbackUrl: `${config.baseUrl}/account/login` })
+            }
+            className="hover:text-primary"
+          >
+            Switch
+          </span>
+        </span>
       </div>
-    </Link>,
-    <Link key="deals" href="/deals" className="inline-flex">
-      <ThunderboltFilled className="!text-[1.4rem] text-primary animate-blinker" />
-      <div className="ml-3 text-left flex flex-col">
-        <h3 className="text-base">Desktop Deal</h3>
-        <span className="text-[11px] text-white/50">Special Deals</span>
-      </div>
-    </Link>,
+    </div>
+  ) : (
     <div key="login" className="inline-flex items-center">
       <Link href="/account/login">
         <UserOutlined className="!text-[1.4rem] text-primary" />
@@ -54,9 +93,28 @@ export default function MainNav({ categoryNavItems, setOpen, open, user }) {
           </Link>
         </span>
       </div>
-    </div>,
+    </div>
+  );
+
+export default function MainNav({ categoryNavItems, setOpen, open, user }) {
+  const mainNavData = [
+    <Link key="offer" href="/offer" className="inline-flex">
+      <GiftOutlined className="!text-[1.4rem] text-primary" />
+      <div className="ml-3 text-left flex flex-col">
+        <h3 className="text-base">Offers</h3>
+        <span className="text-[11px] text-white/50">Latest Offers</span>
+      </div>
+    </Link>,
+    <Link key="deals" href="/deals" className="inline-flex">
+      <ThunderboltFilled className="!text-[1.4rem] text-primary animate-blinker" />
+      <div className="ml-3 text-left flex flex-col">
+        <h3 className="text-base">Desktop Deal</h3>
+        <span className="text-[11px] text-white/50">Special Deals</span>
+      </div>
+    </Link>,
+    renderUserSection(user),
   ];
-  console.log(user?.name);
+
   return (
     <Layout.Header className="w-full bg-main sticky xl:static top-0 z-50 shadow p-0  h-full !leading-none">
       <ContainerLayout container className="hidden xl:flex py-3.5">
@@ -167,7 +225,7 @@ export default function MainNav({ categoryNavItems, setOpen, open, user }) {
               <>
                 <span className=" pt-1 border-r border-dim"></span>
                 <button
-                  onClick={() => "signOut()"}
+                  onClick={() => signOut()}
                   type="text"
                   className="pl-3 pr-2"
                 >
