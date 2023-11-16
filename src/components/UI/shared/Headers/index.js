@@ -40,7 +40,7 @@ export default function Headers() {
         user={data?.user}
       />
       <CategoryNav categoryNavItems={categoryNavItems} />
-      <FooterNav />
+      <FooterNav user={data?.user} />
       <FloatingNav setOpen={setOpen} />
       <Cart open={open} setOpen={setOpen} />
     </>

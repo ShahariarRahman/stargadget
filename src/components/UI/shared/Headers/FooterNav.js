@@ -1,13 +1,44 @@
+import Link from "next/link";
+import Image from "next/legacy/image";
+import { Avatar, Tooltip } from "antd";
 import {
   GiftOutlined,
   ThunderboltFilled,
   DesktopOutlined,
   PlusSquareFilled,
+  UserOutlined,
 } from "@ant-design/icons";
-import Link from "next/link";
-import Compare from "@/components/UI/shared/Compare";
+import Compare from "../Compare";
 
-export default function FooterNav() {
+const renderAccountSection = (user) => {
+  return user ? (
+    <div key="login" className="flex flex-col items-center hover:text-inherit">
+      <Avatar
+        size="small"
+        shape="circle"
+        src={
+          <Image width={50} height={50} src={user.image} alt="profile-image" />
+        }
+      />
+      <Tooltip title={user.name}>
+        <small className="text-[10px] opacity-50 mt-1">
+          {user?.name?.length > 10 ? user.name.slice(0, 10) + "..." : user.name}
+        </small>
+      </Tooltip>
+    </div>
+  ) : (
+    <Link
+      href="/account/login"
+      key="login"
+      className="flex flex-col items-center hover:text-inherit"
+    >
+      <UserOutlined className="text-lg" />
+      <small className="text-[10px] opacity-50 mt-1">Account</small>
+    </Link>
+  );
+};
+
+export default function FooterNav({ user }) {
   const footerNavItems = [
     <Link
       href="/offer"
@@ -39,6 +70,7 @@ export default function FooterNav() {
         <small className="text-[10px] opacity-50 mt-1">Compare (0)</small>
       </div>
     </Compare>,
+    renderAccountSection(user),
   ];
 
   return (
