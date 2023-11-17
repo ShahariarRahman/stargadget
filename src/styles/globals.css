@@ -131,3 +131,8 @@
 .ant-input-number-input {
   text-align: center !important;
 }
+
+/* input: form-label */
+.ant-form-item-label > label {
+  height: 0 !important;
+}

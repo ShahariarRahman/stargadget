@@ -51,5 +51,8 @@ export const theme = {
       activeShadow: "", // input shadow none
       addonBg: "", // addon background none
     },
+    Form: {
+      itemMarginBottom: 25,
+    },
   },
 };
