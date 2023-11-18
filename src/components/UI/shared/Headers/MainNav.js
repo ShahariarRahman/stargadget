@@ -157,11 +157,11 @@ export default function MainNav({ categoryNavItems, setOpen, open, user }) {
                 {content}
               </Button>
             ))}
-            <a href="https://stargadget.vercel.app/tool/pc_builder">
+            <Link href="/tool/pc_builder">
               <Button className="ml-5 !rounded bg-new-gradient bg-[400%,400%] animate-gradient border-0 h-[42px] !text-white font-semibold py-2 px-5">
                 PC Builder
               </Button>
-            </a>
+            </Link>
           </Col>
         </Row>
       </ContainerLayout>
