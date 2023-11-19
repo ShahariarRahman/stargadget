@@ -1,16 +1,28 @@
+import { useState } from "react";
 import RootLayout from "@/components/Layouts/RootLayout";
 import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
 import PCBuilderHeading from "@/components/UI/pcBuilder/PCBuilderHeading";
+import PCBuilderDashboard from "@/components/UI/pcBuilder/PCBuilderDashboard";
 
-export default function PcBuilderPage() {
+export default function PcBuilder() {
+  const [hideUnconsidered, setHideUnconsidered] = useState(false);
+
   return (
-    <div className="text-dark text-[15px] leading-4 bg-white mt-5 border border-secondary/20 border-b-0 xl:border-b">
+    <div className="text-dark text-[15px] leading-4 bg-white mt-5 border border-secondary/20 border-b-0 xl:pb-8 xl:border-b">
       <PCBuilderHeading />
+      <div className="border-secondary/20 border-t flex justify-center">
+        <div className="w-full max-w-6xl">
+          <PCBuilderDashboard
+            setHideUnconsidered={setHideUnconsidered}
+            hideUnconsidered={hideUnconsidered}
+          />
+        </div>
+      </div>
     </div>
   );
 }
 
-PcBuilderPage.getLayout = function getLayout(page) {
+PcBuilder.getLayout = function getLayout(page) {
   const items = [
     {
       title: "PC Builder",
