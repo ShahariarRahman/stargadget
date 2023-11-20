@@ -3,6 +3,8 @@ import RootLayout from "@/components/Layouts/RootLayout";
 import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
 import PCBuilderHeading from "@/components/UI/pcBuilder/PCBuilderHeading";
 import PCBuilderDashboard from "@/components/UI/pcBuilder/PCBuilderDashboard";
+import ComponentSection from "@/components/UI/pcBuilder/ComponentSection";
+import { componentItems } from "@/utils/constant/componentItems";
 
 export default function PcBuilder() {
   const [hideUnconsidered, setHideUnconsidered] = useState(false);
@@ -14,6 +16,11 @@ export default function PcBuilder() {
         <div className="w-full max-w-6xl">
           <PCBuilderDashboard
             setHideUnconsidered={setHideUnconsidered}
+            hideUnconsidered={hideUnconsidered}
+          />
+          <ComponentSection
+            title="Core Components"
+            components={componentItems.core}
             hideUnconsidered={hideUnconsidered}
           />
         </div>
