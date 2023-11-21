@@ -4,24 +4,23 @@ import { Checkbox } from "antd";
 import { helpers } from "@/utils/helpers";
 
 export default function Availability({ options }) {
-  const router = useRouter();
+  const { query, pathname, push } = useRouter();
   const [select, setSelect] = useState(new Set([]));
 
   useEffect(() => {
-    setSelect(new Set(router.query.availability?.split(",")));
-  }, [router.query.availability]);
+    setSelect(new Set(query.availability?.split(",")));
+  }, [query.availability]);
 
   const handleOptionChange = useCallback(
     (name) => (e) => {
       e.target.checked ? select.add(name) : select.delete(name);
-      const { category, ...filterQuery } = router.query;
       select.size
-        ? (filterQuery.availability = Array.from(select))
-        : delete filterQuery.availability;
-      const queryStr = helpers.makeQuery(filterQuery);
-      router.push(`${category.join("/")}/${queryStr}`);
+        ? (query.availability = Array.from(select))
+        : delete query.availability;
+      const queryStr = helpers.makeQuery(query, pathname);
+      push(queryStr);
     },
-    [router, select]
+    [select, query, pathname, push]
   );
 
   return (

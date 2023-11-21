@@ -15,19 +15,18 @@ const itemRender = (_, type, originalElement) => {
 };
 
 export default function Pagination() {
-  const router = useRouter();
+  const { query, pathname, push } = useRouter();
   const { limit, total, pages } = filteringOptions.pagination;
   const [page, setPage] = useState();
 
   useEffect(() => {
-    setPage(Number(router.query.page) || pages);
-  }, [router.query.page, pages]);
+    setPage(Number(query.page) || pages);
+  }, [query.page, pages]);
 
   const handlePageChange = (value) => {
-    router.query.page = value;
-    const { category, ...filterQuery } = router.query;
-    const queryStr = helpers.makeQuery(filterQuery);
-    router.push(`${category.join("/")}/${queryStr}`);
+    query.page = value;
+    const queryStr = helpers.makeQuery(query, pathname);
+    push(queryStr);
   };
 
   return (

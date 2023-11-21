@@ -67,14 +67,17 @@ const findParentAtEndpoint = (
   );
 };
 
-const makeQuery = (query) => {
+const makeQuery = (query, pathname) => {
+  const { category, ...filterQuery } = query;
   let queryPath = "";
-  Object.entries(query).forEach(([key, value], index) => {
+  Object.entries(filterQuery).forEach(([key, value], index) => {
     index === 0
       ? (queryPath += `?${key}=${value}`)
       : (queryPath += `&${key}=${value}`);
   });
-  return queryPath;
+  return pathname?.includes("category")
+    ? `${category.join("/")}/${queryPath}`
+    : queryPath;
 };
 
 export const helpers = {

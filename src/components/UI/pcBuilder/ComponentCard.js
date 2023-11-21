@@ -43,7 +43,7 @@ export default function ComponentCard({ component }) {
         </div>
         <hr className="border-l h-12 hidden xl:block" />
         <div className="w-full flex justify-end">
-          <Link href={`pc_builder/choose?category=${category}`}>
+          <Link href={`pc_builder/choose?productCategory=${category}`}>
             <Button
               type="default"
               size="large"

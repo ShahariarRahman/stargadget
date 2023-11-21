@@ -4,24 +4,21 @@ import { useRouter } from "next/router";
 import { helpers } from "@/utils/helpers";
 
 export default function Ratings({ options }) {
-  const router = useRouter();
+  const { query, pathname, push } = useRouter();
   const [select, setSelect] = useState(new Set());
 
   useEffect(() => {
-    setSelect(new Set(router.query.rating?.split(",")));
-  }, [router.query.rating]);
+    setSelect(new Set(query.rating?.split(",")));
+  }, [query.rating]);
 
   const handleOptionChange = useCallback(
     (name) => (e) => {
       e.target.checked ? select.add(name) : select.delete(name);
-      const { category, ...filterQuery } = router.query;
-      select.size
-        ? (filterQuery.rating = Array.from(select))
-        : delete filterQuery.rating;
-      const queryStr = helpers.makeQuery(filterQuery);
-      router.push(`${category.join("/")}/${queryStr}`);
+      select.size ? (query.rating = Array.from(select)) : delete query.rating;
+      const queryStr = helpers.makeQuery(query, pathname);
+      push(queryStr);
     },
-    [router, select]
+    [select, query, pathname, push]
   );
 
   return (

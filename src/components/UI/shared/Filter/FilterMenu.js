@@ -7,30 +7,28 @@ import { filteringOptions } from "@/utils/constant/filteringOptions";
 import FilterContainer from "@/components/UI/shared/Filter/FilterContainer";
 
 export default function FilterMenu() {
+  const { query, pathname, push } = useRouter();
   const { showOptions, sortOptions, name } = filteringOptions.filterMenu;
   const [displayOption, setDisplayOption] = useState({});
   const [open, setOpen] = useState(false);
-  const router = useRouter();
 
   useEffect(() => {
     setDisplayOption({
-      limit: router.query.limit || showOptions[0],
-      sort: router.query.sort || sortOptions[0],
+      limit: query.limit || showOptions[0],
+      sort: query.sort || sortOptions[0],
     });
-  }, [router.query, showOptions, sortOptions]);
-
-  const { category, ...filterQuery } = router.query;
+  }, [query, showOptions, sortOptions]);
 
   const handleLimitChange = (value) => {
-    filterQuery.limit = value;
-    const queryStr = helpers.makeQuery(filterQuery);
-    router.push(`${category.join("/")}/${queryStr}`);
+    query.limit = value;
+    const queryStr = helpers.makeQuery(query, pathname);
+    push(queryStr);
   };
 
   const handleSortChange = (value) => {
-    filterQuery.sort = value;
-    const queryStr = helpers.makeQuery(filterQuery);
-    router.push(`${category.join("/")}/${queryStr}`);
+    query.sort = value;
+    const queryStr = helpers.makeQuery(query, pathname);
+    push(queryStr);
   };
 
   return (

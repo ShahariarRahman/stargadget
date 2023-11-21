@@ -4,13 +4,13 @@ import { Input, Slider } from "antd";
 import { helpers } from "@/utils/helpers";
 
 export default function PriceRange({ options }) {
+  const { query, pathname, push } = useRouter();
   const { defaultRange, maxRange } = options;
   const [range, setRange] = useState(defaultRange);
-  const router = useRouter();
 
   useEffect(() => {
-    setRange(router.query.filter_price?.split("-") || defaultRange);
-  }, [router.query.filter_price, defaultRange]);
+    setRange(query.filter_price?.split("-") || defaultRange);
+  }, [query.filter_price, defaultRange]);
 
   return (
     <div className="bg-white pt-3 pb-5 rounded shadow-sm">
@@ -22,10 +22,9 @@ export default function PriceRange({ options }) {
           tooltip={{ formatter: null }}
           onChange={(values) => setRange(values)}
           onAfterChange={(values) => {
-            router.query.filter_price = `${values[0]}-${values[1]}`;
-            const { category, ...filterQuery } = router.query;
-            const queryStr = helpers.makeQuery(filterQuery);
-            router.push(`${category.join("/")}/${queryStr}`);
+            query.filter_price = `${values[0]}-${values[1]}`;
+            const queryStr = helpers.makeQuery(query, pathname);
+            push(queryStr);
           }}
           className="mt-8 mb-5"
           min={maxRange[0]}
