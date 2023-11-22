@@ -1,14 +1,16 @@
 import RootLayout from "@/components/Layouts/RootLayout";
-import FilterLayout from "@/components/Layouts/FilterLayout";
 import BreadcrumbLayout from "@/components/Layouts/BreadcrumbLayout";
+import FilterLayout from "@/components/Layouts/FilterLayout";
+import BuilderProductCard from "@/components/UI/BuilderProductCard";
 import { config } from "@/config";
 
-export default function ChooseComponentPage({ products, category }) {
+export default function ChooseComponentPage({ products }) {
   return (
     products?.length > 0 && (
-      <div className="mt-2 min-h-full">
-        {products.length}
-        {category}
+      <div className="min-h-full">
+        {products.map((product) => (
+          <BuilderProductCard key={product.product_code} product={product} />
+        ))}
       </div>
     )
   );
@@ -42,16 +44,9 @@ export async function getServerSideProps(context) {
   const { productCategory } = context.query;
   const res = await fetch(`${config.apiBaseUrl}/products/${productCategory}`);
   const data = await res.json();
-
-  const props = {
-    products: data?.data || [],
-  };
-
-  if (productCategory) {
-    props.category = productCategory;
-  }
-
   return {
-    props,
+    props: {
+      products: data?.data || [],
+    },
   };
 }
