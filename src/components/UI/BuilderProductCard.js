@@ -1,8 +1,14 @@
-import { Button, Card, Rate } from "antd";
 import Link from "next/link";
 import Image from "next/legacy/image";
+import { useRouter } from "next/router";
+import { useSession } from "next-auth/react";
+import { Button, Card, Rate } from "antd";
+import { config } from "@/config";
 
 export default function BuilderProductCard({ product }) {
+  const { push } = useRouter();
+  const session = useSession();
+
   const {
     product_code,
     image_url,
@@ -14,6 +20,24 @@ export default function BuilderProductCard({ product }) {
     features,
     brand,
   } = product;
+
+  const handleAddToPcBuilder = async (product_code) => {
+    const res = await fetch(`${config.apiBaseUrl}/pc_builder/add`, {
+      method: "PATCH",
+      headers: {
+        ContentType: "application/json",
+      },
+      body: JSON.stringify({
+        email: session.data?.user.email,
+        product_code,
+      }),
+    });
+    const data = await res.json();
+
+    if (data.success) {
+      push("/tool/pc_builder");
+    }
+  };
 
   return (
     <Card bodyStyle={{ padding: 0 }} className="rounded-md mb-2">
@@ -97,6 +121,7 @@ export default function BuilderProductCard({ product }) {
             {Number(price).toLocaleString()}&#2547;
           </p>
           <Button
+            onClick={() => handleAddToPcBuilder(product_code)}
             type="default"
             size="large"
             className="!text-sm font-semibold border-0 bg-secondary  hover:bg-secondary !text-white !rounded w-full lg:w-[100px] !h-[42px]"
