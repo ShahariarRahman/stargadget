@@ -2,7 +2,8 @@ import ComponentCard from "@/components/UI/pcBuilder/ComponentCard";
 export default function ComponentSection({
   title,
   components,
-  hideUnconsidered,
+  hideUnconfigured,
+  products,
 }) {
   return (
     <div>
@@ -10,7 +11,13 @@ export default function ComponentSection({
         {title}
       </div>
       {components
-        .filter(({ product_code }) => (hideUnconsidered ? product_code : true))
+        .map((component) => ({
+          ...component,
+          ...products.find(
+            (product) => product.category === component.category
+          ),
+        }))
+        .filter(({ product_code }) => (hideUnconfigured ? product_code : true))
         .map((component) => (
           <ComponentCard key={component.category} component={component} />
         ))}

@@ -9,13 +9,13 @@ import ComponentSection from "@/components/UI/pcBuilder/ComponentSection";
 import { componentItems } from "@/utils/constant/componentItems";
 import { config } from "@/config";
 
-export default function PcBuilder({
+export default function PcBuilderPage({
   products,
   totalProduct,
   totalPrice,
   email,
 }) {
-  const [hideUnconsidered, setHideUnconsidered] = useState(false);
+  const [hideUnconfigured, setHideUnconfigured] = useState(false);
 
   return (
     <div className="text-dark text-[15px] leading-4 bg-white mt-5 border border-secondary/20 border-b-0 xl:pb-8 xl:border-b">
@@ -27,13 +27,14 @@ export default function PcBuilder({
             products={products}
             totalPrice={totalPrice}
             totalProduct={totalProduct}
-            hideUnconsidered={hideUnconsidered}
-            setHideUnconsidered={setHideUnconsidered}
+            hideUnconfigured={hideUnconfigured}
+            setHideUnconfigured={setHideUnconfigured}
           />
           <ComponentSection
             title="Core Components"
             components={componentItems.core}
-            hideUnconsidered={hideUnconsidered}
+            hideUnconfigured={hideUnconfigured}
+            products={products}
           />
         </div>
       </div>
@@ -41,7 +42,7 @@ export default function PcBuilder({
   );
 }
 
-PcBuilder.getLayout = function getLayout(page) {
+PcBuilderPage.getLayout = function getLayout(page) {
   const items = [
     {
       title: "PC Builder",
