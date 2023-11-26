@@ -36,6 +36,12 @@ export default function PcBuilderPage({
             hideUnconfigured={hideUnconfigured}
             products={products}
           />
+          <ComponentSection
+            title="Peripherals & Others"
+            components={componentItems.peripheral}
+            hideUnconfigured={hideUnconfigured}
+            products={products}
+          />
         </div>
       </div>
     </div>

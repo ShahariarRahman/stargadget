@@ -1,7 +1,10 @@
 import Link from "next/link";
 import Image from "next/legacy/image";
+import { useRouter } from "next/router";
+import { useSession } from "next-auth/react";
 import { Button } from "antd";
 import { CloseOutlined, RedoOutlined } from "@ant-design/icons";
+import { config } from "@/config";
 
 export default function BuilderComponentCard({ component }) {
   const {
@@ -14,6 +17,38 @@ export default function BuilderComponentCard({ component }) {
     product_name, // product
     price, // product
   } = component;
+
+  const router = useRouter();
+  const { data } = useSession();
+
+  // remove chosen component
+  const removeProduct = async () => {
+    const res = await fetch(`${config.apiBaseUrl}/pc_builder/remove`, {
+      method: "PATCH",
+      headers: {
+        ContentType: "application/json",
+      },
+      body: JSON.stringify({
+        email: data?.user.email,
+        product_code: product_code,
+      }),
+    });
+    const { success } = await res.json();
+    return success;
+  };
+
+  const handleRemoveFromPcBuilder = async () => {
+    const isRemoveSuccessful = await removeProduct();
+    if (isRemoveSuccessful) {
+      router.replace(router.asPath);
+    }
+  };
+  const handleChooseAgain = async () => {
+    const isRemoveSuccessful = await removeProduct();
+    if (isRemoveSuccessful) {
+      router.push(`pc_builder/choose?productCategory=${category}`);
+    }
+  };
 
   return (
     <div className="flex px-2.5 py-3 border-b gap-2">
@@ -86,12 +121,18 @@ export default function BuilderComponentCard({ component }) {
         <hr className="border-l h-12 hidden xl:block" />
         {product_code ? (
           <div className="flex justify-end xl:justify-center w-full xl:min-w-[7rem] text-center text-dark/75">
-            <CloseOutlined className="text-lg xl:text-xl hover:text-primary cursor-pointer p-1.5" />
-            <RedoOutlined className="text-lg xl:text-xl hover:text-primary cursor-pointer p-1.5" />
+            <CloseOutlined
+              onClick={() => handleRemoveFromPcBuilder()}
+              className="text-lg xl:text-xl hover:text-primary cursor-pointer p-1.5"
+            />
+            <RedoOutlined
+              onClick={() => handleChooseAgain()}
+              className="text-lg xl:text-xl hover:text-primary cursor-pointer p-1.5"
+            />
           </div>
         ) : (
           <div className="w-full flex justify-end">
-            <Link href={`pc_builder/choose?category=${category}`}>
+            <Link href={`pc_builder/choose?productCategory=${category}`}>
               <Button
                 type="default"
                 size="large"

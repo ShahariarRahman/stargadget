@@ -40,4 +40,48 @@ export const componentItems = {
       required: true,
     },
   ],
+  peripheral: [
+    {
+      category: "gpu",
+      categoryImg: category.gpu,
+      categoryName: "GPU",
+      required: false,
+    },
+    {
+      category: "mouse",
+      categoryImg: category.mouse,
+      categoryName: "Mouse",
+      required: false,
+    },
+    {
+      category: "keyboard",
+      categoryImg: category.keyboard,
+      categoryName: "Keyboard",
+      required: false,
+    },
+    {
+      category: "power-station",
+      categoryImg: category.powerStation,
+      categoryName: "Power Station",
+      required: false,
+    },
+    {
+      category: "printer",
+      categoryImg: category.printer,
+      categoryName: "Printer",
+      required: false,
+    },
+    {
+      category: "headphone",
+      categoryImg: category.headphone,
+      categoryName: "Headphone",
+      required: false,
+    },
+    {
+      category: "bluetooth-speaker",
+      categoryImg: category.bluetoothSpeakers,
+      categoryName: "Bluetooth Speakers",
+      required: false,
+    },
+  ],
 };
