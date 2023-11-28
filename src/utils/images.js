@@ -31,6 +31,7 @@ import ccCamera from "@/assets/icons/cc-camera.png";
 import gamingConsole from "@/assets/icons/gaming-console.png";
 
 import bKashOffer from "@/assets/images/bKash-offer.png";
+import underConstruction from "@/assets/images/under-construction.png";
 
 export const Images = {
   banner: {
@@ -69,5 +70,6 @@ export const Images = {
   },
   other: {
     bKashOffer,
+    underConstruction,
   },
 };
