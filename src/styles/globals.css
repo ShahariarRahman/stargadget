@@ -28,6 +28,9 @@
 * {
   font-family: "Trebuchet MS" !important;
 }
+a {
+  color: inherit !important;
+}
 
 /* menu  : */
 .ant-menu-title-content:hover,
@@ -38,13 +41,17 @@
   transition-timing-function: unset;
 }
 .ant-menu-submenu-popup > ul {
-  margin-top: -11px;
+  margin-top: -11px !important;
   border-top: 3px solid #ef4a23;
 }
 .ant-menu-submenu-popup > ul {
   border-radius: 0 !important;
 }
+.ant-menu-title-content,
 .ant-menu-title-content:hover {
+  color: black;
+}
+.ant-menu-submenu-popup > ul > li .ant-menu-title-content:hover {
   color: white;
 }
 
