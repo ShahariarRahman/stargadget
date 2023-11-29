@@ -8,7 +8,7 @@ export default function CategoryNav({ categoryNavItems }) {
       className="sticky top-0 z-50 bg-white hidden xl:flex shadow"
     >
       <Menu
-        className="[&>li>*]:!mr-3 !font-semibold"
+        className="[&>li>*]:!mr-3 !font-semibold border-0"
         mode="horizontal"
         items={categoryNavItems}
       />

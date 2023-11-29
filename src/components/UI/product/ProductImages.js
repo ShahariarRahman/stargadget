@@ -7,9 +7,9 @@ export default function ProductImages({ image_url, product_name }) {
       <div className="w-[16rem] lg:w-[28rem] max-w-sm">
         {image_url && (
           <Image
-            quality={50}
-            height={200}
-            width={200}
+            quality={100}
+            height={400}
+            width={400}
             blurDataURL={image_url}
             placeholder="blur"
             className="hover:opacity-90 cursor-pointer"
@@ -19,17 +19,20 @@ export default function ProductImages({ image_url, product_name }) {
           />
         )}
       </div>
-      <div className="flex gap-2">
+      <div className="flex">
         {image_url &&
           Array.from({ length: 3 }).map((_, index) => (
             <div
               key={index}
-              className="w-[2rem] lg:w-[3rem] max-w-sm border p-2"
+              className={`w-[3.5rem] max-w-sm border p-2.5 ${
+                index === 0 ? "border-r-0" : index === 2 ? "border-l-0" : ""
+              }
+              `}
             >
               <Image
                 quality={50}
-                height={200}
-                width={200}
+                height={60}
+                width={60}
                 blurDataURL={image_url}
                 placeholder="blur"
                 className="hover:opacity-90 cursor-pointer"

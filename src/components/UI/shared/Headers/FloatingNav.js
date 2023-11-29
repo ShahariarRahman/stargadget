@@ -5,7 +5,7 @@ import Compare from "@/components/UI/shared/Compare";
 const FloatingButton = ({ Icon, label, value, ...restPros }) => (
   <Badge
     {...restPros}
-    className="w-full text-white bg-main hover:bg-secondary rounded p-[7px] flex flex-col items-center space-y-2 border border-white/20 cursor-pointer mt-3"
+    className="w-full text-white bg-main hover:bg-secondary rounded p-[7px] flex flex-col items-center gap-2 border border-white/20 cursor-pointer mt-3"
     offset={[0, 0]}
     size="default"
     color="#ef4a23"

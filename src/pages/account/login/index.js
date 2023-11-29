@@ -68,7 +68,7 @@ export default function LoginPage() {
             size="large"
             type="primary"
             htmlType="submit"
-            className="mt-3 !rounded  w-full !bg-secondary/90 hover:!bg-secondary"
+            className="mt-3 !rounded w-full !bg-secondary/90 hover:!bg-secondary"
           >
             Log in
           </Button>

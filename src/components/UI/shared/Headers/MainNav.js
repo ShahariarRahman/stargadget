@@ -116,7 +116,7 @@ export default function MainNav({ categoryNavItems, setOpen, open, user }) {
   ];
 
   return (
-    <Layout.Header className="w-full bg-main sticky xl:static top-0 z-50 shadow p-0  h-full !leading-none">
+    <Layout.Header className="w-full bg-main sticky xl:static top-0 z-50 shadow p-0 h-full !leading-none">
       <ContainerLayout container className="hidden xl:flex py-3.5">
         <Row wrap={false} justify="space-between" align="middle">
           <Col className="flex items-center w-full">
@@ -151,17 +151,20 @@ export default function MainNav({ categoryNavItems, setOpen, open, user }) {
               <Button
                 key={content.key}
                 size="large"
-                className=" text-white hover:!text-white text-sm leading-snug border-none  !py-0 px-2.5"
+                className="text-white hover:!text-white text-sm leading-snug border-none !py-0 px-2.5"
                 type="link"
               >
                 {content}
               </Button>
             ))}
-            <Link href="/tool/pc_builder">
-              <Button className="ml-5 !rounded bg-new-gradient bg-[400%,400%] animate-gradient border-0 h-[42px] !text-white font-semibold py-2 px-5">
+            <a href={`${config.baseUrl}/tool/pc_builder`}>
+              <Button
+                className="ml-5 !rounded bg-new-gradient bg-[400%,400%] animate-gradient border-0 h-[42px] !text-white font-semibold py-2 px-5"
+                type="link"
+              >
                 PC Builder
               </Button>
-            </Link>
+            </a>
           </Col>
         </Row>
       </ContainerLayout>

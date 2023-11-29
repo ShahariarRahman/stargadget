@@ -48,13 +48,14 @@ export default function BuilderProductCard({ product }) {
             href={`/product/${product_code}`}
           >
             <Image
+              blurDataURL={image_url}
+              placeholder="blur"
               className="hover:opacity-90 cursor-pointer"
               layout="responsive"
               height={300}
               width={300}
               src={image_url}
               alt={product_name}
-              priority
             />
           </Link>
           <div className="lg:max-w-xl w-full lg:p-5">
@@ -124,7 +125,7 @@ export default function BuilderProductCard({ product }) {
             onClick={() => handleAddToPcBuilder(product_code)}
             type="default"
             size="large"
-            className="!text-sm font-semibold border-0 bg-secondary  hover:bg-secondary !text-white !rounded w-full lg:w-[100px] !h-[42px]"
+            className="!text-sm font-semibold border-0 bg-secondary hover:bg-secondary !text-white !rounded w-full lg:w-[100px] !h-[42px]"
           >
             Add
           </Button>

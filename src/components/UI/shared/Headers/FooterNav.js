@@ -9,6 +9,7 @@ import {
   UserOutlined,
 } from "@ant-design/icons";
 import Compare from "../Compare";
+import { config } from "@/config";
 
 const renderAccountSection = (user) => {
   return user ? (
@@ -56,14 +57,14 @@ export default function FooterNav({ user }) {
       <ThunderboltFilled className="text-lg animate-blinker" />
       <small className="text-[10px] opacity-50 mt-1">Mobile Deal</small>
     </Link>,
-    <Link
-      href="/tool/pc_builder"
-      key="pc-builder"
+    <a
       className="flex flex-col items-center hover:text-inherit"
+      key="pc-builder"
+      href={`${config.baseUrl}/tool/pc_builder`}
     >
       <DesktopOutlined className="text-lg" />
       <small className="text-[10px] opacity-50 mt-1">PC Builder</small>
-    </Link>,
+    </a>,
     <Compare key="compare">
       <div className="flex flex-col items-center hover:text-inherit">
         <PlusSquareFilled className="text-lg" />

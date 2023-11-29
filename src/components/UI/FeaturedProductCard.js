@@ -27,7 +27,6 @@ export default function FeaturedProductCard({ product }) {
         >
           <div className="w-full max-w-[13rem]">
             <Image
-              quality={50}
               height={200}
               width={200}
               blurDataURL={image_url}

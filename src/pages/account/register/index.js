@@ -68,7 +68,7 @@ export default function RegisterPage() {
             size="large"
             type="primary"
             htmlType="submit"
-            className="mt-3 !rounded  w-full !bg-secondary/90 hover:!bg-secondary"
+            className="mt-3 !rounded w-full !bg-secondary/90 hover:!bg-secondary"
           >
             Register
           </Button>

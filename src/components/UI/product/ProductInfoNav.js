@@ -31,7 +31,7 @@ export default function ProductInfoNav({ questions, reviews }) {
           <Button
             type="primary"
             size="large"
-            className="!p-0 w-full font-semibold !rounded !bg-white text-black hover:!bg-primary !text-xs sm:!text-sm shadow-sm"
+            className="!p-0 w-full font-semibold !rounded !bg-white text-black hover:!bg-primary hover:!text-white !text-xs sm:!text-sm shadow-sm"
           >
             {label}
           </Button>

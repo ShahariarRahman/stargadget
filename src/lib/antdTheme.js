@@ -13,7 +13,7 @@ export const theme = {
       motionDurationMid: 0, // duration
       motionDurationSlow: 0, // duration
       horizontalLineHeight: "50px", // height of menu
-      horizontalItemSelectedColor: "#fff", // underline color of menu
+      horizontalItemSelectedColor: "", // underline color of menu none
       activeBarHeight: 3, // underline height
       // itemMarginBlock: 0, // popup: margin
       itemMarginInline: 0, // popup: margin of each item

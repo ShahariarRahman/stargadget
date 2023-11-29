@@ -9,7 +9,7 @@ export default function PriceOptions({ price, regular_price }) {
     <div className="max-w-3xl">
       <h4 className="py-2 text-lg">Payment Options</h4>
       <Radio.Group
-        className="flex flex-wrap lg:flex-nowrap  gap-3"
+        className="flex flex-wrap lg:flex-nowrap gap-3"
         onChange={(e) => setPaymentOption(e.target.value)}
         value={paymentOption}
       >

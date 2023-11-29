@@ -101,7 +101,11 @@ ProductPage.getLayout = function getLayout(page) {
       brand.toLowerCase(),
     ]);
 
-    const { description, title, children, breadcrumbItems } = parentAtEndpoint;
+    const {
+      // title, description,
+      children,
+      breadcrumbItems,
+    } = parentAtEndpoint;
 
     breadcrumbItemsWithProduct = [
       ...(breadcrumbItems || []),
@@ -113,8 +117,7 @@ ProductPage.getLayout = function getLayout(page) {
 
     content = {
       buttons: children,
-      title,
-      description,
+      // title, description,
     };
   }
 
