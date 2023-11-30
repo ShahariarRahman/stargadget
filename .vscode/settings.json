@@ -1,4 +1,6 @@
 {
   "css.lint.unknownAtRules": "ignore",
-  "cSpell.words": ["Antd", "Kash", "NEXTAUTH", "Unconfigured"]
+  "cSpell.words": ["Antd", "Kash", "NEXTAUTH", "Unconfigured"],
+  "markdown.preview.scrollEditorWithPreview": false,
+  "markdown.preview.scrollPreviewWithEditor": false
 }
