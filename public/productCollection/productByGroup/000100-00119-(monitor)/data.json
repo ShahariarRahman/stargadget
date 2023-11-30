@@ -1,0 +1,1444 @@
+[
+    {
+        "category": "monitor",
+        "product_name": "MSI G2722 27\" FHD 170Hz 1ms IPS Esports Gaming Monitor",
+        "price": 30700,
+        "regular_price": 33550,
+        "status": true,
+        "product_code": "00100",
+        "brand": "MSI",
+        "image_url": "https://i.ibb.co/bd45vJn/MSI-G2722-27-inch-FHD-170-Hz-1ms-IPS-Esports-Gaming-Monitor.jpg",
+        "rating": 4.8,
+        "features": {
+            "Model": "G2722",
+            "Resolution": "FHD (1920 x 1080)",
+            "Display": "IPS, 170Hz, 1ms",
+            "Ports": "2x HDMI, 1x DisplayPort",
+            "Features": "Anti-Flicker, Less Blue Light"
+        },
+        "specification": {
+            "Display Features": {
+                "Display Size": "27 Inch",
+                "Display Type": "LED",
+                "Panel Type": "IPS",
+                "Resolution": "1920 x 1080 (FHD)",
+                "Pixel pitch(MM)": "0.3114(H)x0.3114(V)",
+                "Display Surface": "Anti-glare",
+                "Aspect Ratio": "16:9",
+                "Viewing Angle": "178°(H) / 178°(V)",
+                "Brightness": "250nits",
+                "Contrast Ratio": "1100:1",
+                "Refresh Rate": "170Hz",
+                "Color Support": "16.7M",
+                "Color Gamut": "8 Bits",
+                "Response Time": "1ms (MPRT)"
+            },
+            "Connectivity": {
+                "Display Port": "1x DisplayPort (1.2a)",
+                "HDMI": "2x HDMI (1.4b)",
+                "Others": "5-way OSD navigation joystick"
+            },
+            "Mechanical Design": {
+                "Tilt": "-5° ~ 20°"
+            },
+            "Physical Specification": {
+                "Color": "Black",
+                "Dimension": [
+                    "612.5 x 228.2 x 444.3 mm",
+                    "612.5 x 45 x 368.3 mm (Without stand)"
+                ],
+                "Weight": [
+                    "4.14 kg",
+                    "without Stand: 3.37 kg"
+                ]
+            },
+            "Power": {
+                "Power Consumption": [
+                    "Power On: 45W",
+                    "Power Saving/Off: <0.5W"
+                ]
+            },
+            "Warranty Information": {
+                "Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "MSI G2722 27\" FHD 170Hz Esports Gaming Monitor",
+                "details": "The MSI G2722 27\" 170Hz Esports Gaming Monitor comes with FHD resolution, 170Hz refresh rate, and 1ms response time IPS panel, this monitor delivers the competitive edge necessary for triumphing over opponents. Featuring AMD FreeSync Premium technology, it synchronizes the display's refresh rate with your GPU, ensuring incredibly smooth gameplay. The monitor's IPS panel optimizes colors and brightness, enhancing visual immersion. The 170Hz refresh rate facilitates quicker responses with smoother frames, while the 1ms response time eliminates screen tearing and frame rate issues. The inclusion of a wide color gamut brings out realistic and refined game colors and details. Smart black tuner and Night Vision technology enhance visibility in dark areas. The frameless design and super narrow bezels offer an immersive gaming experience, complemented by anti-flicker and less blue light features to prevent eye strain during extended gaming sessions. With a 178° wide viewing angle, colors and details remain sharp at various angles. The MSI G2722 Esports Gaming Monitor is equipped with advanced technologies to ensure your competitive play reaches new heights."
+            },
+            {
+                "title": "Buy MSI G2722 27\" FHD 170Hz Esports Gaming Monitor from Star Gadget",
+                "details": "In Bangladesh, you can get original MSI G2722 27\" FHD 170Hz Esports Gaming Monitor From Star Gadget. We have a large collection of latest MSI Monitor to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The MSI G2722 27\" FHD 170Hz Esports Gaming Monitor comes with 3 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of MSI G2722 27\" FHD 170Hz Esports Gaming Monitor in Bangladesh?",
+            "details": "The latest price of MSI G2722 27\" FHD 170Hz Esports Gaming Monitor in Bangladesh is 30,700৳. You can buy the MSI G2722 27\" FHD 170Hz Esports Gaming Monitor at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamereye@example.com",
+                "review_comment": "Amazing monitor for gaming. The high refresh rate and low response time are fantastic.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "usermonitor@example.com",
+                "review_comment": "Great value for the performance, but it lacks adjustable stand options.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "monitor",
+        "product_name": "ASUS TUF Gaming VG279Q3A 27\" IPS 180HZ FHD 1ms Gaming Monitor",
+        "price": 32700,
+        "regular_price": 35500,
+        "status": true,
+        "product_code": "00101",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/Zd0pnky/ASUS-TUF-Gaming-VG279-Q3-A-27-inch-IPS-180-HZ-FHD-1ms-Gaming-Monitor.jpg",
+        "rating": 4.7,
+        "features": {
+            "Model": "TUF Gaming VG279Q3A",
+            "Resolution": "FHD (1920 x 1080)",
+            "Display": "IPS, 180Hz, 1 ms (GTG)",
+            "Ports": "1x DisplayPort 1.2, 2x HDMI, Earphone Jack",
+            "Features": "Built-in Speakers, Adaptive-Sync, G-SYNC"
+        },
+        "specification": {
+            "Display Features": {
+                "Display Size": "27 inch",
+                "Display Type": "LED",
+                "Panel Type": "IPS",
+                "Resolution": "FHD (1920x1080)",
+                "Pixel pitch(MM)": "0.311mm",
+                "Display Surface": "Non-Glare",
+                "Aspect Ratio": "16:9",
+                "Viewing Angle": "178°(H)/178°(V)",
+                "Brightness": "250cd",
+                "Contrast Ratio": "1000:1",
+                "Refresh Rate": "180Hz",
+                "Color Support": "16.7M",
+                "Response Time": "1ms(GTG)"
+            },
+            "Video Features": {
+                "Low Blue Light": "Yes",
+                "G-Sync Support": "Yes",
+                "Free Sync Support": "Yes",
+                "HDCP": "2.2"
+            },
+            "Audio Features": {
+                "Speaker (Built In)": "Yes",
+                "Speaker Details": "2x 2W",
+                "Speaker Output": "2W"
+            },
+            "Connectivity": {
+                "Display Port": "1x 1.2",
+                "HDMI": "2x HDMI(v2.0)",
+                "Others": "Yes"
+            },
+            "Mechanical Design": {
+                "Tilt": "Yes (+23° ~ -5°)°",
+                "Vesa Wall Mount": "100x100mm",
+                "Security Locker": "Yes"
+            },
+            "Physical Specification": {
+                "Color": "Black",
+                "Dimension": [
+                    "Dimension with Stand (W x H x D) : 615 x 453 x 193 mm",
+                    "Dimension without Stand (W x H x D) : 615 x 369 x 60 mm"
+                ],
+                "Weight": [
+                    "Net Weight with Stand : 4.6 Kg",
+                    "Net Weight without Stand : 3.8 Kg"
+                ]
+            },
+            "Power": {
+                "Power Consumption": [
+                    "Power Consumption : <18W",
+                    "Power Saving Mode : <0.5W",
+                    "Power Off Mode : <0.3W"
+                ],
+                "Voltage": "100-240V, 50/60Hz"
+            },
+            "Warranty Information": {
+                "Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASUS TUF Gaming VG279Q3A 27\" IPS 180HZ FHD 1ms Gaming Monitor",
+                "details": "This ASUS TUF Gaming VG279Q3A 27\" IPS 180HZ FHD Gaming Monitor offers a 27-inch IPS display that produces sharp and clear images at a resolution of 1920x1080. It has a high refresh rate of 180Hz and a rapid reaction time of 1 ms, ensuring smooth and responsive gameplay. The display offers Adaptive-Sync technology, which syncs the monitor's refresh rate with the frame rate of your GPU, preventing screen tearing and stuttering. The ASUS TUF Gaming VG279Q3A Gaming Monitor also includes a number of gaming features that allow you to customize your display settings and improve your performance. For example, you may alter numerous settings by selecting one of six preset GameVisual modes, using the GamePlus tools, or using the DisplayWidget Center program. Also, there are built-in speakers, an earphone connector, a tilt-adjustable stand, a VESA wall mount option, and a Kensington lock hole on the monitor. The ASUS TUF Gaming VG279Q3A is an excellent alternative for gamers looking for a high-quality monitor in a sleek and durable design."
+            },
+            {
+                "title": "IPS Panel",
+                "details": "The IPS panel of ASUS TUF Gaming VG279Q3A 27\" Gaming Monitor has 178°/178° viewing angles, so you may enjoy the same visual quality from any position. Also, the panel includes a non-glare surface, which decreases eye strain and reflections."
+            },
+            {
+                "title": "180Hz Refresh Rate",
+                "details": "The 180Hz refresh rate allows you to play fast-paced games without latency or motion blur. You may also use the DisplayPort or HDMI connectors to alter the refresh rate according on your preferences and the game's needs on ASUS TUF Gaming VG279Q3A 27\" Gaming Monitor."
+            },
+            {
+                "title": "1ms Response Time",
+                "details": "With ASUS TUF Gaming VG279Q3A 27\" Gaming Monitor the 1ms reaction time reduces ghosting and smearing, improving the clarity and sharpness of moving objects. You may also use the Extreme Low Motion Blur (ELMB) or ELMB Sync capabilities to minimize motion blur even more and sync with Adaptive-Sync."
+            },
+            {
+                "title": "Adaptive-Sync Technology",
+                "details": "The ASUS TUF Gaming VG279Q3A 27\" Gaming Monitor offers Adaptive-Sync technology, which synchronizes the refresh rate of the monitor with the frame rate of the GPU. This eliminates screen tearing and stuttering, both of which can spoil your game experience. NVIDIA G-SYNC and AMD FreeSync technologies are supported by the display."
+            },
+            {
+                "title": "GameVisual and GamePlus",
+                "details": "The ASUS TUF Gaming VG279Q3A 27\" IPS 180HZ FHD 1ms Gaming Monitor contains a number of gaming features that will improve your experience. GameVisual has six predefined display settings for various scenarios such as FPS, RTS, RPG, and so on. GamePlus includes essential utilities such as a crosshair, timer, and FPS counter."
+            },
+            {
+                "title": "DisplayWidget Center",
+                "details": "The ASUS TUF Gaming VG279Q3A 27\" Gaming Monitor comes with DisplayWidget Center software, which lets you to modify numerous settings and functions with your mouse and keyboard. The settings may also be accessed via the OSD menu and the joystick on the monitor."
+            },
+            {
+                "title": "Ergonomic Design",
+                "details": "The ASUS TUF Gaming VG279Q3A 27\" IPS 180HZ FHD 1ms Gaming Monitor includes a tilt-adjustable stand that allows you to select the best viewing position for you. It also comes with a VESA-compatible wall mount for more versatility. For added protection, the monitor incorporates a Kensington lock slot."
+            },
+            {
+                "title": "Built-in Speakers",
+                "details": "The ASUS TUF Gaming VG279Q3A 27\" IPS 180HZ FHD Gaming Monitor comes with two built-in speakers that produce clear and strong sound. You may also use the earphone port on the display to connect your headphones or external speakers."
+            },
+            {
+                "title": "Buy ASUS TUF Gaming VG279Q3A 27\" IPS 180HZ FHD 1ms Gaming Monitor from Star Gadget",
+                "details": "In Bangladesh, you can get original ASUS TUF Gaming VG279Q3A 27\" IPS 180HZ FHD 1ms Gaming Monitor From Star Gadget. We have a large collection of latest ASUS Monitor to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The ASUS TUF Gaming VG279Q3A 27\" IPS 180HZ FHD 1ms Gaming Monitor comes with 3 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASUS TUF Gaming VG279Q3A 27\" Gaming Monitor in Bangladesh?",
+            "details": "The latest price of ASUS TUF Gaming VG279Q3A 27\" Gaming Monitor in Bangladesh is 32,700৳. You can buy the ASUS TUF Gaming VG279Q3A 27\" Gaming Monitor at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamer345@example.com",
+                "review_comment": "Solid gaming monitor with good color accuracy. The high refresh rate is a plus.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "techgamer@example.com",
+                "review_comment": "Decent monitor for the price, but it's not as feature-rich as some competitors.",
+                "user_rating": 3
+            }
+        ]
+    },
+    {
+        "category": "monitor",
+        "product_name": "HP Z24f G3 23.8\" IPS FHD Monitor",
+        "price": 32000,
+        "regular_price": 34400,
+        "status": true,
+        "product_code": "00102",
+        "brand": "HP",
+        "image_url": "https://i.ibb.co/n7Kyhb2/HP-Z24f-G3-23-8-inch-IPS-FHD-Monitor.jpg",
+        "rating": 4.6,
+        "features": {
+            "Model": "Z24f G3",
+            "Resolution": "FHD (1920 x 1080)",
+            "Display": "IPS, 60Hz, 5ms",
+            "Ports": "HDMI, DP, 3.5mm Audio Out, USB",
+            "Features": "Low Blue Light"
+        },
+        "specification": {
+            "Display Features": {
+                "Display Size": "23.8 Inch",
+                "Display Type": "FHD LCD",
+                "Panel Type": "IPS",
+                "Resolution": "Full HD (1920 x 1080)",
+                "Pixel pitch(MM)": "0.274 mm",
+                "Display Surface": "Anti-glare",
+                "Aspect Ratio": "16:9",
+                "Viewing Angle": "178 x 178°",
+                "Brightness": "300 nits",
+                "Contrast Ratio": [
+                    "Contrast Ratio: 1000:1",
+                    "Dynamic Contrast Ratio: 10,000,000:1"
+                ],
+                "Refresh Rate": "60 Hz",
+                "Color Gamut": "99% sRBG",
+                "Response Time": "5 ms (GtG)",
+                "Others Features": "Resolutions supported: 640 x 480; 800 x 600; 1024 x 768; 1280 x 720; 1280 x 800; 1280 x 1024; 1440 x 900; 1600 x 900; 1680 x 1050; 1920 x 1080"
+            },
+            "Video Features": {
+                "Low Blue Light": "Yes",
+                "HDCP": "No"
+            },
+            "Audio Features": {
+                "Speaker (Built In)": "No"
+            },
+            "Connectivity": {
+                "Display Port": [
+                    "1 x DisplayPort 1.2 Output",
+                    "1 x DisplayPort 1.2 Input"
+                ],
+                "HDMI": "1 x HDMI 1.4",
+                "USB Port(s)": [
+                    "4 x USB Type-A (USB 3.1 / USB 3.2 Gen 1) Output",
+                    "1 x USB Type-B (USB 3.1 / USB 3.2 Gen 1) Input"
+                ]
+            },
+            "Mechanical Design": {
+                "Pivot": "Yes",
+                "Height Adjustment": "Yes",
+                "Vesa Wall Mount": "100 x 100 mm"
+            },
+            "Physical Specification": {
+                "Color": "Black",
+                "Dimension": "21.2 x 1.52 x 12.35 in Without stand.",
+                "Weight": "10.4 lb"
+            },
+            "Power": {
+                "Power Consumption": "58 W (maximum), 28 W (typical), 0.5 W (standby)"
+            },
+            "Warranty Information": {
+                "Warranty": "03 years warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "HP Z24f G3 23.8\" IPS FHD Monitor",
+                "details": "The latest HP Z24f G3 23.8\" IPS FHD Monitor comes with 1000:1 Contrast Ratio, Response Time: 5 ms (GtG), 23.8\" FHD (1920 x 1080) IPS Display, HDMI 1.4, DisplayPort 1.2, USB Type-A, 99% sRGB, 85% DCI-P3. The Z24f G3 features one DisplayPort 1.2 output for daisy chaining, one DisplayPort 1.2 input, one HDMI 1.4 input, four USB 3.2 Gen 1 Type-A outputs, two of which provides 7.5W of charging power, and a USB Type-B input. Because of it's 178Â° horizontal and vertical viewing angles, it is possible to watch content from virtually any position. To further help improve viewing and accessibility, the display features a vertical tilt of -5 to 20Â°, a swivel of 90Â° (-45 to 45Â°), a rotation of 180Â° (Â±90Â°), and a max height adjustment of 5.9\". This monitor also has a 100 x 100mm VESA mount that can be used to attach this display to a wall. Or you can mount an HP Z2 Mini or Desktop Mini directly to the monitor for a cleaner workspace. HP's Z24f G3 is built with using an edge-lit anti-glare panel with In-Plane Switching (IPS) technology, a native resolution of 1920 x 1080 at 60 Hz, support for 8-bit color using FRC, coverage for 99% of the sRGB and 85% of the P3 D65 color gamuts, a widescreen 16:9 aspect ratio, a static contrast ratio of 1000:1, a dynamic contrast ratio of 10,000,000:1, 300 cd/m2 brightness, 93 ppi, a 5 ms (GtG with Overdrive) response time, and a backlight lifespan of 40,000 hours. To Make a conscious choice with this monitor that's been built with the environment in mind. Its plastics consist of over 80% recycled materials, plus it has 100% sustainably sourced. This latest HP Z24f G3 23.8\" IPS FHD Monitor has 03 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of HP Z24f G3 23.8\" FHD Monitor in Bangladesh?",
+            "details": "The latest price of HP Z24f G3 23.8\" FHD Monitor in Bangladesh is 32,000৳. You can buy the HP Z24f G3 23.8\" FHD Monitor at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "graphicdesigner@example.com",
+                "review_comment": "The HP Z24f G3 is a dream for graphic design work. The IPS panel provides accurate and vibrant colors, and the FHD resolution ensures every detail is sharp. It's a game-changer for my design projects.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "officeprofessional@example.com",
+                "review_comment": "I use this monitor in my home office, and it's been a great addition. The 23.8\" size is perfect, and the IPS display offers wide viewing angles. It's made my work tasks much more enjoyable.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "gamer@example.com",
+                "review_comment": "While it's not a dedicated gaming monitor, the HP Z24f G3 performs admirably for gaming. The IPS panel's color quality shines, and the monitor's response time is decent. A solid all-around choice.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "multimediaenthusiast@example.com",
+                "review_comment": "I watch a lot of movies and videos on my monitor, and this HP display has not disappointed. The FHD resolution and IPS panel deliver crisp visuals, and the slim bezels add to the immersion. Great for multimedia!",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "monitor",
+        "product_name": "LG 32GQ950-B 32 Inch UltraGear 4K UHD 144Hz 1ms G-SYNC Nano IPS Gaming Monitor",
+        "price": 178000,
+        "regular_price": 187782,
+        "status": true,
+        "product_code": "000103",
+        "brand": "LG",
+        "image_url": "https://example.com/lg-32gq950-b-monitor.jpg",
+        "rating": 4.7,
+        "features": {
+            "Model": "32GQ950-B",
+            "Resolution": "UHD 4K (3840 x 2160)",
+            "Display": "Nano IPS, 144Hz, 1ms (GtG)",
+            "Ports": "1x DP, 2x HDMI2.1, 2x USB, 1x 3.5mm Audio port",
+            "Features": "G-Sync, Free Sync, HDR10+, Hexagon Lighting"
+        },
+        "specification": {
+            "Display Features": {
+                "Display Size": "32 inch",
+                "Display Type": "4K UHD IPS Display",
+                "Panel Type": "Nano IPS",
+                "Resolution": "3840 x 2160",
+                "Pixel pitch(MM)": "0.18159(H) x 0.18159(V) mm",
+                "Aspect Ratio": "16:9",
+                "Viewing Angle": "178º (R/L), 178º (U/D)",
+                "Brightness": "450cd (typ) / 360cd (Min)",
+                "Contrast Ratio": "1000:1 (Typ.), 700:1 (Min.)",
+                "Refresh Rate": "144Hz",
+                "Color Support": "1.07B",
+                "Color Gamut": "DCI-P3 98% (CIE1976)",
+                "Response Time": "1ms (GtG at Faster)",
+                "HDR": "HDR 10",
+                "Others Features": [
+                    "VESA DisplayHDR™: DisplayHDR™ 1000",
+                    "FPS Counter: Yes",
+                    "R/G/B Color Control: Yes"
+                ]
+            },
+            "Video Features": {
+                "Flicker Free": "Yes",
+                "Low Blue Light": "Yes",
+                "G-Sync Support": "NVIDIA G-Sync™ Compatible",
+                "Free Sync Support": "FreeSync Premium Pro",
+                "Others": [
+                    "Black Stabilizer®: Yes",
+                    "Dynamic Action Sync: Yes",
+                    "Crosshair®: Yes"
+                ]
+            },
+            "Audio Features": {
+                "Speaker (Built In)": "N/A"
+            },
+            "Connectivity": {
+                "DVI": "N/A",
+                "VGA": "N/A",
+                "Display Port": "1 x DisplayPort",
+                "HDMI": "2 x HDMI2.1",
+                "USB Port(s)": "2 x USB",
+                "USB Type-C": "N/A",
+                "Audio Jack": "3.5mm Audio Port",
+                "D-Sub": "N/A"
+            },
+            "Mechanical Design": {
+                "Tilt": "Yes",
+                "Swivel": "Yes",
+                "Pivot": "Yes",
+                "Height Adjustment": "Yes",
+                "Vesa Wall Mount": "100 x 100 mm"
+            },
+            "Physical Specification": {
+                "Color": "Black & Red",
+                "Dimension": [
+                    "With Stand (WxHxD): 28.3\" x 23.7\" x 10.9\" (Up) , 28.3\" x 19.3\" x 10.9\" (Down)",
+                    "Without Stand (WxHxD): 28.3\" x 16.6\" x 2.4\""
+                ],
+                "Weight": [
+                    "With Stand Weight: 25.6 lbs",
+                    "Without Stand Weight: 20.5 lbs"
+                ]
+            },
+            "Power": {
+                "Type": "External Power(Adapter)",
+                "Power Consumption": [
+                    "Power Consumption (Typ.): 85W",
+                    "Power Consumption (Max.): 200W"
+                ],
+                "Voltage": "100~240V (50/60Hz)",
+                "Others": "DC Off (Max) Less than 0.3W"
+            },
+            "Warranty Information": {
+                "Warranty": "3 Year Warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "LG 32GQ950-B 32 Inch UltraGear 4K UHD 144Hz 1ms G-Sync Nano IPS Gaming Monitor",
+                "details": "The LG 32GQ950-B is a 32-inch 4K UHD gaming monitor with a fast refresh rate of 144 Hz. It's part of LG's UltraGear gaming monitor lineup and one of the first on the market to support HDMI 2.1 bandwidth, making it an excellent choice for next-generation console gamers. It provides an excellent gaming experience with low input lag, quick response time, and support for NVIDIA and FreeSync Premium Pro variable refresh rate technology. The LG 32GQ950-B 32-inch gaming monitor also comes with FreeSync Premium Pro technology. It reduces screen tearing and stuttering and allows gamers to experience seamless, fluid movement in high-resolution, fast-paced games. The LG 32GQ950-B 32-inch UltraGear Monitor's color accuracy and consistency can be improved by using hardware calibration via the LG Calibration Studio."
+            },
+            {
+                "title": "UHD 4K (3840x2160) Resolution",
+                "details": "The LG 32GQ950-B 32-inch supports UHD 4K video and variable refresh rates up to 120 Hz via HDMI 2.1. This provides console gamers with an immersive gaming experience. The 32GQ950-B 32-inch gaming monitor has a refresh rate of up to 144 Hz (O/C 160 Hz). But, when using an HDMI 2.1 cable, it supports 4K and a variable refresh rate of 120 Hz."
+            },
+            {
+                "title": "Nano IPS Display",
+                "details": "The LG 32GQ950-B 32-inch UltraGear 4K UHD 144Hz G-Sync Nano IPS Gaming Monitor has Nano IPS technology. The Nano-IPS technology enhances color expression. This technology has a broad color gamut that covers 98 percent of the digital gaming industry's standard DCI-P3 color space and 135 percent of sRGB, making it ideal for expert-level creative work like high-resolution image retouching with large amounts of color information."
+            },
+            {
+                "title": "Ultra-fast 1ms(GtG)",
+                "details": "The LG 32GQ950-B nano IPS gaming monitor has a response time of 1 ms (gray to gray). The 1 ms response time reduces ghosting and allows you to experience a whole new level of gaming performance."
+            },
+            {
+                "title": "VESA Display Stream Compression Technology",
+                "details": "The LG 32GQ950-B 32-inch Nano IPS gaming monitor features VESA Display Stream Compression Technology and supports 4K hi-resolution. The high-speed refresh rate of 144Hz (O/C 160Hz) with 1ms (GtG) response time, HDR, and G-Sync compatibility, as well as covering 10 bits of color with a single DisplayPort connection, reduces visual loss.."
+            },
+            {
+                "title": "Customized Modes for Any Game",
+                "details": "The LG 32GQ950-B 32-inch Nano IPS gaming monitor offers customized modes for any game. Gamers can tailor their experience by choosing between gamer, FPS, and RTS modes. The settings can be adjusted and optimized for any game."
+            },
+            {
+                "title": "Buy LG 32GQ950-B 32 Inch UltraGear 4K UHD 144Hz G-Sync Nano IPS Gaming Monitor from the best Monitor Shop in Bangladesh",
+                "details": "In Bangladesh, you can get the original LG 32GQ950-B 32-inch UltraGear 4K UHD 144Hz 1ms G-Sync Nano IPS Gaming Monitor from Star Gadget. We have a large collection of the latest LG monitors to purchase for your desktop PC. Order online or visit your nearest Star Gadget Shop to get yours at the lowest price. The LG 32GQ950-B Gaming Monitor comes with a 3-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of LG 32GQ950-B 32 Inch UltraGear 4K Gaming Monitor in Bangladesh?",
+            "details": "The latest price of LG 32GQ950-B 32 Inch UltraGear 4K Gaming Monitor in Bangladesh is 178,000৳. You can buy the LG 32GQ950-B 32 Inch UltraGear 4K Gaming Monitor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamerpro@example.com",
+                "review_comment": "Amazing 4K gaming monitor! The Nano IPS display and G-Sync support make gaming a dream.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "techenthusiast@example.com",
+                "review_comment": "Impressive response time and color accuracy. This monitor is worth every penny.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "monitor",
+        "product_name": "LG 27GP95R-B 27 Inch UltraGear 4K UHD 144Hz G-Sync Nano IPS Gaming Monitor",
+        "price": 127000,
+        "regular_price": 139700,
+        "status": true,
+        "product_code": "000104",
+        "brand": "LG",
+        "image_url": "https://example.com/lg-27gp95r-b-monitor.jpg",
+        "rating": 4.1,
+        "features": {
+            "Model": "27GP95R-B",
+            "Resolution": "UHD 4K (3840 x 2160)",
+            "Display": "Nano IPS, 144Hz, 1ms (GtG)",
+            "Ports": "1 x DP, 2 x HDMI2.1, 2 x USB, 1 x 3.5mm jack",
+            "Features": "G-Sync, Free Sync, Low Blue Light, HDR10"
+        },
+        "specification": {
+            "Display Features": {
+                "Display Size": "27 inch",
+                "Panel Type": "Nano IPS",
+                "Resolution": "3840 x 2160",
+                "Pixel pitch(MM)": "0.1554 x 0.1554",
+                "Aspect Ratio": "16:9",
+                "Viewing Angle": "178º (R/L), 178º (U/D)",
+                "Brightness": "400cd (typ) / 360cd (Min)",
+                "Contrast Ratio": "1000:1 (Typ.), 700:1 (Min)",
+                "Refresh Rate": "144Hz",
+                "Color Support": "1.07B",
+                "Color Gamut": "DCI-P3 98% (CIE1976)",
+                "Response Time": "1ms (GtG at Faster)",
+                "HDR": "HDR 10",
+                "Others Features": "VESA DisplayHDR: DisplayHDR 600"
+            },
+            "Video Features": {
+                "Flicker Free": "Yes",
+                "Low Blue Light": "Yes",
+                "G-Sync Support": "NVIDIA G-Sync Compatible",
+                "Free Sync Support": "FreeSync Premium Pro",
+                "Others": [
+                    "Black Stabilizer: Yes",
+                    "Dynamic Action Sync: Yes",
+                    "Crosshair: Yes"
+                ]
+            },
+            "Audio Features": {
+                "Speaker (Built In)": "N/A"
+            },
+            "Connectivity": {
+                "Display Port": "1 x DisplayPort",
+                "HDMI": "2 x HDMI2.1",
+                "USB Port(s)": "2 x USB",
+                "Audio Jack": "3.5mm Audio Port"
+            },
+            "Mechanical Design": {
+                "Tilt": "Yes",
+                "Swivel": "Yes",
+                "Pivot": "Yes",
+                "Height Adjustment": "Yes",
+                "Vesa Wall Mount": "100 x 100 mm"
+            },
+            "Physical Specification": {
+                "Color": "Black & Red",
+                "Dimension": [
+                    "With Stand (WxHxD): 23.9\" x 22.6\" x 11.5\"",
+                    "Without Stand (WxHxD): 23.9\" x 13.9\" x 2.1\""
+                ],
+                "Weight": [
+                    "With Stand Weight: 16.3 lbs",
+                    "Without Stand Weight: 11.7 lbs"
+                ]
+            },
+            "Power": {
+                "Type": "External Power(Adapter)",
+                "Power Consumption": [
+                    "Power Consumption (Typ.): 65W",
+                    "Power Consumption (Max.): 95W"
+                ],
+                "Others": [
+                    "Power Save/Sleep Mode (Max): Less than 0.5W",
+                    "DC Off (Max): Less than 0.3W"
+                ]
+            },
+            "Warranty Information": {
+                "Warranty": "3 Year Warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "LG 27GP95R-B 27 Inch UltraGear 4K UHD 144Hz G-Sync Nano IPS Gaming Monitor",
+                "details": "The LG 27GP95R-B is a 27-inch 4K UHD gaming monitor with a fast refresh rate of 144 Hz. It's part of LG's UltraGear gaming monitor lineup and one of the first on the market to support HDMI 2.1 bandwidth, making it an excellent choice for next-generation console gamers. It provides an excellent gaming experience with low input lag, quick response time, and support for NVIDIA and FreeSync Premium Pro variable refresh rate technology. The LG 27GP95R-B gaming monitor also comes with FreeSync Premium Pro technology. It reduces screen tearing and stuttering and allows gamers to experience seamless, fluid movement in high-resolution, fast-paced games. The LG 27GP95R-B 27-inch UltraGear Monitor's color accuracy and consistency can be improved by using hardware calibration via the LG Calibration Studio."
+            },
+            {
+                "title": "UHD 4K (3840x2160) Resolution",
+                "details": "The LG 27GP95R-B supports UHD 4K video and variable refresh rates up to 120 Hz via HDMI 2.1. This provides console gamers with an immersive gaming experience. The LG 27GP95R gaming monitor has a refresh rate of up to 144 Hz (O/C 160 Hz). But, when using an HDMI 2.1 cable, it supports 4K and a variable refresh rate of 120 Hz."
+            },
+            {
+                "title": "Nano IPS Display",
+                "details": "The LG 27GP95R-B 27-inch UltraGear 4K UHD 144Hz G-Sync Nano IPS Gaming Monitor has Nano IPS technology. The Nano-IPS technology enhances color expression. This technology has a broad color gamut that covers 98 percent of the digital gaming industry's standard DCI-P3 color space and 135 percent of sRGB, making it ideal for expert-level creative work like high-resolution image retouching with large amounts of color information."
+            },
+            {
+                "title": "VESA Display Stream Compression Technology",
+                "details": "The LG 27GP95R-B Nano IPS gaming monitor features VESA Display Stream Compression Technology and supports 4K hi-resolution. The high-speed refresh rate of 144 Hz (O/C 160 Hz) with 1 ms (GtG) response time, HDR, and G-Sync compatibility, as well as covering 10 bits of color with a single DisplayPort connection, reduces visual loss."
+            },
+            {
+                "title": "Customized Modes for Any Game",
+                "details": "The LG 27GP95R-B Nano IPS gaming monitor offers customized modes for any game. Gamers can tailor their experience by choosing between gamer, FPS, and RTS modes. The settings can be adjusted and optimized for any game."
+            },
+            {
+                "title": "Buy LG 27GP95R-B 27 Inch UltraGear 4K UHD 144Hz G-Sync Nano IPS Gaming Monitor from the best Monitor Shop in Bangladesh",
+                "details": "In Bangladesh, you can get the original LG 27GP95R-B 27-inch UltraGear 4K UHD 144Hz G-Sync Nano IPS Gaming Monitor from Star Gadget. We have a large collection of the latest LG monitors to purchase for your desktop PC. Order online or visit your nearest Star Gadget Shop to get yours at the lowest price. The LG 27GP95R-B Gaming Monitor comes with a 3-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of LG 27GP95R-B 27 Inch UltraGear 4K Gaming Monitor in Bangladesh?",
+            "details": "The latest price of LG 27GP95R-B 27 Inch UltraGear 4K Gaming Monitor in Bangladesh is 127,000৳. You can buy the LG 27GP95R-B 27 Inch UltraGear 4K Gaming Monitor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamerpro@example.com",
+                "review_comment": "Amazing 4K gaming monitor! The Nano IPS display and G-Sync support make gaming a dream.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "techenthusiast@example.com",
+                "review_comment": "Impressive response time and color accuracy. This monitor is worth every penny.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "monitor",
+        "product_name": "ASUS ROG Swift 360Hz PG259QN 24.5\" 1ms G-Sync FHD Gaming Monitor",
+        "price": 90000,
+        "regular_price": 97110,
+        "status": true,
+        "product_code": "000105",
+        "brand": "Asus",
+        "image_url": "https://example.com/asus-rog-swift-360hz-pg259qn-monitor.jpg",
+        "rating": 4.5,
+        "features": {
+            "Model": "ROG Swift 360Hz PG259QN",
+            "Resolution": "FHD (1920 x 1080)",
+            "Display": "IPS, 360Hz, 1ms GtG",
+            "Ports": "1x HDMI, 1x DP, 2X USB, Audio Jack",
+            "Features": "G-Sync, Flicker Free, Low Blue Light"
+        },
+        "specification": {
+            "Display Features": {
+                "Display Size": "24.5 Inch",
+                "Display Type": "LED",
+                "Panel Type": "IPS",
+                "Resolution": "FHD (1920 x 1080)",
+                "Pixel pitch(MM)": "0.2830mm",
+                "Display Surface": "Non-Glare",
+                "Aspect Ratio": "16:9",
+                "Viewing Angle": "178°/ 178°",
+                "Brightness": "Brightness (Typ.): 400cd/㎡",
+                "Contrast Ratio": "1000:1",
+                "Refresh Rate": "360Hz",
+                "Color Support": "1073.7M (10 bit)",
+                "Response Time": "1ms (GTG)",
+                "HDR": "HDR10",
+                "Others Features": "Display Viewing Area (HxV): 543.168 x 302.616 mm"
+            },
+            "Video Features": {
+                "Flicker Free": "Yes",
+                "Low Blue Light": "Yes",
+                "G-Sync Support": "Yes",
+                "HDCP": "Yes, 2.2",
+                "Others": "Game Visual: Yes"
+            },
+            "Audio Features": {
+                "Speaker (Built In)": "No"
+            },
+            "Connectivity": {
+                "Display Port": "DisplayPort 1.4 x 1",
+                "HDMI": "HDMI (v2.0) x 1",
+                "USB Port(s)": "USB Hub: 2x USB 3.2 Gen 1 Type-A",
+                "Audio Jack": "Yes"
+            },
+            "Mechanical Design": {
+                "Tilt": "Yes (+20° ~ -5°)",
+                "Swivel": "Yes (+25° ~ -25°)",
+                "Pivot": "Yes (0° ~ 90° Clockwise)",
+                "Height Adjustment": "0~120mm",
+                "Vesa Wall Mount": "100x100mm",
+                "Security Locker": "Kensington Lock"
+            },
+            "Physical Specification": {
+                "Color": "Black",
+                "Dimension": [
+                    "Phys. Dimension with Stand (W x H x D): 557 x 499 x 247 mm (Highest), 557 x 379 x 247 mm (Lowest)",
+                    "Phys. Dimension without Stand (W x H x D): 557 x 330 x 88mm",
+                    "Box Dimension (W x H x D): 688 x 254 x 508 mm"
+                ],
+                "Weight": [
+                    "Net Weight with Stand: 7.1 Kg",
+                    "Net Weight without Stand: 3.5 Kg",
+                    "Gross Weight: 9.9 Kg"
+                ]
+            },
+            "Power": {
+                "Power Consumption": [
+                    "Power Consumption: <27W",
+                    "Power Saving Mode : <0.5W",
+                    "Power Off Mode : <0.5W"
+                ],
+                "Voltage": "100-240V, 50/60Hz"
+            },
+            "Warranty Information": {
+                "Warranty": "3 year"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASUS ROG Swift 360Hz PG259QN 24.5\" 1ms G-Sync FHD Gaming Monitor",
+                "details": "ROG Swift 360 Hz PG259QN is the perfect gaming monitor for esports and fast-paced action games. This FHD (1920 x 1080) display features a Fast IPS panel with up to a 360 Hz refresh rate, 1 ms gray-to-gray (GTG) response time and NVIDIA G-SYNC processor for silky-smooth gameplay and ultra-realistic visuals. And of course, it has that distinct ROG design that lets everyone know that this is no ordinary gaming monitor."
+            },
+            {
+                "title": "ULTRA-RESPONSIVE PERFORMANCE- NVIDIA G-SYNC PROCESSOR",
+                "details": "NVIDIA G-SYNC Processor gives you more of what you want in a gaming experience. Experience incredibly smooth, tear-free gameplay at refresh rates up to 360 Hz, ultra-low motion blur. ASUS Fast IPS panel technology allows liquid crystal elements in the display to turn on and off up to four times faster than conventional IPS panels, giving ROG Swift 360 Hz PG259QN a 1 ms GTG response time and little-to-no smearing or motion blur."
+            },
+            {
+                "title": "INTELLIGENT COOLING SYSTEM FOR 12% LOWER TEMPERATURES",
+                "details": "The custom heatsink found in ROG Swift 360Hz PG259QN offers more surface area for heat exchange compared to those found in other g-sync displays, ensuring efficient cooling during marathon gaming sessions. ROG Swift 360Hz PG259QN uses convection currents to generate airflow within the monitor, with hot air exiting via the rear top vents and cool air drawn in via underside vents. This fanless cooling system ensures that operates silently and stays maintenance-free."
+            },
+            {
+                "title": "SILKLY-SMOOTH AND CRYSTAL-CLEAR GAEMPLAY- NVIDIA Ultra Low Motion Blur",
+                "details": "NVIDIA Ultra Low Motion Blur technology uses backlight strobing to reduce motion blur to give you super smooth moving visuals. HDR technology delivers visuals with a wider color range and higher contrast than traditional monitors for more realistic visuals."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASUS ROG Swift 360Hz PG259QN Monitor in Bangladesh?",
+            "details": "The latest price of ASUS ROG Swift 360Hz PG259QN Monitor in Bangladesh is 90,000৳. You can buy the ASUS ROG Swift 360Hz PG259QN Monitor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamemaster@example.com",
+                "review_comment": "An esports dream come true! The 360Hz refresh rate is unbelievable.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "techwizard@example.com",
+                "review_comment": "Superb response time and G-Sync support. Worth every penny.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "monitor",
+        "product_name": "ASUS ProArt Display PA328QV 31.5\" WQHD Professional Monitor",
+        "price": 70500,
+        "regular_price": 76820,
+        "status": true,
+        "product_code": "000106",
+        "brand": "Asus",
+        "image_url": "https://example.com/asus-pa328qv-monitor.jpg",
+        "rating": 4.8,
+        "features": {
+            "Model": "ProArt PA328QV",
+            "Resolution": "WQHD (2560 x 1440)",
+            "Display": "IPS, 75Hz, 5ms GtG",
+            "Ports": "2x HDMI, 1x DP, 4x USB, DVI",
+            "Features": "Adaptive-Sync, Flicker Free, Low Blue Light"
+        },
+        "specification": {
+            "Display Features": {
+                "Display Size": "31.5 Inch",
+                "Display Type": "LED",
+                "Panel Type": "IPS",
+                "Resolution": "WQHD (2560 x 1440)",
+                "Pixels Per Inch (PPI)": 93,
+                "Pixel pitch(MM)": "0.272mm",
+                "Display Surface": "Non-Glare",
+                "Aspect Ratio": "16:9",
+                "Viewing Angle": "178°/178°",
+                "Brightness": [
+                    "Brightness (HDR, Peak): 400 cd/㎡",
+                    "Brightness (Typ.): 350cd/㎡"
+                ],
+                "Contrast Ratio": "1000:1",
+                "Refresh Rate": "75Hz",
+                "Color Support": "1073.7M (10 bit)",
+                "Color Gamut": "100% sRGB",
+                "Response Time": "5ms (GTG)",
+                "HDR": "HDR10",
+                "Others Features": "Display Viewing Area(HxV) : 698.112 x 392.688 mm"
+            },
+            "Video Features": {
+                "Color Temperature Selection": "Yes (5 modes)",
+                "Flicker Free": "Yes",
+                "Low Blue Light": "Yes",
+                "HDCP": "Yes, 2.2",
+                "Others": [
+                    "Color Adjustment: 6-axis adjustment(R,G,B,C,M,Y)",
+                    "Gamma adjustment: Yes (Support Gamma 1.8/2.0/2.2/2.4/2.6)",
+                    "Color Accuracy: △E < 2",
+                    "QuickFit Plus: Yes",
+                    "PIP / PBP Technology: Yes",
+                    "VRR Technology: Adaptive-Sync",
+                    "ProArt Chroma Tune: Yes"
+                ],
+                "Camera (Built In)": "Yes"
+            },
+            "Audio Features": {
+                "Speaker (Built In)": "Yes",
+                "Speaker Details": "2Wx2"
+            },
+            "Connectivity": {
+                "Display Port": "DisplayPort 1.2 x 1",
+                "HDMI": "HDMI(v2.0) x 2",
+                "USB Port(s)": "4x USB 3.2 Gen 1 Type-A"
+            },
+            "Mechanical Design": {
+                "Tilt": "Yes (+23° ~ -5°)",
+                "Swivel": "Yes (+30° ~ -30°)",
+                "Pivot": "Yes (+90° ~ -90°)",
+                "Height Adjustment": "0~130mm",
+                "Vesa Wall Mount": "100x100mm",
+                "Security Locker": "Kensington Lock"
+            },
+            "Physical Specification": {
+                "Color": "Black",
+                "Dimension": [
+                    "Phys. Dimension with Stand (W x H x D): 714.8 x (465.6 ~ 595.6) x 245.0 mm",
+                    "Phys. Dimension without Stand (W x H x D): 714.8 x 422.2 x 67.33 mm",
+                    "Box Dimension (W x H x D): 841 x 525 x 317 mm"
+                ],
+                "Weight": [
+                    "Net Weight with Stand: 11.5 Kg",
+                    "Net Weight without Stand: 7 Kg",
+                    "Gross Weight: 14.6 Kg"
+                ]
+            },
+            "Power": {
+                "Power Consumption": [
+                    "Power Consumption : < 26.5W",
+                    "Power Saving Mode : < 0.5W",
+                    "Power Off Mode: 0W"
+                ],
+                "Voltage": "100-240V, 50/60Hz"
+            },
+            "Warranty Information": {
+                "Warranty": "03 years Replacement Warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASUS ProArt Display PA328QV 31.5\" WQHD Professional Monitor",
+                "details": "ProArt Display PA328QV is a 31.5-inch monitor designed to satisfy the needs of creative professionals, from photo and video editing to graphic design. ProArt Display PA328QV is factory calibrated and Calman Verified to deliver superb color accuracy (∆E < 2). It also provides industry-standard 100% sRGB / 100% Rec. 709 color space coverage. With ASUS-exclusive features, such as ProArt Preset and ProArt Palette with six-axis color, black-level and brightness adjustments, PA328QV makes it easy to achieve the exact look you desire quickly, easily and precisely."
+            },
+            {
+                "title": "Bring out the true beauty of your pictures",
+                "details": "The ProArt display delivers industry-standard 100% sRGB and 100% Rec. 709 color gamut for rich, vivid reproduction that ensures every detail of your photos is clear and lifelike."
+            },
+            {
+                "title": "High color fidelity for truly expressive hues",
+                "details": "Revel in pure, expressive hues thanks to accurate, true-to-life color reproduction. ProArt displays achieve ∆E < 2, so your images are accurately reproduced on screen – allowing you to see exactly how your work is going to look when it's finished."
+            },
+            {
+                "title": "True color, right out of the box",
+                "details": "Color professionals rely on color-accurate displays to ensure that their creations look exactly as intended. ProArt Display PA328QV is factory calibrated and Calman Verified to guarantee industry-leading color accuracy. Every ProArt display undergoes stringent, meticulous testing to ensure smoother color gradation. Consumer or pro, you're assured color-accurate viewing and content-creation experiences."
+            },
+            {
+                "title": "Personalized editing experience",
+                "details": "ASUS ProArt Palette lets you customize your display via a wide range of parameters, including color hue, temperature, and gamma adjustments – all easily accessed via intuitive on-screen menus. There are also two-point grayscale sliders for all six colors, providing greater color-adjustment flexibility than many competing monitors. ProArt Palette empowers you to produce quickly and consistently, and makes it easy to keep your color management in check."
+            },
+            {
+                "title": "Rich Connectivity",
+                "details": "ProArt Display PA328QV offers rich connectivity with DisplayPort 1.2, dual HDMI (v1.4) ports, and a built-in USB hub, so it's easy to hook up to a wide variety of devices and enjoy ultra-fast transfer speeds with external storage – catering to every content-creation demand."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASUS ProArt Display PA328QV WQHD Monitor in Bangladesh?",
+            "details": "The latest price of ASUS ProArt Display PA328QV WQHD Monitor in Bangladesh is 70,500৳. You can buy the ASUS ProArt Display PA328QV WQHD Monitor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "designerpro@example.com",
+                "review_comment": "I love the color accuracy of this monitor! Perfect for my graphic design work.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "videographer@example.com",
+                "review_comment": "Great monitor for video editing. The 31.5-inch display is a delight to work with.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "monitor",
+        "product_name": "LG 32GP850-B 32\" UltraGear 165Hz G-SYNC QHD Nano IPS Gaming Monitor",
+        "price": 69000,
+        "regular_price": 72700,
+        "status": true,
+        "product_code": "000107",
+        "brand": "LG",
+        "image_url": "https://example.com/lg-32gp850-b-monitor.jpg",
+        "rating": 4.8,
+        "features": {
+            "Model": "32GP850-B",
+            "Resolution": "QHD (2560 x 1440)",
+            "Display": "IPS, 165Hz, 1ms GtG",
+            "Ports": "2x HDMI, 1x DP, 3x USB, Headphone Out",
+            "Features": "Free Sync, G-Sync, Flicker Free"
+        },
+        "specification": {
+            "Display Features": {
+                "Display Size": "32 Inch",
+                "Panel Type": "Nano IPS",
+                "Resolution": "2k QHD (2560 x 1440)",
+                "Pixel pitch(MM)": "0.2724 x 0.2724 mm",
+                "Display Surface": "Anti-Glare",
+                "Aspect Ratio": "16:9",
+                "Viewing Angle": "178º (R/L), 178º (U/D)",
+                "Brightness": "320cd (typ) / 400cd (Min)",
+                "Contrast Ratio": "700:1 (Min.), 1000:1 (Typ.)",
+                "Refresh Rate": "165Hz (O/C 180Hz)",
+                "Color Support": "1.07B",
+                "Color Gamut": [
+                    "Color Gamut (Min.) DCI-P3 90% (CIE1976)",
+                    "Color Gamut (Typ.) DCI-P3 98% (CIE1976)"
+                ],
+                "Response Time": "1ms (GtG at Faster)",
+                "HDR": "HDR 10"
+            },
+            "Video Features": {
+                "Flicker Free": "Yes",
+                "G-Sync Support": "G-SYNC Compatible",
+                "Free Sync Support": "AMD FreeSync Premium",
+                "HDCP": "2.2"
+            },
+            "Audio Features": {
+                "Speaker (Built In)": "No"
+            },
+            "Connectivity": {
+                "Display Port": "Yes x 1 (1.4 version)",
+                "HDMI": "Yes x 2",
+                "USB Port(s)": [
+                    "USB Up-stream: Yes x 1",
+                    "USB Down-stream: Yes x 2"
+                ],
+                "Audio Jack": "Headphone Out: Yes",
+                "Others": [
+                    "HDMI (Max. Resolution at Hz) 2560 x 1440@144Hz",
+                    "DP (Max. Resolution at Hz) 2560 x 1440 at 165Hz (O/C 180Hz)"
+                ]
+            },
+            "Mechanical Design": {
+                "Tilt": "Display Position Adjustments",
+                "Pivot": "Yes",
+                "Height Adjustment": "Yes",
+                "Vesa Wall Mount": "100 x 100 mm"
+            },
+            "Physical Specification": {
+                "Color": "Black",
+                "Dimension": [
+                    "Dimension with Stand (W x H x D) 714.7x600.3x292.1 mm(UP) 714.7x490.3x292.1 mm(Down)",
+                    "Dimension without Stand (W x H x D) 714x428x50.9 mm",
+                    "Dimension in Shiping (W x H x D) 793x227x557 mm"
+                ],
+                "Weight": [
+                    "Weight with Stand 7.2",
+                    "Weight without Stand 4.8",
+                    "Weight in Shipping 10.1"
+                ]
+            },
+            "Power": {
+                "Type": "Adapter",
+                "Power Consumption": [
+                    "Power Consumption (Typ.) 48W",
+                    "Power Consumption (Max.) 65W",
+                    "Power Consumption (Sleep Mode)Less than 0.5W",
+                    "Power Consumption (DC Off)Less than 0.3W"
+                ],
+                "Voltage": "100 ~ 240Vac, 50/60Hz"
+            },
+            "Warranty Information": {
+                "Warranty": "3 year"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "LG 32GP850-B 32\" UltraGear 165Hz G-SYNC QHD Nano IPS Gaming Monitor",
+                "details": "The LG 32GP850-B is a premium LG UltraGear Gaming Monitor. Built for gamers, it delivers the latest hardware, specs, ergonomics, sleek design, and sensory experience. This monitor is created from the ground up to give gamers the edge. The Nano IPS display achieves 1ms GTG TN-level speeds and ultra-fast refresh rates while mesmerizing with a rich and vivid picture. Re-imagine every scene with vivid, responsive IPS. At 32\" and 16:9 screen ratio (2560 x 1440), LG's UltraGear QHD Nano IPS Display features realistic, true color, enhanced contrast, clarity, and detail while delivering ultra-fast 1ms response rates. It's the best of both worlds. Nano IPS technology supports the express high-fidelity color for reproducing vivid scenes, while VESA DisplayHDR 400 delivers dynamic contrast, on the large QHD screen. The 165Hz refresh rate (O/C 180Hz) monitor combined with a 1ms response rate offers smoother, clearer action while reducing blur and ghosting. LG 32GP850 Monitor is an NVIDIA-tested and officially verified G-SYNC compatible monitor, reducing screen tearing and minimizing stutter for a smoother, faster gaming experience. With FreeSync Premium technology, gamers can experience seamless, fluid movement in hi-resolution and fast-paced games. It virtually reduces screen tearing and stuttering. Customize your battle station in seconds. Raise, lower, tilt, pivot - the stand has a flexible ergonomic design to easily adapt to your environment and gaming style on a virtually borderless screen on three sides. It has 3 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of LG 32GP850-B 32\" UltraGear 165Hz G-SYNC QHD Nano IPS Gaming Monitor in Bangladesh?",
+            "details": "The latest price of LG 32GP850-B 32\" UltraGear 165Hz G-SYNC QHD Nano IPS Gaming Monitor in Bangladesh is 69,000৳. You can buy the LG 32GP850-B 32\" UltraGear 165Hz G-SYNC QHD Nano IPS Gaming Monitor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "techguru@example.com",
+                "review_comment": "The LG 32GP850-B is a beast! The combination of high refresh rate and low response time makes gaming incredibly smooth. The QHD display is stunning, and I love the G-SYNC support.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "gamingpro@example.com",
+                "review_comment": "This monitor changed my gaming experience. The 165Hz refresh rate and 1ms response time are perfect for fast-paced games. The colors are vibrant, and it's a great addition to my setup.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "casualgamer@example.com",
+                "review_comment": "I'm not a pro gamer, but I wanted a monitor that could handle games well. The LG 32GP850-B delivers fantastic performance, and I've noticed a significant improvement in my gameplay.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "designlover@example.com",
+                "review_comment": "Besides gaming, I use this monitor for design work. The QHD resolution and Nano IPS technology provide excellent color accuracy. It's like having a professional display.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "monitor",
+        "product_name": "Dell UltraSharp U2422HE 24 inch FHD Type-C IPS Monitor",
+        "price": 54000,
+        "regular_price": 58050,
+        "status": true,
+        "product_code": "000108",
+        "brand": "Dell",
+        "image_url": "https://example.com/dell-u2422he-monitor.jpg",
+        "rating": 4.5,
+        "features": {
+            "Model": "U2422HE",
+            "Resolution": "FHD (1920x1080)",
+            "Display": "IPS, 60Hz, 5ms",
+            "Ports": "1x HDMI, 3x USB, 1x DP",
+            "Features": "ComfortView Plus, VESA Mount, Height Adjustment"
+        },
+        "specification": {
+            "Display Features": {
+                "Display Size": "24 inch",
+                "Display Type": "LED",
+                "Panel Type": "IPS",
+                "Resolution": "1920 x 1080",
+                "Pixels Per Inch (PPI)": "92.5",
+                "Pixel pitch(MM)": "0.2745 mm",
+                "Aspect Ratio": "16:9",
+                "Viewing Angle": [
+                    "Horizontal Viewing Angle: 178°",
+                    "Vertical Viewing Angle: 178°"
+                ],
+                "Brightness": "250 cd/m²",
+                "Contrast Ratio": "1000:1",
+                "Refresh Rate": "60Hz",
+                "Color Support": "16.7 million colours",
+                "Response Time": "8 ms (normal); 5 ms (fast)"
+            },
+            "Video Features": {
+                "Low Blue Light": "Yes"
+            },
+            "Audio Features": {
+                "Speaker (Built In)": "No"
+            },
+            "Connectivity": {
+                "Display Port": "Yes",
+                "HDMI": "Yes",
+                "USB Type-C": "Yes",
+                "Audio Jack": "Yes"
+            },
+            "Mechanical Design": {
+                "Tilt": "-5°/+21°",
+                "Swivel": "-45°/+45°",
+                "Height Adjustment": "150 mm",
+                "Vesa Wall Mount": "100 x 100 mm"
+            },
+            "Physical Specification": {
+                "Dimension": [
+                    "With stand - width: 53.76 cm - depth: 17.96 cm - height: 36.4 cm",
+                    "Without stand - width: 53.76 cm - depth: 4.85 cm - height: 31.07 cm"
+                ],
+                "Weight": [
+                    "Without stand Weight: 3.96 kg",
+                    "Shipping Weight: 8.3 kg"
+                ]
+            },
+            "Power": {
+                "Power Consumption": {
+                    "Power Consumption (On mode)": "11.8 W",
+                    "Power Consumption SDR (On mode)": "11.8 kWh/1000h",
+                    "Power Consumption (Typical)": "11.8 Watt",
+                    "Power Consumption (Max)": "210 Watt",
+                    "Power Consumption Stand": "0.3 Watt",
+                    "Power Consumption (Off Mode)": "0.3 Watt"
+                },
+                "Voltage": "AC 120/230 V (50/60 Hz)"
+            },
+            "Warranty Information": {
+                "Warranty": "03 Years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Dell UltraSharp U2422HE 24 inch FHD Type-C IPS Monitor",
+                "details": "The Dell Ultrasharp U2422HE monitor has a 1920 x 1080 resolution for detailed visuals. It has a 21.5\" IPS panel with a 16:9 aspect ratio. With only one cable, you may dock your laptop for Type-C input and receive data, video, and up to 65W of power delivery. Four 3.2 Gen 1 Type-A ports on the integrated USB hub allow wired peripherals to be connected. In addition to DisplayPort input and output for daisy chaining monitors, the U2422HE monitor features an HDMI input. Moreover, window partition presets, auto restoration and hassle-free display setting configuration let you multitask with ease. The 21.5-inch Full HD Dell Ultrasharp U2422HE monitor has a brightness of 250 nits, a broad 178° horizontal and vertical viewing angle, and Low-blue-light screen technology to reduce eye strain. Accurate and crisp colors may be seen on the display thanks to its 1000:1 static contrast ratio and 16.7 million colors. Increase performance by overrating the 14 ms response time to 5 ms and benefit from the Dell Ultrasharp U2422HE has 60 Hz refresh rate for fluid video playback. To find your ideal angle, you can spin, tilt, swivel, or modify the monitor's height. Additionally, third-party mounts and stands that are compatible with this monitor and are sold separately can be attached using the included 100 x 100mm VESA mounting pattern."
+            },
+            {
+                "title": "Productive at Every Level",
+                "details": "Easy Arrange of Dell Ultrasharp U2422HE Monitor enhances your multitasking skills by enabling you to quickly and effortlessly tile numerous apps across one or more screens with 38 pre-set window divisions and the customization of up to five windows."
+            },
+            {
+                "title": "Designed for multitasking",
+                "details": "Attach the monitor to two PC sources. When a second PC is attached, our clever Auto KVM feature recognizes it and smoothly transfers control. One keyboard and mouse can be used to control two PCs by utilizing the KVM (keyboard, video, and mouse) feature."
+            },
+            {
+                "title": "Broad Connectivity",
+                "details": "There are numerous interfaces for connecting to various devices on the U2422HE FHD monitor, such as DisplayPort, HDMI connectors. You can also connect wired peripherals to the integrated hub's four USB gen 2 Gen 1 Type-A connectors. Single USB-C connectivity helps you connect and power your computers with up to 65W of power output, so you can cut down on cable clutter."
+            },
+            {
+                "title": "Buy Dell Ultrasharp U2422HE 24 inch FHD Type-C IPS Monitor from Star Gadget",
+                "details": "In Bangladesh, you can get the original Dell Ultrasharp U2422HE 24 inch FHD Type-C IPS Monitor From Star Gadget. We have a large collection of the latest Dell Monitor to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The Dell Ultrasharp U2422HE 24 inch FHD Type-C IPS Monitor comes with 03 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Dell UltraSharp U2422HE 24\" FHD Type-C IPS Monitor in Bangladesh?",
+            "details": "The latest price of Dell UltraSharp U2422HE 24\" FHD Type-C IPS Monitor in Bangladesh is 54000৳. You can buy the Dell UltraSharp U2422HE 24\" FHD Type-C IPS Monitor at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "A great monitor for multitasking. The Type-C input is a fantastic feature.",
+                "user_rating": 4.5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Impressive display quality and excellent connectivity options.",
+                "user_rating": 4.0
+            }
+        ]
+    },
+    {
+        "category": "monitor",
+        "product_name": "ASUS TUF Gaming VG259QM 24.5inch FHD 280Hz G-SYNC Overclockable Monitor",
+        "price": 52300,
+        "regular_price": 54704,
+        "status": true,
+        "product_code": "000109",
+        "brand": "Asus",
+        "image_url": "https://example.com/asus-vg259qm-monitor.jpg",
+        "rating": 4.9,
+        "features": {
+            "Model": "ASUS TUF VG259QM OC",
+            "Resolution": "FHD (1920 x 1080)",
+            "Display": "IPS, 280Hz, 1ms",
+            "Ports": "HDMI, DP, 3.5mm Audio Out",
+            "Features": "Free Sync, Flicker Free, Low Blue Light, G-Sync"
+        },
+        "specification": {
+            "Display Features": {
+                "Display Size": "Wide Screen 24.5\" (62.23cm)",
+                "Panel Type": "IPS",
+                "Resolution": "1920x1080",
+                "Aspect Ratio": "16:9",
+                "Viewing Angle": "178°(H)/178°(V)",
+                "Brightness": "400 cd/㎡",
+                "Contrast Ratio": "Contrast Ratio (Max) : 1000:1",
+                "Refresh Rate": "Refresh Rate (max) : 280Hz",
+                "Color Support": "Color Saturation : 72% NTSC",
+                "Display Colors": "16.7M",
+                "Response Time": "1ms (GTG, Ave.)",
+                "Others Features": "Display Surface: Non-glare"
+            },
+            "Video Features": {
+                "Color Temperature Selection": "7 Modes",
+                "Flicker Free": "Yes",
+                "Low Blue Light": "Yes",
+                "G-Sync Support": "Yes",
+                "Free Sync Support": "Yes",
+                "Others": [
+                    "HDCP support : Yes",
+                    "VividPixel : Yes",
+                    "Extreme Low Motion Blur",
+                    "GameFast Input technology",
+                    "ELMB SYNC",
+                    "Dynamic shadow boost"
+                ]
+            },
+            "Connectivity": {
+                "Display Port": "DisplayPort 1.2 x1",
+                "HDMI": "HDMI(v2.0) x2",
+                "Audio Jack": "3.5mm Mini-Jack"
+            },
+            "Physical Specification": {
+                "Dimension": [
+                    "Phys. Dimension with Stand(WxHxD): 563 x (356~486) x 211 mm",
+                    "Phys. Dimension without Stand (WxHxD): 563x 329 x 52 mm"
+                ],
+                "Weight": [
+                    "Net Weight (Esti.) : 5.1 kg",
+                    "Weight without stand : 2.9 kg",
+                    "Gross Weight (Esti.) : 7.5 kg"
+                ]
+            },
+            "Power": {
+                "Type": "AC: Voltage- 100-240V, 50 / 60Hz",
+                "Power Consumption": [
+                    "Power Consumption < 20W",
+                    "Power Saving Mode <0.5W",
+                    "Power Off Mode <0.5W"
+                ]
+            },
+            "Warranty Information": {
+                "Warranty": "03 years Replacement Warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASUS TUF Gaming VG259QM 24.5inch FHD 280Hz G-SYNC Overclockable Monitor",
+                "details": "Astonishing overclockable 280Hz refresh rate means the display is almost twice as fast as conventional 144 Hz monitors. You'll experience amazingly fluid gaming visuals, giving you the upper hand in first-person shooters, racing, real-time strategy, and sports titles. Fast IPS Display allows the display's liquid crystal elements to switch up to 4X faster than conventional IPS panels for improved response. With a 1 ms gray-to-gray response time, smearing and motion blur are virtually eliminated. This display also delivers superior images with outstanding colors thanks to 72% NTSC color gamut and an astounding 1,000:1 contrast ratio. Wide 178-degree viewing angles ensure minimal distortion and color shift even when you're viewing from extreme positions. With variable-refresh-rate (VRR) technology enabled by default, you're assured seamless, tear-free gaming experiences from your NVIDIA GeForce GTX 10 or NVIDIA GeForce RTX 20-series graphics card. HDR technology delivers a wider color range and higher contrast than traditional monitors. The brightest whites and the darkest blacks bring out details like never before. The display is also capable of 400 cd/m2, meeting the stringent requirements for DisplayHDR 400 certification. ASUS Dynamic Shadow Boost technology automatically clarifies dark areas of the game world with optimizing other areas, improving overall viewing while also making it easier to spot enemies hidden in shaded areas of the map. The ASUS-exclusive, integrated GamePlus hotkey offers in-game enhancements that help you get more out of your game. This function is co-developed with input from pro gamers, allowing them to practice and improve their gaming skills. ASUS GameVisual Technology has seven pre-set display modes to optimize visuals for different types of content. This unique feature can be easily accessed through a hotkey or the on-screen display settings menu. Flicker-Free technology reduces flicker to minimize eyestrain for improved comfort when you're embroiled in long gaming sessions. ASUS Ultra-Low Blue Light technology reduces the amount of potentially harmful blue light emitted by the display. Four different filter settings are available to control the amount of blue light reduction. Extensive connectivity options, including DisplayPort1.2, HDMI 2.0x2, and Earphone Jack offer support for wide array of multimedia devices. With an ergonomically-designed stand, it provides tilt, swivel, pivot, and height adjustments so you can easily find your ideal viewing position. The display is also VESA-compatible for wall mounting."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASUS TUF VG259QM OC Monitor in Bangladesh?",
+            "details": "The latest price of ASUS TUF VG259QM OC Monitor in Bangladesh is 52,300৳. You can buy the ASUS TUF VG259QM OC Monitor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamerpro@example.com",
+                "review_comment": "Incredible monitor for gaming! The high refresh rate and low response time make a significant difference.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "techenthusiast@example.com",
+                "review_comment": "This monitor's image quality and gaming performance are top-notch. No regrets with this purchase.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "monitor",
+        "product_name": "Xiaomi RMMNT27NU 27\" 4K Professional Monitor",
+        "price": 39499,
+        "regular_price": 41530,
+        "status": true,
+        "product_code": "000110",
+        "brand": "XIAOMI",
+        "image_url": "https://example.com/xiaomi-rmmnt27nu-monitor.jpg",
+        "rating": 4.7,
+        "features": {
+            "Model": "RMMNT27NU",
+            "Resolution": "4K (3840 x 2160)",
+            "Display": "IPS, 60Hz, 6ms (GTG)",
+            "Ports": "HDMI, DP, Audio Port, USB, Type-C",
+            "Features": "Low Blue Light"
+        },
+        "specification": {
+            "Display Features": {
+                "Display Size": "27-Inch",
+                "Panel Type": "IPS",
+                "Resolution": "4K (3840 x 2160)",
+                "Aspect Ratio": "16:9",
+                "Brightness": "400 cd/m² (TYP)",
+                "Contrast Ratio": "1200:1 (TYP)",
+                "Refresh Rate": "60Hz",
+                "Color Support": "1.07 billion",
+                "Color Gamut": "ΔE 2, 100% sRGB color gamut, 95% DCI-P3 color gamut coverage",
+                "Response Time": "6ms (GTG)"
+            },
+            "Video Features": {
+                "Color Temperature Selection": "0℃ to 40℃",
+                "Low Blue Light": "Yes"
+            },
+            "Audio Features": {
+                "Speaker (Built In)": "No"
+            },
+            "Connectivity": {
+                "Display Port": "DP 1.4 port x 1",
+                "HDMI": "HDMI 2.1 port x 2",
+                "USB Port(s)": "USB-A port x 2",
+                "USB Type-C": "Type-C port x 1",
+                "Audio Jack": "3.5mm x 1"
+            },
+            "Mechanical Design": {
+                "Tilt": [
+                    "Forward/backward tilting angle: -5° to 21°",
+                    "Sideways tilting angle: 90°"
+                ],
+                "Swivel": "Yes",
+                "Pivot": "Yes",
+                "Height Adjustment": "Yes",
+                "Vesa Wall Mount": "Yes"
+            },
+            "Physical Specification": {
+                "Dimension": "613(L) x 205(W) x 517(H)mm",
+                "Weight": "6.5kg"
+            },
+            "Power": {
+                "Type": "100-240V~, 50/60Hz, 3.0A",
+                "Power Consumption": "150W Max",
+                "Others": [
+                    "Operating humidity:20% to 80% RH",
+                    "Operating temperature:0℃ to 40℃"
+                ]
+            },
+            "Warranty Information": {
+                "Warranty": "2 years warranty (1-year parts and 1-year service warranty)"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Xiaomi RMMNT27NU 27\" 4K Professional Monitor",
+                "details": "The Xiaomi RMMNT27NU Monitor has a 27-inch display with thin bezels. It has a resolution of 3840 x 2160 pixels, a color gamut of 1.07 billion, and a brightness of 400 cd/m2. Pantone color certified, Delta E1 color accuracy covers 99% of DCI-P3 99% and 100% sRGB color space. It also features a dedicated key for switching between many professional settings for various circumstances such as CG, CAD, and so on."
+            },
+            {
+                "title": "4K ultra-high resolution",
+                "details": "The Xiaomi RMMNT27NU 27\" Professional Monitor features 4K ultra-high resolution revealing exquisitely realistic detail in every corner of the scene. Images on this IPS display with a resolution of 3840 x 2160 are stunningly clear. With parts of the image zoomed in several times, you can control the details of your work more precisely when processing images."
+            },
+            {
+                "title": "Cinematic wide color gamut",
+                "details": "The Xiaomi RMMNT27NU 27\" 4K Professional Monitor has vibrant colors with 99% DCI-P3 and Adobe RGB. The outstanding color display brings richer color gradation, regarded as a great tool for professional designers and video creators for image retouching and color matching, and demonstrating their creativity."
+            },
+            {
+                "title": "Versatile Type-C port & multiple ports",
+                "details": "The Xiaomi RMMNT27NU 27\" 4K Professional Display benefits from high-speed data transfer via Type-C, and the multi-functional Type-C connector allows for a 'one-cable connection' between your laptop and monitor. It can not only transmit audio and video signals and data at fast speeds but can also charge your computer at the same time, with a maximum power of 90W*, leaving you with a neat and organized workstation."
+            },
+            {
+                "title": "Adjustments from Various Angles to Make You Feel at Ease While Working",
+                "details": "The Xiaomi RMMNT27NU 27\" 4K Professional Monitor comes with a multi-functional stand that can be adjusted in all directions, including vertically, horizontally, and slanted. There is also a new OSD design that allows the menu interface to rotate with the screen."
+            },
+            {
+                "title": "All of Your Content Requirements Can Be Met, Whether Portrait or Landscape",
+                "details": "You can switch between landscape mode and portrait mode at any time to adapt to the display of different typeset content, improving creators' work efficiency."
+            },
+            {
+                "title": "Lightweight for Easy Transportation",
+                "details": "A series of designs, including hidden heat dissipation and cable storage, interpret technological elegance while remaining simple. The narrow frame design fills the entire screen with vibrant colors, making your work the center of attention at all times. The Xiaomi RMMNT27NU 27\" 4K Professional Monitor comes with a 2-year warranty (1-year parts and 1-year service warranty)."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Xiaomi RMMNT27NU 27\" 4K Monitor in Bangladesh?",
+            "details": "The latest price of Xiaomi RMMNT27NU 27\" 4K Monitor in Bangladesh is 39,499৳. You can buy the Xiaomi RMMNT27NU 27\" 4K Monitor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "monitorpro@example.com",
+                "review_comment": "The Xiaomi RMMNT27NU is an excellent 4K monitor for professionals. The color accuracy and 4K resolution make it a great choice for graphic designers and video editors.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "monitor",
+        "product_name": "GIGABYTE GS27Q 27 inch QHD 2K 165Hz Gaming Monitor",
+        "price": 36500,
+        "regular_price": 38398,
+        "status": true,
+        "product_code": "000111",
+        "brand": "GIGABYTE",
+        "image_url": "https://example.com/gigabyte-gs27q-monitor.jpg",
+        "rating": 4.6,
+        "features": {
+            "Model": "GS27Q",
+            "Resolution": "QHD 2560 x 1440",
+            "Display": "IPS, 165Hz/OC 170Hz, 1ms MPRT",
+            "Ports": "2x HDMI, 1x DP, 1x Audio",
+            "Features": "HDR ready, Free Sync, Flicker Free"
+        },
+        "specification": {
+            "Display Features": {
+                "Display Size": "27 inch",
+                "Display Type": "LED",
+                "Panel Type": "SS IPS",
+                "Resolution": "2560 x 1440",
+                "Display Surface": "Non-glare",
+                "Brightness": "300 cd/m2 (TYP)",
+                "Contrast Ratio": "1000:1",
+                "Refresh Rate": "165Hz/OC 170Hz",
+                "Color Support": "16.7M",
+                "Color Gamut": "100% sRGB",
+                "Response Time": "1ms (MPRT)",
+                "HDR": "HDR Ready"
+            },
+            "Video Features": {
+                "Flicker Free": "Yes",
+                "Low Blue Light": "Yes",
+                "G-Sync Support": "Yes",
+                "Free Sync Support": "Yes"
+            },
+            "Audio Features": {
+                "Speaker (Built In)": "N/A"
+            },
+            "Connectivity": {
+                "Display Port": "Yes",
+                "HDMI": "Yes",
+                "Audio Jack": "Yes"
+            },
+            "Mechanical Design": {
+                "Tilt": "-5°~+20°",
+                "Swivel": "N/A",
+                "Pivot": "N/A",
+                "Height Adjustment": "N/A",
+                "Vesa Wall Mount": "100*100mm"
+            },
+            "Physical Specification": {
+                "Dimension": [
+                    "With Stand: 619*447*172 mm",
+                    "Without Stand: 619*365.5*50.2 mm"
+                ],
+                "Weight": [
+                    "With Stand: 5.26 kg",
+                    "Without Stand: 4.35 kg"
+                ]
+            },
+            "Power": {
+                "Power Consumption": "42W",
+                "Voltage": "AC 100-240V ~ 50/60Hz"
+            },
+            "Warranty Information": {
+                "Warranty": "03 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "GIGABYTE GS27Q 27 inch QHD 2K 165Hz Gaming Monitor",
+                "details": "The GIGABYTE GS27Q monitor offers an elegantly simple design that minimizes distractions, a 2560 x 1440 resolution that decreases motion blur, and a standard refresh rate of 165 Hz that can be upgraded to 170 Hz. In addition, AMD Free Sync Premium technology, when used with compatible graphics cards, removes screen tearing and stuttering in fast action scenarios. Additionally, GS27Q 27 inch IPS QHD Gaming Monitor supports HDR which provides realistic scenery while exploring broad areas. it has a curved Features such as a Black Equalizer and GIGABYTE Game Assist let you outsmart opponents."
+            },
+            {
+                "title": "Fast In Graphics",
+                "details": "The GIGABYTE GS27Q 27 inch monitor panel features a 1ms reaction time and a refresh rate of 165 Hz (or 170 Hz overclocked), which significantly reduces motion blur to provide fluid action scenes. Two further features are a static contrast ratio of 1000:1 and brightness of 300 nits."
+            },
+            {
+                "title": "Rich Color Effect and Perfect Viewing Angle",
+                "details": "The HDR-ready 27 inch SS IPS panel of the GIGABYTE GS27Q Monitor, which covers 105% of the sRGB gamut and offers up to 16.7 million colors, enhances bright highlights and deep shadows in pictures and movies. Technologies with less blue light and less flickering aid to alleviate eyestrain during extended viewing periods."
+            },
+            {
+                "title": "Gaming Features",
+                "details": "The onscreen timer on the GIGABYTE GS27Q 27 inch IPS Gaming Monitor allows you to keep track of the amount of time you've spent gaming. By adding and configuring a crosshair, you can improve your accuracy when playing shooting games. With less motion blur, the aim stabilizer improves targeting and visual clarity."
+            },
+            {
+                "title": "Buy GIGABYTE GIGABYTE GS27Q 27 inch QHD 2K 165Hz Gaming Monitor from Star Gadget",
+                "details": "In Bangladesh, you can get the original GIGABYTE GS27Q 27 inch QHD 2K 165Hz Gaming Monitor From Star Gadget. We have a large collection of the latest GIGABYTE Monitor to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The GIGABYTE GS27Q 27 inch QHD 2K 165Hz Gaming Monitor comes with 03 Years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of GIGABYTE GS27Q 27 inch QHD Curved Gaming Monitor in Bangladesh?",
+            "details": "The latest price of GIGABYTE GS27Q 27 inch QHD Curved Gaming Monitor in Bangladesh is 36,500৳. You can buy the GIGABYTE GS27Q 27 inch QHD Curved Gaming Monitor at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "I'm absolutely thrilled with the GIGABYTE GS27Q! The QHD resolution, fast refresh rate, and Free Sync support make my gaming experience incredibly immersive. No more screen tearing or lag. Highly recommended!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "The curved design of this monitor is a game-changer. It feels like the game world wraps around me. The 1ms response time and HDR support deliver stunning visuals. I'm loving it!",
+                "user_rating": 4.8
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "The GIGABYTE GS27Q is a fantastic choice for both work and play. The crisp QHD resolution and vibrant colors make it great for design and entertainment. It's become an essential part of my setup.",
+                "user_rating": 4.7
+            }
+        ]
+    }
+]

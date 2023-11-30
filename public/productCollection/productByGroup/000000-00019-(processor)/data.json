@@ -1,0 +1,1032 @@
+[
+    {
+        "category": "processor",
+        "product_name": "Intel Core i9 14900K 14th Gen Raptor Lake Processor",
+        "price": 72500,
+        "regular_price": 77000,
+        "status": true,
+        "product_code": "00000",
+        "brand": "INTEL",
+        "image_url": "https://i.ibb.co/0q2VqV0/Intel-13th-Gen-Core-i9-13900-K-Raptor-Lake-Processor.jpg",
+        "rating": 5,
+        "features": {
+            "Model": "Core i9 14900K",
+            "Clock Speed": "3.20 GHz up to 6.00 GHz",
+            "Cache": "36 MB Intel Smart Cache",
+            "CPU Cores": 24,
+            "CPU Threads": 32,
+            "Socket": "LGA1700",
+            "Graphics": "Intel UHD Graphics 770"
+        },
+        "specification": {
+            "Basic Information": {
+                "Base Frequency": "3.20 GHz",
+                "Maximum Turbo Frequency": "6.00 GHz",
+                "Cache": "36 MB",
+                "Cores": 24,
+                "Threads": 32,
+                "Default TDP": "125W"
+            },
+            "Memory Specifications": {
+                "Maximum Size": "192 GB",
+                "Maximum Speed": "89.6 GB/s",
+                "Type": [
+                    "Up to DDR5 5600 MT/s",
+                    "Up to DDR4 3200 MT/s"
+                ],
+                "Max Number of Channels": 2
+            },
+            "Graphics Specifications": {
+                "Processor Graphics": "Intel UHD Graphics 770",
+                "Base Frequency": "300 MHz",
+                "Max Dynamic Frequency": "1.65 GHz",
+                "Max Resolution": [
+                    "HDMI: 4096 x 2160 @ 60Hz",
+                    "DP: 7680 x 4320 @ 60Hz",
+                    "eDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 years warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Intel Core i9 14900K 14th Gen Raptor Lake Processor",
+                "details": "The Intel Core i9 14900K 14th Gen Processor boosts your productivity, gaming, and multimedia production. This 14th-generation desktop CPU, built with the Intel 7 technology, provides increased power efficiency while fitting the LGA 1700 socket. The Core i9-14900K has an improved Hybrid Core Architecture that powers demanding apps and games with eight 3.2 GHz Performance-cores while the 16 low-voltage Efficient-cores perform background activities for seamless multitasking. The built-in Intel Thread Director guarantees that the two function flawlessly together by dynamically and intelligently assigning tasks to the correct core at the right time. using 36MB of cache and a Turbo Boost Max 3.20 frequency of 6.00 GHz that can be increased using Thermal Velocity Boost and Adaptive Boost technologies, this CPU is designed to handle nearly any job. This CPU can be overclocked for even better performance. The Core i9-14900K also supports PCI Express 5.0 and up to 192GB of dual-channel DDR5 ECC memory at 5600 MHz."
+            },
+            {
+                "title": "Hybrid Core Design",
+                "details": "The Intel Core i9 14900K 14th Gen Processor Performance cores offer the speed to handle high-end games and demanding programs, while the processor's Efficient-cores manage low-priority and background chores like streaming video, playing music, and decoding media."
+            },
+            {
+                "title": "Intel Thread Director",
+                "details": "The Intel Thread Director is incorporated into the CPU cores and collaborates with the operating system to guarantee that each of the 32 threads is allocated to the correct core at the proper time."
+            },
+            {
+                "title": "PCIe 4.0 & 5.0",
+                "details": "This Intel Core i9 14900K 14th Gen Processor provides up to four PCIe 4.0 and sixteen PCIe 5.0 lanes, for a total of 20 lanes for excellent data throughput with compatible devices."
+            },
+            {
+                "title": "Thermal Velocity Boost",
+                "details": "When thermal headroom and a turbo power budget are available, Intel Thermal Velocity Boost (TVB) unlocks more CPU performance by increasing the maximum frequency to 6 GHz. It is appropriate for burst workloads with unexpected increases in CPU consumption, delivering a brief speed boost to assist minimize slowdowns."
+            },
+            {
+                "title": "Adaptive Boost",
+                "details": "This Intel Core i9 14900K Processor has Intel Adaptive Boost Technology, which boosts the all-core turbo frequency beyond prior Turbo Boost clock rates when Thermal Velocity Boost criteria are not satisfied. Many games benefit from multi-threaded applications that scale with numerous cores. It can also be useful in multitasking scenarios, such as while gaming, streaming, and talking through many programs at the same time."
+            },
+            {
+                "title": "Integrated Graphics",
+                "details": "The Intel Core i9 14900K 14th Gen Processor is powered by Intel Xe architecture and offers fast, rich 3D performance for high-quality visuals with support for one 7680 x 4320 resolution 8K monitor or up to four 3840 x 2160 resolution 4K displays with high dynamic range."
+            },
+            {
+                "title": "Gaussian & Neural Accelerator 3.0",
+                "details": "During video conversations, the Intel Core i9 14900K 14th Gen Raptor Lake Processor with Gaussian and Neural Accelerator 3.0 (GNA) technology assists with noise suppression while improving background blurring."
+            },
+            {
+                "title": "Buy Intel Core i9 14900K 14th Gen Processor from the best Processor Shop in Bangladesh",
+                "details": "In Bangladesh, you can get the original Intel Core i9 14900K 14th Gen Raptor Lake Processor From Star Gadget. We have a large collection of the latest Intel Processor to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The Intel Core i9 14900K 14th Gen Processor comes with a 03-years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Intel Core i9 14900K 14th Gen Processor in Bangladesh?",
+            "details": "The latest price of Intel Core i9 14900K 14th Gen Processor in Bangladesh is 72,500৳. You can buy the Intel Core i9 14900K 14th Gen Processor at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "john.doe@example.com",
+                "review_comment": "This processor is a beast! It's incredibly fast and handles all my tasks with ease.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "jane.smith@example.com",
+                "review_comment": "I'm impressed with the performance, but it can get a bit hot under heavy loads.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "processor",
+        "product_name": "Intel Core i7 14700K 14th Gen Raptor Lake Processor",
+        "price": 52500,
+        "regular_price": 55000,
+        "status": "In Stock",
+        "product_code": "00001",
+        "brand": "INTEL",
+        "image_url": "https://i.ibb.co/0q2VqV0/Intel-13th-Gen-Core-i9-13900-K-Raptor-Lake-Processor.jpg",
+        "rating": 4,
+        "features": {
+            "Model": "Core i7 14700K",
+            "Clock Speed": "3.4 GHz up to 5.6 GHz",
+            "Cache": "33 MB",
+            "Socket": "LGA1700",
+            "CPU Cores": 20,
+            "CPU Threads": 28,
+            "Graphics": "Intel UHD Graphics 770"
+        },
+        "specification": {
+            "Basic Information": {
+                "Base Frequency": "3.4 GHz",
+                "Maximum Turbo Frequency": "5.6 GHz",
+                "Cache": "33 MB",
+                "Cores": 20,
+                "Threads": 28,
+                "Default TDP": "125W"
+            },
+            "Memory Specifications": {
+                "Maximum Size": "192 GB",
+                "Type": [
+                    "Up to DDR5 5600 MT/s",
+                    "Up to DDR4 3200 MT/s"
+                ],
+                "Max Number of Channels": 2
+            },
+            "Graphics Specifications": {
+                "Processor Graphics": "Intel UHD Graphics 770",
+                "Base Frequency": "300 MHz",
+                "Max Dynamic Frequency": "1.60 GHz",
+                "Max Resolution": [
+                    "HDMI: 4096 x 2160 @ 60Hz",
+                    "DP: 7680 x 4320 @ 60Hz",
+                    "eDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 years warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Intel Core i7 14700K 14th Gen Raptor Lake Processor",
+                "details": "The Intel Core i7 14700K 14th Gen Processor will boost your productivity, gaming, and multimedia production. This 14th-generation desktop CPU, built with the Intel 7 technology, promises greater power efficiency with a total of 20 cores while fitting the LGA 1700 socket. The Core i7-14700K has an improved Hybrid Core Architecture that powers demanding apps and games with eight 3.4 GHz performance cores and 12 low-voltage Efficient-cores for seamless multitasking. The built-in Intel Thread Director guarantees that the two function in unison by dynamically and intelligently distributing tasks to the appropriate core at the appropriate moment. With 30MB of cache and a Turbo Boost Max 3.0 clock of 5.6 GHz, this CPU is designed to tackle demanding applications. This CPU may be overclocked for increased performance. PCI Express 5.0 and up to 192GB of dual-channel DDR5 ECC memory at 5600 MHz are also supported by the Core i7-14700K."
+            },
+            {
+                "title": "Hybrid Core Design",
+                "details": "The Intel Core i7 14700K 14th Gen Raptor Lake Processor Performance-cores give the speed to handle high-end games and demanding programs, while the processor's Efficient-cores manage low-priority and background operations such as streaming video, playing music, and transcoding media."
+            },
+            {
+                "title": "Intel Thread Director",
+                "details": "The Intel Thread Director is incorporated into the CPU cores and works with the operating system to guarantee that each of the 20 threads is allocated to the correct core at the proper time."
+            },
+            {
+                "title": "PCIe 4.0 & 5.0",
+                "details": "This Intel Core i7 14700K Processor provides up to four PCIe 4.0 and sixteen PCIe 5.0 lanes, for a total of 20 lanes for excellent data throughput with compatible devices."
+            },
+            {
+                "title": "Integrated Graphics",
+                "details": "The integrated Intel UHD 770 Graphics, powered by Intel Xe architecture, offers fast, rich 3D performance for high-quality images, with support for one 7680 x 4320 resolution 8K monitor or up to four 3840 x 2160 resolution 4K displays with great dynamic range."
+            },
+            {
+                "title": "Gaussian & Neural Accelerator 3.0",
+                "details": "The Intel Core i7 14700K 14th Gen Raptor Lake Processor features Gaussian and Neural Accelerator 3.0 (GNA) technology aids in noise reduction while also improving backdrop blurring during video conferencing."
+            },
+            {
+                "title": "Buy Intel Core i7 14700K 14th Gen Processor from the best Processor Shop in Bangladesh",
+                "details": "In Bangladesh, you can get the original Intel Core i7 14700K 14th Gen Raptor Lake Processor From Star Gadget. We have a large collection of the latest Intel Processor to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The Intel Core i7 14700K 14th Gen Processor comes with a 03-years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Intel Core i7 14700K 14th Gen Processor in Bangladesh?",
+            "details": "The latest price of Intel Core i7 14700K 14th Gen Processor in Bangladesh is 52,500৳. You can buy the Intel Core i7 14700K 14th Gen Processor at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "john.doe@example.com",
+                "review_comment": "This processor is a beast! It's incredibly fast and handles all my tasks with ease.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "jane.smith@example.com",
+                "review_comment": "I'm impressed with the performance, but it can get a bit hot under heavy loads.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "processor",
+        "product_name": "Intel Core i5 14600K 14th Gen Raptor Lake Processor",
+        "price": 38500,
+        "regular_price": 42500,
+        "status": true,
+        "product_code": "00002",
+        "brand": "INTEL",
+        "image_url": "https://i.ibb.co/0q2VqV0/Intel-13th-Gen-Core-i9-13900-K-Raptor-Lake-Processor.jpg",
+        "rating": 4.5,
+        "features": {
+            "Model": "Core i5 14600K",
+            "Clock Speed": "3.5 GHz up to 5.3 GHz",
+            "Cache": "24 MB",
+            "CPU Cores": 14,
+            "CPU Threads": 20,
+            "Graphics": "Intel UHD Graphics 770"
+        },
+        "specification": {
+            "Basic Information": {
+                "Base Frequency": "3.5 GHz",
+                "Maximum Turbo Frequency": "5.3 GHz",
+                "Cache": "24 MB",
+                "Cores": 14,
+                "Threads": 20,
+                "Default TDP": "125W"
+            },
+            "Memory Specifications": {
+                "Maximum Size": "192 GB",
+                "Maximum Speed": "89.6 GB/s",
+                "Type": [
+                    "Up to DDR5 5600 MT/s",
+                    "Up to DDR4 3200 MT/s"
+                ],
+                "Max Number of Channels": 2
+            },
+            "Graphics Specifications": {
+                "Processor Graphics": "Intel UHD Graphics 770",
+                "Base Frequency": "300 MHz",
+                "Max Dynamic Frequency": "1.55 GHz",
+                "Max Resolution": [
+                    "HDMI: 4096 x 2160 @ 60Hz",
+                    "DP: 7680 x 4320 @ 60Hz",
+                    "eDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 years warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Intel Core i5 14600K 14th Gen Raptor Lake Processor",
+                "details": "The Intel Core i5 14600K 14th Gen Processor will boost your productivity, gaming, and content production. This 14th-generation desktop CPU, built on the Intel 7 technology, provides increased power efficiency while fitting the LGA 1700 socket. The Core i5-14600K has an improved Hybrid Core Architecture that powers programs and games with six 3.5 GHz performance cores and eight low-voltage Efficient-cores for seamless multitasking. The built-in Intel Thread Director guarantees that the two function in unison by dynamically and intelligently distributing tasks to the appropriate core at the appropriate moment. With 24MB of cache and a Turbo Boost clock of 5.3 GHz, this CPU is designed to handle a wide range of applications. This CPU may be overclocked for increased performance. PCI Express 5.0 and up to 192GB of dual-channel DDR5 ECC memory @ 5600 MHz are also supported by the Core i5-14600K."
+            },
+            {
+                "title": "Hybrid Core Design",
+                "details": "The Intel Core i5 14600K 14th Gen Processor performance cores give the speed to handle high-end games and demanding programs, while the processor's Efficient-cores manage low-priority and background operations such as streaming video, playing music, and transcoding media."
+            },
+            {
+                "title": "Intel Thread Director",
+                "details": "The Intel Thread Director is incorporated into the CPU cores and works with the operating system to guarantee that each of the 20 threads is allocated to the correct core at the proper time."
+            },
+            {
+                "title": "PCIe 4.0 & 5.0",
+                "details": "This Intel Core i5 14600K 14th Gen Processor provides up to four PCIe 4.0 and sixteen PCIe 5.0 lanes, for a total of 20 lanes for excellent data throughput with compatible devices."
+            },
+            {
+                "title": "Integrated Graphics",
+                "details": "The integrated Intel UHD 770 Graphics, powered by Intel Xe architecture, offers fast, rich 3D performance for high-quality images, with support for one 7680 x 4320 resolution 8K monitor or up to four 3840 x 2160 resolution 4K displays with great dynamic range."
+            },
+            {
+                "title": "Gaussian & Neural Accelerator 3.0",
+                "details": "The Intel Core i5 14600K 14th Gen Processor features Gaussian and Neural Accelerator 3.0 (GNA) technology aids in noise reduction while also improving backdrop blurring during video conferencing."
+            },
+            {
+                "title": "Buy Intel Core i5 14600K 14th Gen Processor from the best Processor Shop in Bangladesh",
+                "details": "In Bangladesh, you can get the original Intel Core i5 14600K 14th Gen Raptor Lake Processor From Star Gadget. We have a large collection of the latest Intel Processor to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The Intel Core i5 14600K 14th Gen Processor comes with a 03-years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Intel Core i5 14600K 14th Gen Processor in Bangladesh?",
+            "details": "The latest price of Intel Core i5 14600K 14th Gen Processor in Bangladesh is 38,500৳. You can buy the Intel Core i5 14600K 14th Gen Processor at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "john.doe@example.com",
+                "review_comment": "Great processor for the price. Handles multitasking well.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "jane.smith@example.com",
+                "review_comment": "Good value for the performance. Runs games smoothly.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "processor",
+        "product_name": "Intel 13th Gen Core i9 13900K Raptor Lake Processor",
+        "price": 68000,
+        "regular_price": 73780,
+        "status": true,
+        "product_code": "00003",
+        "brand": "INTEL",
+        "image_url": "https://i.ibb.co/0q2VqV0/Intel-13th-Gen-Core-i9-13900-K-Raptor-Lake-Processor.jpg",
+        "rating": 5,
+        "features": {
+            "Model": "Core i9 13900K",
+            "Clock Speed": "3.00 GHz up to 5.80 GHz",
+            "Cache": "36 MB Intel Smart Cache",
+            "CPU Cores": 24,
+            "CPU Threads": 32,
+            "Socket": "LGA1700"
+        },
+        "specification": {
+            "Basic Information": {
+                "Base Frequency": "3.00 GHz",
+                "Maximum Turbo Frequency": "5.80 GHz",
+                "Cache": "36 MB",
+                "Cores": 24,
+                "Threads": 32,
+                "Default TDP": "125W"
+            },
+            "Memory Specifications": {
+                "Maximum Size": "128 GB",
+                "Type": [
+                    "Up to DDR5 5600 MT/s",
+                    "Up to DDR4 3200 MT/s"
+                ],
+                "Max Number of Channels": 2
+            },
+            "Graphics Specifications": {
+                "Processor Graphics": "Intel UHD Graphics 770",
+                "Base Frequency": "300 MHz",
+                "Max Dynamic Frequency": "1.65 GHz",
+                "Max Resolution": [
+                    "HDMI: 4096 x 2160 @ 60Hz",
+                    "DP: 7680 x 4320 @ 60Hz",
+                    "eDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 years warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Intel 13th Gen Core i9 13900K Raptor Lake Processor",
+                "details": "The Intel Core i9-13900K 3 GHz 24-Core LGA 1700 Processor will boost your productivity, gaming, and content production. This 13th-generation desktop CPU expands on the Hybrid Core design and Intel 7 process by packing 24 cores onto a single chip, eight more than the previous generation, while still fitting the LGA 1700 socket. The Core i9-13900K is designed to deliver great performance, with 16 low-voltage Efficient-cores handling background activities for multitasking and eight 3 GHz Performance-cores providing speed for demanding programs and gaming. The built-in Intel Thread Director guarantees that the two function in unison by dynamically and intelligently distributing tasks to the appropriate core at the appropriate moment. This processor is designed to handle practically any job, with 32MB of cache and a 5.7 GHz Turbo Boost Max 3.0 frequency that can be increased using Thermal Velocity Boost and Adaptive Boost technologies. This CPU may be overclocked for increased performance. PCI Express 5.0 and dual-channel DDR5 ECC memory at 5600 MHz are also supported by the Core i9-13900K. The Intel 13th Gen Core i9 13900K Processor comes with a 03-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Intel 13th Gen Core i9 13900K Processor in Bangladesh?",
+            "details": "The latest price of Intel 13th Gen Core i9 13900K Processor in Bangladesh is 68,000৳. You can buy the Intel 13th Gen Core i9 13900K Processor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "john.doe@example.com",
+                "review_comment": "This processor is a beast! It's incredibly fast and handles all my tasks with ease.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "jane.smith@example.com",
+                "review_comment": "I'm impressed with the performance, but it can get a bit hot under heavy loads.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "processor",
+        "product_name": "Intel 13th Gen Core i7 13700K Raptor Lake Processor",
+        "price": 48000,
+        "regular_price": 50550,
+        "status": true,
+        "product_code": "00004",
+        "brand": "Intel",
+        "image_url": "https://i.ibb.co/vhqnt5Q/Intel-13th-Gen-Core-i7-13700-K-Raptor-Lake-Processor.jpg",
+        "rating": 4.9,
+        "features": {
+            "Model": "Core i7 13700K",
+            "Clock Speed": "3.40 GHz up to 5.40 GHz",
+            "Cache": "30 MB",
+            "CPU Cores": 16,
+            "CPU Threads": 24,
+            "Socket": "LGA1700",
+            "Graphics": "Intel UHD Graphics 770"
+        },
+        "specification": {
+            "Basic Information": {
+                "Base Frequency": "3.40 GHz",
+                "Maximum Turbo Frequency": "5.40 GHz",
+                "Cache": "30 MB",
+                "Cores": 16,
+                "Threads": 24,
+                "Default TDP": "125W"
+            },
+            "Memory Specifications": {
+                "Maximum Size": "128 GB",
+                "Type": [
+                    "Up to DDR5 5600 MT/s",
+                    "Up to DDR4 3200 MT/s"
+                ],
+                "Max Number of Channels": 2
+            },
+            "Graphics Specifications": {
+                "Processor Graphics": "Intel UHD Graphics 770",
+                "Base Frequency": "300 MHz",
+                "Max Dynamic Frequency": "1.60 GHz",
+                "Max Resolution": [
+                    "HDMI: 4096 x 2160 @ 60Hz",
+                    "DP: 7680 x 4320 @ 60Hz",
+                    "eDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 years warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Intel 13th Gen Core i7 13700K Raptor Lake Processor",
+                "details": "The Intel Core i7-13700K 3.4 GHz 16-Core LGA 1700 Processor will boost your productivity, gaming, and content production. This 13th-generation desktop CPU expands on the Hybrid Core design and Intel 7 process by packing 16 cores onto a single chip, four more than the prior generation, while still fitting the LGA 1700 socket. The Core i7-13700K is designed for great performance, with eight low-voltage Efficient-cores that handle background activities for multitasking, and eight 3.4 GHz Performance-cores that deliver speed for demanding programs and games. The built-in Intel Thread Director guarantees that the two function in unison by dynamically and intelligently distributing tasks to the appropriate core at the appropriate moment. With 30MB of cache and a Turbo Boost Max 3.0 clock of 5.4 GHz, this CPU is designed to tackle demanding applications. The Core i7-13700K features integrated Intel UHD 770 Graphics. This CPU may also be overclocked for increased performance. PCI Express 5.0 and dual-channel DDR5 ECC memory at 5600 MHz are also supported by the Core i7-13700K. This Processor comes with a 03-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Intel 13th Gen Core i7 13700K Processor in Bangladesh?",
+            "details": "The latest price of Intel 13th Gen Core i7 13700K Processor in Bangladesh is 48,000৳. You can buy the Intel 13th Gen Core i7 13700K Processor at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "user123@example.com",
+                "review_comment": "Great CPU for gaming, but it's a bit pricey.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "gamer456@example.com",
+                "review_comment": "Handles multitasking like a champ, but I wish it came with a cooler.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "processor",
+        "product_name": "Intel 13th Gen Core i5 13600K Raptor Lake Processor",
+        "price": 37000,
+        "regular_price": 40150,
+        "status": true,
+        "product_code": "00005",
+        "brand": "INTEL",
+        "image_url": "https://i.ibb.co/vhqnt5Q/Intel-13th-Gen-Core-i7-13700-K-Raptor-Lake-Processor.jpg",
+        "rating": 4.0,
+        "features": {
+            "Model": "Core i5 13600K",
+            "Clock Speed": "3.50 GHz up to 5.10 GHz",
+            "Cache": "24 MB",
+            "CPU Cores": 14,
+            "CPU Threads": 20,
+            "Graphics": "Intel UHD Graphics 770"
+        },
+        "specification": {
+            "Basic Information": {
+                "Base Frequency": "3.50 GHz",
+                "Maximum Turbo Frequency": "5.10 GHz",
+                "Cache": "24 MB",
+                "Cores": 14,
+                "Threads": 20,
+                "Default TDP": "125W"
+            },
+            "Memory Specifications": {
+                "Maximum Size": "128 GB",
+                "Type": [
+                    "Up to DDR5 5600 MT/s",
+                    "Up to DDR4 3200 MT/s"
+                ],
+                "Max Number of Channels": 2
+            },
+            "Graphics Specifications": {
+                "Processor Graphics": "Intel UHD Graphics 770",
+                "Base Frequency": "300 MHz",
+                "Max Dynamic Frequency": "1.50 GHz",
+                "Max Resolution": [
+                    "HDMI: 4096 x 2160 @ 60Hz",
+                    "DP: 7680 x 4320 @ 60Hz",
+                    "eDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 years warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Intel 13th Gen Core i5 13600K Raptor Lake Processor",
+                "details": "The Intel Core i5-13600K 3.5 GHz 14-Core LGA 1700 Processor will boost your productivity, gaming, and content production. This 13th-generation desktop CPU expands on the Hybrid Core design and Intel 7 process by packing 14 cores onto a single chip, four more than the prior generation, while still fitting the LGA 1700 socket. The Core i5-13600K is designed to deliver powerful performance for everyday workloads, with eight low-voltage Efficient-cores handling background tasks for multitasking and six 3.5 GHz Performance-cores powering programs and games. The built-in Intel Thread Director guarantees that the two function in unison by dynamically and intelligently distributing tasks to the appropriate core at the appropriate moment. With 24MB of cache and a Turbo Boost Max 2.0 clock of 5.1 GHz, this CPU is designed to handle a wide range of workloads. This CPU may also be overclocked for increased performance. PCI Express 5.0 and dual-channel DDR5 ECC memory at 5600 MHz are also supported by the Core i5-13600K. The Core i5-13600K has integrated Intel UHD 770 Graphics. It provides quick, rich 3D performance for high-quality images, with support for one 7680 x 4320 resolution 8K monitor or up to four 3840 x 2160 resolution 4K monitors with great dynamic range. The Intel 13th Gen Core i5 13600K Processor comes with a 03-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Intel 13th Gen Core i5 13600K Processor in Bangladesh?",
+            "details": "The latest price of Intel 13th Gen Core i5 13600K Processor in Bangladesh is 37,000৳. You can buy the Intel 13th Gen Core i5 13600K Processor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "jane.doe@example.com",
+                "review_comment": "Solid processor for the price. Handles gaming and multitasking well.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "joe.smith@example.com",
+                "review_comment": "Impressive performance for everyday tasks. Great value.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "processor",
+        "product_name": "Intel 13th Gen Core i3-13100 Raptor Lake Processor",
+        "price": 16000,
+        "regular_price": 17360,
+        "status": true,
+        "product_code": "00006",
+        "brand": "INTEL",
+        "image_url": "https://i.ibb.co/vhqnt5Q/Intel-13th-Gen-Core-i7-13700-K-Raptor-Lake-Processor.jpg",
+        "rating": 4.5,
+        "features": {
+            "Model": "Core i3-13100",
+            "Clock Speed": "3.40 GHz up to 4.50 GHz",
+            "Cores": 4,
+            "Threads": 8,
+            "Cache": "12 MB",
+            "Socket": "LGA 1700"
+        },
+        "specification": {
+            "Basic Information": {
+                "Base Frequency": "3.40 GHz",
+                "Maximum Turbo Frequency": "4.50 GHz",
+                "Cache": "12 MB Intel Smart Cache",
+                "Cores": 4,
+                "Threads": 8,
+                "Default TDP": "60 W",
+                "cTDP": "89 W"
+            },
+            "Memory Specifications": {
+                "Maximum Size": "128 GB",
+                "Type": [
+                    "Up to DDR5 4800 MT/s",
+                    "Up to DDR4 3200 MT/s"
+                ],
+                "Max Number of Channels": 2
+            },
+            "Graphics Specifications": {
+                "Processor Graphics": "Intel UHD Graphics 730",
+                "Base Frequency": "300 MHz",
+                "Max Dynamic Frequency": "1.50 GHz",
+                "Max Resolution": [
+                    "HDMI: 4096 x 2160 @ 60Hz",
+                    "DP: 7680 x 4320 @ 60Hz",
+                    "eDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz"
+                ],
+                "Core Count": 24
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Intel 13th Gen Core i3-13100 Raptor Lake Processor",
+                "details": "The Intel 13th Gen Core i3-13100 Raptor Lake Processor is a quad-core, eight-thread processor with a base clock speed of 3.40 GHz and a maximum turbo frequency of 4.50 GHz. It features 12 MB of L3 cache and is compatible with the LGA 1700 socket. It is a part of Intel's 13th generation of processors built on the Raptor Lake architecture. It is designed for use in desktops and workstations. The Intel Core i3-13100 is compatible with LGA 1700 socket motherboards with the Intel 600 or 700 series chipset. The Core i3-13100 features integrated Intel UHD 730 Graphics. It comes with support for PCI Express 5.0 and dual-channel DDR5 memory at 4800 MHz, making it ideal for office applications."
+            },
+            {
+                "title": "Supports DDR4 and DDR5",
+                "details": "The Intel 13th Gen Core i3-13100 Raptor Lake Processor supports up to 128 GB of memory, dependent on the type of memory used. It supports both DDR5 and DDR4 memory types, with speeds of up to 4800 MT/s and 3200 MT/s respectively. The processor supports a maximum of 2 memory channels and has a maximum memory bandwidth of 76.8 GB/s. This means that the processor can quickly access and transfer data stored in the memory, which can improve overall system performance."
+            },
+            {
+                "title": "PCIe 4.0 & 5.0",
+                "details": "The Intel Core i3-13100 supports PCI Express Revision 5.0 and 4.0. PCI Express (PCIe) is a high-speed interface standard for connecting peripheral devices to a computer. The processor supports a maximum of 20 PCI Express lanes, which can be configured in a variety of ways. The processor supports up to 1x16+4 or 2x8+4 configurations, which means it can support one x16 lane and four x1 lanes or two x8 lanes and four x1 lanes. These configurations allow for flexible usage of different peripheral devices, such as graphics cards, network cards, and solid-state drives."
+            },
+            {
+                "title": "Integrated Graphics",
+                "details": "The Intel Core i3-13100 Processor comes with integrated Intel UHD 730 Graphics. This integrated GPU allows for high-quality visuals, with support for 8K resolution (7680 x 4320) on a single monitor, or up to four 4K resolution (3840 x 2160) displays. The UHD 730 Graphics is suitable for basic graphic needs like video playback, casual gaming, or basic photo editing. However, for heavy gaming, video editing or 3D rendering, you'll need a discrete graphics card."
+            },
+            {
+                "title": "Buy Intel 13th Gen Core i3-13100 Raptor Lake Processor from the best Processor Shop in Bangladesh",
+                "details": "In Bangladesh, you can get the original Intel 13th Gen Core i3-13100 Raptor Lake Processor From Star Gadget. We have a large collection of the latest Intel Processor to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The Intel 13th Gen Core i3-13100 Processor comes with a 03-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Intel 13th Gen Core i3-13100 Processor in Bangladesh?",
+            "details": "The latest price of Intel 13th Gen Core i3-13100 Processor in Bangladesh is 16,000৳. You can buy the Intel 13th Gen Core i3-13100 Processor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "jane.doe@example.com",
+                "review_comment": "Great budget CPU for daily tasks and light gaming.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "john.smith@example.com",
+                "review_comment": "Impressive performance for the price. Handles multitasking well.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "processor",
+        "product_name": "AMD Ryzen 9 7950X Processor",
+        "price": 65000,
+        "regular_price": 70500,
+        "status": true,
+        "product_code": "00007",
+        "brand": "Amd",
+        "image_url": "https://i.ibb.co/VCqfjrt/AMD-Ryzen-9-7950-X-Processor.jpg",
+        "rating": 4.5,
+        "features": {
+            "Model": "Ryzen 9 7950X",
+            "Clock Speed": "4.5GHz Up to 5.7GHz",
+            "Cache": "30 MB",
+            "CPU Cores": 16,
+            "CPU Threads": 32,
+            "L2 Cache": "16MB",
+            "L3 Cache": "64MB",
+            "Socket": "AM5"
+        },
+        "specification": {
+            "Basic Information": {
+                "Base Frequency": "4.5GHz",
+                "Maximum Turbo Frequency": "Up to 5.7GHz",
+                "Cache": [
+                    "Total L1 Cache: 1MB",
+                    "Total L2 Cache: 16MB",
+                    "Total L3 Cache: 64MB"
+                ],
+                "Cores": 16,
+                "Threads": 32,
+                "Default TDP": "170W",
+                "Supported Technologies": [
+                    "AMD EXPO Technology",
+                    "AMD Ryzen Technologies"
+                ]
+            },
+            "Memory Specifications": {
+                "Max Number of Channels": 2
+            },
+            "Graphics Specifications": {
+                "Processor Graphics": "AMD Radeon Graphics",
+                "Base Frequency": "400 MHz",
+                "Max Dynamic Frequency": "2200 MHz",
+                "Core Count": 2
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "AMD Ryzen 9 7950X Processor",
+                "details": "The AMD Ryzen 9 7950X is a 16-core CPU featuring Zen4 micro-architecture. It reportedly features two Durango CCDs with 16 cores codenamed “Persephone”. The leaker claims that the battle for the top CPUs will be between 7950X’s 5.85 GHz and i9-13900K supposedly boosting up to 5.8 GHz with Thermal Velocity Boost. The sample that was described by “Venom” is not the top bin CPU."
+            },
+            {
+                "title": "Ryzen 7000 Series, the new generation of AMD CPU",
+                "details": "The Ryzen 7000 is AMD's first 5nm x86 CPU for desktop PCs, however, it doesn't have more cores than earlier-generation versions. But with the new Zen 4 microarchitecture, rates may reach 5.7 GHz, an astounding 800 MHz boost over the previous generation, and up to 13% more IPC. As a consequence, single-threaded performance is up 29% compared to the previous-generation CPUs. As for threaded workloads, AMD claims up to 45% greater performance in applications with higher performance requirements."
+            },
+            {
+                "title": "Latest AMD Socket AM5",
+                "details": "It's time for AMD to switch to the brand-new AM5 platform with a new LGA1718 socket because the AM4 platform has been around for more than five years. In contrast to the previous PGA socket, the LGA socket will have pins rather than the CPU itself. Due to the opportunity, it offers for several new technologies, the AM5 platform will be a breath of fresh air. Expect increased overclocking headroom, additional ports, a larger PPT maximum (230W vs. 142W), and more."
+            },
+            {
+                "title": "Support for DDR5 RAM and PCIe 5.0",
+                "details": "It's time to gradually phase out DDR4 in favor of DDR5, which offers the possibility of higher clock rates, lower power consumption, and lower latency. DDR4 opened the way for faster memory with very low latency. All AM5 motherboard versions will support PCIe 5.0. Therefore, PCIe 5.0 compatibility is required whether you purchase an X670 Extreme, X670, or B650. The AMD Ryzen 9 7950X Processor comes with a 03 years warranty (No Warranty for Fan or Cooler)."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of AMD Ryzen 9 7950X Processor in Bangladesh?",
+            "details": "The latest price of AMD Ryzen 9 7950X Processor in Bangladesh is 65,000৳. You can buy the AMD Ryzen 9 7950X Processor at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "techguru@example.com",
+                "review_comment": "Unbelievable performance for the price. AMD nailed it with this one!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user789@example.com",
+                "review_comment": "Great CPU for content creation, but it can be power-hungry.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "processor",
+        "product_name": "AMD Ryzen 9 7900X Processor",
+        "price": 52000,
+        "regular_price": 56420,
+        "status": true,
+        "product_code": "00008",
+        "brand": "AMD",
+        "image_url": "https://i.ibb.co/VCqfjrt/AMD-Ryzen-9-7950-X-Processor.jpg",
+        "rating": 4.2,
+        "features": {
+            "Model": "Ryzen 9 7900X",
+            "Clock Speed": "4.7GHz Up to 5.6GHz",
+            "Cores": 12,
+            "Threads": 24,
+            "L2 Cache": "12MB",
+            "L3 Cache": "64MB",
+            "Socket": "AM5"
+        },
+        "specification": {
+            "Basic Information": {
+                "Base Frequency": "4.7GHz",
+                "Maximum Turbo Frequency": "Up to 5.6GHz",
+                "Cache": [
+                    "Total L1 Cache: 768KB",
+                    "Total L2 Cache: 12MB",
+                    "Total L3 Cache: 64MB"
+                ],
+                "Cores": 12,
+                "Threads": 24,
+                "Default TDP": "170W",
+                "Supported Technologies": [
+                    "AMD EXPO Technology",
+                    "AMD Ryzen Technologies"
+                ]
+            },
+            "Memory Specifications": {
+                "Max Number of Channels": 2
+            },
+            "Graphics Specifications": {
+                "Processor Graphics": "AMD Radeon Graphics",
+                "Base Frequency": "400 MHz",
+                "Max Dynamic Frequency": "2200 MHz",
+                "Core Count": 2
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "AMD Ryzen 9 7900X Processor",
+                "details": "The AMD Ryzen 9 7900X is based on the 5th generation of the AMD Ryzen 9 series, which features 12 cores and 24 threads. The motherboard for the CPU has an AM5 socket. It belongs to the Ryzen 9 family and is compatible with Socket AM5 and the Zen 4 (Raphael) architecture. Simultaneous Multithreading (SMT) from AMD effectively doubles the number of cores to 24 threads. The Ryzen 9 7900X features 64MB of L3 cache and runs at 4.7 GHz by default, but depending on the workload, it can accelerate to 5.6 GHz. AMD is employing 13,140 million transistors and a 5 nm manufacturing technique to create the Ryzen 9 7900X. The TSMC foundry produces the silicon dies for the chip, not AMD. The unlocked multiplier on the Ryzen 9 7900X is fully adjustable, making it much easier to tune in any overclocking frequency."
+            },
+            {
+                "title": "CPU Cores, Base Frequency & Internal Graphics",
+                "details": "In addition to the number of CPU cores and threads, you can see here whether the AMD Ryzen 9 7900X can be overclocked. You will also find the clock frequencies of the processor (single-core and multi-core) here. The number of CPU cores greatly affects the speed of the processor."
+            },
+            {
+                "title": "Memory, PCIe Thermal Management",
+                "details": "The memory type as well as the amount of memory can greatly affect the speed of the processor. The memory bandwidth depends on several factors and is given in gigabytes per second. The Thermal Design Power (TDP for short) specifies the necessary cooling solution to cool the processor sufficiently. The TDP usually only gives a rough idea of the real consumption of a CPU. The AMD Ryzen 9 7900X Processor comes with a 03 years warranty (No Warranty for Fan or Cooler)."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of AMD Ryzen 9 7900X Processor in Bangladesh?",
+            "details": "The latest price of AMD Ryzen 9 7900X Processor in Bangladesh is 52,000৳. You can buy the AMD Ryzen 9 7900X Processor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "techguru@example.com",
+                "review_comment": "Unbelievable performance for the price. AMD nailed it with this one!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user789@example.com",
+                "review_comment": "Great CPU for content creation, but it can be power-hungry.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "processor",
+        "product_name": "AMD Ryzen 9 5950X Processor",
+        "price": 62500,
+        "regular_price": 67600,
+        "status": true,
+        "product_code": "00009",
+        "brand": "AMD",
+        "image_url": "https://i.ibb.co/VCqfjrt/AMD-Ryzen-9-7950-X-Processor.jpg",
+        "rating": 4.7,
+        "features": {
+            "Model": "Ryzen 9 5950X",
+            "Speed": "3.4GHz Up to 4.9GHz",
+            "L2 Cache": "8MB",
+            "L3 Cache": "64MB",
+            "Cores": 16,
+            "Threads": 32,
+            "Memory": "Up to 3200MHz DDR4"
+        },
+        "specification": {
+            "Basic Information": {
+                "Base Frequency": "3.4GHz",
+                "Maximum Turbo Frequency": "Up to 4.9GHz",
+                "Cache": [
+                    "Total L2 Cache: 8MB",
+                    "Total L3 Cache: 64MB"
+                ],
+                "Cores": 16,
+                "Threads": 32,
+                "Default TDP": "105W",
+                "Supported Technologies": [
+                    "AMD 'Zen 3' Core Architecture",
+                    "AMD StoreMI Technology",
+                    "AMD Ryzen Master Utility",
+                    "AMD Ryzen VR-Ready Premium"
+                ]
+            },
+            "Memory Specifications": {
+                "Maximum Speed": "Up to 3200MHz",
+                "Type": "DDR4"
+            },
+            "Graphics Specifications": {
+                "Base Frequency": "3.4GHz"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "AMD Ryzen 9 5950X Processor",
+                "details": "Power up your computing experience with the AMD Ryzen 9 5950X 3.4 GHz 16-Core AM4 Processor, which features 16 cores and 32 threads to help quickly load and multitask demanding applications. Designed for socket AM4 motherboards using the powerful Zen 3 architecture, the 7nm 5th generation Ryzen processor offers significantly improved performance compared to its predecessor. With a base clock speed of 3.4 GHz and a max boost clock speed of 4.9 GHz in addition to 64MB of L3 Cache, the Ryzen 9 5950X is built to deliver the performance needed to smoothly handle tasks ranging from content creation to immersive gaming experiences. Other features include support for PCIe Gen 4 technology and 3200 MHz DDR4 RAM with compatible motherboards. This processor has a 105W TDP (Thermal Design Power) and does not include a cooling solution. Please note that it does not have an integrated GPU, so a dedicated graphics card is required."
+            },
+            {
+                "title": "Precision Boost 2",
+                "details": "AMD Ryzen processors monitor the system's energy consumption, temperatures, and other factors to automatically raise clock speeds, allowing applications to perform faster."
+            },
+            {
+                "title": "Precision Boost Overdrive",
+                "details": "Precision Boost Overdrive technology takes advantage of your compatible motherboard's design to boost clock speeds higher and for longer periods of time. It also allows you overclock the processor at the touch of a button."
+            },
+            {
+                "title": "AMD StoreMI Technology",
+                "details": "AMD StoreMI technology helps to improve load times and overall system performance by combining solid-state drives and mechanical hard drives into a single hybrid storage drive. Frequently used files and programs are cached onto the fast SSD while other files are stored on the high-capacity HDD."
+            },
+            {
+                "title": "AMD Ryzen VR Ready Premium",
+                "details": "Ryzen VR Ready Premium processors are designed to meet or exceed the recommended specifications from the top HMD manufacturers, including Oculus Rift, HTC Vive, and Windows Mixed Reality for smooth performance."
+            },
+            {
+                "title": "Personalized Performance",
+                "details": "The AMD Ryzen Master Utility provides you with multiple custom profiles to store CPU, GPU, and DDR4 memory configurations. Use it to configure performance parameters for the active cores and adjust memory times. You can also optimize general performance or fine-tune your favorite applications."
+            },
+            {
+                "title": "System Monitoring",
+                "details": "Monitor your system in real-time using the AMD Ryzen Master Utility, which features a histogram of per-core clock rates and temperature, including average and peak readings."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of AMD Ryzen 9 5950X Processor in Bangladesh?",
+            "details": "The latest price of AMD Ryzen 9 5950X Processor in Bangladesh is 62,500৳. You can buy the AMD Ryzen 9 5950X Processor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "techguru@example.com",
+                "review_comment": "Incredible performance and a true multitasking powerhouse!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user789@example.com",
+                "review_comment": "The ultimate processor for gaming and content creation. No regrets!",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "processor",
+        "product_name": "AMD Ryzen 9 5900X Processor",
+        "price": 42500,
+        "regular_price": 44550,
+        "status": true,
+        "product_code": "00010",
+        "brand": "AMD",
+        "image_url": "https://i.ibb.co/VCqfjrt/AMD-Ryzen-9-7950-X-Processor.jpg",
+        "rating": 4.8,
+        "features": {
+            "Model": "Ryzen 9 5900X",
+            "Speed": "3.7GHz Up to 4.8GHz",
+            "L2 Cache": "6MB",
+            "L3 Cache": "64MB",
+            "Cores": 12,
+            "Threads": 24,
+            "Memory": "Up to 3200MHz DDR4"
+        },
+        "specification": {
+            "Basic Information": {
+                "Base Frequency": "3.7GHz",
+                "Maximum Turbo Frequency": "Up to 4.8GHz",
+                "Cache": [
+                    "Total L2 Cache: 6MB",
+                    "Total L3 Cache: 64MB"
+                ],
+                "Cores": 12,
+                "Threads": 24,
+                "Default TDP": "105W",
+                "Supported Technologies": [
+                    "AMD 'Zen 3' Core Architecture",
+                    "AMD StoreMI Technology",
+                    "AMD Ryzen Master Utility",
+                    "AMD Ryzen VR-Ready Premium"
+                ]
+            },
+            "Memory Specifications": {
+                "Maximum Speed": "Up to 3200MHz",
+                "Type": "DDR4"
+            },
+            "Graphics Specifications": {
+                "Base Frequency": "3.7GHz"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "AMD Ryzen 9 5900X Processor",
+                "details": "AMD Ryzen 9 5900X Processor is the World’s Best Gaming Processor which is 12 cores to power through gaming, streaming and more. It will provide the Fastest speed in the Game to get the high-speed gaming performance of the world’s best desktop processor. It is featured with Encode faster, Render faster, Iterate faster and Create more, faster with AMD Ryzen processors. Here used AMD 'Zen 3' Core Architecture which is the fastest cores in the world for PC gamers. The AMD StoreMI Technology is the fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor. Here also used AMD Ryzen Master Utility which is the Simple and Powerful Overclocking Utility for AMD Ryzen processors. This latest AMD Ryzen 9 5900X Processor featured with CPU Cores 12, Threads 24, Base Clock 3.7GHz, Max Boost Clock Up to 4.8GHz, Total L2 Cache 6MB, Total L3 Cache 64MB, Unlocked, CMOS, TSMC 7nm FinFET, Package AM4, PCI Express 4.0 Version, Default TDP / TDP 105W, Max Temps 90°C supports Up to 3200MHz DDR4 memory. This processor also comes with AMD Ryzen Master Utility, which is the Simple and Powerful Overclocking Utility for AMD Ryzen processors. The latest AMD Ryzen 9 5900X Processor has 03 years of warranty (No Warranty for Fan or Cooler)."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of AMD Ryzen 9 5900X Processor in Bangladesh?",
+            "details": "The latest price of AMD Ryzen 9 5900X Processor in Bangladesh is 42,500৳. You can buy the AMD Ryzen 9 5900X Processor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "customer1@example.com",
+                "review_comment": "Amazing processor for gaming and productivity tasks.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "customer2@example.com",
+                "review_comment": "Fast and reliable CPU, highly recommended.",
+                "user_rating": 4.8
+            }
+        ]
+    },
+    {
+        "category": "processor",
+        "product_name": "AMD Ryzen 7 7700X Processor",
+        "price": 38000,
+        "regular_price": 41230,
+        "status": true,
+        "product_code": "00011",
+        "brand": "AMD",
+        "image_url": "https://i.ibb.co/VCqfjrt/AMD-Ryzen-9-7950-X-Processor.jpg",
+        "rating": 4.4,
+        "features": {
+            "Model": "Ryzen 7 7700X",
+            "Clock Speed": "4.5GHz Up to 5.4GHz",
+            "Cores": 8,
+            "Threads": 16,
+            "L2 Cache": "8MB",
+            "L3 Cache": "32MB",
+            "Socket": "AM5"
+        },
+        "specification": {
+            "Basic Information": {
+                "Base Frequency": "4.5GHz",
+                "Maximum Turbo Frequency": "Up to 5.4GHz",
+                "Cache": [
+                    "Total L1 Cache: 512KB",
+                    "Total L2 Cache: 8MB",
+                    "Total L3 Cache: 32MB"
+                ],
+                "Cores": 8,
+                "Threads": 16,
+                "Default TDP": "105W",
+                "Supported Technologies": [
+                    "AMD EXPO Technology",
+                    "AMD Ryzen Technologies"
+                ]
+            },
+            "Memory Specifications": {
+                "Max Number of Channels": 2
+            },
+            "Graphics Specifications": {
+                "Processor Graphics": "AMD Radeon Graphics",
+                "Base Frequency": "400 MHz",
+                "Max Dynamic Frequency": "2200 MHz",
+                "Core Count": 2
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "AMD Ryzen 7 7700X Processor",
+                "details": "The AMD Ryzen 7 7700X is based on the 5th generation of the AMD Ryzen 7 series, which features 8 cores and 16 threads. The motherboard for the CPU has an AM5 socket. It belongs to the Ryzen 7 family and is compatible with Socket AM5 and the Zen 4 (Raphael) architecture. AMD Simultaneous Multithreading (SMT) effectively doubles the core count to 16 threads. The Ryzen 7 7700X features 32MB of L3 cache and runs at 4.5 GHz by default, but depending on the workload, it can turbo to 5.4 GHz. AMD is employing 6,570 million transistors and a 5 nm manufacturing node to create the Ryzen 7 7700X. The TSMC foundry produces the silicon dies for the chip, not AMD. The unlocked multiplier on the Ryzen 7 7700X may be adjusted at will, substantially simplifying overclocking since you can select any overclocking frequency."
+            },
+            {
+                "title": "CPU Cores, Base Frequency & Internal Graphics",
+                "details": "The AMD Ryzen 7 7700X has the option to be overclocked in addition to having several CPU cores and threads. Additionally, you may discover here the processor's single-core and multi-core clock frequencies. The processor's speed is significantly influenced by the number of CPU cores. The AMD Ryzen 7 7700X contains integrated graphics, often known as iGPU. Sitting on the processor's die, the iGPU uses the system's main memory as graphics memory. APU is another name for an integrated graphics processor (Accelerated Processing Unit)."
+            },
+            {
+                "title": "Memory, PCIe & Thermal Management",
+                "details": "The amount and kind of memory have a significant impact on the processor's speed. The memory bandwidth, which is measured in gigabytes per second, relies on several variables. The cooling system required to keep the processor cool enough is specified by the Thermal Design Power or TDP. The TDP often only provides a general notion of a CPU's actual usage. The AMD Ryzen 9 7900X Processor comes with a 03 years warranty (No Warranty for Fan or Cooler)."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of AMD Ryzen 7 7700X Processor in Bangladesh?",
+            "details": "The latest price of AMD Ryzen 7 7700X Processor in Bangladesh is 38,000৳. You can buy the AMD Ryzen 7 7700X Processor at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "techguru@example.com",
+                "review_comment": "Impressive performance for the price. Highly recommended!",
+                "user_rating": 4.7
+            },
+            {
+                "user_email": "user789@example.com",
+                "review_comment": "Good value for a mid-range CPU, runs most tasks smoothly.",
+                "user_rating": 4.2
+            }
+        ]
+    }
+]

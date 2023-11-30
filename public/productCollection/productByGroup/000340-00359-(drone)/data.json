@@ -1,0 +1,942 @@
+[
+    {
+        "category": "drone",
+        "product_name": "DJI Matrice 300 RTK Commercial Drone",
+        "price": 799999,
+        "regular_price": 858300,
+        "status": true,
+        "product_code": "00340",
+        "brand": "Dji",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Matrice 300 RTK",
+            "Max Transmission": "15 km",
+            "Max Flight Time": "55 min",
+            "Directional": "6 Directional Sensing & Positioning",
+            "Display": "Primary Flight Display"
+        },
+        "specification": {
+            "Aircraft": {
+                "Weight (Battery & Propellers Included)": [
+                    "Weight (with single downward gimbal)",
+                    "Approx. 3.6 kg (without batteries)",
+                    "Approx. 6.3 kg (with two TB60 batteries)"
+                ],
+                "Diagonal Size (Propellers Excluded)": [
+                    "Unfolded, propellers excluded, 810x670x430 mm (LxWxH)",
+                    "Folded, propellers included, 430x420x430 mm (LxWxH)"
+                ],
+                "Max Ascent Speed": [
+                    "S mode: 6 m/s",
+                    "P mode: 5 m/s"
+                ],
+                "Max Descent Speed": [
+                    "vertical -",
+                    "S mode: 5 m/s",
+                    "P mode: 4 m/s",
+                    "tilt -",
+                    "S Mode: 7 m/s"
+                ],
+                "Max Speed": [
+                    "S mode: 23 m/s",
+                    "P mode: 17 m/s"
+                ],
+                "Max Angular Speed": [
+                    "150°/s (S Mode)",
+                    "130°/s (P Mode)",
+                    "30°/s (C Mode)"
+                ],
+                "Max Service Ceiling Above Sea Level": "5000 m (with 2110 propellers, takeoff weight ≤ 7 kg) / 7000 m (with 2195 propellers, takeoff weight ≤ 7 kg)",
+                "Max Wind Speed Resistance": "15 m/s",
+                "Max Flight Time": "55 min",
+                "Operating Temperature Range": "-20°C to 50°C (-4°F to 122° F)",
+                "Hover Accuracy Range": [
+                    "Vertical:",
+                    "±0.1 m (Vision System enabled)",
+                    "±0.5 m (GPS enabled)",
+                    "±0.1 m (RTK enabled)",
+                    "Horizontal:",
+                    "±0.3 m (Vision System enabled)",
+                    "±1.5 m (GPS enabled)",
+                    "±0.1 m (RTK enabled)"
+                ]
+            },
+            "Gimbal": {
+                "Controllable Range": [
+                    "Forward/Backward/Left/Right: 0.7-40m",
+                    "Upward/Downward: 0.6-30m"
+                ]
+            },
+            "Vision System": {
+                "Obstacle Sensory Range": [
+                    "Forward/Backward/Left/Right: 0.7-40m",
+                    "Upward/Downward: 0.6-30m"
+                ],
+                "FOV": [
+                    "Forward/Backward/Downward: 65° (H), 50° (V)",
+                    "Left/Right/Upward: 75°(H), 60°(V)"
+                ],
+                "Operating Environment": "Surfaces with clear patterns and adequate lighting (> 15 lux)"
+            },
+            "Infrared Sensing System": {
+                "Obstacle Sensory Range": "0.1-8m",
+                "FOV": "30° (±15°)",
+                "Operating Environment": "Large, diffuse and reflective obstacles (reflectivity >10%)"
+            },
+            "Camera": {
+                "Sensor": [
+                    "Resolution 960p",
+                    "FOV 145°",
+                    "Frame rate 30 fps"
+                ],
+                "Lens": "FOV 145°"
+            },
+            "Remote Controller": {
+                "Operating Frequency": [
+                    "2.4000-2.4835 GHz",
+                    "5.725-5.850 GHz"
+                ],
+                "Max Transmission Distance": [
+                    "NCC/FCC: 15 km",
+                    "CE/MIC: 8 km",
+                    "SRRC: 8 km"
+                ],
+                "Operating Temperature Range": "0° to 40°C (32° to 104°F)",
+                "Battery": [
+                    "External battery",
+                    "Name: WB37 Intelligent Battery",
+                    "Capacity: 4920 mAh",
+                    "Voltage: 7.6V",
+                    "Type: LiPo",
+                    "Energy: 37.39Wh",
+                    "Charging time (using BS60 Intelligent Battery Station): 70 minutes (15°C to 45°C); 130 minutes (0°C to 15°C)",
+                    "Built-in battery",
+                    "Type: 18650 lithium ion battery (5000 mAh @ 7.2 V)",
+                    "Charging: Use a USB charger with specification of 12V / 2A",
+                    "Rated power: 17 W",
+                    "Charging time: 2 hours and 15 minutes (Using a USB charger with specification of 12V / 2A)"
+                ],
+                "Transmitter Power (EIRP)": [
+                    "2.4000-2.4835 GHz:",
+                    "29.5 dBm (FCC) 18.5dBm (CE)",
+                    "18.5 dBm (SRRC); 18.5dBm (MIC)",
+                    "5.725-5.850 GHz:",
+                    "28.5 dBm (FCC); 12.5dBm (CE)",
+                    "20.5 dBm (SRRC)"
+                ]
+            },
+            "Intelligent Flight Battery": {
+                "Capacity": "5935 mAh",
+                "Voltage": "52.8 V",
+                "Battery Type": "LiPo 12S",
+                "Energy": "274 Wh",
+                "Net Weight": "Approx. 1.35 kg",
+                "Charging Temperature Range": [
+                    "-4°F to 104°F (-20°C to 40°C)",
+                    "(When the temperature is lower than 5°C, the self-heating function will be automatically enabled. Charging in a low temperature may shorten the lifetime of the battery)"
+                ]
+            },
+            "Warranty": {
+                "Warranty": "No Warranty"
+            },
+            "description": [
+                {
+                    "title": "DJI Matrice 300 RTK Commercial Drone",
+                    "details": "Matrice 300 RTK is one of the smart and stronger drone of DJI. The drone has some special features like 15 km Max Transmission, 55-min Max Flight Time, 6 Directional Sensing & Positioning, Primary Flight Display, IP45 Rating, -20°C to 50°C Operating Temperature, Hot-swappable Battery, UAV Health Management System and many more. Checkout the key focused features and details below."
+                },
+                {
+                    "title": "Improved Transmission System",
+                    "details": "DJI Matrice 300 RTK has The all-new OcuSync Enterprise enables transmission up to 15 km away and supports triple-channel3 1080p video. Real-time auto-switching between 2.4 GHz and 5.8 GHz4 enables more reliable flight near high-interference environments, while AES-256 encryption offers secure data transmission."
+                },
+                {
+                    "title": "Enhanced Flight Performance",
+                    "details": "The refined airframe and propulsion system design gives you a more efficient and stable flight, even in harsh conditions."
+                },
+                {
+                    "title": "Multiple Payload Configurations",
+                    "details": "Configure your M300 RTK to fit your mission needs. Mount up to 3 payloads simultaneously, with a maximum payload capacity of 2.7 kg."
+                },
+                {
+                    "title": "Live Mission Recording",
+                    "details": "Record mission actions such as aircraft movement, gimbal orientation, photo shooting, and zoom level to create sample mission files for future automated inspections."
+                },
+                {
+                    "title": "AI Spot-Check7",
+                    "details": "Automate routine inspections and capture consistent results every time. Onboard AI recognizes the subject of interest and identifies it in subsequent automated missions to ensure consistent framing."
+                },
+                {
+                    "title": "Waypoints 2.",
+                    "details": "Create up to 65,535 waypoints and set multiple actions for one or more payloads, including 3rd party ones, at each waypoint. Flightpath planning is also optimized to maximize flexibility and efficiency for your missions."
+                },
+                {
+                    "title": "PinPoint",
+                    "details": "Mark an object in camera or map view with a quick tap, and advanced sensor fusion algorithms will immediately calculate its coordinates, which are projected to all camera views as an AR icon. The location of the subject is automatically shared with another remote controller, or to online platforms such as DJI FlightHub9."
+                },
+                {
+                    "title": "Smart Track",
+                    "details": "Identify and follow moving subjects like people, vehicles, and boats with the Smart Track function, where auto-zoom is applied for steady tracking and viewing. The subjectâ€™s dynamic location is continuously acquired and shared to another remote controller or to DJI FlightHub9."
+                },
+                {
+                    "title": "Aviation-Grade Situational Awareness",
+                    "details": "The M300 RTK adopts a new Primary Flight Display (PFD) that integrates flight, navigation, and obstacle information to empower the pilot with exceptional situational awareness."
+                },
+                {
+                    "title": "Advanced Dual Control",
+                    "details": "Either operator can now obtain control of the aircraft or payload with a single tap. This creates new possibilities for mission strategies as well as higher flexibility during operations."
+                },
+                {
+                    "title": "A Powerful Vision System You Can Rely On",
+                    "details": "To enhance in-flight safety and aircraft stability, dual-vision and ToF sensors appear on all six sides of the aircraft, offering a maximum detection range of up to 40 m, with options to customize the aircraftâ€™s sensing behavior via the DJI Pilot App. Even in complex operating environments, this 6 Directional Sensing and Positioning system helps keep the aircraft and the mission safe."
+                },
+                {
+                    "title": "Professional Maintenance for Your Drone Fleet",
+                    "details": "The new integrated Health Management System displays the current status of all systems, notification logs, and a preliminary troubleshooting guide. Also in the system are the aircraftâ€™s flight logs, duration, and mileage throughout its entire lifecycle, and tips on aircraft care and maintenance."
+                },
+                {
+                    "title": "Restrictions:",
+                    "details": "To fly a Drone, you may need to get Government Authorized Certificate for your area or any other place. Star Gadget will not provide a refund or be involved in any other actions regarding Drone Flying Restrictions.\n\nFor a Drone purchase, you need to submit your national identity card or passport copy and valid mobile number (which is registered with the same national identity card) to our sales center or via mail."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of DJI Matrice 300 RTK in Bangladesh?",
+                "details": "The latest price of DJI Matrice 300 RTK in Bangladesh is 799,999৳. You can buy the DJI Matrice 300 RTK at best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "user1@example.com",
+                    "review_comment": "Incredible drone with impressive features and performance.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user2@example.com",
+                    "review_comment": "Great for professional use, highly recommended.",
+                    "user_rating": 4
+                }
+            ]
+        }
+    },
+    {
+        "category": "drone",
+        "product_name": "DJI Mavic 2 Enterprise Dual Edition Drone",
+        "price": 554723,
+        "regular_price": 610195,
+        "status": true,
+        "product_code": "00341",
+        "brand": "Dji",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Mavic 2 Enterprise Dual",
+            "Thermal Sensor": "Uncooled VOx Microbolometer Thermal Sensor",
+            "Video recording": "640x360 @8.7fps",
+            "CMOS Sensor": "1/2.3\" CMOS; Effective pixels: 12M",
+            "Aperture": "f/2.8; Focus: 0.5 m to ∞"
+        },
+        "specification": {
+            "Aircraft": {
+                "Weight (Battery & Propellers Included)": [
+                    "Takeoff Weight(Without Accessories):",
+                    "Zoom Edition: 905 g",
+                    "Max Takeoff Weight: 1100 g",
+                    "Net Weight: 297 g"
+                ],
+                "Diagonal Size (Propellers Excluded)": [
+                    "Diagonal Length: 354 mm",
+                    "Folded: 214x91x84 mm",
+                    "Unfolded: 322x242x84 mm",
+                    "Unfolded+Spotlight: 322x242x114 mm",
+                    "Unfolded+Beacon: 322x242x101 mm",
+                    "Unfolded+Speaker: 322x242x140 mm"
+                ],
+                "Max Ascent Speed": [
+                    "5 m/s (S-mode[1])",
+                    "4 m/s (P-mode)",
+                    "4 m/s (S-mode with accessories[1])",
+                    "4 m/s (P-mode with accessories)"
+                ],
+                "Max Descent Speed": [
+                    "3 m/s (S-mode[1])",
+                    "3 m/s (P-mode)"
+                ],
+                "Max Speed": [
+                    "Max Wind Speed Resistance: 29-38kph",
+                    "Max Flight Time (no wind): 31 min (at a consistent speed of 25kph)",
+                    "Max Speed (near sea level, no wind): 72kph (S-mode, without wind), 50kph (P-mode, without wind)"
+                ],
+                "Max Tilt Angle": [
+                    "35° (S-mode, with remote controller)",
+                    "25° (P-mode)"
+                ],
+                "Max Angular Speed": [
+                    "200°/s (S-Mode) ",
+                    "100°/s (P-Mode) 200°/s (S-Mode) ",
+                    "100°/s (P-Mode) "
+                ],
+                "Max Service Ceiling Above Sea Level": "6000 m",
+                "Max Wind Speed Resistance": "29-38 kph",
+                "Max Flight Time": "31 min (at a consistent speed of 25 kph)",
+                "Operating Temperature Range": "-10° to 40° C",
+                "Hover Accuracy Range": [
+                    "Vertical:",
+                    "±0.1 m (with Vision Positioning)",
+                    "±0.5 m (with GPS Positioning)",
+                    "Horizontal:",
+                    "±0.3m (with Vision Positioning)",
+                    "±1.5 m (with GPS Positioning)"
+                ],
+                "Others": [
+                    "Lens: HFOV: 57°",
+                    "Aperture: f/2.8(24mm)",
+                    "Pixel Pitch: 12 μm",
+                    "Spectral Band: 8-14 μm",
+                    "Image Size [2]: 640x480 (4:3);",
+                    "640x360 (16:9)",
+                    "Still Photography Modes: Single shot",
+                    "Burst shooting: 3/5/7 frames",
+                    "Video Recording Modes: 640x360 @8.7fps",
+                    "Accuracy: High Gain: Max ±5% (typical)",
+                    "Low Gain: Max ±10% (typical)",
+                    "Scene Range High Gain: -10° to +140°C",
+                    "Low Gain: -10°to +400°C",
+                    "Photo: JPEG",
+                    "Video: MP4, MOV (MPEG-4 AVC/H.264)",
+                    "ISO Range:",
+                    "Video: ",
+                    "100-3200",
+                    "Photo: ",
+                    "100-1600(Auto)",
+                    "100-12800(Manual)",
+                    "Shutter Speed: 8-1/8000s",
+                    "Still Image Size: 4000x3000",
+                    "Still Photography Modes: Single shot",
+                    "Burst shooting: 3/5/7 frames",
+                    "Auto Exposure Bracketing (AEB): 3/5 bracketed frames at 0.7 EV Bias",
+                    "Interval (JPEG: 2/3/5/7/10/15/20/30/60s RAW:5/7/10/15/20/30/60s)",
+                    "Video Resolution: 4K: 3840x2160 24/25/30p",
+                    "2.7K: 2720x1530 24/25/30/48/50/60p",
+                    "FHD: 1920x1080 24/25/30/48/50/60/120p",
+                    "Max Video Bitrate: 100 Mbps",
+                    "Supported File System: FAT32(≤ 32 GB ); exFAT(> 32 GB)",
+                    "Photo Format: JPEG, DNG (RAW)",
+                    "Video Format: MP4 / MOV (MPEG-4 AVC/H.264)",
+                    "Operating Frequency: 2.400 - 2.4835 GHz",
+                    "5.725 - 5.850 GHz",
+                    "Transmission Power (EIRP): 2.400 - 2.4835 GHz",
+                    "FCC: ≤26 dBm",
+                    "CE: ≤20 dBm",
+                    "SRRC: ≤20 dBm",
+                    "MIC: ≤20 dBm5.725-5.850 GHz",
+                    "FCC: ≤26 dBm",
+                    "CE: ≤14 dBm",
+                    "SRRC: ≤26 dBm",
+                    "Internal Storage: 24 GB"
+                ]
+            },
+            "Gimbal": {
+                "Stabilization": "3-axis (tilt, roll, pan)",
+                "Controllable Range": [
+                    "Tilt: -90 - +30°",
+                    "Pan: -75 - +75°"
+                ],
+                "Angular Vibration Range": "±0.005°",
+                "Others": [
+                    "Mechanical Range:",
+                    "Tilt: -135 - +45°",
+                    "Pan: -100 - +100°",
+                    "Max Control Speed (tilt): 120°/s"
+                ]
+            },
+            "Camera": {
+                "Sensor": [
+                    "Uncooled VOx Microbolometer",
+                    "1/2.3” CMOS; ",
+                    "Effective pixels:12 Megapixels"
+                ],
+                "Lens": [
+                    "HFOV: 57°",
+                    "Aperture: f/2.8"
+                ],
+                "ISO Range": [
+                    "Video: ",
+                    "100-3200",
+                    "Photo: ",
+                    "100-1600(Auto)",
+                    "100-12800(Manual)"
+                ],
+                "Mechanical Shutter Speed": "8-1/8000s",
+                "Image Size": [
+                    "Image Size [2]: 640x480 (4:3);",
+                    "640x360 (16:9)",
+                    "Still Image Size: 4000x3000",
+                    "Max Image Size: 4056x3040 (4:3) ; 4056x2280 (16:9)"
+                ],
+                "Still Photography Modes": [
+                    "Single shot",
+                    "Burst shooting: 3/5/7 frames",
+                    "Interval (2/3/5/7/10/15/20/30/60 s)"
+                ],
+                "Video Recording Modes": [
+                    "4K Ultra HD: 3840x2160 30p",
+                    "2.7K: 2688x1512 30p",
+                    "FHD: 1920x1080 30p"
+                ],
+                "Max Video Bitrate": "100 Mbps",
+                "Supported File Systems": "FAT32(≤ 32 GB ); exFAT(> 32 GB)",
+                "Photo": "JPEG, DNG (RAW)",
+                "Video": [
+                    "Resolution-",
+                    "4K: 3840x2160 24/25/30p",
+                    "2.7K: 2720x1530 24/25/30/48/50/60p",
+                    "FHD: 1920x1080 24/25/30/48/50/60/120p"
+                ],
+                "Supported SD Cards": [
+                    "Micro SD™",
+                    "Supports a microSD with capacity of up to 128 GB. A UHS-I Speed Grade 3 rating microSD card is required."
+                ]
+            },
+            "Remote Controller": {
+                "Operating Frequency": "2.400 - 2.483 GHz; 5.725 - 5.850 GHz",
+                "Max Transmission Distance": [
+                    "2.400 - 2.483 GHz; 5.725 - 5.850 GHz",
+                    "FCC: 10000 m",
+                    "CE: 6000 m",
+                    "SRRC: 6000 m",
+                    "MIC: 6000 m"
+                ],
+                "Operating Temperature Range": "0℃ to 40℃",
+                "Battery": "3950mAh",
+                "Transmitter Power (EIRP)": [
+                    "2.4 - 2.4835 GHz",
+                    "FCC: ≤26 dBm;CE: ≤20 dBm;SRRC: ≤20 dBm MIC: ≤20 dBm",
+                    "5.725 - 5.850 GHz",
+                    "FCC: ≤26 dBm;CE: ≤14 dBm;SRRC: ≤26 dBm"
+                ],
+                "Operating Current/Voltage": "1800mA ⎓ 3.83V",
+                "Others": [
+                    "Mobile Device Holder: Thickness Supported: 6.5-8.5 mm, Max length: 160 mm",
+                    "RC Size: Folded:  145x80x48 mm (LxWxH)",
+                    "Unfolded: 190x115x100 mm (LxWxH)",
+                    "Supported USB port types: Lightning, Micro USB (Type-B), USB Type-C™",
+                    "Charging Time: 2 hours 15 min"
+                ]
+            },
+            "Charger": {
+                "Voltage": "17.6±0.1V",
+                "Rated Power": "60W",
+                "Others": [
+                    "Input: 100-240V,  50-60Hz,  1.8A",
+                    "Output: Main: 17.6V ⎓ 3.41A or 17.0V⎓3.53",
+                    "USB: 5 V ⎓ 2 A"
+                ]
+            },
+            "Intelligent Flight Battery": {
+                "Capacity": "3850 mAh",
+                "Voltage": [
+                    "Voltage: 15.4V",
+                    "Charging Voltage Limit: 17.6V"
+                ],
+                "Battery Type": "LiPo",
+                "Energy": "59.29 Wh",
+                "Net Weight": "297g",
+                "Charging Temperature Range": "5℃ - 40℃",
+                "Max Charging Power": "80W"
+            },
+            "App / Live View": {
+                "Mobile App": "DJI PILOT",
+                "Live View Quality": [
+                    "Remote Controller:",
+                    "720p@30fps / 1080p@30fps"
+                ],
+                "Latency": "120 - 130 ms"
+            },
+            "Warranty": "No Warranty",
+            "description": [
+                {
+                    "title": "DJI Mavic 2 Enterprise Drone",
+                    "details": "The DJI Mavic 2 Enterprise Dual is ideal for a Business start-up Drone, this versatile quad-copter packs a lot of features that can be utilized across various sectors thanks to an additional set of accessories that are carried over from the DJI Mavic 2 Enterprise. The DJI Mavic 2 Enterprise Dual includes a dual camera that houses two lenses - standard visual (zoom) and FLIR (Forward Looking Infra-Red) - speaker, floodlight, and beacon. The drone itself features the standard DJI Mavic style fold-out arms which provide a quicker setup time and deployment, within minutes if the situation requires. Some examples of sectors that this drone would be used for are; SAR (Search and Rescue), Emergency Services (Police, Fire, Coastguard), Commercial, Private and Industrial Inspections (visual and thermal), Restricted Area Control, Film production, aerial photography and many more."
+                },
+                {
+                    "title": "Mode Elements",
+                    "details": "Some of the features include the advanced obstacle avoidance system reduces the risk of accidental contact with other objects improving the safety of each flight, Data Security, GPS timestamping, DJI AirSense, Ocusync 2.0 to name a few. A great feature that DJI has put some thought into is the inclusion of a Discreet Mode, this allows you to turn off the LEDs when performing a night mission to ensure you are not being obtrusive to anyone during your flight."
+                },
+                {
+                    "title": "Perfect for Easy transport",
+                    "details": "The DJI Mavic 2 Enterprise Dual blazes the trail for Commercial Drone Businesses wanting to access multiple sectors. In the ever-growing drone market, trying to choose the right drone for your business can almost certainly leave you confused, lost and drowning in a mass of information. This drone may be small when compared to others on the market, but don\"t let that put you off as this little terrier of the sky has a bite bigger than its bark! Being a smaller drone though does have its advantages: compact and easy to store therefore saving space, easily carried/transported to remote areas without the use of vehicles, fit and access small spaces and tight spots, can be operated from small take-off/landing areas."
+                },
+                {
+                    "title": "Powerful and Portable thermal Imaging",
+                    "details": "Mavic 2 Enterprise Dual Drone features a three-axis gimbal stabilized camera housing a side-by-side 4K sensor for capturing visible light and a FLIR imaging sensor for capturing thermal data. Together these sensors allow pilots to perform flights at night, as well as fly in complex daytime conditions like fog and smoke. Users can select from multiple intelligent display modes in the DJI Pilot flight control app to visualize data from the dual-sensor camera: FLIR MSX - A new feature that combines data from the visual and thermal cameras in real time to enhance visual details, helping pilots quickly identify and interpret critical data that may not be immediately visible to the naked eye. This Drone has features like Spot Meter - Displays the average temperature of an object, helping pilots monitor and measure critical or hazardous objects while maintaining a safe distance. Area Measurement - Displays the average, lowest, and highest temperature, as well as the corresponding locations of each area, allowing inspectors to quickly assess objects and determine if an asset may be overheating. Isotherm - Allows pilots to designate specific temperature ranges to be displayed using a custom color palette so objects within the range relay higher contrast and better visibility. This feature includes custom profiles to aid search and rescue pilots in identifying people and to help firefighters identify hot spots in fires, as well as a custom profile setting for added flexibility."
+                },
+                {
+                    "title": "Refined Imaging And Enhanced Vision",
+                    "details": "The imaging system has been developed with two goals in mind; assisting pilots in close-range missions; and ensuring captured data is more relevant and trusted than ever. DJI Mavic 2 Enterprise Dual Edition Drone is launched with a purpose of enhanced image visibility on all your captured data, Isotherm helps you get accurate heat measurements on a variety of objects and scenarios. You can Visualize scenarios in real time, monitor and measure objects on site more safely and efficiently so you can make the most informed decisions. Enhance image visibility for on-the ground team missions, Enhance image visibility for improved situational awareness and Create predefined isotherm setting."
+                },
+                {
+                    "title": "Safety Features",
+                    "details": "DJI Mavic 2 Enterprise Dual Edition Drone comes with Shield Basic properties that include: User/Pilot Error, Signal Interference, Collision, Water Damage and Drop Damage."
+                },
+                {
+                    "title": "Emergency response",
+                    "details": "The DJI Mavic 2 Enterprise Dual Edition Drone has the ability to go from packed away to in the air in mere minutes during emergency situations, making response times more effective. Using the Mavic 2 Enterprise is a cost-effective alternative to traditional helicopters and can help respond tactically to unexpected missions. Collect the necessary situational data to help minimize unforeseen dangers to crew and their surroundings, allowing for a safer mission."
+                },
+                {
+                    "title": "DJI Smart Controller",
+                    "details": "The Mavic Duals smart controller was built for aircrafts with OcuSync 2.0 and made to enhance your outdoor flying experience with its ultra-bright 5.5-inch 1080p display. Allowing for clear visibility and brighter images even in less than desirable conditions like direct sunlight. It boasts intuitive controls and pre-installed apps like SkyTalk and DJI Go helping you get in the air more quickly than ever before. Third-party apps are also supported, so drone pilots have a complete choice when it comes to operational controls. The smart controller lets you connect to a HDMI port and microSD card slot, and operates at 1000 cd/m2 brightness."
+                },
+                {
+                    "title": "Standard Remote Controller",
+                    "details": "The Mavic dual\"s standard remote controller boasts 135 minutes of battery life when fully charged - leaving you plenty of time to capture what you need in the field. It is also built with an ergonomic design that allows for easy storage with its foldable body and detachable sticks. This design works exceptionally well with smartphones and gives an enhanced operational experience to use the DJI Mavic 2 Enterprise Dual Edition Drone."
+                },
+                {
+                    "title": "Buy DJI Mavic 2 Enterprise Dual Edition Drone from Star Gadget",
+                    "details": "In Bangladesh, you can get original DJI Mavic 2 Enterprise Dual Edition Drone From Star Gadget. We have a large collection of the latest DJI drones to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The DJI Mavic 2 Enterprise Dual Edition Drone has no warranty."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of DJI Mavic 2 Enterprise Dual Edition Drone in Bangladesh?",
+                "details": "The latest price of DJI Mavic 2 Enterprise Dual Edition Drone in Bangladesh is 554,723৳. You can buy the DJI Mavic 2 Enterprise Dual Edition Drone at best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "example@example.com",
+                    "review_comment": "Great drone for various sectors.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user2@example.com",
+                    "review_comment": "Excellent thermal imaging capabilities.",
+                    "user_rating": 4
+                }
+            ]
+        }
+    },
+    {
+        "category": "drone",
+        "product_name": "DJI Mavic 2 Enterprise Zoom Edition Drone",
+        "price": 554723,
+        "regular_price": 610197,
+        "status": true,
+        "product_code": "00342",
+        "brand": "Dji",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Mavic 2 Enterprise Zoom",
+            "Video recording": "640x360 @8.7fps Video recording",
+            "CMOS Sensor": "1/2.3\" CMOS; Effective pixels: 12M",
+            "Aperture": "f/2.8(24mm)-f/3.8(48mm)",
+            "Focus": "0.5 m to ∞"
+        },
+        "specification": {
+            "Aircraft": {
+                "Weight (Battery & Propellers Included)": [
+                    "Takeoff Weight(Without Accessories):",
+                    "Dual Edition: 899 g",
+                    "Max Takeoff Weight: 1100 g",
+                    "Net Weight: 297 g"
+                ],
+                "Diagonal Size (Propellers Excluded)": [
+                    "Diagonal Length: 354 mm",
+                    "Folded: 214x91x84 mm",
+                    "Unfolded: 322x242x84 mm",
+                    "Unfolded+Spotlight: 322x242x114 mm",
+                    "Unfolded+Beacon: 322x242x101 mm",
+                    "Unfolded+Speaker: 322x242x140 mm"
+                ],
+                "Max Ascent Speed": [
+                    "5 m/s (S-mode[1])",
+                    "4 m/s (P-mode)",
+                    "4 m/s (S-mode with accessories[1])",
+                    "4 m/s (P-mode with accessories)"
+                ],
+                "Max Descent Speed": [
+                    "3 m/s (S-mode[1])",
+                    "3 m/s (P-mode)"
+                ],
+                "Max Speed": [
+                    "Max Wind Speed Resistance: 29-38kph",
+                    "Max Flight Time (no wind): 31 min (at a consistent speed of 25kph)",
+                    "Max Speed (near sea level, no wind): 72kph (S-mode, without wind), 50kph (P-mode, without wind)"
+                ],
+                "Max Tilt Angle": [
+                    "35° (S-mode, with remote controller)",
+                    "25° (P-mode)"
+                ],
+                "Max Angular Speed": [
+                    "200°/s (S-Mode) ",
+                    "100°/s (P-Mode) 200°/s (S-Mode) ",
+                    "100°/s (P-Mode) "
+                ],
+                "Max Service Ceiling Above Sea Level": "6000 m",
+                "Max Wind Speed Resistance": "29-38 kph",
+                "Max Flight Time": "31 min (at a consistent speed of 25 kph)",
+                "Operating Temperature Range": "-10° to 40° C",
+                "Hover Accuracy Range": [
+                    "Vertical:",
+                    "±0.1 m (with Vision Positioning)",
+                    "±0.5 m (with GPS Positioning)",
+                    "Horizontal:",
+                    "±0.3m (with Vision Positioning)",
+                    "±1.5 m (with GPS Positioning)"
+                ],
+                "Others": [
+                    "Lens: HFOV: 57°",
+                    "Aperture: f/1.1",
+                    "Sensor Resolution: 160x120",
+                    "Pixel Pitch: 12 μm",
+                    "Spectral Band: 8-14 μm",
+                    "Image Size [2]: 640x480 (4:3);",
+                    "640x360 (16:9)",
+                    "Still Photography Modes: Single shot",
+                    "Burst shooting: 3/5/7 frames",
+                    "Video Recording Modes: 640x360 @8.7fps",
+                    "Accuracy: High Gain: Max ±5% (typical)",
+                    "Low Gain: Max ±10% (typical)",
+                    "Scene Range High Gain: -10° to +140°C",
+                    "Low Gain: -10°to +400°C",
+                    "Photo: JPEG",
+                    "Video: MP4, MOV (MPEG-4 AVC/H.264)",
+                    "ISO Range:",
+                    "Video: ",
+                    "100-3200",
+                    "Photo: ",
+                    "100-1600(Auto)",
+                    "100-12800(Manual)",
+                    "Shutter Speed: 8-1/8000s",
+                    "Still Image Size: 4000x3000",
+                    "Still Photography Modes: Single shot",
+                    "Burst shooting: 3/5/7 frames",
+                    "Auto Exposure Bracketing (AEB): 3/5 bracketed frames at 0.7 EV Bias",
+                    "Interval (JPEG: 2/3/5/7/10/15/20/30/60s RAW:5/7/10/15/20/30/60s)",
+                    "Video Resolution: 4K: 3840x2160 24/25/30p",
+                    "2.7K: 2720x1530 24/25/30/48/50/60p",
+                    "FHD: 1920x1080 24/25/30/48/50/60/120p",
+                    "Max Video Bitrate: 100 Mbps",
+                    "Supported File System: FAT32(≤ 32 GB ); exFAT(> 32 GB)",
+                    "Photo Format: JPEG, DNG (RAW)",
+                    "Video Format: MP4 / MOV (MPEG-4 AVC/H.264)",
+                    "Operating Frequency: 2.400 - 2.4835 GHz",
+                    "5.725 - 5.850 GHz",
+                    "Transmission Power (EIRP): 2.400 - 2.4835 GHz",
+                    "FCC: ≤26 dBm",
+                    "CE: ≤20 dBm",
+                    "SRRC: ≤20 dBm",
+                    "MIC: ≤20 dBm5.725-5.850 GHz",
+                    "FCC: ≤26 dBm",
+                    "CE: ≤14 dBm",
+                    "SRRC: ≤26 dBm",
+                    "Internal Storage: 24 GB"
+                ]
+            },
+            "Gimbal": {
+                "Stabilization": "3-axis (tilt, roll, pan)",
+                "Controllable Range": [
+                    "Tilt: -90 - +30°",
+                    "Pan: -75 - +75°"
+                ],
+                "Angular Vibration Range": "±0.005°",
+                "Others": [
+                    "Mechanical Range:",
+                    "Tilt: -135 - +45°",
+                    "Pan: -100 - +100°",
+                    "Max Control Speed (tilt): 120°/s"
+                ]
+            },
+            "Camera": {
+                "Sensor": [
+                    "Uncooled VOx Microbolometer",
+                    "1/2.3” CMOS; ",
+                    "Effective pixels:12 Megapixels"
+                ],
+                "Lens": [
+                    "HFOV: 57°",
+                    "Aperture: f/1.1"
+                ],
+                "ISO Range": [
+                    "Video: ",
+                    "100-3200",
+                    "Photo: ",
+                    "100-1600(Auto)",
+                    "100-12800(Manual)"
+                ],
+                "Mechanical Shutter Speed": "8-1/8000s",
+                "Image Size": [
+                    "Image Size [2]: 640x480 (4:3);",
+                    "640x360 (16:9)",
+                    "Still Image Size: 4000x3000",
+                    "Max Image Size: 4056x3040 (4:3) ; 4056x2280 (16:9)"
+                ],
+                "Still Photography Modes": [
+                    "Single shot",
+                    "Burst shooting: 3/5/7 frames",
+                    "Interval (2/3/5/7/10/15/20/30/60 s)"
+                ],
+                "Video Recording Modes": [
+                    "4K Ultra HD: 3840x2160 30p",
+                    "2.7K: 2688x1512 30p",
+                    "FHD: 1920x1080 30p"
+                ],
+                "Max Video Bitrate": "100 Mbps",
+                "Supported File Systems": "FAT32(≤ 32 GB ); exFAT(> 32 GB)",
+                "Photo": "JPEG, DNG (RAW)",
+                "Video": [
+                    "Resolution-",
+                    "4K: 3840x2160 24/25/30p",
+                    "2.7K: 2720x1530 24/25/30/48/50/60p",
+                    "FHD: 1920x1080 24/25/30/48/50/60/120p"
+                ],
+                "Supported SD Cards": [
+                    "Micro SD™",
+                    "Supports a microSD with capacity of up to 128 GB. A UHS-I Speed Grade 3 rating microSD card is required."
+                ]
+            },
+            "Remote Controller": {
+                "Operating Frequency": "2.400 - 2.483 GHz; 5.725 - 5.850 GHz",
+                "Max Transmission Distance": [
+                    "2.400 - 2.483 GHz; 5.725 - 5.850 GHz",
+                    "FCC: 10000 m",
+                    "CE: 6000 m",
+                    "SRRC: 6000 m",
+                    "MIC: 6000 m"
+                ],
+                "Operating Temperature Range": "0℃ to 40℃",
+                "Battery": "3950mAh",
+                "Transmitter Power (EIRP)": [
+                    "2.4 - 2.4835 GHz",
+                    "FCC: ≤26 dBm;CE: ≤20 dBm;SRRC: ≤20 dBm MIC: ≤20 dBm",
+                    "5.725 - 5.850 GHz",
+                    "FCC: ≤26 dBm;CE: ≤14 dBm;SRRC: ≤26 dBm"
+                ],
+                "Operating Current/Voltage": "1800mA ⎓ 3.83V",
+                "Others": [
+                    "Mobile Device Holder: Thickness Supported: 6.5-8.5 mm, Max length: 160 mm",
+                    "RC Size: Folded:  145x80x48 mm (LxWxH)",
+                    "Unfolded: 190x115x100 mm (LxWxH)",
+                    "Supported USB port types: Lightning, Micro USB (Type-B), USB Type-C™",
+                    "Charging Time: 2 hours 15 min"
+                ]
+            },
+            "Charger": {
+                "Voltage": "17.6±0.1V",
+                "Rated Power": "60W",
+                "Others": [
+                    "Input: 100-240V,  50-60Hz,  1.8A",
+                    "Output: Main: 17.6V ⎓ 3.41A or 17.0V⎓3.53",
+                    "USB: 5 V ⎓ 2 A"
+                ]
+            },
+            "Intelligent Flight Battery": {
+                "Capacity": "3850 mAh",
+                "Voltage": [
+                    "Voltage: 15.4V",
+                    "Charging Voltage Limit: 17.6V"
+                ],
+                "Battery Type": "LiPo",
+                "Energy": "59.29 Wh",
+                "Net Weight": "297g",
+                "Charging Temperature Range": "5℃ - 40℃",
+                "Max Charging Power": "80W"
+            },
+            "App / Live View": {
+                "Mobile App": "DJI PILOT",
+                "Live View Quality": [
+                    "Remote Controller:",
+                    "720p@30fps / 1080p@30fps"
+                ],
+                "Latency": "120 - 130 ms"
+            },
+            "Warranty": "No Warranty",
+            "description": [
+                {
+                    "title": "DJI Mavic 2 Enterprise Drone",
+                    "details": "The DJI Mavic 2 Enterprise is a foldable, portable, long-range flying camera and accessory system that adapts well to uses by first responders and businesses that routinely inspect hard-to-reach assets. This affordable quadcopter has a 2x optical and 3x digital camera, allowing a broader view or a close-up look at developing situations or infrastructure. The camera shoots sharp 12 MP stills and vibration-free 4K ultra-high-definition video. It transmits live video over its full 4.97-mile range in 1080p high definition. It stays aloft for up to half an hour. Hover safely over wildfires or urban infernos. Perform search-and-rescue operations over limited-access terrain or bodies of water. Broadcast warnings or directions using the easily mounted loudspeaker. Record at night with Snap-on flood lamps. Observe suspects or track escapees. Get close to cell towers, high-tension lines, bridges and high-rise buildings without compromising worker safety. Examine storm-damaged roofs from the ground."
+                },
+                {
+                    "title": "Mavic Lens with Zoom",
+                    "details": "The Mavic 2 Enterprise camera has an optical zoom lens with two focal lengths—24 and 48mm in 35mm equivalent. Zoom capabilities mean personnel get a closer look without taking on added risk. The Mavic 2 Enterprise camera has 2x optical magnification. Give the command through the DJI Go 4 flight program, and the focal length of the lens changes instantly. Bring objects visually closer—ideal for police surveillance, fire observation or industrial inspections. The camera also has a 3x digital zoom with minimal loss of sharpness."
+                },
+                {
+                    "title": "Perfect for Easy transport",
+                    "details": "The DJI Mavic 2 Enterprise Zoom blazes the trail for Commercial Drone Businesses wanting to access multiple sectors. In the ever-growing drone market, trying to choose the right drone for your business can almost certainly leave you confused, lost and drowning in a mass of information. This drone may be small when compared to others on the market, but don\"t let that put you off as this little terrier of the sky has a bite bigger than its bark! Being a smaller drone though does have its advantages: compact and easy to store therefore saving space, easily carried/transported to remote areas without the use of vehicles, fit and access small spaces and tight spots, can be operated from small take-off/landing areas."
+                },
+                {
+                    "title": "Intelligent Flight Battery",
+                    "details": "Each Intelligent Flight Battery can power the DJI Mavic 2 Enterprise for up to a half-hour maximum flight time. Using the included accessories slightly reduces flight time. The batteries self-heat from about 43 degrees Fahrenheit down to 14 F. Heating also can be switched manually with the remote controller. The batteries protect themselves from harmful power levels when stored. Mavic 2 batteries are interchangeable with those of the Mavic 2 Zoom and Mavic 2 Pro. The included Mavic 2 charger and available charging hub will charge the batteries of any Mavic 2 model. A full charge takes about an hour. A hub will charge up to four batteries in sequence, starting with the battery that has the highest reserve, then automatically moving on to the next highest."
+                },
+                {
+                    "title": "Refined Imaging And Enhanced Vision",
+                    "details": "The imaging system has been developed with two goals in mind; assisting pilots in close-range missions; and ensuring captured data is more relevant and trusted than ever. DJI Mavic 2 Enterprise Zoom Edition Drone is launched with a purpose of enhanced image visibility on all your captured data, zoom features helps you get accurate measurements on a variety of objects and scenarios. You can Visualize scenarios in real time, monitor and measure objects on site more safely and efficiently so you can make the most informed decisions. Enhance image visibility for on-the ground team missions, Enhance image visibility for improved situational awareness and Create predefined setting."
+                },
+                {
+                    "title": "Safety Features",
+                    "details": "DJI Mavic 2 Enterprise Zoom Edition Drone comes with Shield Basic properties that include: User/Pilot Error, Signal Interference, Collision, Water Damage and Drop Damage."
+                },
+                {
+                    "title": "Dynamic Zoom",
+                    "details": "The imaging system has been developed with two goals in mind: assisting pilots in close-range missions, and ensuring captured data is more relevant and trusted than ever. Improved FlightAutonomy gives you omnidirectional obstacle sensing, an advanced sensing system comprised of 8 high resolution vision and 2 infrared sensors placed on the sides of the aircraft. These powerful set of sensors work together to determine the relative speed and distance between the aircraft and an object, so you can fly and hover with more stability than ever in a wide range of open and complex environments. Stay close to the action - but away from the danger. The Mavic 2 Enterprise is equipped with a 2x optical, 3x digital zoom camera that lets you operate in close range missions without putting yourself in harm\"s way."
+                },
+                {
+                    "title": "DJI Smart Controller",
+                    "details": "The Mavic Zoom's smart controller was built for aircrafts with OcuSync 2.0 and made to enhance your outdoor flying experience with its ultra-bright 5.5-inch 1080p display. Allowing for clear visibility and brighter images even in less than desirable conditions like direct sunlight. It boasts intuitive controls and pre-installed apps like SkyTalk and DJI Go helping you get in the air more quickly than ever before. Third-party apps are also supported, so drone pilots have a complete choice when it comes to operational controls. The smart controller lets you connect to a HDMI port and microSD card slot, and operates at 1000 cd/m2 brightness."
+                },
+                {
+                    "title": "Standard Remote Controller",
+                    "details": "The Mavic Zoom's standard remote controller boasts 135 minutes of battery life when fully charged - leaving you plenty of time to capture what you need in the field. It is also built with an ergonomic design that allows for easy storage with its foldable body and detachable sticks. This design works exceptionally well with smartphones and gives an enhanced operational experience to use the DJI Mavic 2 Enterprise Zoom Edition Drone."
+                },
+                {
+                    "title": "Buy DJI Mavic 2 Enterprise Zoom Edition Drone from Star Gadget",
+                    "details": "In Bangladesh, you can get original DJI Mavic 2 Enterprise Zoom Edition Drone From Star Gadget. We have a large collection of the latest DJI drones to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The DJI Mavic 2 Enterprise Zoom Edition Drone has no warranty."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of DJI Mavic 2 Enterprise Dual Edition Drone in Bangladesh?",
+                "details": "The latest price of DJI Mavic 2 Enterprise Dual Edition Drone in Bangladesh is 554,723৳. You can buy the DJI Mavic 2 Enterprise Dual Edition Drone at best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "example@example.com",
+                    "review_comment": "Great drone for various sectors.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user2@example.com",
+                    "review_comment": "Excellent thermal imaging capabilities.",
+                    "user_rating": 4
+                }
+            ]
+        }
+    },
+    {
+        "category": "drone",
+        "product_name": "DJI P4 Multispectral Drone",
+        "price": 510000,
+        "regular_price": 562000,
+        "status": true,
+        "product_code": "00343",
+        "brand": "Dji",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "P4 Multispectral",
+            "CMOS Sensor": "Six 1/2.9\" CMOS",
+            "Effective pixels": "2.08 MP (2.12 MP in total)",
+            "Spectral Bands": "RGB, Red Edge, NIR, Green, Red & Blue",
+            "Flight Time": "Up to 27 Minutes",
+            "Module": "RTK Module for Accurate GPS Data"
+        },
+        "specification": {
+            "Aircraft": {
+                "Weight (Battery & Propellers Included)": "Takeoff Weight: 1487 g",
+                "Diagonal Size (Propellers Excluded)": "350 mm",
+                "Max Ascent Speed": "6 m/s (automatic flight); 5 m/s (manual control)",
+                "Max Descent Speed": "3 m/s",
+                "Max Speed": "31 mph (50 kph) (P-mode); 36 mph (58 kph) (A-mode)",
+                "Max Service Ceiling Above Sea Level": "19685 ft (6000 m)",
+                "Max Flight Time": "Approx. 27 minutes",
+                "Operating Temperature Range": "0° to 40° C (32° to 104° F)",
+                "Hover Accuracy Range": [
+                    "RTK enabled and functioning properly:",
+                    "Vertical: ± 0.1 m; Horizontal: ± 0.1 m",
+                    "RTK disabled:",
+                    "Vertical: ± 0.1 m (with vision positioning); ± 0.5 m (with GNSS positioning)",
+                    "Horizontal: ± 0.3 m (with vision positioning); ± 1.5 m (with GNSS positioning)"
+                ]
+            },
+            "Gimbal": {
+                "Controllable Range": "Tilt: -90° to +30°"
+            },
+            "Vision System": {
+                "Velocity Range": "≤ 31 mph (50 kph) at 6.6 ft (2 m) above ground with adequate lighting",
+                "Altitude Range": "0 - 33 ft (0 - 10 m)",
+                "Operating Range": "0 - 33 ft (0 - 10 m)",
+                "Obstacle Sensory Range": "2 - 98 ft (0.7 - 30 m)",
+                "Operating Environment": "urfaces with clear patterns and adequate lighting (> 15 lux)"
+            },
+            "Infrared Sensing System": {
+                "Obstacle Sensory Range": "33' / 10 m",
+                "Operating Environment": "Surface with Clear Patterns at >15 lux"
+            },
+            "Camera": {
+                "Sensor": [
+                    "Six 1/2.9” CMOS, including one RGB sensor for visible light imaging and five monochrome sensors for multispectral imaging.",
+                    "Each Sensor: Effective pixels 2.08 MP (2.12 MP in total)"
+                ],
+                "Lens": [
+                    "FOV (Field of View): 62.7°",
+                    "Focal Length: 5.74 mm (35 mm format equivalent: 40 mm), autofocus set at ∞",
+                    "Aperture: f/2.2"
+                ],
+                "ISO Range": [
+                    "Video: 100-3200(Auto)",
+                    "100-6400 (Manual)"
+                ],
+                "Mechanical Shutter Speed": "200 - 800",
+                "Electronic Shutter Speed": "1/100 - 1/20000 s (visible light imaging); 1/100 - 1/10000 s (multispectral imaging)",
+                "Image Size": "1600x1300 (4:3.25)",
+                "Supported File Systems": "FAT32 (£ 32 GB); exFAT (> 32 GB)",
+                "Photo": "JPEG (visible light imaging) + TIFF (multispectral imaging)",
+                "Supported SD Cards": "microSD with a minimum write speed of 15 MB/s. Max Capacity: 128 GB. Class 10 or UHS-1 rating required",
+                "Operating Temperature Range": "0° to 40° C (32° to 104° F)"
+            },
+            "Remote Controller": {
+                "Operating Frequency": [
+                    "2.4000 GHz to 2.4835 GHz (Europe, Japan, Korea)",
+                    "5.725 GHz to 5.850 GHz (Other countries/regions)"
+                ],
+                "Max Transmission Distance": [
+                    "FCC / NCC: 4.3 mi (7 km)",
+                    "CE / MIC / KCC / SRRC: 3.1 mi (5 km)(Unobstructed, free of interference)"
+                ],
+                "Operating Temperature Range": "0° to 40° C (32° to 104° F)",
+                "Battery": "6000 mAh LiPo 2S",
+                "Transmitter Power (EIRP)": [
+                    "2.4 GHz: < 20 dBm (CE / MIC / KCC)",
+                    "5.8 GHz: < 26 dBm (FCC / SRRC / NCC)"
+                ],
+                "Operating Current/Voltage": "1.2 A @ 7.4 V"
+            },
+            "Intelligent Flight Battery": {
+                "Capacity": "5870 mAh",
+                "Voltage": "15.2 V",
+                "Battery Type": "LiPo 4S",
+                "Energy": "89.2 Wh",
+                "Net Weight": "468 g",
+                "Charging Temperature Range": "-10° to 40° C (14° to 104° F)"
+            },
+            "Warranty": {
+                "Warranty": "No Warranty"
+            },
+            "description": [
+                {
+                    "title": "DJI P4 Multispectral Drone",
+                    "details": "The DJI P4 Multispectral Agricultural Drone can be a useful tool in monitoring, understanding, and treating concerns connected to crop and vegetation health with information that is invisible to the human eye. This is true for both environmental research and agriculture. This drone can look below the surface since it has a gimbal with a 6-camera array. The other five cameras each capture a different wavelength, while one camera is an RGB camera that only records visible light and takes conventional images. The other five cameras record 2MP images in wavelengths including red edge, near-infrared, green, red, and blue. Even while flying at higher speeds, the resulting photographs are clear thanks to the global shutter and 3-axis stabilized gimbal. To maximize data collection and concentrate on the regions that require the most attention, you can flip between the two feeds while flying. An integrated spectral sunlight sensor on the top of the P4 Multispectral quadcopter works in conjunction with the gimbal camera to achieve the most accurate NDVI results possible. The sensor captures solar irradiance to help increase accuracy and maintain consistency in processed data through different times of the day."
+                },
+                {
+                    "title": "RTK Compatible",
+                    "details": "The DJI P4 Multispectral Drone includes an RTK module that can be used to help increase the accuracy of GPS location data. The P4 Multispectral is compatible with the optional D-RTK 2 Mobile Station and NTRIP."
+                },
+                {
+                    "title": "Centimeter-Level Precision",
+                    "details": "The DJI P4 Multispectral Drone's real-time, centimeter-accurate data collection in imaging is made possible by DJI's TimeSync system. TimeSync causes the P4 to continuously align the gimbal camera, RTK module, and flight controller, setting the location to the CMOS's center. This helps offer the post-processing software for your photos incredibly precise metadata."
+                },
+                {
+                    "title": "Buy DJI P4 Multispectral Drone from Star Gadget",
+                    "details": "In Bangladesh, you can get original DJI P4 Multispectral Drone From Star Gadget. We have a large collection of the latest DJI drones to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The DJI P4 Multispectral Drone has no warranty."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of DJI P4 Multispectral Drone in Bangladesh?",
+                "details": "The latest price of DJI P4 Multispectral Drone in Bangladesh is 510,000৳. You can buy the DJI P4 Multispectral Drone at best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "user1@example.com",
+                    "review_comment": "Impressive drone for agricultural use, provides valuable data.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user2@example.com",
+                    "review_comment": "Accurate data collection, easy to use, and stable flight.",
+                    "user_rating": 4
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,987 @@
+[
+    {
+        "category": "phone",
+        "product_name": "iPhone 15 Pro Max 512GB Natural Titanium (Singapore Unofficial)",
+        "price": 230000,
+        "regular_price": 258500,
+        "status": true,
+        "product_code": "00220",
+        "brand": "Apple",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "iPhone 15 Pro Max",
+            "Display": "6.7\" Super Retina XDR Always-On display",
+            "Processor": "A17 Pro chip",
+            "Storage": "512GB",
+            "Camera": "48MP + 12MP + 12MP Rear, 12MP Front",
+            "Features": "Dynamic Island, Face ID, eSIM Support, USB Type-C 3.0, DisplayPort"
+        },
+        "specification": {
+            "Display": {
+                "Size": "6.7-inch",
+                "Type": [
+                    "Super Retina XDR display",
+                    "All-screen OLED display"
+                ],
+                "Resolution": "2796-by-1290-pixel resolution at 460 ppi",
+                "Refresh Rate": "ProMotion technology with adaptive refresh rates up to 120Hz",
+                "Brightness": "1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)",
+                "Features": [
+                    "Dynamic Island",
+                    "Always-On display",
+                    "ProMotion technology with adaptive refresh rates up to 120Hz",
+                    "HDR display",
+                    "True Tone",
+                    "Wide colour (P3)",
+                    "Haptic Touch",
+                    "20,00,000:1 contrast ratio (typical)",
+                    "1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)",
+                    "Fingerprint-resistant oleophobic coating",
+                    "Support for display of multiple languages and characters simultaneously"
+                ]
+            },
+            "Processor": {
+                "Chipset": "A17 Pro chip",
+                "CPU Type": [
+                    "6-core CPU with 2 performance and 4 efficiency cores",
+                    "16-core Neural Engine"
+                ],
+                "GPU": "6-core GPU"
+            },
+            "Memory": {
+                "RAM": "8GB",
+                "Internal Storage": "512GB",
+                "Card Slot": "N/A"
+            },
+            "Rear Camera": {
+                "Resolution": "Pro camera system (48MP Main, 12MP Ultra Wide, and 12MP Telephoto)",
+                "Features": [
+                    "48MP Main: 24 mm, ƒ/1.78 aperture, second-generation sensor-shift optical image stabilization, 100% Focus Pixels, support for super-high-resolution photos (24MP and 48MP)",
+                    "12MP Ultra Wide: 13 mm, ƒ/2.2 aperture and 120° field of view, 100% Focus Pixels",
+                    "12MP 2x Telephoto (enabled by quad-pixel sensor): 48 mm, ƒ/1.78 aperture, second-generation sensor-shift optical image stabilization, 100% Focus Pixels",
+                    "12MP 5x Telephoto: 120 mm, ƒ/2.8 aperture, 3D sensor-shift optical image stabilization and autofocus, tetraprism design",
+                    "5x optical zoom in, 2x optical zoom out; 10x optical zoom range",
+                    "Digital zoom up to 25x",
+                    "Customizable default lens (Main)",
+                    "Sapphire crystal lens cover",
+                    "Adaptive True Tone flash",
+                    "Photonic Engine",
+                    "Deep Fusion",
+                    "Smart HDR 5",
+                    "Next-generation portraits with Focus and Depth Control",
+                    "Portrait Lighting with six effects",
+                    "Night mode",
+                    "Night mode portraits enabled by LiDAR Scanner",
+                    "Panorama (up to 63MP)",
+                    "Photographic Styles",
+                    "Macro photography",
+                    "Apple ProRAW",
+                    "Wide color capture for photos and Live Photos",
+                    "Lens correction (Ultra Wide)",
+                    "Advanced red-eye correction",
+                    "Auto image stabilisation",
+                    "Burst mode",
+                    "Photo geotagging",
+                    "Image formats captured: HEIF, JPEG and DNG"
+                ],
+                "Video Recording": [
+                    "4K video recording at 24 fps, 25 fps, 30 fps or 60 fps",
+                    "1080p HD video recording at 25 fps, 30 fps or 60 fps",
+                    "720p HD video recording at 30 fps",
+                    "Cinematic mode up to 4K HDR at 30 fps",
+                    "Action mode up to 2.8K at 60 fps",
+                    "HDR video recording with Dolby Vision up to 4K at 60 fps",
+                    "ProRes video recording up to 4K at 60 fps with external recording",
+                    "Log video recording",
+                    "Academy Color Encoding System",
+                    "Macro video recording, including slow motion and time lapse",
+                    "Slow-motion video support for 1080p at 120 fps or 240 fps",
+                    "Time-lapse video with stabilization",
+                    "Night mode Time-lapse",
+                    "QuickTake video",
+                    "Second-generation sensor-shift optical image stabilization for video (Main)",
+                    "Optical image stabilization for video (3x Telephoto)",
+                    "3D sensor-shift optical image stabilization and AF for video (5x Telephoto)",
+                    "Digital zoom up to 9x (iPhone 15 Pro) and 15x (iPhone 15 Pro Max)",
+                    "Audio zoom",
+                    "True Tone flash",
+                    "Cinematic video stabilization (4K, 1080p and 720p)",
+                    "Continuous auto focus video",
+                    "Take 8MP still photos while recording 4K video",
+                    "Playback zoom",
+                    "Video formats recorded: HEVC, H.264 and ProRes",
+                    "Stereo recording"
+                ]
+            },
+            "Front Camera": {
+                "Resolution": "TrueDepth front camera (12MP camera)",
+                "Features": [
+                    "ƒ/1.9 aperture",
+                    "Autofocus with Focus Pixels",
+                    "Retina Flash",
+                    "Photonic Engine",
+                    "Deep Fusion",
+                    "Smart HDR 5",
+                    "Next-generation portraits with Focus and Depth Control",
+                    "Portrait Lighting with six effects",
+                    "Animoji and Memoji",
+                    "Night mode",
+                    "Photographic Styles",
+                    "Apple ProRAW",
+                    "Wide color capture for photos and Live Photos",
+                    "Lens correction",
+                    "Auto image stabilization",
+                    "Burst mode"
+                ],
+                "Video Recording": [
+                    "4K video recording at 24 fps, 25 fps, 30 fps or 60 fps",
+                    "1080p HD video recording at 25 fps, 30 fps or 60 fps",
+                    "Cinematic mode up to 4K HDR at 30 fps",
+                    "HDR video recording with Dolby Vision up to 4K at 60 fps",
+                    "ProRes video recording up to 4K at 60 fps with external recording",
+                    "Log video recording",
+                    "Academy Color Encoding System",
+                    "Slow-motion video support for 1080p at 120 fps",
+                    "Time‑lapse video with stabilization",
+                    "Night mode Time-lapse",
+                    "QuickTake video",
+                    "Cinematic video stabilization (4K, 1080p and 720p)"
+                ]
+            },
+            "Audio": {
+                "Speaker": "Built-in stereo speaker",
+                "Audio Features": [
+                    "Supported formats include AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos",
+                    "Spatial Audio playback",
+                    "User-configurable maximum volume limit"
+                ]
+            },
+            "Network & Connectivity": {
+                "SIM": "1 SIM and 1 eSIM",
+                "Wi-Fi": [
+                    "5G (subD-6 GHz) with 4x4 MIMO",
+                    "Gigabit LTE with 4x4 MIMO and LAA",
+                    "Wi-Fi 6E (802.11ax) with 2x2 MIMO"
+                ],
+                "Bluetooth": "Bluetooth 5.3",
+                "GPS": [
+                    "Precision dual-frequency GPS (GPS, GLONASS, Galileo, QZSS, BeiDou and NavIC)",
+                    "Digital compass",
+                    "Wi-Fi",
+                    "Cellular",
+                    "iBeacon micro-location"
+                ],
+                "NFC": "NFC with reader mode",
+                "USB": [
+                    "USB-C connector with support for:",
+                    "Charging",
+                    "DisplayPort",
+                    "USB 3 (up to 10 Gbps)"
+                ],
+                "Audio Jack": "N/A"
+            },
+            "OS": {
+                "Operating System": "iOS 17"
+            },
+            "Features": {
+                "Sensors": [
+                    "Face ID",
+                    "LiDAR Scanner",
+                    "Barometer",
+                    "High dynamic range gyro",
+                    "High-g accelerometer",
+                    "Proximity sensor",
+                    "Dual ambient light sensors"
+                ],
+                "IP Rating": "Rated IP68 (maximum depth of 6 meters up to 30 minutes)",
+                "Other Features": [
+                    "Face ID (Enabled by TrueDepth camera for facial recognition)",
+                    "Apple Pay (Pay with your iPhone using Face ID in stores, within apps and on the web)",
+                    "Safety: Emergency SOS, Crash Detection"
+                ]
+            },
+            "Battery": {
+                "Type": "Built-in rechargeable lithium-ion battery",
+                "Fast Charging": [
+                    "MagSafe wireless charging up to 15W",
+                    "Qi wireless charging up to 7.5W",
+                    "Fast-charge capable:",
+                    "Up to 50% charge in around 30 minutes with 20W adapter or higher (available separately)"
+                ]
+            },
+            "Physical specification": {
+                "Dimension": [
+                    "Height: 6.29 inches (159.9 mm)",
+                    "Width: 3.02 inches (76.7 mm)",
+                    "Depth: 0.32 inch (8.25 mm)"
+                ],
+                "Weight": "221g",
+                "Body Material": [
+                    "Titanium design",
+                    "Ceramic Shield front",
+                    "Textured matt glass back"
+                ],
+                "Colors": "Natural Titanium"
+            },
+            "Warranty Information": {
+                "Warranty": "Warranty Claim from International Apple Store Not Valid in Bangladesh (Unofficial)"
+            }
+        },
+        "description": [
+            {
+                "title": "iPhone 15 Pro Max 512GB Natural Titanium (Singapore Unofficial)",
+                "details": "The iPhone 15 Pro Max features a 6.7-inch Super Retina XDR display with all-screen OLED technology. It has a resolution of 2796-by-1290-pixel resolution at 460 ppi and ProMotion technology with adjustable refresh rates that can exceed 120Hz. The display has a usual maximum brightness of 1,000 nits, a peak HDR brightness of 1,600 nits, and an amazing peak brightness of 2,000 nits for outdoor use. Dynamic Island, Always-On display, True Tone technology, broad color (P3) support, Haptic Touch, a phenomenal 20,00,000:1 contrast ratio (typical), and a fingerprint-resistant oleophobic coating are among the features. It also allows for the display of various languages and characters at the same time. USB 3 and Wi-Fi 6E connection for quicker data transmission and wireless speeds."
+            },
+            {
+                "title": "Processor & Storage",
+                "details": "The Apple iPhone 15 Pro Max is powered by the A17 Pro processor, which has a 6-core CPU with 2 performance and 4 efficiency cores, as well as a 16-core Neural Engine. The GPU is a 6-core monster. This model comes with 8GB of RAM and 512GB of internal storage, providing plenty of space for programs, photographs, and movies. Unfortunately, there is no option for expanded storage."
+            },
+            {
+                "title": "Camera",
+                "details": "The iPhone 15 Pro Max camera system on the back includes a 48MP Main camera with many sophisticated capabilities, a 12MP Ultra Wide camera with a wide field of view, and a 12MP Telephoto camera with 3x optical zoom in, 2x optical zoom out, and up to 15x digital zoom. These cameras provide a broad range of features, including Night mode, ProRAW compatibility, and 4K video recording at up to 60 frames per second with HDR. The TrueDepth front camera, with 12MP resolution and an f/1.9 aperture, supports features such as Animoji, Memoji, Night mode, and 4K video recording at up to 60 fps with HDR. It complements the rear cameras, providing excellent selfie and video call capabilities."
+            },
+            {
+                "title": "Network & Connectivity",
+                "details": "It iPhone 15 Pro Max features a 5G connection (sub-6 GHz), Gigabit LTE, Wi-Fi 6E (802.11ax), Bluetooth 5.3, and Precision dual-frequency GPS for exact position monitoring. It contains NFC capability with reader mode as well as a USB-C port for charging and data transmission."
+            },
+            {
+                "title": "Operating System",
+                "details": "Style it out. Change it out. Stick it up with iOS 17. The iPhone 15 Pro Max includes the most recent software features and advancements from Apple. iOS 17 includes new features to improve the activities you do every day. When you phone or text someone, express yourself like you've never done before. Share information in more convenient ways. Do even more with new iPhone experiences."
+            },
+            {
+                "title": "Gigablast your gigabits",
+                "details": "The Apple iPhone 15 Pro Max is the first iPhone to utilize USB 3, allowing for quicker data transfer speeds and pro workflows than ever before. File transfers can be up to 20 times quicker. With the new USBC connector, you can charge your Mac or iPad using the same cable that you use to charge your iPhone 15 Pro Max. Goodbye, cable mess. The all-new WiFi 6E provides up to double the wifi speed. As a result, you may quickly upload and download files. Want to make a buddy in a crowded railway station or a crowded park? Precision Finding is the place to go for Find My Friends. Precision Finding now offers three times the range, thanks to the new, second-generation Ultra Wideband processor. To enable Precision Finding, friends with iPhone 15 or iPhone 15 Pro Max can use Find My to share their location solely with you. It's easy and confidential."
+            },
+            {
+                "title": "Buy Apple iPhone 15 Pro Max 512GB Natural Titanium from the best Mobile Phone Shop in Bangladesh: Star Gadget",
+                "details": "In Bangladesh, you can get the original Apple iPhone 15 Pro Max 512GB Natural Titanium (Singapore) From Star Gadget. We have a large collection of the latest Apple iPhones to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price.\n\nWarranty Claim from an International Apple Store Not Valid in Bangladesh. (Unofficial)"
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of iPhone 15 Pro Max 512GB Natural Titanium in Bangladesh?",
+            "details": "The latest price of iPhone 15 Pro Max 512GB Natural Titanium in Bangladesh is 230,000৳. You can buy the iPhone 15 Pro Max 512GB Natural Titanium at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Great smartphone with a fantastic camera and display.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Impressive performance and the 512GB storage is a huge plus.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "The 120Hz ProMotion display is a game-changer for smooth scrolling and gaming.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "phone",
+        "product_name": "iPhone 14 Pro Max 256GB Space Black (Singapore)",
+        "price": 185699,
+        "regular_price": 241600,
+        "status": true,
+        "product_code": "00221",
+        "brand": "Apple",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "iPhone 14 Pro Max",
+            "Display": "6.7\" Super Retina XDR Always-On display",
+            "Processor": "A16 Bionic chip",
+            "Storage": "256GB",
+            "Camera": "48MP + 12MP + 12MP Rear, 12MP Front",
+            "Features": "Dynamic Island, Face ID, eSIM Support"
+        },
+        "specification": {
+            "Display": {
+                "Size": "6.7-inch",
+                "Type": [
+                    "Super Retina XDR display",
+                    "All-screen OLED display"
+                ],
+                "Resolution": "2796x1290-pixel resolution at 460 ppi",
+                "Refresh Rate": "ProMotion technology with adaptive refresh rates up to 120Hz",
+                "Brightness": "1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)",
+                "Features": [
+                    "Dynamic Island",
+                    "Always-On display",
+                    "HDR display",
+                    "True Tone",
+                    "Wide colour (P3)",
+                    "Haptic Touch",
+                    "2,000,000:1 contrast ratio (typical)",
+                    "Fingerprint-resistant oleophobic coating",
+                    "Support for display of multiple languages and characters simultaneously"
+                ]
+            },
+            "Processor": {
+                "Chipset": "A16 Bionic chip",
+                "CPU Type": [
+                    "6-core CPU with 2 performance and 4 efficiency cores",
+                    "16-core Neural Engine"
+                ],
+                "GPU": "5-core GPU"
+            },
+            "Memory": {
+                "RAM": "6GB",
+                "Internal Storage": "256GB",
+                "Card Slot": "N/A"
+            },
+            "Rear Camera": {
+                "Resolution": "Pro camera system (48MP Main, 12MP Ultra Wide, and 12MP Telephoto)",
+                "Features": [
+                    "Main: ƒ/1.78 aperture",
+                    "Ultra Wide: ƒ/2.2 aperture",
+                    "Telephoto: ƒ/2.8 aperture",
+                    "Second-generation sensor-shift optical image stabilization",
+                    "0.5x, 1x, 2x, 3x optical zoom options",
+                    "Sapphire crystal lens cover",
+                    "Adaptive True Tone flash",
+                    "Photonic Engine",
+                    "Deep Fusion",
+                    "Smart HDR 4",
+                    "Portrait mode with advanced bokeh and Depth Control",
+                    "Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High-Key Mono)",
+                    "Night mode",
+                    "Night mode portraits enabled by LiDAR Scanner",
+                    "Panorama (up to 63MP)",
+                    "Photographic Styles",
+                    "Macro photography",
+                    "Apple ProRAW",
+                    "Wide colour capture for photos and Live Photos",
+                    "Lens correction (Ultra Wide)",
+                    "Advanced red-eye correction",
+                    "Auto image stabilization",
+                    "Burst mode",
+                    "Photo geotagging",
+                    "Image formats captured: HEIF, JPEG and DNG"
+                ],
+                "Video Recording": [
+                    "4K video recording at 24 fps, 25 fps, 30 fps or 60 fps",
+                    "1080p HD video recording at 25 fps, 30 fps or 60 fps",
+                    "720p HD video recording at 30 fps",
+                    "Cinematic mode up to 4K HDR at 30 fps",
+                    "Action mode up to 2.8K at 60 fps",
+                    "HDR video recording with Dolby Vision up to 4K at 60 fps",
+                    "ProRes video recording up to 1080p at 30 fps",
+                    "Macro video recording, including slow motion and time-lapse",
+                    "Slow-motion video support for 1080p at 240 fps",
+                    "Time-lapse video with stabilization",
+                    "Night mode Time-lapse",
+                    "QuickTake video",
+                    "Second-generation sensor-shift optical image stabilization for video (Main)",
+                    "Dual optical image stabilization for video (Main and Telephoto)",
+                    "3x optical zoom in, 2x optical zoom out; 6x optical zoom range",
+                    "Digital zoom up to 9x",
+                    "Audio zoom",
+                    "True Tone flash",
+                    "Cinematic video stabilization (4K, 1080p and 720p)",
+                    "Continuous autofocus video",
+                    "Take 8MP still photos while recording 4K video",
+                    "Playback zoom",
+                    "Video formats recorded: HEVC, H.264 and ProRes",
+                    "Stereo recording"
+                ]
+            },
+            "Front Camera": {
+                "Resolution": "TrueDepth front camera (12MP camera)",
+                "Features": [
+                    "ƒ/1.9 aperture",
+                    "Autofocus with Focus Pixels",
+                    "Six-element lens",
+                    "Retina Flash",
+                    "Photonic Engine",
+                    "Deep Fusion",
+                    "Smart HDR 4",
+                    "Portrait mode with advanced bokeh and Depth Control",
+                    "Portrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High-Key Mono)",
+                    "Animoji and Memoji",
+                    "Night mode",
+                    "Photographic Styles",
+                    "Apple ProRAW",
+                    "Wide colour capture for photos and Live Photos",
+                    "Lens correction",
+                    "Auto image stabilization",
+                    "Burst mode"
+                ],
+                "Video Recording": [
+                    "4K video recording at 24 fps, 25 fps, 30 fps or 60 fps",
+                    "1080p HD video recording at 25 fps, 30 fps or 60 fps",
+                    "Cinematic mode up to 4K HDR at 30 fps",
+                    "HDR video recording with Dolby Vision up to 4K at 60 fps",
+                    "ProRes video recording up to 1080p at 30 fps",
+                    "Slow-motion video support for 1080p at 240 fps",
+                    "Time-lapse video with stabilization",
+                    "Night mode Time-lapse",
+                    "QuickTake video",
+                    "Cinematic video stabilization (4K, 1080p and 720p)"
+                ]
+            },
+            "Audio": {
+                "Speaker": "Built-in stereo speaker",
+                "Audio Features": [
+                    "Supported formats include AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos",
+                    "Spatial Audio playback",
+                    "User-configurable maximum volume limit"
+                ]
+            },
+            "Network & Connectivity": {
+                "SIM": "1 SIM and 1 eSIM",
+                "Wi-Fi": [
+                    "5G (sub-6 GHz) with 4x4 MIMO",
+                    "Gigabit LTE with 4x4 MIMO and LAA",
+                    "Wi-Fi 6 (802.11ax) with 2x2 MIMO"
+                ],
+                "Bluetooth": "Bluetooth 5.3",
+                "GPS": [
+                    "Precision dual-frequency GPS (GPS, GLONASS, Galileo, QZSS and BeiDou)",
+                    "Digital compass",
+                    "Wi-Fi",
+                    "Mobile data",
+                    "iBeacon micro-location"
+                ],
+                "NFC": "NFC with reader mode",
+                "Audio Jack": "N/A"
+            },
+            "OS": {
+                "Operating System": "iOS 16"
+            },
+            "Features": {
+                "Sensors": [
+                    "Face ID",
+                    "LiDAR Scanner",
+                    "Barometer",
+                    "High dynamic range gyro",
+                    "High-g accelerometer",
+                    "Proximity sensor",
+                    "Dual ambient light sensors"
+                ],
+                "IP Rating": "Rated IP68 (maximum depth of 6 meters for up to 30 minutes) under IEC standard 60529",
+                "Other Features": [
+                    "Face ID (Enabled by TrueDepth camera for facial recognition)",
+                    "Apple Pay (Pay with your iPhone using Face ID in stores, within apps and on the web)",
+                    "Safety: Emergency SOS, Crash Detection"
+                ]
+            },
+            "Battery": {
+                "Type": "Built-in rechargeable lithium-ion battery",
+                "Fast Charging": [
+                    "MagSafe wireless charging up to 15W",
+                    "Qi wireless charging up to 7.5W",
+                    "Charging via USB to computer system or power adapter",
+                    "Fast-charge capable",
+                    "Up to 50% charge in around 30 minutes with 20W adapter or higher (available separately)"
+                ]
+            },
+            "Physical specification": {
+                "Dimension": [
+                    "Height: 160.7mm",
+                    "Width: 77.6mm",
+                    "Depth: 7.85mm"
+                ],
+                "Weight": "240g",
+                "Body Material": [
+                    "Ceramic Shield front",
+                    "Textured matt glass back and",
+                    "stainless steel design"
+                ],
+                "Colors": "Space Black"
+            },
+            "description": "iPhone 14 Pro Max 256GB Space Black (Singapore)",
+            "Introducing Dynamic Island": "The Dynamic Island on the iPhone 14 Pro Max is a convenient feature that allows users to easily access and manage important notifications and activities on their devices...",
+            "Always-On display": "The iPhone 14 Pro Max display can operate with a refresh rate as low as 1 Hz with a new low-power mode and uses improved technology that allows the display to dim the entire Lock Screen...",
+            "All-new 48MP Main camera with advanced quad-pixel sensor": "The latest iPhone 14 Pro Max from Apple comes with a pro camera system. The main camera is 48MP for up to 4x the resolution, 12MP Telephoto for up to 2x better low-light photos and 12MP Ultra Wide for sharper, brighter macro shots...",
+            "Emergency SOS, Crash Detection": "iPhone 14 Pro Max can detect a severe car crash, then call emergency services and notify your emergency contacts. It can detect Sudden speed shifts, Abrupt changes in direction, Cabin pressure changes, and Loud sound levels of impact and then send an alert to save your life.",
+            "Buy Apple iPhone 14 Pro Max 256GB Space Black from the best Mobile Phone Shop in Bangladesh": "In Bangladesh, you can get the original Apple iPhone 14 Pro Max 256GB Space Black From Star Gadget. We have a large collection of the latest Apple iPhones to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price."
+        },
+        "description": [
+            {
+                "title": "iPhone 14 Pro Max 256GB Space Black (Singapore)",
+                "details": "The iPhone 14 Pro Max is the latest model of the iPhone series, featuring the latest technology and advanced features that are designed to provide users with a seamless and unparalleled mobile experience. The device is powered by the latest A16 Bionic chip, providing exceptional performance and power efficiency. The 6.7-inch Super Retina XDR display, with ProMotion technology, delivers an immersive visual experience with incredibly vibrant colors and deep blacks. The device comes equipped with a triple-camera system, including a 48MP main, 12MP ultra-wide, and 12MP telephoto lens, allowing users to capture stunning photos and videos. This iPhone 14 Pro Max has a 256GB internal storage capacity, offering ample space for all your photos, videos, and apps. It has been designed for durability with Ceramic Shield. It also offers water resistance and a surgical-grade stainless steel body. The Space Black color option adds a luxurious and elegant touch to the device's overall design."
+            },
+            {
+                "title": "Introducing Dynamic Island",
+                "details": "The Dynamic Island on the iPhone 14 Pro Max is a convenient feature that allows users to easily access and manage important notifications and activities on their devices. It appears on the home screen or in any app when the phone is unlocked and provides a quick overview of things like current music playing, timers, AirDrop connections, and directions from Maps. Users can expand the activity to see more detail by touching and holding it or swiping from the center to the right or left side. They can also collapse the activity to make the Dynamic Island smaller by swiping from the right or left side towards the center. Additionally, users can switch between two activities by swiping from one side or the other. This makes it easy to stay on top of important notifications and activities without having to navigate away from the current app or screen."
+            },
+            {
+                "title": "Always-On display",
+                "details": "The iPhone 14 Pro Max display can operate with a refresh rate as low as 1 Hz with a new low-power mode and uses improved technology that allows the display to dim the entire Lock Screen. The display dims when you lock your device or leave it idle. Always-On display also uses multiple coprocessors in the A16 Bionic to refresh the display using minimal power. You can customize your Always-On display by personalizing your Lock Screen with photos, wallpapers with stylized fonts and colors, and widgets. When iPhone is turned face down or in your pocket, it goes dark to save battery life."
+            },
+            {
+                "title": "All-new 48MP Main camera with advanced quad-pixel sensor",
+                "details": "The latest iPhone 14 Pro Max from Apple comes with a pro camera system. The main camera is 48MP for up to 4x the resolution, 12MP Telephoto for up to 2x better low-light photos and 12MP Ultra Wide for sharper, brighter macro shots. The quad-pixel sensor on the Main camera makes the most of 48 megapixels by adapting to what you’re shooting. You can also snap your sharpest, most colorful close-ups and group shots, thanks to a new TrueDepth front camera with autofocus and a larger aperture. The TrueDepth camera and A16 Bionic also power Face ID, the most secure facial authentication in a smartphone"
+            },
+            {
+                "title": "Emergency SOS, Crash Detection",
+                "details": "iPhone 14 Pro Max can detect a severe car crash, then call emergency services and notify your emergency contacts. It can detect Sudden speed shifts, Abrupt changes in direction, Cabin pressure changes, and Loud sound levels of impact and then send an alert to save your life."
+            },
+            {
+                "title": "Buy Apple iPhone 14 Pro Max 256GB Space Black from the best Mobile Phone Shop in Bangladesh: Star Gadget",
+                "details": "In Bangladesh, you can get the original Apple iPhone 14 Pro Max 256GB Space Black From Star Gadget. We have a large collection of the latest Apple iPhones to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price."
+            }
+        ],
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Great phone with an amazing camera!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Excellent display quality and fast performance.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "phone",
+        "product_name": "Samsung Galaxy S23 Ultra Smartphone (12/512GB)",
+        "price": 225499,
+        "regular_price": 255749,
+        "status": true,
+        "product_code": "00222",
+        "brand": "Samsung",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Galaxy S23 Ultra",
+            "Display": "6.8\" Quad HD+ Dynamic AMOLED 2X, 120Hz, HDR10+",
+            "Processor": "Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)",
+            "Camera": "Quad 200+10+10+12 MP on Rear, 12MP Selfie",
+            "Features": "Under Display Fingerprint, 45W Fast Charging, IP68"
+        },
+        "specification": {
+            "Display": {
+                "Size": "6.8\"",
+                "Type": "Dynamic AMOLED 2X",
+                "Resolution": "3088 x 1440 (Quad HD+)",
+                "Refresh Rate": "120Hz",
+                "Brightness": "1750 nits (peak)",
+                "Protection": "Corning Gorilla Glass Victus 2",
+                "Features": [
+                    "HDR10+",
+                    "~89.9% screen-to-body ratio",
+                    "500 ppi density",
+                    "Always-on display"
+                ]
+            },
+            "Processor": {
+                "Chipset": "Qualcomm SM8550-AC Snapdragon 8 Gen 2 Mobile Platform for Galaxy (4 nm)",
+                "CPU Type": "Octa-Core",
+                "CPU Speed": "1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510",
+                "GPU": "Adreno 740"
+            },
+            "Memory": {
+                "RAM": "12GB LPDDR5X",
+                "Internal Storage": "512GB UFS 4.0",
+                "Card Slot": "N/A"
+            },
+            "Rear Camera": {
+                "Resolution": "200 MP F1.7 OIS (wide) + 10 MP, F4.9 OIS 10x (periscope telephoto) + 10 MP F2.4 3x OIS (telephoto) + 12 MP F2.2 120˚ (ultrawide)",
+                "Features": "LED flash, auto-HDR, panorama, Laser AF, periscope telephoto, OIS, ultrawide, 10x optical zoom",
+                "Video Recording": "8K@24/30fps, 4K@30/60fps, 1080p@30/60/240fps, 1080p@960fps, HDR10+, stereo sound rec., gyro-EIS"
+            },
+            "Front Camera": {
+                "Resolution": "12 MP FF F2.2 (Wide)",
+                "Features": "Dual video call, Auto-HDR, HDR10+",
+                "Video Recording": "4K@30/60fps, 1080p@30fps"
+            },
+            "Audio": {
+                "Speaker": "Stereo speakers",
+                "Audio Features": [
+                    "32-bit/384kHz audio",
+                    "Tuned by AKG"
+                ]
+            },
+            "Network & Connectivity": {
+                "SIM": "Nano-SIM and eSIM or Dual SIM (2 Nano-SIMs and eSIM, dual stand-by)",
+                "Network": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+                "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+                "Bluetooth": "5.3, A2DP, LE",
+                "GPS": "GPS, GLONASS, BDS, GALILEO",
+                "NFC": "Yes",
+                "USB": "USB Type-C 3.2",
+                "OTG": "Yes",
+                "Audio Jack": "N/A"
+            },
+            "OS": {
+                "Operating System": "Android 13",
+                "Custom UI": "One UI 5.1"
+            },
+            "Features": {
+                "Fingerprint": "Under Display, Ultrasonic",
+                "Sensors": "Accelerometer, Barometer, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Light Sensor, Proximity Sensor",
+                "IP Rating": "IP68 dust / waterproof (up to 1.5m for 30 mins)",
+                "Other Features": "S Pen Support"
+            },
+            "Battery": {
+                "Type": "Lithium-ion 5000 mAh (non-removable)",
+                "Fast Charging": [
+                    "45W wired, PD3.0, 65% in 30 min (advertised)",
+                    "15W wireless (Qi/PMA)",
+                    "4.5W reverse wireless"
+                ]
+            },
+            "Physical specification": {
+                "Dimension": "163.4 x 78.1 x 8.9 mm",
+                "Weight": "234 g",
+                "Body Material": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+                "Colors": [
+                    "Green",
+                    "Phantom Black",
+                    "Cream"
+                ]
+            },
+            "Warranty Information": {
+                "Warranty": "01-year Official warranty (To claim please visit the nearest Samsung Service Center)"
+            }
+        },
+        "description": [
+            {
+                "title": "Samsung Galaxy S23 Ultra Smartphone (12/512GB)",
+                "details": "The Samsung Galaxy S23 Ultra features a 6.8-inch Quad HD+ Dynamic AMOLED 2X screen. It has a front-facing camera with a punch-hole design. The rear camera has quad 200+10+10+12 MP resolution, Laser AF, OIS, periscope telephoto, 10x optical zoom, ultrawide, and other features, as well as 8K video recording. The front-facing camera has a resolution of 12 Megapixels. The Galaxy S23 Ultra has a 5000 mAh battery and 45W fast charging. It has 12 GB of RAM, an octa-core CPU that runs at up to 3.0 GHz, and an Adreno 740 GPU. The Qualcomm Snapdragon 8 Gen 2 (4 nm) chipset powers it. The device has 512GB of internal storage and no MicroSD slot. There is an ultrasonic in-display fingerprint sensor in this phone."
+            },
+            {
+                "title": "120Hz Smooth Experience with 6.4\" FHD+ Dynamic AMOLED Display",
+                "details": "The Galaxy S23 Ultra has everything you want in 6.4 inches, making it ideal for connecting with friends, discovering new interests, going live, and binge-watching your favorite shows. With Super Smooth 120Hz, this smartphone has the smoothest scrolling screen. You can experience quick touch responses in game mode, and it optimizes the refresh rate to smooth out your feed. You also get extra protection for your Galaxy S23 Ultra thanks to the Corning Gorilla Glass Victus."
+            },
+            {
+                "title": "200MP Wide-angle Camera",
+                "details": "The Galaxy S23 Ultra has a 200MP primary camera, a secondary 12MP camera for ultrawide shots, and two 10MP tele for 3x optical zoom. The selfie camera, which is likely to be 12MP, is also the same. Your features are highlighted and refined so that you look your best on all of your social media platforms. This phone has improved image processing and cool features, which are made possible by the new chipset. It allows you to switch between cameras while filming or capture the action in a single take for instant upload-ready footage. With the 30X Space Zoom on the Galaxy S23 Ultra, you can capture that sideline shot from the back of the bleachers. You can also use Zoom Lock to reduce shakiness as you zoom in further."
+            },
+            {
+                "title": "Super Fast Charging and Wireless Powershare",
+                "details": "Even on 5G, the day will last longer thanks to the 5000mAh battery's cooperation with an energy-efficient display and processor. When you've got a low battery and no time to wait, you can get hours of power with only minutes of charging. Thanks to Fast Wireless Charging 2.0 you can get a speedy power-up without needing to plug in. You can use your Samsung Galaxy S23 Ultra to charge your buds, watch, or even a friend's phone."
+            },
+            {
+                "title": "IP68-rated for Dust and Water Resistance",
+                "details": "The Samsung Galaxy S23 Ultra is IP68-rated for dust and water resistance, which is an important feature of the Galaxy S series. Its design is similar to that of the other Galaxy S23 phones. The front of the Smartphone is made of Gorilla Glass Victus, the frame is made of aluminum, and the back is made of matte plastic. The waterproof design keeps your phone safe from slashes, drips, and up to 1.5 meters of water for around 30 minutes."
+            },
+            {
+                "title": "Buy Samsung Galaxy S23 Ultra (12/512GB) from the best Mobile Phone Shop in Bangladesh: Star Gadget",
+                "details": "In Bangladesh, you can get the original Samsung Galaxy S23 Ultra (12/512GB) From Star Gadget. We have a large collection of the latest Samsung Mobile Phones to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The Samsung Galaxy S23 Ultra comes with a 01-year Official warranty (To claim please visit the nearest Samsung Service Center)."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Samsung Galaxy S23 Ultra (12/512GB) in Bangladesh?",
+            "details": "The latest price of Samsung Galaxy S23 Ultra (12/512GB) in Bangladesh is 225,499৳. You can buy the Samsung Galaxy S23 Ultra (12/512GB) at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "example1@example.com",
+                "review_comment": "This phone is amazing! The camera quality is top-notch, and the display is stunning. Highly recommended.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "example2@example.com",
+                "review_comment": "I love the design and performance of the S23 Ultra. It's a bit pricey, but you get what you pay for.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "phone",
+        "product_name": "OnePlus 11 5G Smartphone (16/256GB)",
+        "price": 95000,
+        "regular_price": 109989,
+        "status": true,
+        "product_code": "00223",
+        "brand": "OnePlus",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "11 5G",
+            "Display": "6.7\" QHD+ 120Hz Super Fluid AMOLED Display",
+            "Processor": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+            "Camera": "Triple 64+48+32 MP on Rear, 16MP Front",
+            "Features": "In-display Fingerprint, 100W SUPERVOOC"
+        },
+        "specification": {
+            "Display": {
+                "Size": "6.7 inches",
+                "Type": "Fluid AMOLED",
+                "Resolution": "QHD+ (3216 x 1440)",
+                "Refresh Rate": "120Hz",
+                "Brightness": "500 nits (typ), 800 nits (HBM), 1300 nits (peak)",
+                "Protection": "Corning Gorilla Glass Victus",
+                "Features": [
+                    "Dolby Vision, HDR10+",
+                    "108.4 cm2 (~89.7% screen-to-body ratio)",
+                    "20.1:9 ratio (~525 ppi density)"
+                ]
+            },
+            "Processor": {
+                "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+                "CPU Type": "Octa-core",
+                "CPU Speed": "1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510",
+                "GPU": "Adreno 740"
+            },
+            "Memory": {
+                "RAM": "16GB LPDDR5X",
+                "Internal Storage": "256GB UFS 4.0",
+                "Card Slot": "N/A"
+            },
+            "Rear Camera": {
+                "Resolution": [
+                    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS",
+                    "32 MP, f/2.0, 48mm (telephoto), 1/2.74\", PDAF, 2x optical zoom",
+                    "48 MP, f/2.2, 115˚, (ultrawide), 1/2.0\", AF"
+                ],
+                "Features": "Hasselblad Color Calibration, Dual-LED flash, HDR, panorama",
+                "Video Recording": "8K@24fps, 4K@30/60fps, 1080p@30/60/240fps, Auto HDR, gyro-EIS"
+            },
+            "Front Camera": {
+                "Resolution": "16 MP, f/2.5, 25mm (wide), 1.0µm",
+                "Features": "Auto-HDR, panorama",
+                "Video Recording": "1080p@30fps, gyro-EIS"
+            },
+            "Audio": {
+                "Speaker": "Stereo Speaker",
+                "Audio Features": "24-bit/192kHz audio"
+            },
+            "Network & Connectivity": {
+                "SIM": "Dual nano-SIM slot",
+                "Network": "2G, 3G, 4G, 5G",
+                "Wi-Fi": "2×2 MIMO, Support 2.4G/5G, Wi-Fi 7, Support WiFi 802.11 a/b/g/n/ac/ax/be",
+                "Bluetooth": [
+                    "Bluetooth 5.3",
+                    "Codex supported: aptX HD, aptX, LDAC, LHDC, AAC, SBC"
+                ],
+                "GPS": "GPS (L1+L5 Dual Band), GLONASS, Galileo (E1+E5a Dual Band), Beidou, A-GPS, QZSS",
+                "NFC": "Yes",
+                "USB": "USB Type-C 2.0",
+                "OTG": "Yes",
+                "Audio Jack": "N/A"
+            },
+            "OS": {
+                "Operating System": "Android 13",
+                "Custom UI": "OxygenOS 13.0"
+            },
+            "Features": {
+                "Fingerprint": "In-display (optical)",
+                "Sensors": [
+                    "Accelerometer",
+                    "M-sensor Electronic Compass",
+                    "Gyroscope",
+                    "Ambient Light Sensor",
+                    "Proximity Sensor",
+                    "Sensor Core",
+                    "Flick-detect Sensor"
+                ],
+                "IP Rating": "IP64"
+            },
+            "Battery": {
+                "Type": "Lithium-polymer 5,000 mAh (Dual-cell 2,500 mAh, non-removable)",
+                "Fast Charging": "100W Fast Charging (0-100% in 25 minutes)"
+            },
+            "Physical specification": {
+                "Dimension": "163.1 x 74.1 x 8.5 mm (6.42 x 2.92 x 0.33 in)",
+                "Weight": "205 g (7.23 oz)",
+                "Body Material": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 5), aluminum frame",
+                "Colors": [
+                    "Eternal Green",
+                    "Titan Black"
+                ]
+            },
+            "Warranty Information": {
+                "Warranty": "01-year Official warranty (To claim please visit the nearest OnePlus Service Center)"
+            }
+        },
+        "description": [
+            {
+                "title": "OnePlus 11 5G Smartphone (16/256GB)",
+                "details": "The OnePlus 11 5G has a 6.7-inch QHD+ LTPO2 Fluid AMOLED screen. It has a punch-hole front camera on the left side. The rear camera has a triple 64+48+32 MP resolution, as well as Multi-directional PDAF, laser AF, OIS, telephoto, 2x optical zoom, Hasselblad Color Calibration, 1/1.56\", 1.0m, f/1.8 aperture, and 8K video recording. The front-facing camera has a resolution of 16 Megapixels. The OnePlus 11 5G comes with a 5000 mAh battery that supports 100W fast charging. It has 16 GB of RAM, an octa-core CPU that runs at up to 3.2 GHz, and an Adreno 740 GPU. The Qualcomm Snapdragon 8 Gen 2 (4 nm) chipset powers it. The device has 256 GB of internal storage and no MicroSD card slot. This phone has an optical in-display fingerprint sensor."
+            },
+            {
+                "title": "Qualcomm Snapdragon 8 Gen 2",
+                "details": "The OnePlus 11 5G Smartphone is turbocharged by industry-leading hardware using the Snapdragon 8 Gen 2, LPDDR5X RAM, and up to UFS4.0. This ultimate device is designed for those who are driven to exceed, hypercar-like performance powers your digital journey in the fast lane. The Snapdragon 8 Gen 2 offers up to 4.35X faster AI, 35% faster CPU, and 25% faster rendering."
+            },
+            {
+                "title": "16GB LPDDR5X RAM + 256GB UFS4.0",
+                "details": "OnePlus 11 comes with 16 GB of next-gen LPDDR5X RAM. RAM-Vita compresses apps and intelligently allocates RAM for future-proof fluency. It is up to 33% faster, 30% wider bandwidth, and is 20% more efficient. The phone can keep up to 44 apps alive."
+            },
+            {
+                "title": "5000 mAh Battery + 100W SUPERVOOC Charging",
+                "details": "The OnePlus 11 5G is powered by a 5000 mAh supersized battery. It comes with 100W Charging on Smart Rapid Charge Mode which takes 25 mins to charge 1-100%."
+            },
+            {
+                "title": "3rd Generation Hasselblad Camera for Mobile",
+                "details": "OnePlus 11 is co-developed with Hasselblad. The phone has a Main 50MP IMX890 with OIS Quad-pixel sensor, Aperture f/1.88, AF, Ultra Wide 48MP IMX581 FoV 115°, Sensor Size 1/2\", AF, Portrait Tele 32MP IMX709 RGBW sensor, 2x optical zoom, AF, Accu-spectrum Light-color Identifier 13-channel multi-spectral sensor. Along with the main camera sensor, the IMX709 portrait tele lens delivers DSLR-like depth-tracking, natural bokeh and flares. Benchmarked against Hasselblad optical standards, it simulates professional natural bokeh and flare effects captured by a Hasselblad camera with XCD 30mm and 65mm lenses for portraits in perfection."
+            },
+            {
+                "title": "120 Hz 2K Super Fluid AMOLED with Dolby Vision",
+                "details": "OnePlus 11 5G Smartphone comes with a stunning 6.7” 120 Hz 2K Super Fluid AMOLED display that incorporates advanced LTPO technology. More power-efficient, the refresh rate dynamically scales almost instantly from 1 Hz to 120 Hz with third-generation LTPO calibration."
+            },
+            {
+                "title": "Dual “Reality” Speakers powered by Dolby Atmos",
+                "details": "The OnePlus 11 is equipped with Dolby Atmos. By employing a similar aural structure used in premium laptops, powerful speakers immerse you in our most cinematic audio ever with directional spatial audio. It is fully compatible with Dolby-enabled content on major streaming platforms, including Netflix, Disney+, Paramount+, Amazon Music, Tidal and more. Discover the Dolby difference."
+            },
+            {
+                "title": "Buy OnePlus 11 5G Smartphone (16/256GB) from the best Mobile Shop in Bangladesh: Star Gadget",
+                "details": "In Bangladesh, you can get the original OnePlus 11 5G (16/256GB) From Star Gadget. We have a large collection of the latest OnePlus Mobile Phones to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The OnePlus 11 5G comes with a 01-year Official warranty (To claim please visit the nearest OnePlus Service Center)."
+            }
+        ],
+        "price_info": {
+            "title": "Buy OnePlus 11 5G Smartphone (16/256GB) from the best Mobile Shop in Bangladesh: Star Gadget",
+            "details": "In Bangladesh, you can get the original OnePlus 11 5G (16/256GB) From Star Gadget. We have a large collection of the latest OnePlus Mobile Phones to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The OnePlus 11 5G comes with a 01-year Official warranty (To claim please visit the nearest OnePlus Service Center)."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "This phone is amazing! The camera quality is outstanding, and the 120Hz display is a delight to use.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Impressive battery life and fast charging. I can't ask for more.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "The design and build quality of the OnePlus 11 are top-notch.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "phone",
+        "product_name": "HUAWEI P50 Pro Smartphone (8/256GB)",
+        "price": 90000,
+        "regular_price": 99000,
+        "status": true,
+        "product_code": "00224",
+        "brand": "HUAWEI",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "P50 Pro",
+            "Display": "6.6-inch OLED 120Hz True-Chroma Display",
+            "Processor": "Qualcomm SM8350 Snapdragon 888 4G (5 nm)",
+            "Camera": "Quad 50+64+13+40 MP on Rear, 13MP Front",
+            "Features": "IP68, Under Display Fingerprint"
+        },
+        "specification": {
+            "Display": {
+                "Size": "6.6 inches",
+                "Type": "OLED",
+                "Resolution": "2700 x 1228 Pixels",
+                "Refresh Rate": "Up to 120 Hz",
+                "Features": [
+                    "105.4 cm2 (~91.2% screen-to-body ratio)",
+                    "~450 ppi density"
+                ]
+            },
+            "Processor": {
+                "Chipset": "Qualcomm SM8350 Snapdragon 888 4G (5 nm)",
+                "CPU Type": "Octa-core",
+                "CPU Speed": "1 x Cortex-X1@2.84 GHz + 3 x Cortex-A78@2.42 GHz + 4 x Cortex-A55@1.8 GHz",
+                "GPU": "Adreno 660"
+            },
+            "Memory": {
+                "RAM": "8GB",
+                "Internal Storage": "256GB",
+                "Card Slot": "microSDXC"
+            },
+            "Rear Camera": {
+                "Resolution": [
+                    "50 MP, f/1.8, 23mm (wide), PDAF, Laser AF, OIS",
+                    "64 MP, f/3.5, 90mm (periscope telephoto), PDAF, OIS, 3.5x optical zoom, 7x lossless zoom",
+                    "13 MP, f/2.2, 13mm (ultrawide), AF",
+                    "40 MP, f/1.6, 23mm (B/W), AF"
+                ],
+                "Features": "Leica optics, dual-LED flash, panorama, HDR",
+                "Video Recording": "4K@30/60fps, 1080p@30/60fps, 1080p@960fps; gyro-EIS"
+            },
+            "Front Camera": {
+                "Resolution": "13 MP, f/2.4, (wide), AF",
+                "Features": "Panorama, HDR",
+                "Video Recording": "4K@30fps, 1080p@30/60/240fps"
+            },
+            "Audio": {
+                "Speaker": "Yes",
+                "Audio Features": "HUAWEI Histen, support stereo sound"
+            },
+            "Network & Connectivity": {
+                "SIM": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+                "Network": "GSM / CDMA / HSPA / CDMA2000 / LTE",
+                "Wi-Fi": "2.4 GHz and 5 GHz, 802.11 a/b/g/n/ac/ax, 2 x 2 MIMO, HE160, 4096 QAM, 8 Spatial-stream Sounding MU-MIMO",
+                "Bluetooth": "Bluetooth 5.2, Support BLE, SBC, AAC, LDAC",
+                "GPS": "GPS (L1 + L5 Dual band) / AGPS / GLONASS / BeiDou (B1I + B1C + B2a Tri-band) / GALILEO (E1 + E5a Dual band) / QZSS (L1 + L5 Dual band) / NavIC",
+                "NFC": "Read Write mode, Card Emulation mode (payment by *SIM card, or HCE) is supported.",
+                "USB": "USB Type-C, USB 3.1 GEN1",
+                "OTG": "Yes",
+                "Audio Jack": "USB Type-C earjack"
+            },
+            "OS": {
+                "Operating System": "HarmonyOS 2.0"
+            },
+            "Features": {
+                "Fingerprint": "Under display (optical)",
+                "Sensors": [
+                    "Gravity Sensor",
+                    "Infrared Sensor",
+                    "Fingerprint Sensor",
+                    "Hall Sensor",
+                    "Barometric Pressure Sensor",
+                    "Gyroscope",
+                    "Compass",
+                    "Ambient Light Sensor",
+                    "Proximity Sensor",
+                    "Laser Sensor",
+                    "Colour Temperature Sensor"
+                ],
+                "IP Rating": "IP68"
+            },
+            "Battery": {
+                "Type": "Lithium-polymer 4360 mAh (non-removable)",
+                "Fast Charging": [
+                    "HUAWEI SuperCharge (Max 66 W)",
+                    "Wireless HUAWEI SuperCharge (Max 50 W)"
+                ]
+            },
+            "Physical specification": {
+                "Dimension": "158.8 x 72.8 x 8.5 mm (6.25 x 2.87 x 0.33 in)",
+                "Weight": "195 g (6.88 oz)",
+                "Colors": [
+                    "Golden Black",
+                    "Cocoa Gold"
+                ]
+            },
+            "Warranty Information": {
+                "Warranty": "1 Year Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "HUAWEI P50 Pro Smartphone (8/256GB)",
+                "details": "The HUAWEI P50 Pro is a high-end smartphone that has a 6.6-inch OLED 120Hz True-Chroma Display. The camera system on the HUAWEI P50 Pro is particularly impressive, featuring a quad-camera setup with a 50MP primary sensor, a 64MP telephoto sensor, a 13MP ultrawide sensor, and a 40MP monochrome sensor. This setup allows for exceptional low-light performance, impressive zoom capabilities, and stunning image quality overall. On the front, there is a 13MP selfie camera housed in a centered punch-hole cutout. The HUAWEI P50 Pro features a 4360 mAh battery with 66W fast charging. It has 8GB of Memory, an octa-core Qualcomm SM8350 Snapdragon 888 4G (5 nm), and an Adreno 660 GPU. The smartphone has 256GB of internal storage as well as a dedicated MicroSD slot. This phone has an under-display fingerprint sensor."
+            },
+            {
+                "title": "Buy HUAWEI P50 Pro Smartphone (8/256GB) from the best Mobile Shop in Bangladesh: Star Gadget",
+                "details": "In Bangladesh, you can get the original HUAWEI P50 Pro (8/256GB) From Star Gadget. We have a large collection of the latest HUAWEI Mobile Phones to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The HUAWEI P50 Pro comes with a 01-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of HUAWEI P50 Pro in Bangladesh?",
+            "details": "The latest price of HUAWEI P50 Pro in Bangladesh is 90,000৳. You can buy the HUAWEI P50 Pro at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive smartphone with excellent camera capabilities.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "The 120Hz OLED display is a game-changer for smooth visuals.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "Fast charging and great battery life make this phone a winner.",
+                "user_rating": 4
+            }
+        ]
+    }
+]

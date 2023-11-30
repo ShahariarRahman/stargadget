@@ -1,0 +1,293 @@
+[
+    {
+        "category": "network-security",
+        "product_name": "Tenda TX9 Pro AX3000 Dual-band Gigabit Wi-Fi 6 Router",
+        "price": 6150,
+        "regular_price": 6500,
+        "status": true,
+        "product_code": "00260",
+        "brand": "Tenda",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "TX9 Pro",
+            "Speed": "574Mbps on 2.4GHz band & 2402Mbps on 5GHz band",
+            "Processor": "1.6GHz high-performance Dual-core processor",
+            "Wireless Technology": "OFDMA + MU-MIMO, 802.11ax technology",
+            "Antennas": "4x 6dBi external antennas"
+        },
+        "specification": {
+            "Key Features": {
+                "Data Rate": [
+                    "5GHz: Up to 2402Mbps",
+                    "2.4GHz: Up to 574Mbps"
+                ],
+                "Antenna": "4x 6dBi external antennas",
+                "Button": "1x WPS/Reset button",
+                "Frequency": "Simultaneous dual-band 2.4",
+                "Wireless": [
+                    "IEEE 802.11ac/a/n/ax 5GHz",
+                    "IEEE 802.11b/g/n/ax 2.4GHz"
+                ],
+                "Interface": [
+                    "1x 10/100/1000Mbps WAN port",
+                    "3x 10/100/1000Mbps LAN ports"
+                ],
+                "Network Standard": "IEEE802.3, IEEE802.3u,IEEE802.3ab",
+                "Encryption": [
+                    "WPA-PSK,WPA2-PSK, WPA/WPA2-PSK",
+                    "WPA3-SAE/WPA2-PSK",
+                    "Wireless Security: Enable/Disable",
+                    "WPS(WiFi Protected Set-up) fast encryption"
+                ],
+                "Others": [
+                    "SSID Broadcast: Enable/Disable",
+                    "Transmission Power: high, medium, low",
+                    "Beamforming",
+                    "MU-MIMO",
+                    "Wireless Router Mode",
+                    "AP Mode"
+                ]
+            },
+            "Power Source": {
+                "Power Mode": [
+                    "Input: AC 100-240V~50/60Hz 0.6A",
+                    "Output: DC 12V⎓1.5A"
+                ]
+            },
+            "Physical Dimension": {
+                "Dimension": "272.44 x 162.85 x 43.71mm",
+                "Color": "Black"
+            },
+            "Manufacturer warranty": {
+                "Warranty": "01 Year"
+            }
+        },
+        "description": [
+            {
+                "title": "Tenda TX9 Pro AX3000 Dual-band Gigabit Wi-Fi 6 Router",
+                "details": "The Tenda TX9 Pro comes with a 1.6GHz high-performance Dual-core processor and the operating capacity can reach up to 3000 DMIPS, and NPU processing speeds up to 2220 MHZ. It provides 160MHz bandwidth and 1024-QAM for ultra-fast wireless connection. With a total networking speed of 2976Mbps. It is loaded with OFDMA + MU-MIMO, 802.11ax technology provides greater network capacity and efficiency in congested environments than Wi-Fi 5. The Tenda TX9 Pro comes with 4x 6dBi external antennas for wider Wi-Fi coverage. Both 2.4GHz and 5GHz bands use two external high-performance signal enhancement FEM modules to enhance signal strength. It supports BSS coloring technology and effectively alleviates co-frequency interference. The Tenda TX9 Pro is IPv6 Supported and can shorten the data transmission time between Internet devices and servers. The Tenda TX9 Pro comes with a 1-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Tenda TX9 Pro AX3000 Dual-band Gigabit Wi-Fi 6 Router in Bangladesh?",
+            "details": "The latest price of Tenda TX9 Pro AX3000 Dual-band Gigabit Wi-Fi 6 Router in Bangladesh is 6,150৳. You can buy the Tenda TX9 Pro AX3000 Dual-band Gigabit Wi-Fi 6 Router at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive router with fast speeds and wide coverage.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Great Wi-Fi router for gaming and streaming.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "network-security",
+        "product_name": "TP-Link Archer AX53 AX3000 Dual Band Gigabit Wi-Fi 6 Router",
+        "price": 7400,
+        "regular_price": 8100,
+        "status": true,
+        "product_code": "00261",
+        "brand": "TP-Link",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Archer AX53",
+            "Frequency": "2.4GHz and 5GHz",
+            "Antennas": "4x external fixed 5dBi antennas",
+            "Processor": "Dual-core CPU",
+            "Wireless Technology": "OFDMA Technology"
+        },
+        "specification": {
+            "Key Features": {
+                "Data Rate": [
+                    "5 GHz: 2402 Mbps (802.11ax, HE160)",
+                    "2.4 GHz: 574 Mbps (802.11ax)"
+                ],
+                "Antenna": "4x Fixed High-Performance Antennas",
+                "Button": [
+                    "Wi-Fi/WPS Button",
+                    "Power On/Off Button",
+                    "LED On/Off Button",
+                    "Reset Button"
+                ],
+                "Frequency": [
+                    "IEEE 802.11ax/ac/n/a 5 GHz",
+                    "IEEE 802.11ax/n/b/g 2.4 GHz"
+                ],
+                "Encryption": [
+                    "WPA",
+                    "WPA2",
+                    "WPA3",
+                    "WPA/WPA2-Enterprise"
+                ],
+                "Ports": [
+                    "1x Gigabit WAN Port",
+                    "4x Gigabit LAN Ports"
+                ],
+                "Others": [
+                    "Network Security:",
+                    "SPI Firewall",
+                    "Access Control",
+                    "IP & MAC Binding",
+                    "Application Layer Gateway",
+                    "HomeShield Security",
+                    "Real-Time IoT Protection",
+                    "Malicious Site Blocker",
+                    "Intrusion Prevention System",
+                    "DDoS Attack Prevention",
+                    "Home Network Scanner"
+                ]
+            },
+            "Power Source": {
+                "Power Mode": [
+                    "CE:",
+                    "<20dBm (2.4GHz); <23dBm (5.15GHz~5.35GHz); <30dBm (5.47GHz~5.725GHz)",
+                    "FCC:",
+                    "<30dBm (2.4GHz &5.15GHz~5.25GHz&5.725GHz~5.825GHz)"
+                ]
+            },
+            "Physical Dimension": {
+                "Dimension": [
+                    "10.2 x 5.3 x 1.6 in",
+                    "(260.2 x 135 x 41.6 mm)"
+                ],
+                "Color": "Black"
+            },
+            "Manufacturer warranty": {
+                "Warranty": "1 year Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "TP-Link Archer AX53 AX3000 Dual Band Gigabit Wi-Fi 6 Router",
+                "details": "The TP-Link Archer AX53 AX3000 Router includes a Dual Band Gigabit Wi-Fi 6 Router. It has 802.11ax/n/b/g Wi-Fi technology that provides simultaneous 2.4GHz 574Mbps and 5GHz 2402Mbps connections, making it suitable for speedier downloading, online gaming, Internet calling, and HD video streaming. It is compatible with all 802.11ax/n/b/g devices. The TP-Link Archer AX53 Dual Band Router contains four fixed high-performance antennas. The Dual Band Gigabit Wi-Fi 6 Router provides a wider range over a longer distance. This gives you wireless independence with great signal and coverage in any large home or workplace. The Wi-Fi 6 Router includes Ethernet ports for connecting the primary DSL modem, wired computers, wired printers, and other network devices at ultra-fast wired speeds that are ten times faster than traditional Fast Ethernet connections. The TP-Link Archer AX53 Router offers Client modes, allowing it to provide a variety of wireless solutions. You can choose a suitable wireless mode to construct or extend your wireless network based on your present network topology. There are also WPS, Power On/Off, LED On/Off, and Reset buttons. It provides a simple wireless security setup with the press of a WPS button. The Quick setup, includes a built-in bilingual management page, making it simple to manage. Intelligent bandwidth control manages each computer's bandwidth utilization in a reasonable manner. Fast Ethernet ports offer a fast connection. The TP-Link Archer AX53 AX3000 Dual Band Gigabit Wi-Fi 6 Router comes with 1 Year Warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of TP-Link Archer AX53 Dual Band Gigabit Wi-Fi 6 Router in Bangladesh?",
+            "details": "The latest price of TP-Link Archer AX53 Dual Band Gigabit Wi-Fi 6 Router in Bangladesh is 7,400৳. You can buy the TP-Link Archer AX53 Dual Band Gigabit Wi-Fi 6 Router at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive router with fast speeds and wide coverage.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Great Wi-Fi router for gaming and streaming.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "network-security",
+        "product_name": "ESET Home Office Security Pack New 1-year 5-user",
+        "price": 3700,
+        "status": true,
+        "product_code": "00262",
+        "brand": "Eset",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "ESET Home Office Security Pack",
+            "System": "Low System Demands",
+            "Management": "Remote Management",
+            "Other": "Mail Security"
+        },
+        "specification": {},
+        "description": [
+            {
+                "title": "ESET Home Office Security Pack New 1-year 5-user",
+                "details": "Office Pack includes: Endpoint Security or Endpoint Antivirus (5 seats); Endpoint Security for Mobile (5 seats); File Security (1 server)"
+            },
+            {
+                "title": "Combine Your Security Options",
+                "details": "No matter the operating system on your computers or smartphones, protect them all. File Server and Endpoint Protection for Windows, OS X, Linux or Android as you need, without wasting a single license."
+            },
+            {
+                "title": "Manage Security Efficiently",
+                "details": "Freeing up valuable IT resources, you can manage network security from one console. The solutionâ€™s small system footprint extends lifetime of older machines."
+            },
+            {
+                "title": "Always the Latest Protection",
+                "details": "If there is a newer version of the installed products, upgrade for free. You will always have access to the latest technology. New computer in the network? Transfer the license and stay protected."
+            },
+            {
+                "title": "Mail Security",
+                "details": "Secures company mail traffic with proven detection technology. Protects the whole server â€“ mailboxes and the server environment, no matter the operating system."
+            }
+        ],
+        "price_info": {},
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Great security software for our office!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Easy to manage and provides excellent protection.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "network-security",
+        "product_name": "Microsoft Windows 11 Professional 64 Bit ENG Intl 1PK DSP OEI DVD",
+        "price": 20200,
+        "regular_price": 22220,
+        "status": true,
+        "product_code": "00263",
+        "brand": "Microsoft",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Windows 11 Professional",
+            "Processor": "1 gigahertz (GHz) or faster with 2 or more cores",
+            "Memory": "4 GB RAM",
+            "Storage": "64 GB or larger storage",
+            "Trusted Platform Module (TPM) version": "2.0",
+            "License Type": "Perpetual (Life Time)"
+        },
+        "specification": {
+            "Requirements": {
+                "Processor": "1 gigahertz (GHz) or faster with 2 or more cores on a compatible 64-bit processor or System on a Chip (SoC)",
+                "RAM": "4 GB RAM",
+                "Storage": "64 GB or larger storage device",
+                "Others": [
+                    "TPM: Trusted Platform Module (TPM) version 2.0.",
+                    "Graphics card: DirectX 12 compatible graphics / WDDM 2.x",
+                    "Display Resolution: >9\" with HD Resolution (720p)"
+                ]
+            },
+            "License": {
+                "License Type": "Retail Box"
+            }
+        },
+        "description": [
+            {
+                "title": "Microsoft Windows 11 Professional 64 Bit ENG Intl 1PK DSP OEI DVD",
+                "details": "The Windows 11 Pro is here! It comes with many incredibly useful features. It is built on the consistent and compatible Windows 10 foundation. Windows 11 is designed for powerful security and a great user experience across a wide range of devices and configurations. Windows 11 can be managed with your familiar tools and processes. Improve your focus with a simpler, more intuitive experience and effortless navigation. Get things done with fewer steps using the refreshed Start, Taskbar, and Navigation Center. You can snap the apps you need into a group and seamlessly return to it even when you open another app or dock and undock your monitor. You can create a custom desktop for each project and switch instantly between them from your taskbar. You can also type with your voice that instantly turns your ideas into text. Window 11 offers smarter collaboration with Teams. You can mute and unmute your mic directly from your taskbar without having to find and click on your meetings app and instantly share any app or window directly from your taskbar in online meetings. The next evolution of Windows is here."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Microsoft Windows 11 Professional in Bangladesh?",
+            "details": "The latest price of Microsoft Windows 11 Professional in Bangladesh is 20,200৳. You can buy the Microsoft Windows 11 Professional at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Fantastic upgrade from Windows 10, love the new features and improved performance.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Windows 11 is sleek and user-friendly. I'm enjoying using it.",
+                "user_rating": 4
+            }
+        ]
+    }
+]

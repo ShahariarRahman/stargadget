@@ -1,0 +1,460 @@
+[
+    {
+        "category": "earbuds",
+        "product_name": "JBL Tour Pro 2 Smart True Wireless Earbuds",
+        "price": 32500,
+        "regular_price": 48950,
+        "status": true,
+        "product_code": "00520",
+        "brand": "JBL",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "JBLTOURPRO2BLKAM",
+            "Model": "Tour Pro 2",
+            "Spatial Audio": "JBL Spatial Sound",
+            "Noise Cancellation": "True Adaptive Noise Cancelling with Smart Ambient",
+            "Microphone": "6-Mic Perfect Calls with Voice Control",
+            "Charging": "Wireless Charging"
+        },
+        "specification": {
+            "Main Feature": {
+                "Frequency": "20 Hz - 20 kHz",
+                "Impedance": "16 ohm",
+                "Sound level/Sensitivity": "100 dB SPL@1 kHz",
+                "Connection Type": "Wireless",
+                "Microphone": 6,
+                "Battery": [
+                    "Earbud battery type: Lithium-ion polymer (70 mAh/ 3.85 V)",
+                    "Charging case battery type: Lithium-ion polymer (850 mAh/ 3.8 V)"
+                ],
+                "Duration": [
+                    "Charging time: 2 hrs from empty",
+                    "Music playtime with BT on and ANC off: up to 10 hrs",
+                    "Music playtime with BT on and ANC on: up to 8 hrs",
+                    "Music playtime with BT on and True Adaptive ANC on: up to 6 hrs",
+                    "Talk time with ANC off: up to 6 hrs",
+                    "Talk time with ANC on: up to 5.5 hrs"
+                ]
+            },
+            "Physical Specification": {
+                "Drivers": "10 mm/ 0.394” Dynamic Driver",
+                "Weight": [
+                    "Earbud: 6.1 g per pc (12.2 g combined)/ 0.01345 lbs per pc (0.0269 lbs combined)",
+                    "Charging case: 73 g/ 0.1609 lbs"
+                ],
+                "Color": [
+                    "Black",
+                    "Champagne"
+                ]
+            },
+            "Warranty": {
+                "Warranty": "No Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "JBL Tour Pro 2 Smart True Wireless Earbuds",
+                "details": "JBL Tour Pro 2 True Wireless Earbuds feature the world's first smart case for a seamless experience. True Adaptive Noise Cancelling technology filters away distractions so you can enjoy your favorite songs in great spatial audio on the fly. The one-of-a-kind smart charging case gives you immediate access to all major earbuds features without the need for a smartphone app. All App functions are accessible via the smart case from non-smartphone devices such as laptops, PCs, televisions, and so on. JBL Tour Pro 2's smart charging case has a 1.45-inch display to control important JBL Headphones App features without using your phone for a totally seamless experience. The revolutionary Bluetooth-enabled smart charging case allows you to immerse yourself in multidimensional audio for up to 40 hours on a single charge. The 6-mic technology of JBL Tour Pro 2 offers outstanding call quality in every situation. Turn on Personal Sound Amplification to increase the loudness of your and others' voices without having to remove your earbuds."
+            },
+            {
+                "title": "Seamless Control with Smart Case",
+                "details": "The JBL Tour Pro 2's Smart Case adds a new level of convenience. Manage your earbuds' settings, answer calls, control playing, modify audio settings, and even set alarms from the charging case's screen. Say goodbye to having to take out your phone. JBL Tour Pro 2 offers a totally seamless experience with this one-of-a-kind smart charging case, independent of your phone or the JBL Headphones App."
+            },
+            {
+                "title": "True Adaptive Noise Cancelling with Smart Ambient",
+                "details": "Enjoy your favorite music without interruptions wherever you are. With the help of four noise-sensing microphones, the True Adaptive Noise Cancelling technology in the JBL Tour Pro 2 allows you to adjust to your environment in real time. When you need to focus, this reduces disruptions, and the JBL Headphones app lets you fine-tune ANC mode management."
+            },
+            {
+                "title": "Crystal-Clear Calls with 6-Mic Voice Control",
+                "details": "Thanks to the JBL Tour Pro 2's 6-mic crystal call technology, enjoy crystal-clear conversations even in noisy or windy conditions. It also supports voice assistant integration, allowing you to easily access your favorite voice assistant. You can manage how much background noise you hear using VoiceAware."
+            },
+            {
+                "title": "Smart Ambient Technology",
+                "details": "Stay connected to the world around you while enjoying your music. Smart Ambient technology of JBL Tour Pro 2 puts you in control, with easy button access and customization options through the JBL Headphones app."
+            },
+            {
+                "title": "Legendary Pro Sound",
+                "details": "JBL Tour Pro 2 Earbuds come equipped with 10mm dynamic drivers to deliver deep, powerful bass. It has a better sound curve that offers precise, distortion-free audio at any frequency or level."
+            },
+            {
+                "title": "Immersive JBL Spatial Sound",
+                "details": "JBL Tour Pro 2 Smart True Wireless Earbuds feature JBL Spatial Sound that brings you to a theater, concert, or recording studio with your favorite musicians. This patented technology converts any source or device into a surround sound experience."
+            },
+            {
+                "title": "Personalized Sound Amplification",
+                "details": "Personal Sound Amplification on the JBL Tour Pro 2 lets you change the balance and boost conversation loudness by +15–20dB, enhancing talks."
+            },
+            {
+                "title": "Hands-Free Voice Control",
+                "details": "Voice control allows you to stay connected to your digital environment. Simply say \"Hey Google\" or \"Alexa\" to activate your favorite voice assistant and control your JBL Tour Pro 2 earbuds with multilingual speech prompts."
+            },
+            {
+                "title": "Fast Pair Enabled by Google and Microsoft Swift Pair",
+                "details": "With Google Fast Pair, you can easily connect your JBL Tour Pro 2 True Wireless Earbuds with a single press. Microsoft Swift Pair allows you to pair Bluetooth devices with your Windows 10 PC in a smooth manner."
+            },
+            {
+                "title": "Total Control with the JBL Headphones App",
+                "details": "The JBL Headphones app allows you to customize your audio experience. Customize your EQ, enable Adaptive Noise Cancellation, alter ambient sound settings, find your earphones, and more. You may also customize gesture controls, optimize audio or video output, and select your preferred voice assistant."
+            },
+            {
+                "title": "Bluetooth 5.3 LE Audio",
+                "details": "The JBL Tour Pro 2 features Bluetooth 5.3 for a stable and secure wireless connection. Stay ahead with the latest Bluetooth technology, making your JBL Tour Pro 2 virtually future-proof."
+            },
+            {
+                "title": "Buy JBL Tour Pro 2 Smart True Wireless Earbuds from Star Gadget",
+                "details": "In Bangladesh, you can get original JBL Tour Pro 2 Smart True Wireless Earbuds From Star Gadget. We have a large collection of latest JBL Earbuds to purchase for your mobile phone. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The JBL Tour Pro 2 Smart True Wireless Earbuds come with no warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of JBL Tour Pro 2 Smart True Wireless Earbuds in Bangladesh?",
+            "details": "The latest price of JBL Tour Pro 2 Smart True Wireless Earbuds in Bangladesh is 32,500৳. You can buy the JBL Tour Pro 2 Smart True Wireless Earbuds at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive earbuds with excellent noise cancellation and sound quality.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Great for calls, very clear and comfortable to wear.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "earbuds",
+        "product_name": "Jabra Evolve2 Buds USB-A ANC Earbuds",
+        "price": 27900,
+        "regular_price": 30500,
+        "status": true,
+        "product_code": "00521",
+        "brand": "Jabra",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "20797-999-999",
+            "Model": "Evolve2 Buds",
+            "Speaker size": "6 mm",
+            "Microphone type": "MEMS",
+            "Bluetooth version": "5.2",
+            "IP rating": "IP57"
+        },
+        "specification": {
+            "Main Feature": {
+                "Frequency": [
+                    "Music mode: 20Hz - 20000Hz",
+                    "Speak mode: 80Hz - 8000Hz"
+                ],
+                "Connection Type": "Bluetooth, USB-A Bluetooth adapter",
+                "Microphone": "MEMS",
+                "Battery": [
+                    "Rechargeable lithium-ion battery",
+                    "Charging time: Up to 3 hours",
+                    "Fast charge: Up to 1-hour use, when charging earbuds for 10 minutes in charging case"
+                ],
+                "Duration": [
+                    "Earbuds and charging case: Up to 21 hours",
+                    "Battery life total with ANC (earbuds and charging case): Up to 33 hours",
+                    "Music time ANC off (earbuds): Up to 10 hours",
+                    "Music time with ANC (earbuds): Up to 8 hours",
+                    "Talk time (earbuds): Up to 5 hours",
+                    "Wireless charging: Yes",
+                    "Charging time: Up to 120 minutes",
+                    "Fast charge: 5 minutes will give up to 1 hour",
+                    "Standby time: Up to 292 days",
+                    "Corded charging: USB-C",
+                    "Sleep mode: Yes"
+                ]
+            },
+            "Physical Specification": {
+                "Connector": "Bluetooth 5.2",
+                "Drivers": "6mm | 0.236in",
+                "Dimensions": [
+                    "Main unit dimensions (WxHxD) 19mm x 16mm x 18mm | 0.75in x 0.63in x 0.69in",
+                    "Charging case dimensions (WxHxD) 75mm x 38mm x 28mm | 2.95in x 1.51in x 1.12in"
+                ],
+                "Weight": [
+                    "Weight: 5.4g | 0.2oz",
+                    "Earbud weight (each earbud): 5.4g | 0.2oz",
+                    "Weight (charging case): 52g | 1.83oz"
+                ],
+                "Color": "Black"
+            },
+            "Warranty": {
+                "Warranty": "02-Year Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "Jabra Evolve2 Buds USB-A ANC Earbuds",
+                "details": "The Jabra Evolve2 Buds USB-A ANC Earbuds are your portable office companion. Stay connected and productive on the go with these compact and feature-packed earbuds. Enjoy crystal-clear calls, seamless device switching, and convenient notifications. Experience comfort, long battery life, and exceptional audio quality. Upgrade your remote work setup with Jabra Evolve2 Buds USB-A ANC Earbuds for enhanced productivity."
+            },
+            {
+                "title": "Up to 33 Hours of Battery",
+                "details": "The Evolve2 Buds can last up to 33 hours with their convenient case, and if you do run out of juice, a super-rapid charging function will give you back an hour of power in only five minutes. If you purchase the package, the wireless charging pad is also included, and the case is Qi-certified for wireless charging. They exert as much effort as you do."
+            },
+            {
+                "title": "Noise Cancellation",
+                "details": "Whenever (and whenever) you need a quiet moment, you can find one thanks to the effective pairing of a tight, noise-isolating fit with Active Noise Cancellation (ANC). In order to get the best seal for ANC performance, use the MyFit function in the Jabra Sound+ app."
+            },
+            {
+                "title": "Plug-And-Play USB",
+                "details": "This Jabra Evolve2 Buds tiny, strong USB adaptor strengthens and stabilizes your connection, resulting in fewer dropouts and a wireless range of up to 20 meters (65 feet). Your new secret weapon is that."
+            },
+            {
+                "title": "Advanced Bluetooth Multipoint",
+                "details": "Multiple devices must be managed when working from different places. It is simple thanks to Advanced Bluetooth Multipoint, which keeps your smartphone and laptop linked simultaneously. Never before has it been so simple to change things around."
+            },
+            {
+                "title": "Buy Jabra Evolve2 Buds USB-A ANC Earbuds from Star Gadget",
+                "details": "In Bangladesh, you can get original Jabra Evolve2 Buds USB-A ANC Earbuds From Star Gadget. We have a large collection of latest Jabra Earbuds to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The Jabra Evolve2 Buds USB-A ANC Earbuds come with a 02-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Jabra Evolve2 Buds USB-A ANC Earbuds in Bangladesh?",
+            "details": "The latest price of Jabra Evolve2 Buds USB-A ANC Earbuds in Bangladesh is 27,900৳. You can buy the Jabra Evolve2 Buds USB-A ANC Earbuds at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "Great earbuds for work, especially during online meetings. Noise cancellation works well.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user4@example.com",
+                "review_comment": "The battery life is impressive, and the wireless charging feature is convenient.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "earbuds",
+        "product_name": "Apple AirPods Pro 2nd Generation",
+        "price": 27500,
+        "regular_price": 30250,
+        "status": true,
+        "product_code": "00522",
+        "brand": "Apple",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "MQD83AM/A, MQD83ZP/A",
+            "Model": "AirPods Pro (2nd Generation)",
+            "Spatial Audio": "Personalized Spatial Audio with dynamic head tracking",
+            "Noise Cancellation": "Active Noise Cancellation and Adaptive Transparency",
+            "Protection": "Sweat and water resistant",
+            "Listening Time": "Up to 6 hours"
+        },
+        "specification": {
+            "Main Feature": {
+                "Connection Type": "Bluetooth 5.3 wireless technology",
+                "Microphone": [
+                    "Dual beamforming microphones",
+                    "Inward-facing microphone"
+                ],
+                "Battery": [
+                    "Charging Case",
+                    "Works with MagSafe charger, Apple Watch charger, Qi-certified chargers, or the Lightning connector"
+                ],
+                "Duration": [
+                    "AirPods Pro:",
+                    "Up to 6 hours of listening time on a single charge (up to 5.5 hours with Personalized Spatial Audio and Head Tracking enabled)",
+                    "Up to 4.5 hours of talk time with a single charge",
+                    "AirPods Pro with MagSafe Charging Case:",
+                    "Up to 30 hours of listening time",
+                    "Up to 24 hours of talk time",
+                    "5 minutes in the case provides around 1 hour of listening time or around 1 hour of talk time"
+                ],
+                "Others": [
+                    "Audio Technology:",
+                    "Active Noise Cancellation",
+                    "Adaptive Transparency",
+                    "Personalized Spatial Audio with dynamic head tracking",
+                    "Adaptive EQ",
+                    "Vent system for pressure equalization\n",
+                    "Sensors:",
+                    "Skin-detect sensor",
+                    "Motion-detecting accelerometer",
+                    "Speech-detecting accelerometer",
+                    "Touch control\n",
+                    "Chip:",
+                    "Apple H2 headphone chip",
+                    "Apple U1 chip in MagSafe Charging Case\n",
+                    "Controls:",
+                    "Press once to play, pause, or answer a phone call",
+                    "Press twice to skip forward",
+                    "Press three times to skip back",
+                    "Press and hold to switch between Active Noise Cancellation and Adaptive Transparency",
+                    "Swipe up or down to adjust volume",
+                    "Say “Hey Siri” to do things like play a song, make a call, or get directions\n",
+                    "Sweat and Water Resistant:",
+                    "Sweat and water-resistant (IPX4): AirPods Pro and charging case"
+                ]
+            },
+            "Physical Specification": {
+                "Connector": "Lightning Connector",
+                "Drivers": [
+                    "Custom high-excursion Apple driver",
+                    "Custom high dynamic range amplifier"
+                ],
+                "Dimensions": [
+                    "AirPods Pro (each):",
+                    "Height: 1.22 inches (30.9 mm)",
+                    "Width: 0.86 inch (21.8 mm)",
+                    "Depth: 0.94 inch (24.0 mm)",
+                    "MagSafe Charging Case:",
+                    "Height: 1.78 inches (45.2 mm)",
+                    "Width: 2.39 inches (60.6 mm)",
+                    "Depth: 0.85 inch (21.7 mm)"
+                ],
+                "Weight": [
+                    "AirPods Pro (each): 0.19 ounce (5.3 grams)",
+                    "MagSafe Charging Case: 1.79 ounces (50.8 grams)"
+                ],
+                "Color": "White"
+            },
+            "Warranty": {
+                "Warranty": "No Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "Apple AirPods Pro 2nd Generation",
+                "details": "The AirPods Pro 2nd generation has been re-engineered to deliver up to 2x more Active Noise Cancellation. It offers Adaptive Transparency reducing external noise, while Personalized Spatial Audio which immerses you in sound. With a single charge, it can deliver up to 6 hours of battery life. Touch control lets you easily adjust the volume with a swipe. The revamped MagSafe Charging Case comes with its own Precision Finding, a built-in speaker, and a lanyard loop."
+            },
+            {
+                "title": "Superior audio quality",
+                "details": "The Apple AirPods Pro 2nd Generation is powered by an upgraded H2 chip. It offers smarter noise cancellation and three-dimensional sound. Adaptive EQ tunes music to your ears in real time to deliver crisp, clean high notes and deep, rich bass in stunning clarity."
+            },
+            {
+                "title": "Up to 2x more noise cancellation",
+                "details": "Apple AirPods Pro now cancels twice as much unwanted noise, so nothing interrupts your listening during a commute and when you need to focus. And Adaptive Transparency reduces and adjusts the intensity of loud noises at 48,000 times per second, so you can comfortably stay connected to the world around you in any setting."
+            },
+            {
+                "title": "Personalized listening",
+                "details": "Apple AirPods Pro 2nd Gen offers personalized Spatial Audio with dynamic head tracking that tailors the listening experience by precisely placing sound elements in the space around you. Adaptive EQ tunes music to your ears, so you hear consistently detailed playback, every time."
+            },
+            {
+                "title": "Expanded battery life",
+                "details": "The Apple AirPods Pro 2nd Gen can offer up to 6 hours of listening time on a single charge, and up to 30 hours of listening time with the MagSafe Charging Case. You can recharge the MagSafe Charging Case with an Apple Watch or MagSafe charger. You can also use the Lightning connector or a Qi-certified charger."
+            },
+            {
+                "title": "Redesigned charging case",
+                "details": "The re-engineered MagSafe Charging Case includes the U1 chip with Precision Finding to help you identify the location of your case. And if you\"re nearby and it\"s tucked away you can play sounds from the built-in speaker. A built-in lanyard loop lets you attach your case to a backpack or handbag, so it\"s always within reach. And both AirPods Pro and the MagSafe Charging Case are built to brave the elements, with IPX4 sweat and water resistance."
+            },
+            {
+                "title": "More magical than ever",
+                "details": "AirPods Pro 2nd generation delivers an even more effortless experience than the original model. It offers touch control which lets you manage playback functions from the stem and adjust volume with a light swipe up or down. You can easily share a song or show between any two sets of AirPods with Audio Sharing. AirPods Pro connects to your iPhone or Apple Watch, and sound moves seamlessly when you switch between your favorite Apple devices."
+            },
+            {
+                "title": "Buy Apple AirPods Pro 2nd Generation from the best Earbuds Shop in Bangladesh: Star Gadget",
+                "details": "In Bangladesh, you can get original Apple AirPods Pro 2nd Generation From Star Gadget. We have a large collection of latest Apple AirPods to purchase for your iPhone and other Apple devices. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The Apple AirPods Pro 2nd Generation comes with no warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Apple AirPods Pro 2nd Generation in Bangladesh?",
+            "details": "The latest price of Apple AirPods Pro 2nd Generation in Bangladesh is 27,500৳. You can buy the Apple AirPods Pro 2nd Generation at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive noise cancellation and sound quality. Comfortable for long-time use.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "The personalized spatial audio is a game-changer. The attention to detail is remarkable.",
+                "user_rating": 4.5
+            }
+        ]
+    },
+    {
+        "category": "earbuds",
+        "product_name": "Apple AirPods 3rd generation with Charging Case",
+        "price": 22500,
+        "regular_price": 24750,
+        "status": true,
+        "product_code": "00523",
+        "brand": "Apple",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "MME73AM/A \\ MME73ZA/A / MPNY3AM/A",
+            "Model": "Apple AirPods 3rd generation",
+            "Spatial Audio": "Spatial audio with dynamic head tracking",
+            "Adaptive EQ": "Adaptive EQ Adjust Music in Real-Time",
+            "Protection": "IPX4 Sweat & Water Resistance",
+            "Listening Time": "Up to 6 hours of listening time"
+        },
+        "specification": {
+            "Main Feature": {
+                "Connection Type": "Bluetooth 5.0",
+                "Microphone": [
+                    "Dual beamforming microphones",
+                    "Inward-facing microphone"
+                ],
+                "Battery": [
+                    "AirPods:",
+                    "Up to 6 hours of listening time with a single charge (up to 5 hours with spatial audio enabled)",
+                    "Up to 4 hours of talk time with a single charge\n",
+                    "AirPods with MagSafe Charging Case:",
+                    "Up to 30 hours of listening time",
+                    "Up to 20 hours of talk time",
+                    "5 minutes in the case provides around 1 hour of listening time or around 1 hour of talk time\n",
+                    "Charging Case works with MagSafe charger, Qi-certified chargers, or the Lightning connector"
+                ],
+                "Others": [
+                    "Sensors:",
+                    "Skin-detect sensor",
+                    "Motion-detecting accelerometer",
+                    "Speech-detecting accelerometer",
+                    "Force sensor\n",
+                    "Controls:",
+                    "Press once to play, pause, or answer a phone call",
+                    "Press twice to skip forward",
+                    "Press three times to skip back",
+                    "Press and hold for Siri",
+                    "Say “Hey Siri” to do things like play a song, make a call, or get directions\n",
+                    "Sweat and water resistant (IPX4)"
+                ],
+                "Physical Specification": {
+                    "Drivers": [
+                        "Custom high-excursion Apple driver",
+                        "Custom high dynamic range amplifier",
+                        "Spatial audio with dynamic head tracking",
+                        "Adaptive EQ",
+                        "H1 headphone chip"
+                    ],
+                    "Weight": [
+                        "Each Earpiece: 0.15 ounce (4.28 grams)",
+                        "Charging Case: 1.34 ounces (37.91 grams)"
+                    ],
+                    "Color": "White"
+                },
+                "Warranty": {
+                    "Warranty": "No warranty"
+                }
+            },
+            "description": [
+                {
+                    "title": "Apple AirPods 3rd generation with Charging Case",
+                    "details": "The All-new Apple AirPods 3rd generation comes with Spatial Audio and dynamic head tracking that places sound all around you. It is equipped with Adaptive EQ that tunes the music to your ears. Inward-facing microphones detect what youâ€™re hearing, then adjust low- and mid-range frequencies to deliver the rich details in every song, customized for you in real-time. The force sensor gives you control over your entertainment. You can press to play, pause, skip through songs, or answer and end calls. It also has a longer battery life that charges up in a snap. You can Wirelessly and effortlessly recharge the MagSafe Charging Case on a MagSafe charger. The case gives you up to 30 hours of total listening time and charging AirPods in the case for just 5 minutes generates around an hour of listening time. It is equipped with an enhanced skin-detect sensor that knows the difference between your ear and other surfaces, so audio only plays when youâ€™re wearing AirPods and pauses when theyâ€™re in your pocket or on a table. You can track down your AirPods with the Find My app. See how close they are with proximity view, get separation alerts if theyâ€™re out of Bluetooth range. It has an IPX4 rating for Sweat & Water Resistance. Both AirPods and the MagSafe Charging Case are rated IPX4 sweat and water-resistant, so theyâ€™ll withstand anything from rain to heavy workouts. The Apple AirPods 3rd generation comes with no warranty."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of Apple AirPods 3rd generation with Charging Case in Bangladesh?",
+                "details": "The latest price of Apple AirPods 3rd generation with Charging Case in Bangladesh is 22,500৳. You can buy the Apple AirPods 3rd generation with Charging Case at best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "user3@example.com",
+                    "review_comment": "Fantastic audio quality and the spatial audio feature is impressive.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user4@example.com",
+                    "review_comment": "Comfortable to wear for extended periods, and the battery life is excellent.",
+                    "user_rating": 4
+                }
+            ]
+        }
+    }
+]

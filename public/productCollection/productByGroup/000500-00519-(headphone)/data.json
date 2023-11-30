@@ -1,0 +1,329 @@
+[
+    {
+        "category": "headphone",
+        "product_name": "Beyerdynamic DT 1990 Pro Open Studio Headphone",
+        "price": 91000,
+        "regular_price": 98000,
+        "status": true,
+        "product_code": "00500",
+        "brand": "Beyerdynamic",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "DT 1990 Pro",
+            "Type": "Circumaural headphones",
+            "Ear Pads": "Soft, Replaceable",
+            "Cable": "Single-Sided, Detachable",
+            "Driver": "45-mm dynamic Tesla Neodymium"
+        },
+        "specification": {
+            "Technical Specification": {
+                "Driver Magnet": "45-mm dynamic Tesla neodymium driver",
+                "Frequency Range": "5 - 40,000 Hz",
+                "Impedance": "250 ohms",
+                "Sensitivity": "102 dBSPL",
+                "Input Jack": "3-pin XLR plug, 6.35 mm (1/4\") stereo jack plug, 3 m straight cable & 5 m coiled cable",
+                "Driver Diameter": "45-mm",
+                "Connectivity": "Wired"
+            },
+            "Physical Specification": {
+                "Weight": "370 g",
+                "Color": "Black"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "No Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "Beyerdynamic DT 1990 Pro Open Studio Headphone",
+                "details": "The DT 1990 PRO are handcrafted in Germany. From the smart headband through to the aluminium end pieces, the new professional headphones are real head-turners due to their exceptionally meticulous craftsmanship with a real focus on quality and durability. Uncompromising benchmark-setting studio headphones for sophisticated listening, mixing and mastering. For decades now, professional users all around the world have placed their trust in beyerdynamic studio headphones. They have earned the trust and respect of music producers, sound technicians and broadcasters and have established themselves as a firm favourite in studios all over the world. Power and precision are critical requirements when it comes to sound reproduction. The efficiency of our latest Tesla driver technology is characterised emphatically by high resolution and high output power. Brilliant highs, a richly detailed midrange and precise bass combine to ensure a sublime sound quality that is second to none. Together with the open-back design, the high-resolution Tesla drivers of the beyerdynamic DT 1990 headphones ensure a wide, dynamic and extremely natural stereo image. Titanium-coated acoustic fabric and carefully selected precision-woven textiles round off the balanced sound quality of these dynamic studio headphones. Choose between a well-balanced sound or deliberately analytical sound tuning thanks to two sets of interchangeable velour ear pads. The open, circumaural design offers a natural and extremely spatial sound. The DT 1990 PRO Tesla headphones' optimized spatial sound reproduction makes them a reliable reference for mixing and mastering applications. The perfected design of the DT 1990 PRO combines innovation with decades of expertise in headphone technology. High-tech textiles and ear pads make the headphones exceptionally comfortable. They are so comfortable you will almost forget you are wearing them."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Beyerdynamic DT 1990 Pro Headphone in Bangladesh?",
+            "details": "The latest price of Beyerdynamic DT 1990 Pro Headphone in Bangladesh is 91,000৳. You can buy the Beyerdynamic DT 1990 Pro Headphone at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive build quality and exceptional sound clarity.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Comfortable for long listening sessions, highly recommended.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "headphone",
+        "product_name": "Jabra Evolve2 75 MS DUO Bluetooth & USB Type A Head Set Black (Without Stand)",
+        "price": 34800,
+        "regular_price": 38500,
+        "status": true,
+        "product_code": "00501",
+        "brand": "Jabra",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "27599-999-999",
+            "Model": "EVOLVE2 75",
+            "Wireless range (ft)": "Up to 100 feet",
+            "Certifications": "MS Teams",
+            "Features": "Busylight, Calls controls, Voice guidance",
+            "Others": "Best-in-class. Boom., HearThrough"
+        },
+        "specification": {
+            "Technical Specification": {
+                "Frequency Range": [
+                    "Speaker frequency range: 20Hz - 20000Hz",
+                    "Speaker bandwidth (music mode): 20Hz - 20000Hz",
+                    "Speaker bandwidth (speak mode): 100Hz - 8000Hz"
+                ],
+                "Connectivity": [
+                    "Connectivity: USB-A/USB-C Bluetooth adapter, Bluetooth",
+                    "Bluetooth profiles: A2DP v1.3, AVRCP v1.6, HFP v1.8, HSP v1.2, PBAP v1.1, SPP v1.2",
+                    "Bluetooth version: 5.2",
+                    "Operating range: Up to 30m / 100ft",
+                    "Paired devices: Up to 8 devices",
+                    "On-head detection: Yes"
+                ],
+                "Others": [
+                    "Operating temperature: -10°C to 45°C / 14°F to 113°F",
+                    "Storage temperature: -10°C to 45°C / 14°F to 113°F",
+                    "User hearing protection: PeakStop, EU noise at work, G616, Jabra SafeToneTM",
+                    "Certifications and compliance: Microsoft Teams, MFi, Zoom, Amazon Alexa Built-in",
+                    "Microphone type: 4 Analog MEMS / 4 Digital MEMS",
+                    "Audio codecs supported: AAC, SBC",
+                    "Speaker max input power: 30 mW"
+                ]
+            },
+            "Physical Specification": {
+                "Dimensions": "145mm x 67mm x 190mm / 5.71in x 2.64in x 7.48in",
+                "Weight": "197g / 6.9oz (stereo variant)",
+                "Color": "Black",
+                "Cable Length": "1.2m / 3.9ft"
+            },
+            "Microphone": {
+                "Frequency": "Microphone frequency range: Analog 5Hz - 20000Hz / Digital 100Hz - 8000Hz",
+                "Sensitivity": "-35 dBv/Pa (analog microphone)/-26 dBFS/Pa (digital microphone)",
+                "Pick-up Pattern": "cushion pattern"
+            }
+        },
+        "Warranty Information": {
+            "Manufacturing Warranty": "2 years"
+        },
+        "description": [
+            {
+                "title": "Jabra Evolve2 75 USB-A MS Teams Stereo Headset",
+                "details": "The Jabra Evolve2 75 USB-A MS Teams Stereo Headset has replaced previous hybrid working standards. Industry-leading call quality thanks to top-notch audio engineering. With this intelligent headset, you can stay connected and productive from the first call of the day to the last train home. With an ergonomic earcup design, this headset invented a brand-new dual-foam technology. You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions. So that you may receive Active Noise-Cancellation (ANC) performance that is even greater in a headset that you can wear for whatever length you wish. The headset also offers MS Teams Certifications and other features like Busylight, Calls controls, Voice guiding, and Wireless range (ft): Up to 100 feet."
+            },
+            {
+                "title": "Best-in-class. Boom",
+                "details": "The most recent Jabra Evolve2 75 USB-A MS Teams Stereo Headset offers professional-grade call performance that leads the industry, yet Evolve2 75 wins best-in-class. Additionally, this includes a redesigned microphone boom arm that is 33 percent shorter than the Evolve 75 and offers the industry-leading call performance for which Jabra headsets are known. It complies with Microsoft's Open Office criteria and is specially tuned for outstanding conversations in open-plan workplaces and other loud environments when the microphone boom arm is lowered in Performance Mode."
+            },
+            {
+                "title": "Concentration mode: activated",
+                "details": "The headset has advanced active noise-cancellation technology (ANC). To safeguard your attention, it allowed the sophisticated feedforward and feedback dual hybrid ANC to work. From the train to the street, the cafe, the airport, and then back to the workplace. Anywhere you are, it makes it easier to focus."
+            },
+            {
+                "title": "Three advanced chipsets. Three times the power",
+                "details": "This Jabra Evolve2 75's impressive capabilities are all supported by a sophisticated ecosystem comprised of three potent digital chipsets. These combine to make the headset quicker, more powerful, and smarter than before."
+            },
+            {
+                "title": "Stay flexible. Stay connected",
+                "details": "If you are on a call, you may still use this headset because it has excellent call performance within a 30-meter wireless range. You may connect to both your smartphone and laptop. so that you may travel away from your workstation without losing connection.\n\nThe headset is also featured with Busylight, Calls controls, Voice guidance, Wireless range (ft): Up to 100 feet, and also it has MS Teams Certifications. This Latest Jabra Evolve2 75 USB-A MS Teams Stereo Headset has 02 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Jabra Evolve2 75 USB-A MS Teams Stereo Headset in Bangladesh?",
+            "details": "The latest price of Jabra Evolve2 75 USB-A MS Teams Stereo Headset in Bangladesh is 34,800৳. You can buy the Jabra Evolve2 75 USB-A MS Teams Stereo Headset at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive headset with excellent call quality.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Comfortable and great for long usage.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "headphone",
+        "product_name": "Asus ROG Fusion II 500 Wired Over-Ear Gaming Headphone",
+        "price": 26500,
+        "regular_price": 29000,
+        "status": true,
+        "product_code": "00502",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "ROG Fusion II 500",
+            "Driver Size": "50mm",
+            "Connector": "USB-A, USB-C, 3.5mm",
+            "Microphone Pick-up Pattern": "Omnidirectional",
+            "Cable": "USB-C: 1.5m, 3.5 mm: 1.5m"
+        },
+        "specification": {
+            "Technical Specification": {
+                "Frequency Range": "20 ~ 40000 Hz",
+                "Impedance": "32 Ohm",
+                "Sensitivity": "-37 dB",
+                "Input Jack": [
+                    "USB-A",
+                    "USB-C",
+                    "3.5mm"
+                ],
+                "Driver Diameter": "50mm",
+                "Connectivity": "Wired"
+            },
+            "Physical Specification": {
+                "Weight": "310 g",
+                "Color": "Black",
+                "Cable Length": [
+                    "USB-C cable: 1.5m",
+                    "3.5 mm cable: 1.5m"
+                ]
+            },
+            "Microphone": {
+                "Frequency": "100 ~ 10000 Hz",
+                "Sensitivity": "-37 dB",
+                "Pick-up Pattern": "Omnidirectional"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "01 year warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "Asus ROG Fusion II 500 Wired Over-Ear Gaming Headphone",
+                "details": "The Asus ROG Fusion II 500 Wired Over-Ear Gaming Headphone is a premium RGB gaming headset with high definition sound, simulated 7.1 surround sound, and AI noise cancellation for a truly immersive gaming experience. It has a high-fidelity ESS 9280 Quad DACTM and 50 mm ASUS Precision speakers for strong bass and realistic sound quality. It also includes ROG AI Beamforming Microphones with AI Noise Cancelation to filter out background noise and improve voice quality. To balance the gameplay audio and in-game dialogue, you may quickly modify the game chat volume. Asus ROG Fusion II 500 Wired Over-Ear Gaming Headphone comes with a variety of customization choices, pre-set light effects, and multi-color RGB lighting with over 16.8 million colors to fit your style and mood. It also offers a lightweight and comfy design with ergonomic ear cushions that fit securely on your ears. The 3.5 mm, USB-C ®, and USB-A ports on the Asus ROG Fusion II 500 Wired Over-Ear Gaming Headphone make it compatible with PCs, Macs, PlayStation®, Nintendo SwitchTM, Xbox, and mobile devices. The Asus ROG Fusion II 500 Wired Over-Ear Gaming Headphone will give you an excellent and immersive gaming experience whether you are playing, streaming, or listening to music."
+            },
+            {
+                "title": "Virtual 7.1 Surround Sound with Ai Noise Cancelation",
+                "details": "The simulated 7.1 surround sound increases your game immersion by providing realistic and spatial sound effects. With the hi-fi ESS 9280 Quad DACTM and 50 mm ASUS Essence drivers, you can enjoy rich and detailed sound quality that delivers strong bass and immersive true-to-life sound. Asus ROG Fusion II 500 Wired Over-Ear Gaming Headphone With the ROG AI Beamforming Microphones with AI Noise Cancelation, you can communicate clearly and confidently by filtering out background noise and improving your voice quality."
+            },
+            {
+                "title": "Various Customization And Comfortability",
+                "details": "Customize your gaming style and mood with the different customization choices, pre-set light effects, and multi-color RGB lighting with over 16.8 million colors. Enjoy the comfort and ease of the pleasant and lightweight design with ergonomic ear cushions that fit securely on your ears."
+            },
+            {
+                "title": "Compatibility",
+                "details": "Asus ROG Fusion II 500 Wired Over-Ear Gaming Headphone Connect to PCs, Macs, PlayStation®, Nintendo SwitchTM, Xbox, and mobile devices through the 3.5 mm, USB-C ®, and USB-A ports."
+            },
+            {
+                "title": "Buy Asus ROG Fusion II 500 Wired Over-Ear Gaming Headphone from Star Gadget",
+                "details": "In Bangladesh, you can get original Asus ROG Fusion II 500 Wired Over-Ear Gaming Headphone From Star Gadget. We have a large collection of latest Asus Headphone to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The Asus ROG Fusion II 500 Wired Over-Ear Gaming Headphone comes with 1 Year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Asus ROG Fusion II 500 Over-Ear Gaming Headphone in Bangladesh?",
+            "details": "The latest price of Asus ROG Fusion II 500 Over-Ear Gaming Headphone in Bangladesh is 26,500৳. You can buy the Asus ROG Fusion II 500 Over-Ear Gaming Headphone at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Great sound quality and comfortable design. Highly recommended for gaming.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "The RGB lighting adds a cool touch. Solid build and impressive features.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "headphone",
+        "product_name": "RODE NTH-100M Professional Over-ear Headset",
+        "price": 25500,
+        "regular_price": 27700,
+        "status": true,
+        "product_code": "00503",
+        "brand": "RODE",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "NTH-100M",
+            "Drivers": "40mm Custom-matched drivers",
+            "Acoustic Construction": "Precision-engineered acoustic construction",
+            "Microphone": "Broadcast-grade microphone",
+            "Others": "Alcantara earcup and headband cushions"
+        },
+        "specification": {
+            "Technical Specification": {
+                "Driver Magnet": "40mm",
+                "Frequency Range": "5Hz - 35Khz",
+                "Impedance": "32Ω",
+                "Sensitivity": "110dB/V",
+                "Connectivity": "Dual TRRS Cable Attachments"
+            },
+            "Physical Specification": {
+                "Dimensions": [
+                    "NTH-100 - Length: 80 Width: 190 Height: 188",
+                    "NTH-Mic - Length: 123 Height: 40 Depth: 17"
+                ],
+                "Weight": [
+                    "NTH-100 - 350g",
+                    "NTH-Mic - 5g"
+                ],
+                "Color": "Black",
+                "Cable Length": "2400mm"
+            },
+            "Microphone": {
+                "Frequency": "20Hz - 20kHz",
+                "Noise ratio": "67dB",
+                "Sensitivity": "38dB re 1 Volt/Pascal (12.59 mV @ 94 dB SPL) +/- 3 dB @ 1kHz",
+                "Pick-up Pattern": "Omnidirectional"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "No warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "RODE NTH-100M Professional Over-ear Headset",
+                "details": "The RODE NTH-100M is a professional over-ear headset that combines exceptional audio performance with a broadcast-grade headset microphone. The NTH-100M offers flawless audio and crystal-clear voice capture in an incredibly cozy and fashionable package, making it ideal for anyone working in the media or broadcast industry, podcasting, streaming, gaming, or working from home or the office."
+            },
+            {
+                "title": "Hear and Be Heard With Incredible Audio",
+                "details": "The RODE NTH-100M reproduces sound with incredibly accurate frequency response, little distortion, and great detail thanks to custom-matched drivers and meticulously engineered acoustics. Whether you're listening to music, playing a game, or taking part in a business conference call, you can rely on the audio to be accurately reproduced in every detail. The broadcast-grade microphone is placed in the best possible way to capture crystal-clear voice in any setting while also providing excellent speech intelligibility and plosive rejection."
+            },
+            {
+                "title": "Made for Maximum Comfort",
+                "details": "The RODE NTH-100M Professional Over-ear Headset is ergonomically designed for your comfort. The Alcantara earcup and headband cushions are luxuriously soft and breathable, allowing you to wear the headset for extended periods of time without discomfort. CoolTech gel layer within the earcups actively dissipates heat, keeping your head and ears cool and reducing wearing fatigue. The earcups' distinctive ergonomic design, combined with memory foam, provides a custom-fit feel for any head size or shape, even if you wear glasses. The FitLok locking system on the fully adjustable headband ensures a secure and precise fit every time you put on the headset."
+            },
+            {
+                "title": "Professional Style for Every Setting",
+                "details": "The NTH-100M headset exudes professionalism in any setting thanks to its sleek design and high-quality finishes. The low-profile headset microphone is unobtrusive and will not obscure your view on camera, ensuring a clean and professional appearance. The NTH-100M keeps the focus on your voice without any visual distractions while streaming, participating in video conferences, or recording content."
+            },
+            {
+                "title": "Built to Last",
+                "details": "The RODE NTH-100M is designed to withstand the rigors of daily use. RODE's state-of-the-art facilities in Sydney, Australia, manufacture each component with high-quality materials. The Alcantara cushions and locking cable connectors are extremely long-lasting, and the spring steel headband has a scratch-resistant coating. The modular design of the headset allows for simple replacement of cushions, cables, and the microphone, ensuring maximum longevity."
+            },
+            {
+                "title": "Buy RODE NTH-100M Professional Over-ear Headset from Star Gadget",
+                "details": "You can get the original RODE NTH-100M Professional Over-ear Headset From Star Gadget in Bangladesh. We have a large collection of the latest RODE Headphone to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The RODE NTH-100M Over-ear Headset has no warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of RODE NTH-100M Professional Over-ear Headset in Bangladesh?",
+            "details": "The latest price of RODE NTH-100M Professional Over-ear Headset in Bangladesh is 25,500৳. You can buy the RODE NTH-100M Professional Over-ear Headset at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Excellent audio quality and comfortable to wear for long periods.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "The microphone captures clear voice, perfect for podcasting.",
+                "user_rating": 4
+            }
+        ]
+    }
+]

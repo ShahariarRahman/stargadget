@@ -1,0 +1,227 @@
+[
+    {
+        "category": "keyboard",
+        "product_name": "Asus RA05 TUF Gaming K3 RGB Mechanical Keyboard",
+        "price": 8000,
+        "regular_price": 8800,
+        "status": true,
+        "product_code": "00160",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "90MP01Q2-BKUA00",
+            "Model": "RA05 TUF Gaming K3",
+            "Technology": "19-key-rollover (NKRO)",
+            "Spill Resistance": "300 ml spill-resistant frame",
+            "Lighting Zones": "Five individual lighting zones",
+            "Volume Control": "Dedicated volume Knob"
+        },
+        "specification": {
+            "Main Features": {
+                "Type": "Gaming RGB",
+                "Wired/Wireless": "Wired",
+                "Keys": [
+                    "Blue Switch",
+                    "Red Switch"
+                ],
+                "Polling Rate": "1000 Hz",
+                "Interface": "USB 2.0"
+            },
+            "Physical Attribute": {
+                "System Requirements": "Windows 10",
+                "Color": "Gun Metal Gray",
+                "Dimensions": [
+                    "Keyboard: 438.7 x 130.9 x 38.75mm",
+                    "Wrist rest: 438.7 x 76.95 x 10.75mm"
+                ],
+                "Weight": "1.11kg"
+            },
+            "Warranty Information": {
+                "Warranty": "01 Year"
+            },
+            "description": [
+                {
+                    "title": "Asus RA05 TUF Gaming K3 RGB Mechanical Keyboard",
+                    "details": "Asus TUF Gaming K3 RGB Mechanical Keyboard comes with Tactile TUF Gaming switches with reliable performance. here, the Dynamic RGB lighting effects and side-mounted light bar to illuminate your game and also the Dedicated volume knob for fast and easy audio adjustment Durable, reinforced plastic frame with up to 300 ml spill-resistance for everyday stability and reliability. In this keyboard, the Programmable keys comes with on-the-fly macro recording and onboard memory for personalized gameplay and also the Detachable ergonomic wrist rest for extended comfort. Asus TUF Gaming K3 RGB Keyboard is delivers uncompromising performance and exceptional durability. This new keyboard is also equipped with switches that deliver silent tactility with every press."
+                },
+                {
+                    "title": "Light Up, Battle On",
+                    "details": "ASUS TUF Gaming K3 is a mechanical RGB keyboard that features durable switches for responsive and reliable performance. Its customizable all-key RGB lighting offers unlimited personalization options, while the detachable magnetic wrist rest gives you extra support and comfort for gaming marathons. In addition, K3 offers convenient USB 2.0 passthrough, an aerospace-grade aluminum top cover, eight fully programmable keys with onboard memory and media keys â€” so you'll be ready to play like a pro."
+                },
+                {
+                    "title": "Aura Sync RGB Lighting",
+                    "details": "Individually backlit keys with Aura Sync RGB lighting puts the entire color spectrum and a range of lighting effects at your fingertips, allowing you to tailor your TUF Gaming K3 any way you want. You can even synchronize effects with other Aura Sync-supported devices."
+                },
+                {
+                    "title": "Durable Mechanical Switches with N-Key Rollover",
+                    "details": "TUF Gaming K3 features heavy-duty mechanical switches with 50-million-keystroke lifespans, and they're customizable with Blue, Brown or Red switches. 100% anti-ghosting and n-key rollover (NKRO) technology ensure that each keystroke is registered, so you're always confidently in command."
+                },
+                {
+                    "title": "Aerospace-Grade Aluminum Alloy Frame",
+                    "details": "TUF Gaming K3 is milled from aerospace-grade aluminum alloy and is designed to last. Its durable and sturdy construction gives it enough weight to ensure it stays in place in even the most heated battles, and its compact and frameless design ensures every key is easily within reach."
+                },
+                {
+                    "title": "Fully Programmable Keys, plus Onboard Memory",
+                    "details": "TUF Gaming K3 features fully programmable keys with on-the-fly macro recording, so you can configure controls the way you want. Integrated onboard memory lets you take the keyboard on the road and keep your settings. In addition, intuitive Combo Media Keys let you switch controls over to the function keys, at any time."
+                },
+                {
+                    "title": "Armoury Crate",
+                    "details": "Armoury Crate is a new software utility designed to give you centralized control of supported gaming products, making it easy to tune the look and feel of your system. From a single intuitive interface, Armoury Crate lets you easily customize RGB lighting and effects for compatible devices and synchronize them with Aura Sync to create a unified lighting scheme across your system. Armoury Crate also allows you to customize user profiles, map keys, record macros, and even track hardware stats during gameplay."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of Asus RA05 TUF Gaming K3 RGB Keyboard in Bangladesh?",
+                "details": "The latest price of Asus RA05 TUF Gaming K3 RGB Keyboard in Bangladesh is 8,000৳. You can buy the Asus RA05 TUF Gaming K3 RGB Keyboard at best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "user1@example.com",
+                    "review_comment": "Great keyboard, the RGB lighting is fantastic, and the keys are very responsive.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user2@example.com",
+                    "review_comment": "I love the dedicated volume knob, and the wrist rest is comfortable for long gaming sessions.",
+                    "user_rating": 4
+                },
+                {
+                    "user_email": "user3@example.com",
+                    "review_comment": "The mechanical switches feel great, and the customization options are a plus.",
+                    "user_rating": 5
+                }
+            ]
+        }
+    },
+    {
+        "category": "keyboard",
+        "product_name": "Corsair K70 RGB Rapidfire Mechanical Gaming Keyboard Cherry MX-Low Profile Speed",
+        "price": 14500,
+        "regular_price": 15730,
+        "status": true,
+        "product_code": "00161",
+        "brand": "Corsair",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "CH-9109018-NA",
+            "Model": "Corsair K70 RGB Rapidfire",
+            "Connection Type": "USB Pass-Through Port",
+            "Keys": "FPS And MOBA Keycap Sets",
+            "Multimedia Control": "Dedicated Multimedia controls",
+            "Technology": "100% Anti-Ghosting with Key Rollover"
+        },
+        "specification": {
+            "Main Features": {
+                "Type": "Mechanical",
+                "Wired/Wireless": "Wired Connectivity: USB 2.0 Type-A",
+                "Keys": [
+                    "Matrix: 104 Keys",
+                    "Key Switches: CHERRY MX Speed",
+                    "Keyboard Backlighting: RGB",
+                    "WIN Lock: Dedicated Hotkey",
+                    "Media Keys: Dedicated Hotkeys, Volume Roller",
+                    "Cherry MX Switch Type: Red, Grey"
+                ],
+                "Cable Length": "Keyboard Cable Type: Braided",
+                "Interface": "HID Keyboard Report Rate: 1000Hz"
+            },
+            "Physical Attribute": {
+                "System Requirements": "Keyboard CUE Software: Supported in iCUE",
+                "Dimensions": "436mm x 165mm x 38mm",
+                "Weight": "1.20kg"
+            },
+            "Warranty Information": {
+                "Warranty": "02 year warranty"
+            },
+            "description": [
+                {
+                    "title": "Corsair K70 RGB Rapidfire Mechanical Gaming Keyboard Cherry MX-Low Profile Speed",
+                    "details": "The K70 RGB RAPIDFIRE has CHERRYÂ® MX Speed RGB switches backed by a lightweight aluminum chassis. CUE enabled advanced lighting control and large font keycaps deliver dynamic, vibrant multi-color backlighting. To compete at the highest level, you need the fastest mechanical keyboard there is. RAPIDFIREâ€™s lightning-quick responsiveness and 100% anti-ghosting technology lets you strike with an unmatched combination of speed and precision. And the forged aluminum frame is built to withstand storm after storm of keystrokes, so youâ€™ll always live to fight another day. Corsair Utility Engine (iCUE) enables sophisticated macros and dramatic lighting effects. The USB pass-through port is positioned for uninterrupted game play, and a detachable wrist rest keeps you playing for hours. Unleash blistering speed with the 1.2mm mechanical actuation and durability of Gold contact CHERRYÂ® MX mechanical gaming key switches. Wield the ultimate performance advantage over your opponents with light operation 45g key switches and an actuation 40% faster than standard CHERRYÂ® MX Red switches. The aircraft-grade anodized brushed aluminum frame is built to withstand a lifetime of keystrokes, so youâ€™ll never jam up at the wrong moment. Full key rollover and 100% anti-ghosting technology means that no matter how fast your in game actions, the RAPIDFIRE can keep up, registering every keypress correctly, every time. Experience dynamic, vibrant multi-color backlighting. CORSAIR iCUE software enables vivid dynamic lighting control, sophisticated macro programming and full-system lighting synchronization across compatible CORSAIR peripherals, coolers, fans and more."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of Corsair K70 Rapidfire Mechanical Gaming Keyboard in Bangladesh?",
+                "details": "The latest price of Corsair K70 Rapidfire Mechanical Gaming Keyboard in Bangladesh is 14,500৳. You can buy the Corsair K70 Rapidfire Mechanical Gaming Keyboard at best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "user1@example.com",
+                    "review_comment": "Fantastic keyboard! The Cherry MX Speed switches are super responsive, and the RGB lighting is a visual delight.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user2@example.com",
+                    "review_comment": "I love the dedicated multimedia controls and the USB pass-through port. Makes my gaming and multimedia tasks a breeze.",
+                    "user_rating": 4
+                },
+                {
+                    "user_email": "user3@example.com",
+                    "review_comment": "The build quality is excellent, and it's a great keyboard for fast-paced gaming. Highly recommended.",
+                    "user_rating": 5
+                }
+            ]
+        }
+    },
+    {
+        "category": "keyboard",
+        "product_name": "Logitech G613 Wireless Mechanical Gaming Keyboard",
+        "price": 9200,
+        "regular_price": 10120,
+        "status": true,
+        "product_code": "00162",
+        "brand": "Logitech",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "920-008402",
+            "Model": "Logitech G613",
+            "Type": "Mechanical Keyboard",
+            "Durability": "70 million keypresses",
+            "Connection Type": "Bluetooth"
+        },
+        "specification": {
+            "Main Features": {
+                "Connection Type": "Bluetooth"
+            },
+            "Keys Attribute": {
+                "Key Lifetime": "70 million keypresses"
+            },
+            "Physical Attribute": {
+                "Dimension": [
+                    "Height: 478 mm",
+                    "Width: 216 mm",
+                    "Depth: 33 mm"
+                ],
+                "Weight": "141 g keyboard only"
+            },
+            "Warranty Information": {
+                "Warranty": "2 Years"
+            },
+            "description": [
+                {
+                    "title": "Logitech G613 Wireless Mechanical Gaming Keyboard",
+                    "details": "G613 is a next generation wireless keyboard designed for gamers who demand both the high performance capabilities of mechanical switches and the freedom of wireless gaming. Through end-to-end engineering and design, Logitech G developed a robust wireless solution to solve the fundamental problems of latency, stability, and connectivity. The end result is LIGHTSPEED, a pro-grade wireless solution, that achieves wired-like performance. Romer-G Tactile switches deliver quiet, precise mechanical performance with incredible feel and durability with 70M click-life. The choice of top esports professionals, Romer-G Tactile switches have a short-throw actuation at 1.5 mm which means 25% faster 11.5 mm vs 2.0 mm actuation distance on standard mechanical switches. keystrokes than the competitionâ€™s standard mechanical switches. Romer-G is a perfect blend of speed, precision and quiet performance while still maintaining a discernible, tactile actuation feel. Six dedicated G-keys can be programmed with custom macros and in-app commands. Execute complex actions, simply and quickly, with a keystroke. G-keys can be assigned per game or app profile for customizability and convenience. Use Logitech G HUB to easily setup and manage profiles, commands and more. Connect to LIGHTSPEED wireless for super fast 1 ms report rate or swap to another device with the push of a button using Bluetooth connectivity. Toggle between high-performance LIGHTSPEED wireless via USB receiver and Bluetoothâ€” quickly and easily. Using only 2 AA batteries, G613 can be used for up to 18 months. Battery life may vary based on your usage and computing conditions.. When battery is at 15%, both the LED status indicator light on the keyboard and Logitech G HUB notifications will warn you before the critical moment hits. Pair G613 wireless mechanical keyboard with G603 wireless gaming mouse to acquire the complete wireless desktop solution. G603 features our next generation HERO sensor, LIGHTSPEED wireless, Hi-Lo power management system and more high performance features that gaming enthusiasts demand."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of Logitech G613 Gaming Keyboard in Bangladesh?",
+                "details": "The latest price of Logitech G613 Gaming Keyboard in Bangladesh is 9,200৳. You can buy the Logitech G613 Gaming Keyboard at the best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "user1@example.com",
+                    "review_comment": "Excellent keyboard for gaming, the wireless performance is top-notch.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user2@example.com",
+                    "review_comment": "The mechanical switches feel great, and the battery life is impressive.",
+                    "user_rating": 4
+                },
+                {
+                    "user_email": "user3@example.com",
+                    "review_comment": "I love the dedicated G-keys, they make my gaming experience much better.",
+                    "user_rating": 5
+                }
+            ]
+        }
+    }
+]

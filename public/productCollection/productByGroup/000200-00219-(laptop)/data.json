@@ -1,0 +1,451 @@
+[
+    {
+        "category": "laptop",
+        "product_name": "MSI Titan GT77HX 13VI Core i9 13th Gen 64GB RAM 4TB SSD RTX 4090 16GB Graphics 17.3\" UHD 144Hz Gaming Laptop",
+        "price": 774900,
+        "regular_price": 836890,
+        "status": true,
+        "product_code": "00200",
+        "brand": "MSI",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Titan GT77HX 13VI",
+            "Processor": "Intel Core i9-13980HX (36M Cache, 2.2 GHz up to 5.60 GHz)",
+            "RAM": "64GB (32x2) DDR5",
+            "Storage": "4TB SSD",
+            "Graphics": "RTX 4090 16GB GDDR6",
+            "Features": "Backlit Keyboard, Fingerprint, 144Hz Display"
+        },
+        "specification": {
+            "Processor": {
+                "Processor Brand": "Intel",
+                "Processor Model": "Core i9-13980HX",
+                "Generation": "13th Gen",
+                "Processor Frequency": "2.2 GHz up to 5.60 GHz",
+                "Processor Core": "24 (Performance-cores: 8, Efficient-cores: 16)",
+                "Processor Thread": 32,
+                "CPU Cache": "36MB"
+            },
+            "Chipset": {
+                "Chipset Model": "Intel HM770"
+            },
+            "Display": {
+                "Display Size": "17.3 inch",
+                "Display Type": "IPS",
+                "Display Resolution": "UHD (3840x2160)",
+                "Touch Screen": "No",
+                "Refresh Rate": "144Hz",
+                "Display Features": "MiniLED, HDR 1000"
+            },
+            "Memory": {
+                "RAM": "64GB (32GBx2)",
+                "RAM Type": "DDR5",
+                "Removable": "Yes",
+                "Total RAM Slot": 4,
+                "Max RAM Capacity": "Max 128GB"
+            },
+            "Storage": {
+                "Storage Type": "NVMe PCIe Gen4x4 SSD",
+                "Storage Capacity": "4TB (2TBx2)",
+                "Extra M.2 Slot": "Yes",
+                "Supported SSD Type": "NVMe PCIe Gen5"
+            },
+            "Graphics": {
+                "Graphics Model": "NVIDIA GeForce RTX 4090",
+                "Graphics Memory": "16GB",
+                "Graphics Type": "GDDR6"
+            },
+            "Keyboard & TouchPad": {
+                "Keyboard Type": "Backlit Keyboard",
+                "Keyboard Features": "Cherry Mechanical Per-Key RGB Gaming Keyboard by SteelSeries",
+                "TouchPad": "Yes"
+            },
+            "Camera & Audio": {
+                "WebCam": "IR HD type (30fps@720p)",
+                "Speaker": [
+                    "2x 2W Speaker",
+                    "2x 2W Woofer"
+                ],
+                "Microphone": "Yes"
+            },
+            "Ports & Slots": {
+                "Optical Drive": "N/A",
+                "Card Reader": "1x SD Express Card Reader",
+                "Mini DP Port": "1x Mini-DisplayPort",
+                "HDMI Port": "1x (8K @ 60Hz / 4K @ 120Hz) HDMI",
+                "USB 3 Port": "3x Type-A USB3.2 Gen2",
+                "USB Type-C / Thunderbolt Port": [
+                    "1x Type-C (USB / DP / Thunderbolt 4) with PD charging",
+                    "1x Type-C (USB / DP / Thunderbolt 4)"
+                ],
+                "Headphone & Microphone Port": "1x Mic-in/Headphone-out Combo Jack"
+            },
+            "Network & Connectivity": {
+                "LAN": "Killer Gb LAN (Up to 2.5G)",
+                "WiFi": "Killer ax Wi-Fi 6E",
+                "Bluetooth": "Bluetooth v5.3"
+            },
+            "Security": {
+                "Fingerprint Sensor": "Yes",
+                "Camera Privacy Shutter": "Yes"
+            },
+            "Software": {
+                "Operating System": "Windows 11 Pro High-End Standard Version"
+            },
+            "Power": {
+                "Battery Type": "4 cell",
+                "Battery Capacity": "99 Whr",
+                "Adapter Type": "330W adapter"
+            },
+            "Physical Specification": {
+                "Color": "Core Black",
+                "Dimensions": "397 x 330 x 23 mm",
+                "Weight": "3.3 kg"
+            },
+            "Warranty": {
+                "Warranty Details": "02 years International Warranty"
+            },
+            "Description": [
+                {
+                    "title": "MSI Titan GT77HX 13VI Core i9 13th Gen 64GB RAM 4TB SSD RTX 4090 16GB Graphics 17.3\" UHD 144Hz Gaming Laptop",
+                    "details": "The MSI Titan GT77HX 13VI is a powerful gaming laptop that boasts top-of-the-line specifications for an unparalleled gaming experience. Equipped with an Intel Core i9-13980HX (36M Cache, 2.2 GHz up to 5.60 GHz), 64GB of RAM, and a massive 4TB SSD, this laptop delivers lightning-fast performance for even the most demanding games. The 17.3\" 4K UHD 144Hz display provides stunning visuals and smooth gameplay, while the RTX 4090 16GB graphics card ensures that you can run the latest games at maximum settings. The laptop also features a sleek design with a backlit keyboard, making it perfect for gaming on the go. This MSI Laptop is an excellent choice for gamers who demand the best in performance and graphics."
+                },
+                {
+                    "title": "Powered by NVIDIA GeForce RTX 4090 Laptop GPU",
+                    "details": "The MSI Titan GT77HX 13VI is powered by the latest NVIDIA GeForce RTX 4090 16GB GDDR6 Graphics, which is the most powerful graphics card available for laptops. This GPU is built on the ultra-efficient NVIDIA Ada Lovelace architecture and delivers a quantum leap in performance with AI-powered DLSS 3 and full ray tracing capabilities. The RTX 4090 16GB graphics card allows you to experience lifelike virtual worlds and run the latest games at maximum settings. The GPU is also equipped with the Max-Q suite of technologies that optimizes system performance, power, battery life, and acoustics for peak efficiency, ensuring that the machine runs at its best while gaming or doing creative work. The MSI Titan GT77HX 13VI is the perfect Gaming Laptop for gamers and creators who demand the best in graphics performance."
+                },
+                {
+                    "title": "Mini LED 4K 144Hz Display",
+                    "details": "The MSI Titan GT77HX 13VI offers an immersive gaming experience with its ultra-high resolution Mini LED 4K display, which delivers exceptional realism and detail. The AmLED ACR technology ensures that colors remain vibrant and clear even in bright environments, while the DisplayHDR 1000 certification provides a wider color gamut. Additionally, the 144Hz refresh rate ensures fast and smooth gameplay. Upgrade your gaming experience and become a Titan with the MSI Titan GT77HX."
+                },
+                {
+                    "title": "More Storage. More Memory. More Expansion",
+                    "details": "The MSI Titan GT77HX 13VI Core i9 13th Gen Gaming Laptop is designed for maximum performance and storage, featuring 4 expansion memory slots for DDR5 memory, allowing you to upgrade to a massive 128GB of RAM. This Core i9 laptop has 3 M.2 SSD slots, including 1 PCIe Gen5 and 2 PCIe Gen4, providing high-speed storage and ample space for all your gaming and media needs. Despite its powerful hardware, the GT77HX is incredibly thin and lightweight, making it easy to take on-the-go. With its efficient design, the Titan GT77 HX is the perfect choice for gamers who demand the best in performance and portability."
+                },
+                {
+                    "title": "Cherry MX Ultra Low Profile Mechanical Keyboard",
+                    "details": "MSI Titan GT77HX 13VI features Cherry Mechanical Per-Key RGB Gaming Keyboard by SteelSeries. The keyboard features a two-piece keycap structure and gold cross-point contact system to ensure the most crispy tactile and precise actuation in any session. The slim, sleek design of the keyboard adds to the overall aesthetics of the laptop. The keyboard is built to last, ensuring an exceptional typing experience for years to come."
+                },
+                {
+                    "title": "Desktop-level IO Port",
+                    "details": "The MSI Titan GT77HX 13VI is designed to offer a wide range of connectivity options for all your gaming and work needs. It comes equipped with multiple ports for a variety of devices. It is equipped with 1x Type-C (USB / DP / Thunderbolt 4) with PD charging, 1x Type-C (USB / DP / Thunderbolt 4), 3x Type-A USB3.2 Gen2, 1x SD Express Card Reader, 1x (8K @ 60Hz / 4K @ 120Hz) HDMI, 1x Mini-DisplayPort and 1x RJ45."
+                },
+                {
+                    "title": "Buy MSI Titan GT77HX 13VI Core i9 13th Gen Gaming Laptop from the best Laptop Shop in BD",
+                    "details": "In Bangladesh, you can get original MSI Titan GT77HX 13VI Core i9 13th Gen Gaming Laptop From Star Gadget. We have a large collection of latest MSI Gaming Laptop to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The MSI Titan GT77HX 13VI Gaming Laptop comes with 2 Years warranty."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of MSI Titan GT77HX 13VI Core i9 13th Gen 17.3\" UHD 144Hz Gaming Laptop in Bangladesh?",
+                "details": "The latest price of MSI Titan GT77HX 13VI Core i9 13th Gen 17.3\" UHD 144Hz Gaming Laptop in Bangladesh is 774,900৳. You can buy the MSI Titan GT77HX 13VI Core i9 13th Gen 17.3\" UHD 144Hz Gaming Laptop at best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "user1@example.com",
+                    "review_comment": "Outstanding laptop for gaming and creative work. The RTX 4090 graphics and 4TB SSD are fantastic.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user2@example.com",
+                    "review_comment": "This laptop is a beast! It handles all my games and software with ease. The 4K display is stunning.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user3@example.com",
+                    "review_comment": "The Cherry MX keyboard is a joy to type on. Best gaming laptop I've ever owned.",
+                    "user_rating": 5
+                }
+            ]
+        }
+    },
+    {
+        "category": "laptop",
+        "product_name": "MSI Creator Z16 HX Studio B13VFTO Core i7 13th Gen RTX 4060 8GB Graphics 16\" 2K QHD Gaming Laptop",
+        "price": 365000,
+        "regular_price": 385000,
+        "status": true,
+        "product_code": "00201",
+        "brand": "MSI",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "MSI Creator Z16 HX Studio B13VFTO",
+            "Processor": "Intel Core i7-13700H (24M Cache, 2.40 GHz up to 5.00 GHz)",
+            "RAM": "32GB (16GB x 2) DDR5 5600MHz",
+            "Storage": "2TB SSD",
+            "Graphics": "RTX 4060 8GB GDDR6",
+            "Features": "Backlit Keyboard, Type-C"
+        },
+        "specification": {
+            "Processor": {
+                "Processor Brand": "Intel",
+                "Processor Model": "Core i7-13700H",
+                "Generation": "13th Gen",
+                "Processor Frequency": "2.4 GHz up to 5.00 GHz",
+                "Processor Core": "14 (Performance-cores: 6, Efficient-cores: 8)",
+                "Processor Thread": 20,
+                "CPU Cache": "24MB"
+            },
+            "Chipset": {
+                "Chipset Model": "Intel HM770"
+            },
+            "Display": {
+                "Display Size": "16 inch",
+                "Display Type": "LED",
+                "Display Resolution": "QHD+ (2560 x 1600)",
+                "Touch Screen": "Yes",
+                "Refresh Rate": "120Hz"
+            },
+            "Memory": {
+                "RAM": "32GB (16GB x 2)",
+                "RAM Type": "DDR5",
+                "Removable": "Yes",
+                "Bus Speed": "5600MHz",
+                "Total RAM Slot": 2,
+                "Max RAM Capacity": "64GB"
+            },
+            "Storage": {
+                "Storage Type": "NVMe PCIe Gen4 SSD",
+                "Storage Capacity": "2TB",
+                "Extra M.2 Slot": "Yes",
+                "Supported SSD Type": "NVMe PCIe Gen4",
+                "Storage Upgrade": "Installed SSD can be upgradeable"
+            },
+            "Graphics": {
+                "Graphics Model": "Nvidia RTX 4060",
+                "Graphics Memory": "8GB",
+                "Graphics Type": "GDDR6"
+            },
+            "Keyboard & TouchPad": {
+                "Keyboard Type": "Per-Key RGB Keyboard",
+                "TouchPad": "Yes"
+            },
+            "Camera & Audio": {
+                "WebCam": "HD WebCam",
+                "Speaker": "4x 2W Speaker",
+                "Microphone": "Yes"
+            },
+            "Ports & Slots": {
+                "Optical Drive": "N/A",
+                "Card Reader": "1x Micro SD",
+                "Display Port": "N/A",
+                "HDMI Port": "N/A",
+                "USB 3 Port": "1 x USB 3.2 Gen 2 Type-A",
+                "USB Type-C / Thunderbolt Port": "1 x Thunderbolt 4",
+                "Headphone & Microphone Port": "1x Mic-in/Headphone-out Combo Jack"
+            },
+            "Network & Connectivity": {
+                "LAN": "N/A",
+                "WiFi": "Killer ax Wi-Fi 6E AX1675",
+                "Bluetooth": "Bluetooth v5.3"
+            },
+            "Security": {
+                "Fingerprint Sensor": "Yes",
+                "Security Locker Slot": "N/A",
+                "Camera Privacy Shutter": "No",
+                "Security Chip": "TPM 2.0"
+            },
+            "Software": {
+                "Operating System": "Win-11 Home"
+            },
+            "Power": {
+                "Battery Type": "4-Cell Integrated",
+                "Battery Capacity": "90Whr",
+                "Adapter Type": "240W adapter"
+            },
+            "Physical Specification": {
+                "Color": "Lunar Gray",
+                "Dimensions": "359 x 256 x 18.4mm",
+                "Weight": "2.35 kg"
+            },
+            "Warranty": {
+                "Warranty Details": "02 years International Warranty"
+            },
+            "Description": [
+                {
+                    "title": "MSI Creator Z16 HX Studio B13VFTO Core i7 13th Gen RTX 4060 8GB Graphics 16\" 2K QHD Gaming Laptop",
+                    "details": "The MSI Creator Z16 HX Studio B13VFTO Core i7 13th Gen RTX 4060 8GB Graphics 16\" 2K QHD Gaming Laptop is a powerful and high-performance laptop designed for creators and gamers. It features a sleek and modern design with a 16-inch QHD+ (2560*1600) display that offers stunning visuals and vibrant colors. The display also supports finger touch input, providing a convenient and intuitive user experience. Under the hood, this laptop is equipped with an RTX 4060 graphics card with 8GB of GDDR6 memory, delivering excellent graphics performance for gaming, video editing, and other demanding tasks. The graphics card ensures smooth gameplay and realistic visuals, allowing users to enjoy the latest games and multimedia content with ease. The laptop is powered by an Intel Core i7 processor from the Raptor Lake family, specifically the i7-13700HX. This processor provides fast and efficient performance, enabling seamless multitasking and smooth operation even when running resource-intensive applications. To support the processor and enhance overall performance, the laptop comes with 32GB of DDR5 RAM (16GB*2) and a spacious 2TB NVMe PCIe Gen4x4 SSD. The DDR5 RAM ensures speedy data access and efficient multitasking, while the large SSD offers ample storage space for games, applications, and multimedia files, as well as fast read and write speeds for quick file transfers and loading times. Connectivity options include Intel Wi-Fi 6E AX211, providing fast and reliable wireless internet connectivity, and the laptop comes pre-installed with Windows 11 Pro, offering a secure and user-friendly operating system environment. The MSI Creator Z16 HX Studio B13VFTO also features a 4-cell, 90Whr battery, providing decent battery life for on-the-go productivity or gaming sessions without the need for frequent charging. Overall, this laptop combines powerful hardware, a high-resolution display, and advanced features to meet the demands of creative professionals and gamers alike."
+                },
+                {
+                    "title": "Buy MSI Creator Z16 HX Studio B13VFTO Core i7 13th Gen RTX 4060 8GB Graphics 16\" 2K QHD Gaming Laptop from the best Laptop Shop in BD",
+                    "details": "In Bangladesh, you can get the original MSI Creator Z16 HX Studio B13VFTO Core i7 13th Gen RTX 4060 8GB Graphics 16\" 2K QHD Gaming Laptop From Star Gadget. We have a large collection of latest MSI Gaming Laptop to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The MSI Creator Z16 HX Studio B13VFTO Core i7 13th Gen 16\" 2K QHD Gaming Laptop comes with 2 Years warranty."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of MSI Creator Z16 HX Studio B13VFTO Core i7 13th Gen 16\" 2K QHD Gaming Laptop in Bangladesh?",
+                "details": "The latest price of MSI Creator Z16 HX Studio B13VFTO Core i7 13th Gen 16\" 2K QHD Gaming Laptop in Bangladesh is 365,000৳. You can buy the MSI Creator Z16 HX Studio B13VFTO Core i7 13th Gen 16\" 2K QHD Gaming Laptop at best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "user1@example.com",
+                    "review_comment": "Excellent laptop with powerful graphics. Great for gaming and video editing.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user2@example.com",
+                    "review_comment": "The QHD+ display is amazing, and the laptop handles graphics-intensive tasks like a champ.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user3@example.com",
+                    "review_comment": "Fast and reliable performance. The backlit keyboard is a nice touch.",
+                    "user_rating": 4
+                }
+            ]
+        }
+    },
+    {
+        "category": "laptop",
+        "product_name": "MSI Stealth 16 Mercedes-AMG A13VF Core i9 13th Gen RTX 4060 8GB Graphics 16” UHD+ OLED Gaming Laptop",
+        "price": 349900,
+        "regular_price": 376200,
+        "status": true,
+        "product_code": "00202",
+        "brand": "MSI",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Stealth 16 Mercedes-AMG A13VF",
+            "Processor": "Intel Core i9-13900H (24M Cache, 2.6 GHz up to 5.4 GHz)",
+            "RAM": "32GB (16x2) DDR5",
+            "Storage": "1TB SSD",
+            "Graphics": "RTX 4060 8GB GDDR6",
+            "Features": "16” UHD+ OLED Display, Backlit Keyboard, Fingerprint"
+        },
+        "specification": {
+            "Processor": {
+                "Processor Brand": "Intel",
+                "Processor Model": "Core i9-13900H",
+                "Generation": "13th Gen",
+                "Processor Frequency": "2.6 GHz up to 5.4 GHz",
+                "Processor Core": "14 (Performance-cores: 6, Efficient-cores: 8)",
+                "Processor Thread": 20,
+                "CPU Cache": "24MB"
+            },
+            "Display": {
+                "Display Size": "16 inch",
+                "Display Type": "OLED",
+                "Display Resolution": "UHD+ (3840x2400)",
+                "Touch Screen": "No",
+                "Refresh Rate": "60Hz",
+                "Display Features": "16:10, 100% DCI-P3 (Typ.)"
+            },
+            "Memory": {
+                "RAM": "32GB (16GBx2)",
+                "RAM Type": "DDR5",
+                "Removable": "Yes",
+                "Bus Speed": "5200 MHz",
+                "Total RAM Slot": 2,
+                "Max RAM Capacity": "Max 64GB"
+            },
+            "Storage": {
+                "Storage Type": "NVMe PCIe Gen4x4 SSD",
+                "Storage Capacity": "1TB",
+                "Extra M.2 Slot": "Yes"
+            },
+            "Graphics": {
+                "Graphics Model": "NVIDIA GeForce RTX 4060",
+                "Graphics Memory": "8GB",
+                "Graphics Type": "GDDR6"
+            },
+            "Keyboard & TouchPad": {
+                "Keyboard Type": "Backlit Keyboard",
+                "Keyboard Features": "Per-Key RGB Keyboard by SteelSeries",
+                "TouchPad": "Yes"
+            },
+            "Camera & Audio": {
+                "WebCam": "IR FHD type (30fps@1080p)",
+                "Speaker": [
+                    "2x 2W Speaker",
+                    "4x 2W Woofer"
+                ],
+                "Microphone": "Yes"
+            },
+            "Ports & Slots": {
+                "Optical Drive": "N/A",
+                "Card Reader": "1x Micro SD Card Reader",
+                "HDMI Port": "1x HDMI 2.1 (8K @ 60Hz / 4K @ 120Hz)",
+                "USB 3 Port": "1x Type-A USB3.2 Gen2",
+                "USB Type-C / Thunderbolt Port": [
+                    "1x Type-C (USB3.2 Gen2 / DP)",
+                    "1x Type-C (USB / DP / Thunderbolt 4) with PD charging"
+                ],
+                "Headphone & Microphone Port": "1x Mic-in/Headphone-out Combo Jack"
+            },
+            "Network & Connectivity": {
+                "LAN": "Killer Gb LAN (Up to 2.5G)",
+                "WiFi": "Intel Killer AX Wi-Fi 6E",
+                "Bluetooth": "Bluetooth 5.3"
+            },
+            "Security": {
+                "Fingerprint Sensor": "Yes",
+                "Camera Privacy Shutter": "Yes"
+            },
+            "Software": {
+                "Operating System": "Windows 11 Home"
+            },
+            "Power": {
+                "Battery Type": "4-Cell",
+                "Battery Capacity": "99.9 Whr",
+                "Adapter Type": "240W adapter"
+            },
+            "Physical Specification": {
+                "Color": "Selenite Gray",
+                "Dimensions": "355.8 x 259.7 x 19.95 mm",
+                "Weight": "1.88 kg"
+            },
+            "Warranty": {
+                "Warranty Details": "02 years International Warranty"
+            },
+            "Description": [
+                {
+                    "title": "MSI Stealth 16 Mercedes-AMG A13VF Core i9 13th Gen RTX 4060 8GB Graphics 16\" UHD+ OLED Laptop",
+                    "details": "The MSI Stealth 16 Mercedes-AMG A13VF Laptop is equipped with an Intel Core i9-13900H (24M Cache, 2.6 GHz up to 5.4 GHz), 32GB of RAM, and a massive 1TB SSD. This laptop delivers lightning-fast performance for even the most demanding games. The laptop comes with a 16” UHD+ OLED Display that provides stunning visuals and smooth gameplay. It is equipped with an RTX 4060 8GB GDDR6 graphics card ensuring that you can run the latest games at maximum settings. The laptop also features a sleek design with a backlit keyboard. This MSI Laptop comes in a Magnesium-Aluminum Alloy Chassis."
+                },
+                {
+                    "title": "Powered by NVIDIA GeForce RTX 4060 Laptop GPU",
+                    "details": "The MSI Stealth 16 Mercedes-AMG A13VF is powered by the latest NVIDIA GeForce RTX 4060 8GB GDDR6 Graphics, which is the most powerful graphics card available for laptops. This GPU is built on the ultra-efficient NVIDIA Ada Lovelace architecture and delivers a quantum leap in performance with AI-powered DLSS 3 and full ray tracing capabilities. The graphics card allows you to experience lifelike virtual worlds, and run the latest games at maximum settings. The GPU is also equipped with the Max-Q suite of technologies that optimizes system performance, power, battery life, and acoustics for peak efficiency, making sure the machine runs at its best while gaming or doing creative work. The MSI Stealth 16 Mercedes-AMG A13VF is the perfect Gaming Laptop for gamers and creators who demand the best in graphics performance."
+                },
+                {
+                    "title": "16\" UHD+ OLED Display",
+                    "details": "The MSI Stealth 16 Mercedes-AMG A13VF offers ensures a flawless visual experience. The OLED display ensures that colors remain vibrant and clear even in bright environments, while the DisplayHDR 600 certification provides a wider color gamut. The 60Hz refresh rate ensures fast and smooth gameplay."
+                },
+                {
+                    "title": "More Storage and Memory",
+                    "details": "The MSI Stealth 16 Mercedes-AMG A13VF Core i9 13th Gen Laptop is designed for maximum performance and storage, featuring 32GB of DDR5 5200MHz RAM and 1TB SSD. This Core i9 laptop provides high-speed storage and ample space for all your gaming and media needs."
+                },
+                {
+                    "title": "6x Speakers Sound System",
+                    "details": "The MSI Stealth 16 Mercedes-AMG A13VF Laptop comes with a 6-speaker surround sound system with world-class Dynaudio. Equipped with two pairs of dual force-canceling speakers and a pair of tweeters to meet the highest acoustic expectations."
+                },
+                {
+                    "title": "Per-Key RGB Gaming Keyboard by SteelSeries",
+                    "details": "MSI Stealth 16 Mercedes-AMG A13VF features a Per-Key RGB Gaming Keyboard by SteelSeries. The keyboard features a two-piece keycap structure and gold cross-point contact system to ensure the most crispy tactile and precise actuation in any session. The slim, sleek design of the keyboard adds to the overall aesthetics of the laptop. The keyboard is built to last, ensuring an exceptional typing experience for years to come."
+                },
+                {
+                    "title": "Buy MSI Stealth 16 Mercedes-AMG A13VF Core i9 13th Gen RTX 4060 8GB Graphics 16” UHD+ OLED Laptop from Star Gadget",
+                    "details": "In Bangladesh, you can get the original MSI Stealth 16 Mercedes-AMG A13VF Core i9 13th Gen RTX 4060 8GB Graphics 16” UHD+ OLED Laptop from Star Gadget. We have a large collection of the latest MSI Gaming Laptops to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The MSI Stealth 16 Mercedes-AMG A13VF Core i9 13th Gen Laptop comes with 2 Years warranty."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of MSI Stealth 16 Mercedes-AMG A13VF Core i9 13th Gen Laptop in Bangladesh?",
+                "details": "The latest price of MSI Stealth 16 Mercedes-AMG A13VF Core i9 13th Gen Laptop in Bangladesh is 349,900৳. You can buy the MSI Stealth 16 Mercedes-AMG A13VF Core i9 13th Gen Laptop at the best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "user1@example.com",
+                    "review_comment": "Impressive laptop, powerful performance, and a stunning display. Loving it!",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user2@example.com",
+                    "review_comment": "The RTX 4060 graphics card handles games like a champ. Great for gaming enthusiasts!",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user3@example.com",
+                    "review_comment": "This laptop is a beast! Fast, efficient, and the UHD+ OLED display is a treat for the eyes.",
+                    "user_rating": 5
+                }
+            ]
+        }
+    }
+]

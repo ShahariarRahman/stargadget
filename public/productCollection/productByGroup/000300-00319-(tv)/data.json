@@ -1,0 +1,360 @@
+[
+    {
+        "category": "tv",
+        "product_name": "Samsung 85QN900B 85\" Neo QLED 8K Smart TV",
+        "price": 900000,
+        "regular_price": 920000,
+        "status": true,
+        "product_code": "00300",
+        "brand": "Samsung",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "85QN900B",
+            "Display": "8K 7,680 x 4,320 Neo QLED 120Hz",
+            "Audio": "Dolby Atmos and Object Tracking Sound",
+            "Ports": "4 x HDMI, 3 x USB",
+            "Quantum HDR": "48x",
+            "Voice Assistant": "Alexa Built-In"
+        },
+        "specification": {
+            "Main Features": {
+                "Display Type": "QLED",
+                "Screen Size": "85\"",
+                "Resolution": "8K (7,680 x 4,320)",
+                "Refresh Rate": "120Hz (Up to 144Hz)",
+                "Viewing Angle": "Ultra Viewing Angle",
+                "Processor": "Neural Quantum Processor 8K",
+                "Operating System": "Tizen"
+            },
+            "Connectivity": {
+                "USB": 3,
+                "HDMI": 4,
+                "Bluetooth": "Bluetooth 5.2",
+                "Wi-Fi": "Built-in WiFi6E"
+            },
+            "Audio": {
+                "Audio Output": "90W RMS",
+                "Speaker System": [
+                    "6.2.4CH Speaker",
+                    "MS12 5.1ch Dolby Digital Plus"
+                ]
+            },
+            "Power": {
+                "Power Supply": "AC110-120V 50/60Hz",
+                "Remote Control": "TM2280E",
+                "Standby Power Consumption": [
+                    "Typical: 231 W",
+                    "Max: 475 W",
+                    "Standby: 0.5 W"
+                ]
+            },
+            "Physical Specification": {
+                "Dimension (L x W x H)": [
+                    "1876.6 x 1146.1 x 341.4 mm with Stand",
+                    "1876.6 x 1071.5 x 15.4 mm without Stand"
+                ],
+                "Weight": [
+                    "54.8 kg with Stand",
+                    "43.8 kg without Stand"
+                ]
+            },
+            "Manufacture Warranty": {
+                "Warranty": "No Parts Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "Samsung 85QN900B 85\" Neo QLED 8K Smart TV",
+                "details": "The Samsung 85QN900B 85\" Neo QLED 8K Smart TV offers brilliant details shine even in daylight with Samsung's ultra-precise Quantum Mini LEDs. This smart television features Quantum Matrix Technology, which accurately regulates our proprietary new Quantum Mini LED. With precise light adjustment, you can experience fine detail in both the darkest and brightest environments. You can see all you enjoy upscaled to spectacular 8K with the AI-bases processor. Action movies, sports, and games look smooth and fluid up to 8K at 120 Hz. You can experience depth and dimension on the screen just like you do in real life thanks to the Real Depth Enhancer."
+            },
+            {
+                "title": "Neural Quantum Processor 8K",
+                "details": "Samsung 85QN900B 85\" Neo QLED 8K Smart TV's advanced multi-intelligent processor creates the best 8K viewing experience. Instead of one neural network to analyze visual data, Neo Quantum Processor 8K uses data generated from 20 neural networks to enhance every visual detail of your 8K content."
+            },
+            {
+                "title": "Real 8K Resolution and Quantum HDR 64x",
+                "details": "The Samsung 85QN900B Smart TV allows you to feel the power of each frame with 33 million pixels of ultimate clarity and a resolution four times that of 4K. Quantum HDR 64x establishes a new standard for extraordinary detail and brightness. Enjoy vibrant, accurate color as well as deeper contrast and crisp detail. HDR10dynamic +'s tone mapping shifts color and contrast scene by scene, allowing you to appreciate even the most subtle nuances."
+            },
+            {
+                "title": "Dolby Atmos and Object Tracking Sound Pro",
+                "details": "Samsung 85QN900B's top channel speakers deliver a next-level Dolby Atmos experience that will immerse you inside the action with multi-dimensional sound. Immerse you deeper into your listening experience on all corners of the TV, including the center, without missing any audio clue."
+            },
+            {
+                "title": "Exceptional motion enhancements in 4K 120Hz",
+                "details": "The Samsung 85QN900B 85\" Neo QLED 8K Smart TV features Motion Xcelerator Turbo+. Conquer every enemy, even at soaring speeds. With exceptional motion enhancements up to 4K 120Hz, you can enjoy gameplay with ultra-smooth action without lag and motion blur."
+            },
+            {
+                "title": "FreeSync Premium Pro",
+                "details": "Samsung 85QN900B comes with Certified AMD FreeSync Premium Pro core technology, you'll experience reduced stutter and screen tearing as well as a superior combination of smooth gaming at peak performance, exceptional high dynamic range visuals and low latency for true game-winning performance. "
+            },
+            {
+                "title": "Buy Samsung 85QN900B 85\" Neo QLED 8K Smart TV from the best Television Shop in BD",
+                "details": "In Bangladesh, you can get the original Samsung 85QN900B 85\" Neo QLED 8K Smart TV From Star Gadget. We have a large collection of the latest Samsung TV to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The Samsung 85QN900B comes with no parts warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Samsung 85QN900B 85\" Neo QLED 8K Smart TV in Bangladesh?",
+            "details": "The latest price of Samsung 85QN900B 85\" Neo QLED 8K Smart TV in Bangladesh is 900,000৳. You can buy the Samsung 85QN900B 85\" Neo QLED 8K Smart TV at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Outstanding picture quality and sound!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "The 8K resolution is stunning, and the TV looks great in my living room.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "tv",
+        "product_name": "Xiaomi Redmi Max 98\" 4K Android Smart LED TV (China Version)",
+        "price": 775000,
+        "regular_price": 852500,
+        "status": true,
+        "product_code": "00301",
+        "brand": "XIAOMI",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Redmi Max",
+            "Resolution": "4K Ultra HD (3840 x 2160) @60 Hz",
+            "Processor": "Amlogic 12nm T972 Chip",
+            "Features": "RAM: 4GB, ROM: 64GB",
+            "Audio": "2x Speakers, Output: 32W"
+        },
+        "specification": {
+            "Main Features": {
+                "Display Type": "LED",
+                "Screen Size": "98\"",
+                "Resolution": "4K, 3840 x 2160 Pixels",
+                "Processor": "Amlogic 12nm T972 Chip",
+                "RAM": "4GB",
+                "Storage": "64GB"
+            },
+            "Connectivity": {
+                "USB": "USB 2.0 x2",
+                "HDMI": "HDMI 2.0 x2, HDMI 2.1 eARC/ALLM x1",
+                "Bluetooth": "Bluetooth 5.0",
+                "Wi-Fi": "WiFi 2.4GHz/5GHz"
+            },
+            "Audio": {
+                "Speaker System": "2 x 8W"
+            },
+            "Power": {
+                "Power Supply": "220 ~ 50/60 Hz",
+                "Standby Power Consumption": [
+                    "Running 550W",
+                    "Standby 0.5W"
+                ]
+            },
+            "Physical Specification": {
+                "Dimension (L x W x H)": "219.0 x 125.5 cm (not included base)"
+            },
+            "Manufacture Warranty": {
+                "Warranty": "No Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "Xiaomi Redmi Max 98\" 4K Android Smart LED TV (China Version)",
+                "details": "The Xiaomi Redmi TV Max features a massive ultra-clear 98\" screen with a three-sided borderless design. This TV delivers 4K (Ultra HD) 3840 x 2160 resolution. It has a 60Hz response rate. It comes with 2 built-in speakers that deliver 32W audio output. It comes with Auto Volume Leveller, DTS Decoder and it supports DTS, MP3 audio formats. It has a power consumption of (In Use) 550W. The TV supports 2.4G & 5G WiFi and 100Mbps Ethernet to make the internet connection faster and more stable. It is able to connect devices that contain Bluetooth such as keyboard, remote, speaker, and more. The Redmi TV Max has no parts warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Xiaomi Redmi Max 98\" 4K Android Smart LED TV in Bangladesh?",
+            "details": "The latest price of Xiaomi Redmi Max 98\" 4K Android Smart LED TV in Bangladesh is 775,000৳. You can buy the Xiaomi Redmi Max 98\" 4K Android Smart LED TV at the best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Incredible TV with a massive screen and great picture quality.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Impressive sound quality and easy-to-use interface.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "tv",
+        "product_name": "Sony Bravia XR 77A80J 77\" 4K Ultra HD Android Smart OLED Alexa Compatible Google TV",
+        "price": 490000,
+        "regular_price": 547000,
+        "status": true,
+        "product_code": "00302",
+        "brand": "Sony",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "XR-77A80J",
+            "Model": "Bravia XR 77A80J",
+            "Processor": "Cognitive Processor XR, Picture Processor XR Picture",
+            "Display": "Live Colour Technology, OLED Contrast",
+            "Audio": "DTS Digital Surround"
+        },
+        "specification": {
+            "Main Features": {
+                "Display Type": "OLED",
+                "Screen Size": "77\" (76.7\")",
+                "Resolution": "3840 x 2160",
+                "Processor": "Cognitive Processor XR",
+                "Storage": "16 GB",
+                "Operating System": "Android TV"
+            },
+            "Connectivity": {
+                "USB": "2(Side)/1(Bottom)",
+                "HDMI": "4(1Side,3Bottom)",
+                "Bluetooth": "Version 4.2",
+                "Wi-Fi": "Wi-Fi Certified 802.11a/b/g/n/ac"
+            },
+            "Audio": {
+                "Audio Output": "10 W + 10 W + 10 W",
+                "Speaker System": [
+                    "Speaker Type: Acoustic Surface Audio+",
+                    "Speaker Configuration: Actuator x 2, Subwoofer x 2"
+                ]
+            },
+            "Power": {
+                "Power Supply": "110 V - 240 V AC 50/60 Hz",
+                "Remote Control": "Control all your devices with one smart remote",
+                "Standby Power Consumption": "Jordan/UAE/Egypt: 0.50 W, Others: 0.5 W"
+            },
+            "Physical Specification": {
+                "Dimension (L x W x H)": [
+                    "Without stand: Approx. 1722 x 999 x 54 mm",
+                    "With stand: Approx. 1722 x 1022 x 367 mm"
+                ],
+                "Weight": "Approx. 28.9 kg (Without Stand)"
+            },
+            "Manufacture Warranty": {
+                "Warranty": "No Parts Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "Sony Bravia XR 77A80J 77\"4K Ultra HD Android Smart OLED Alexa Compatible Google TV",
+                "details": "The Sony Bravia XR 77A80J 77 Inch TV comes with Cognitive Processor XR Processing Technology. It understands how humans see and hear to deliver intense contrast with pure blacks, high peak brightness, and natural colors. It also features XR TRILUMINOS PRO and XR OLED CONTRAST. It helps you feel the beauty of OLED contrast with pure blacks and lifelike brightness. It has a 76.5\" OLED display and incorporates Sony's XR Motion Clarity technology to digitally enhance fast-moving images to reduce blur. HDR10, HLG, and Dolby Vision compatibility offer a wide color gamut and enhanced brightness and contrast to provide vibrant, lifelike images for compatible content."
+            },
+            {
+                "title": "Acoustic Auto Calibration",
+                "details": "The Sony Bravia XR 77A80J TV detects your position and optimizes sound so you'll enjoy the same sound quality as if you're sitting right in front of the TV. Sound can change depending on your room environment. Curtains, for example, absorb sound while objects in front of the TV can disturb the passage of sound, compromising the quality of what you hear. This TV detects objects and reproduces sound that's enhanced and optimized to your room."
+            },
+            {
+                "title": "Voice Search and Smart Remote",
+                "details": "Sony Bravia XR 77A80J Smart Television features Smart voice control. You can find your favorite content faster than ever using the power of your voice. With Voice Search, there's no more complicated navigation or tiresome typing you just have to ask. All your connected devices can be controlled with our smart commander. One button access to video-on-demand services brings shows and movies into your room in seconds."
+            },
+            {
+                "title": "Google TV",
+                "details": "The Sony Bravia XR 77A80J lets you browse 700,000+ movies and TV episodes from across your streaming services, all in one place and organized into topics and genres based on what interests you. Searching is easy - just ask Google. Press the Google Assistant button on your remote and try saying “find action movies” to search across your favorite apps.\n\nThe Sony Bravia XR 77A80J Android Smart Google Tv comes with no parts warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Sony Bravia XR 77A80J 77\" 4K Ultra HD Android Smart Google TV in Bangladesh?",
+            "details": "The latest price of Sony Bravia XR 77A80J 77\" 4K Ultra HD Android Smart Google TV in Bangladesh is 490,000৳. You can buy the Sony Bravia XR 77A80J 77\" 4K Ultra HD Android Smart Google TV at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive TV with stunning picture quality and sound.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Great smart features and easy-to-use interface.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "tv",
+        "product_name": "LG A2 77-inch SELF-LIT OLED 4K UHD Smart Television",
+        "price": 430000,
+        "regular_price": 435000,
+        "status": true,
+        "product_code": "00303",
+        "brand": "LG",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "A2",
+            "Resolution": "4K Ultra HD (3,840 x 2,160) SELF-LIT OLED Display",
+            "Processor": "α7 Gen5 AI Processor 4K",
+            "Operating System": "webOS 22 with LG ThinQ AI",
+            "Audio": "2.0 Ch Speaker, 20W Audio Output"
+        },
+        "specification": {
+            "Main Features": {
+                "Display Type": "4K OLED",
+                "Screen Size": "77\"",
+                "Resolution": "4K Ultra HD (3,840 x 2,160)",
+                "Refresh rate": "60Hz",
+                "Processor": "α7 Gen5 AI Processor 4K",
+                "Operating System": "webOS Smart TV"
+            },
+            "Connectivity": {
+                "USB": "1 (Rear) / 1 (Side)",
+                "HDMI": "1 (Rear) / 2 (Side)",
+                "Bluetooth": "Version 5.0",
+                "Wi-Fi": "Yes (802.11ac)"
+            },
+            "Audio": {
+                "Audio Output": [
+                    "20W",
+                    "(10W per Channel)"
+                ],
+                "Speaker System": "2.0 ch"
+            },
+            "Power": {
+                "Power Supply": "AC 100~240V 50-60Hz",
+                "Remote Control": "Magic Remote Control MR22GN (NFC)",
+                "Standby Power Consumption": "Under 0.5W"
+            },
+            "Physical Specification": {
+                "Dimension (L x W x H)": [
+                    "1719 x 1057 x 319mm with Stand",
+                    "1719 x 989 x 50.9mm without Stand"
+                ]
+            },
+            "Manufacture Warranty": {
+                "Warranty": "No Parts Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "LG A2 77-inch SELF-LIT OLED 4K UHD Smart Television",
+                "details": "The LG A2 77-inch SELF-LIT OLED 4K UHD Smart Television offers an exceptional viewing experience with its self-lit OLED technology, delivering perfect darkness and infinite contrast. The α7 Gen 5 AI Processor enhances the depth of the image for lifelike quality, while Dynamic Tone Mapping optimizes HDR content for stunning visuals. The television provides immersive surround sound with virtual 5.1.2 channel audio, creating a captivating audio experience. With ThinQ AI and webOS, you can enjoy personalized recommendations and easily access your favorite content. The sleek and slim design of the TV adds a touch of elegance to any space, and Dolby Vision IQ and Dolby Atmos ensure a true cinema experience. You can access a wide range of streaming apps, including Netflix, Amazon Prime, and Apple TV+, for endless entertainment options. The TV also offers powerful gameplay features, including a low response time and a dedicated Game Dashboard for optimal gaming settings."
+            },
+            {
+                "title": "α7 Gen 5 AI Processor",
+                "details": "LG A2 77-inch OLED 4K Smart TV comes with the latest α7 Gen 5 AI Processor, engineered exclusively for LG OLED to automatically adjust your settings to improve picture and sound qualities based on whatever you’re watching. Dynamic Tone Mapping uses the α7 Gen 5 AI Processor to detect what's in the frame and apply the optimal tone curve. The result is a natural HDR, deep contrast, and intricate detail. The α7 Gen 5 AI Processor up-mixes 2-channel audio into virtual 5.1.2 channel sound. Feel the action and chaos around you as you venture deeper into your game world."
+            },
+            {
+                "title": "OLED Picture Quality",
+                "details": "The LG A2 77-inch OLED 4K Smart TV features self-lit OLED pixels that deliver exceptional contrast and deep black levels, while showcasing over a billion colors for a stunning visual experience across all content."
+            },
+            {
+                "title": "Buy LG A2 77-inch SELF-LIT OLED 4K UHD Smart Television from the best TV Shop in Bangladesh: Star Gadget",
+                "details": "In Bangladesh, you can get original LG A2 77-inch SELF-LIT OLED 4K UHD Smart Television From Star Gadget. We have a large collection of latest LG Television to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The LG A2 77-inch SELF-LIT OLED 4K UHD Smart TV has no parts warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of LG A2 77-inch OLED 4K Smart TV in Bangladesh?",
+            "details": "The latest price of LG A2 77-inch OLED 4K Smart TV in Bangladesh is 430,000৳. You can buy the LG A2 77-inch OLED 4K Smart TV at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Incredible TV with perfect black levels and vibrant colors.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "The AI processor works like magic to enhance the picture quality.",
+                "user_rating": 5
+            }
+        ]
+    }
+]

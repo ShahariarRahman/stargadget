@@ -1,0 +1,2461 @@
+[
+    {
+        "category": "motherboard",
+        "product_name": "ASUS ROG STRIX Z790-E GAMING WIFI ATX Motherboard",
+        "price": 73000,
+        "regular_price": 76796,
+        "status": true,
+        "product_code": "00020",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/bz477yR/ASUS-ROG-STRIX-Z790-E-GAMING-WIFI-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "rating": 4.6,
+        "features": {
+            "Model": "ROG STRIX Z790-E GAMING WIFI",
+            "Supported CPU": "14th Gen, 13th Gen & 12th Gen Processors (LGA1700)",
+            "Supported RAM": "4 x DIMM, Max. 128GB, DDR5 7800+(OC)",
+            "Graphics Output": "1 x DisplayPort, 1 x HDMI port",
+            "Features": "5 x M.2 slots, Wi-Fi 6E, Bluetooth v5.3"
+        },
+        "specification": {
+            "Basic Information": {
+                "Supported CPU": [
+                    "Intel Socket LGA1700 for 14th Gen, 13th Gen Intel Core & 12th Gen Intel Core, Pentium Gold and Celeron Processors",
+                    "Supports Intel Turbo Boost Technology 2.0 and Intel Turbo Boost Max Technology 3.0"
+                ],
+                "Chipset": "Intel Z790 Chipset",
+                "BIOS": "256 Mb Flash ROM, UEFI AMI BIOS",
+                "Form Factor": [
+                    "ATX Form Factor",
+                    "12 inch x 9.6 inch ( 30.5 cm x 24.4 cm )"
+                ],
+                "Audio": [
+                    "ROG SupremeFX 7.1 Surround Sound High Definition Audio CODEC ALC4080",
+                    "- Impedance sense for front and rear headphone outputs",
+                    "- Supports: Jack-detection, Multi-streaming, Front Panel Jack-retasking",
+                    "- High quality 120 dB SNR stereo playback output and 113 dB SNR recording input",
+                    "- Supports up to 32-Bit/384 kHz playback",
+                    "Audio Features",
+                    "- SupremeFX Shielding Technology",
+                    "- Savitech SV3H712 AMP",
+                    "- Gold-plated audio jacks",
+                    "- Rear optical S/PDIF out port",
+                    "- Premium audio capacitors",
+                    "- Audio cover"
+                ]
+            },
+            "Expansion Slots": {
+                "PCI": [
+                    "Intel 14th, 13th & 12th Gen Processors",
+                    "1 x PCIe 5.0 x16 slot\n",
+                    "Intel Z790 Chipset",
+                    "2 x PCIe 4.0 x16 slots (support x4 mode)",
+                    "1 x PCIe 3.0 x1 slot"
+                ]
+            },
+            "Memory": {
+                "Type": "DDR5",
+                "Slots": "4 x DIMM",
+                "Supported Memory": [
+                    "7800+(OC)/ 7600(OC)/ 7400(OC)/ 7200(OC)/ 7000(OC)/ 6800(OC)/ 6600(OC)/ 6400(OC)/ 6200(OC)/ 6000(OC)/5800(OC)/ 5600/ 5400/ 5200/ 5000/ 4800",
+                    "Non-ECC, Un-buffered Memory",
+                    "Dual Channel Memory Architecture",
+                    "Supports Intel Extreme Memory Profile (XMP)",
+                    "OptiMem II"
+                ],
+                "Maximum Memory": "128GB"
+            },
+            "Graphics": {
+                "Graphics": [
+                    "1 x DisplayPort (Supports max. 8K@60Hz as specified in DisplayPort 1.4.)",
+                    "1 x HDMI port (Supports 4K@60Hz as specified in HDMI 2.1.)"
+                ]
+            },
+            "Connector & Ports": {
+                "HDMI": "1 x HDMI port",
+                "Display Port (s)": "1 x DisplayPort",
+                "USB (s)": [
+                    "Rear USB (Total 12 ports)",
+                    "1 x USB 3.2 Gen 2x2 port (1 x USB Type-C)",
+                    "7 x USB 3.2 Gen 2 ports (6 x Type-A + 1 x USB Type-C)",
+                    "4 x USB 3.2 Gen 1 ports (4 x Type-A)",
+                    "Front USB (Total 9 ports)",
+                    "1 x USB 3.2 Gen 2x2 connector (supports USB Type-C with up to 30W PD Fast-charge)",
+                    "2 x USB 3.2 Gen 1 header support additional 4 USB 3.2 Gen 1 ports",
+                    "2 x USB 2.0 headers support additional 4 USB 2.0 ports"
+                ],
+                "LAN Port (s)": [
+                    "1 x Intel 2.5Gb Ethernet",
+                    "ASUS LANGuard"
+                ],
+                "Wireless Communication module": [
+                    "Wi-Fi 6E",
+                    "2x2 Wi-Fi 6E (802.11 a/b/g/n/ac/ax)",
+                    "Supports 2.4/5/6GHz frequency band",
+                    "Bluetooth v5.3"
+                ],
+                "Supported Storage": [
+                    "Total supports 5 x M.2 slots and 4 x SATA 6Gb/s ports",
+                    "Intel 13th & 12th Gen Processors",
+                    "M.2_2 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 mode)",
+                    "Intel Z790 Chipset",
+                    "M.2_3 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 mode)",
+                    "M.2_4 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 mode)",
+                    "M.2_5 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 mode & SATA modes)",
+                    "4 x SATA 6Gb/s ports"
+                ],
+                "RAID": "Intel Rapid Storage Technology supports PCIe RAID 0/1/5/10, SATA RAID 0/1/5/10.",
+                "Audio": "5 x Gold-plated audio jacks",
+                "Internal I/O Ports": [
+                    "Fan and Cooling related: ",
+                    "1 x 4-pin CPU Fan header",
+                    "1 x 4-pin CPU OPT Fan header",
+                    "1 x 4-pin AIO Pump header",
+                    "5 x 4-pin Chassis Fan headers",
+                    "Power related: ",
+                    "1 x 24-pin Main Power connector",
+                    "2 x 8-pin +12V Power connectors",
+                    "Storage related: ",
+                    "5 x M.2 slots (Key M)",
+                    "4 x SATA 6Gb/s ports",
+                    "USB: ",
+                    "1 x USB 3.2 Gen 2x2 connector (supports USB Type-C® with up to 30W PD Fast-charge)",
+                    "2 x USB 3.2 Gen 1 header support additional 4 USB 3.2 Gen 1 ports",
+                    "2 x USB 2.0 headers support additional 4 USB 2.0 ports",
+                    "Miscellaneous: ",
+                    "3 x Addressable Gen 2 headers",
+                    "1 x Alternative PCIe Mode Switch",
+                    "1 x AURA RGB header",
+                    "1 x CPU Over Voltage jumper",
+                    "1 x Front Panel Audio header (AAFP)",
+                    "1 x 20-3 pin System Panel header with Chassis intrude function",
+                    "1 x Start button",
+                    "1 x Thermal Sensor header",
+                    "1 x Thunderbolt™ (USB4) header"
+                ]
+            },
+            "Others": {
+                "Special Features": [
+                    "Extreme Engine Digi+: ",
+                    "- 5K Black Metallic Capacitors",
+                    "ASUS Q-Design: ",
+                    "- M.2 Q-Latch",
+                    "- Q-DIMM",
+                    "- Q-LED (CPU [red], DRAM [yellow], VGA [white], Boot Device [yellow green])",
+                    "- Q-Slot",
+                    "ASUS Thermal Solution: ",
+                    "- M.2 heatsink backplate",
+                    "- M.2 heatsink",
+                    "- VRM heatsink design",
+                    "ASUS EZ DIY: ",
+                    "- BIOS FlashBack button",
+                    "- BIOS FlashBack LED",
+                    "- Clear CMOS button",
+                    "- CPU Socket lever protector",
+                    "- ProCool II",
+                    "- Pre-mounted I/O shield",
+                    "- SafeSlot",
+                    "- SafeDIMM",
+                    "Aura Sync: ",
+                    "- Aura RGB header",
+                    "- Addressable Gen 2 headers",
+                    "Front Panel USB 3.2 Gen 2x2 with PD Fast-charge Support: ",
+                    "- Support: up to 30W charging",
+                    "- Output: 5/9V max. 3A, 12V max. 2.5A",
+                    "- Compatible with PD3.0"
+                ],
+                "Bundled Software": [
+                    "ROG Exclusive Software: ",
+                    "- GameFirst VI",
+                    "- ROG CPU-Z",
+                    "- Sonic Studio III + Sonic Studio Virtual Mixer + Sonic Suite Companion",
+                    "- Sonic Radar III",
+                    "- DTS Sound Unbound",
+                    "ASUS Exclusive Software: ",
+                    "Armoury Crate",
+                    "- AIDA64 Extreme (60 days free trial)",
+                    "- Aura Creator- Aura Sync",
+                    "- Fan Xpert 4 (with AI Cooling II)",
+                    "- Power Saving",
+                    "- Two-Way AI Noise Cancellation",
+                    "AI Suite 3",
+                    "- Easy Optimization with AI Overclocking",
+                    "- TPU",
+                    "- DIGI+ VRM",
+                    "- Turbo app",
+                    "- PC Cleaner",
+                    "MyAsus",
+                    "Norton 360 for Gamers",
+                    "WinRAR",
+                    "UEFI BIOS: ",
+                    "AI Overclocking Guide",
+                    "ASUS EZ DIY",
+                    "- ASUS CrashFree BIOS 3",
+                    "- ASUS EZ Flash 3",
+                    "- ASUS UEFI BIOS EZ Mode",
+                    "FlexKey",
+                    "MemTest86"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASUS ROG STRIX Z790-E GAMING WIFI 13th Gen ATX Motherboard",
+                "details": "ASUS ROG STRIX Z790-E GAMING WIFI Motherboard features LGA 1700 socket and Z790 chipset which supports Intel Socket LGA1700 for 13th Gen Intel Core & 12th Gen Intel Core, Pentium Gold, and Celeron Processors. This motherboard comes with 4 x DIMM that supports DDR5 Dual-Channel RAM up to 128GB of memory with speeds up to 7200 MHz when overclocked. This provides you with increased multitasking and rendering capabilities. It comes with 5x M.2 PCIe and four SATA III storage interfaces allow you to combine an array of storage drives to build a massive gaming library. It also has a single PCIe 5.0 x16 slot that supports resource-intensive graphics cards, while two PCIe 4.0 x16 (in x4 mode) and one PCIe 3.0 x1 slots support a variety of utility cards. Several USB 2.0, 3.2 Gen 1, Gen 2, and Gen 2x2 interfaces are accessible via the back panel and internal headers, providing ample support for peripherals such as mice, keyboards, and controllers as well as resource-demanding devices such as external drives. Bluetooth 5.2 technology can be used by wireless devices to provide a reliable cable-free experience. Use Wi-Fi 6E (802.11ax) to connect to your wireless network, or the integrated 2.5 Gigabit Ethernet port if you prefer a wired connection."
+            },
+            {
+                "title": "AI Overclocking",
+                "details": "The ASUS ROG STRIX Z790-E GAMING WIFI can boost performance with automatic AI overclocking and cooling, enhancing your games and productivity without sacrificing thermal capabilities. AI noise cancellation is an audio-focused utility that reduces background noise, allowing others to hear you more clearly when playing team-based games or delivering presentations remotely. GameFirst VI is an artificial intelligence networking tool that prioritizes and optimizes your network connection for smoother online gameplay, which is essential for competitive online titles."
+            },
+            {
+                "title": "Enhanced Power Solution",
+                "details": "ASUS ROG STRIX Z790-E GAMING WIFI delivers stable power throughout the entire motherboard, maintaining electrical volume whether performing simple tasks or operating at full power during resource-demanding processes, thanks to 16+1 70A power stages with ProCool II connectors, alloy chokes, and durable capacitors."
+            },
+            {
+                "title": "Comprehensive Cooling",
+                "details": "The ASUS ROG STRIX Z790-E GAMING WIFI motherboard incorporates a large VRM heatsink for capacitors and chokes, as well as integrated double-sided M.2 heat sinks and a unique PCH fan-less heatsink, to ensure your system remains cool under heavy loads, delivering better thermal performance while preventing throttling. Fan expert 4 software and hybrid fan headers control fans and liquid pump elements for enhanced cooling that can be customized."
+            },
+            {
+                "title": "ROG SupremeFX 7.1 Surround Sound High Definition Audio",
+                "details": "Immerse yourself in your favorite games with the help of high-fidelity audio powered by the Savitech SV3H712 amplifier and ROG SupremeFX 7.1-channel ALC4080 codec. Premium capacitors and audio jacks with gold plating enhance audio conductivity for a dependable signal and reduce static and other interference."
+            },
+            {
+                "title": "Leading Connectivity",
+                "details": "The ASUS ROG STRIX Z790-E GAMING WIFI ATX Motherboard provides reliable connectivity for your peripherals between the internal headers and the backplate. Webcams, microphones, and external storage drives can transfer data at speeds of up to 5 and 10 Gb/s through USB-A and USB-C 3.2 Gen 1 and Gen 2 ports, respectively. For devices that require a lot of resources, like storage arrays and audio interfaces, a USB-C 3.2 Gen 2x2 port offers up to 20 Gb/s data transfer speed. In addition to facilitating data transfer, a front panel USB-C 3.2 Gen 2x2 port provides up to 30W Power Delivery to charge and support peripherals that require a lot of resources. With an internal Thunderbolt 4 header, you can increase your connectivity and take advantage of high-speed connectivity that supports quick transfer rates and Power Delivery technologies."
+            },
+            {
+                "title": "Buy ASUS ROG STRIX Z790-E GAMING WIFI 13th Gen Motherboard from the best Motherboard Shop in BD",
+                "details": "In Bangladesh, you can get the original ASUS ROG STRIX Z790-E GAMING WIFI 13th Gen & 12th Gen ATX Motherboard From Star Gadget. We have a large collection of the latest ASUS Motherboard to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The ASUS ROG STRIX Z790-E GAMING WIFI comes with 3 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASUS ROG STRIX Z790-E GAMING WIFI Motherboard in Bangladesh?",
+            "details": "The latest price of ASUS ROG STRIX Z790-E GAMING WIFI Motherboard in Bangladesh is 73,000৳. You can buy the ASUS ROG STRIX Z790-E GAMING WIFI Motherboard at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "pcbuilder@example.com",
+                "review_comment": "Solid motherboard with plenty of features. Wi-Fi is a nice addition.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "gamingenthusiast@example.com",
+                "review_comment": "Overclocks well, but the price is on the higher side.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "motherboard",
+        "product_name": "Asus ROG MAXIMUS Z690 FORMULA 12th Gen ATX Motherboard",
+        "price": 70000,
+        "regular_price": 80162,
+        "status": true,
+        "product_code": "00021",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/bz477yR/ASUS-ROG-STRIX-Z790-E-GAMING-WIFI-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "rating": 4.6,
+        "features": {
+            "Model": "ROG MAXIMUS Z690 FORMULA",
+            "Supported CPU": "Intel Socket LGA1700 for 12th Gen Intel Core, Pentium Gold, and Celeron Processors",
+            "Supported RAM": "DDR5 6400+(OC)/ 6200(OC)/ 6000(OC)/ 5800(OC)/ 5600(OC)/ 5400(OC)/ 5200(OC)/ 5000(OC)/ 4800 Non-ECC, Un-buffered Memory",
+            "Graphics Output": "1 x HDMI port, 2 x Intel Thunderbolt 4 ports (USB Type-C) support DisplayPort 1.4 and Thunderbolt video outputs",
+            "Features": "PCIe 5.0, dual Gen 4 M.2 onboard"
+        },
+        "specification": {
+            "Basic Information": {
+                "Supported CPU": "Intel Socket LGA1700 for 12th Gen Intel Core, Pentium Gold and Celeron Processors Supports Intel Turbo Boost Technology 2.0 and Intel Turbo Boost Max Technology 3.0",
+                "Chipset": "Z690",
+                "BIOS": "2 x 256 Mb Flash ROM, UEFI AMI BIOS",
+                "Form Factor": [
+                    "ATX",
+                    "(30.5cm x 24.4cm)"
+                ],
+                "Audio": [
+                    "ROG SupremeFX 7.1 Surround Sound High Definition Audio CODEC ALC4082",
+                    "- Impedance sense for front and rear headphone outputs",
+                    "- Supports: Jack-detection, Multi-streaming, Front Panel Jack-retasking",
+                    "- High quality 120 dB SNR stereo playback output and 113 dB SNR recording input",
+                    "- Supports up to 32-Bit/384 kHz playback",
+                    "Audio Features",
+                    "- SupremeFX Shielding Technology",
+                    "- ESS® SABRE9018Q2C DAC/AMP",
+                    "- Gold-plated audio jacks",
+                    "- Rear optical S/PDIF out port",
+                    "- Premium audio capacitors"
+                ]
+            },
+            "Expansion Slots": {
+                "PCI": [
+                    "Intel 12th Gen Processors*",
+                    "2 x PCIe 5.0 x16 slot(s) (supports x16 or x8/x8 mode(s))",
+                    "Intel Z690 Chipset",
+                    "1 x PCIe 4.0 x16 slot (supports x4 or x4/x4 mode)"
+                ],
+                "M.2 Socket": "Supports 5 x M.2 slots"
+            },
+            "Memory": {
+                "Type": "DDR5",
+                "Slots": "4 x DIMM",
+                "Supported Memory": [
+                    "DDR5 6400+(OC)/ 6200(OC)/ 6000(OC)/ 5800(OC)/ 5600(OC)/ 5400(OC)/ 5200(OC)/5000(OC)/4800 Non-ECC, Un-buffered Memory",
+                    "Dual Channel Memory Architecture",
+                    "Supports Intel Extreme Memory Profile (XMP)",
+                    "OptiMem II"
+                ],
+                "Maximum Memory": "128GB"
+            },
+            "Graphics": [
+                "1 x HDMI port**",
+                "2 x Intel Thunderbolt 4 ports (USB Type-C) support DisplayPort 1.4 and Thunderbolt video outputs"
+            ],
+            "Connector & Ports": {
+                "HDMI": "1 x HDMI port",
+                "USB (s)": [
+                    "Rear USB:",
+                    "Total 12 ports",
+                    "2 x Thunderbolt™ 4 port(s) (2 x USB Type-C®)",
+                    "7 x USB 3.2 Gen 2 port(s) (6 x Type-A + 1 x USB Type-C®)",
+                    "3 x USB 2.0 port(s) (3 x Type-A)",
+                    "Front USB:",
+                    "Total 9 ports",
+                    "1 x USB 3.2 Gen 2x2 connector (supports USB Type-C®)",
+                    "2 x USB 3.2 Gen 1 header(s) support(s) additional 4 USB 3.2 Gen 1 ports",
+                    "2 x USB 2.0 header(s) support(s) additional 4 USB 2.0 ports"
+                ],
+                "LAN Port (s)": [
+                    "1 x Marvell 10Gb Ethernet",
+                    "ASUS LANGuard"
+                ],
+                "Wireless Communication module": [
+                    "Intel Wi-Fi 6E",
+                    "2x2 Wi-Fi 6E (802.11 a/b/g/n/ac/ax)",
+                    "Supports 2.4/5/6GHz frequency band*",
+                    "Bluetooth v5.2"
+                ],
+                "Supported Storage": [
+                    "Supports 5 x M.2 slots and 6 x SATA 6Gb/s ports",
+                    "Intel® 12th Gen Processors",
+                    "M.2_1 slot (Key M), type 2242/2260/2280/22110",
+                    "- Intel® 12th Gen processors support PCIe 4.0 x4 mode.",
+                    "Hyper M.2_1 slot (Key M) via ROG Hyper M.2 card, type 2242/2260/2280/22110***",
+                    "- Intel® 12th Gen processors support PCIe 5.0 x4 mode",
+                    "Intel® Z690 Chipset**",
+                    "M.2_2 slot (Key M), type 2242/2260/2280 (supports PCIe 3.0 x4 mode)",
+                    "M.2_3 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 & SATA modes)",
+                    "Hyper M.2_1 slot (Key M) via ROG Hyper M.2 card, type 2242/2260/2280/22110 (suppports PCIe 4.0x4 mode)***",
+                    "Hyper M.2_2 slot (Key M) via ROG Hyper M.2 card, type 2242/2260/2280/22110 (suppports PCIe 4.0x4 mode)****",
+                    "6 x SATA 6Gb/s ports*****",
+                    "* Intel® Rapid Storage Technology supports NVMe RAID 0/1/5, SATA RAID 0/1/5/10.",
+                    "** Intel Rapid Storage Technology supports Intel Optane Memory H Series on PCH attached M.2 slots."
+                ]
+            },
+            "Audio": "1 x Front Panel Audio header (AAFP)",
+            "Internal I/O Ports": [
+                "1 x 4-pin CPU Fan header",
+                "1 x 4-pin CPU OPT Fan header",
+                "2 x 4-pin Chassis Fan headers",
+                "2 x 4-pin Radiator Fan headers",
+                "2 x W_PUMP+ headers",
+                "1 x WB_SENSOR header",
+                "1 x 2-pin Water In header",
+                "1 x 2-pin Water Out header",
+                "1 x 3-pin Water Flow header",
+                "Power related",
+                "1 x 24-pin Main Power connector",
+                "2 x 8-pin +12V Power connector",
+                "1 x 6-pin PCIe Graphics Card connector",
+                "",
+                "Storage related",
+                "3 x M.2 slots (Key M)",
+                "1 x DIMM.2 slot supports 2 x M.2 slots (Key M)",
+                "6 x SATA 6Gb/s ports",
+                "USB",
+                "1 x Intel® Thunderbolt 4 port (USB Type-C®)",
+                "1 x USB 3.2 Gen 2x2 connector (supports USB Type-C®)",
+                "2 x USB 3.2 Gen 1 headers support additional 4 USB 3.2 Gen 1 ports",
+                "2 x USB 2.0 headers support additional 4 USB 2.0 ports",
+                "Miscellaneous",
+                "1 x 6-pin ARGB Gen 2 header to support 2 x ARGB Gen 2 headers",
+                "1 x Addressable Gen 2 header",
+                "1 x AURA RGB header",
+                "1 x BIOS Switch button",
+                "2 x BCLK button",
+                "1 x FlexKey button",
+                "1 x Front Panel Audio header (AAFP)",
+                "1 x LN2 Mode jumper",
+                "1 x Osc sence header",
+                "12 x ProbeIt Measurement Points",
+                "1 x ReTry button",
+                "1 x RSVD switch",
+                "1 x RSVD header",
+                "1 x Safe Boot button",
+                "1 x Slow Mode switch",
+                "1 x Start button",
+                "1 x V_Latch switch",
+                "1 x 10-1 pin System Panel header",
+                "1 x Thermal Sensor header"
+            ],
+            "TPM (Trusted Platform Module)": "1 x SPI TPM header (14-1pin)"
+        },
+        "Others": {
+            "Special Features": [
+                "Extreme OC Kit",
+                "- FlexKey button",
+                "- ReTry button",
+                "- Start button",
+                "Extreme Engine Digi+",
+                "- 10K Black Metallic Capacitors",
+                "- MicroFine Alloy Choke",
+                "ASUS Q-Design",
+                "- M.2 Q-Latch",
+                "- PCIe Slot Q-Release",
+                "- Q-Code",
+                "- Q-Connector",
+                "- Q-DIMM",
+                "- Q-LED (CPU [red], DRAM [yellow], VGA [white], Boot Device [yellow green])",
+                "- Q-Slot",
+                "ASUS Thermal Solution",
+                "- CrossChill EK III",
+                "- M.2 heatsink backplate",
+                "- M.2 heatsinks",
+                "- Steel backplate",
+                "ASUS EZ DIY",
+                "- BIOS FlashBack™ button",
+                "- Clear CMOS button",
+                "- CPU Socket lever protector",
+                "- ProCool II",
+                "- Pre-mounted I/O shield",
+                "- SafeSlot",
+                "- SafeDIMM",
+                "AURA Sync",
+                "- AURA RGB header(s)",
+                "- Addressable Gen 2 header(s)",
+                "OLED 2\"",
+                "Front Panel USB 3.2 Gen 2x2 with Quick Charge 4+ Support",
+                "- Support: up to 60W charging*",
+                "- Output: 5/9/15/20V max. 3A, PPS:3.3–21V max. 3A",
+                "- Compatible with QC 4.0/3.0/2.0, PD3.0 and PPS",
+                "* To support 60W, please install the power cable to 6-pin PCIe Graphics Card connector or can only support 27W",
+                "ASUS HYDRANODE",
+                "- 1 x 12-1 pin Front Panel Audio header (AAFP)",
+                "- 3 x Chassis fan support* (CHA_FAN1P,CHA_FAN2P,CHA_FAN3P)"
+            ],
+            "Bundled Software": [
+                "ROG Exclusive Software",
+                "- GameFirst VI",
+                "- ROG CPU-Z",
+                "- Sonic Studio III + Sonic Studio Virtual Mixer + Sonic Suite Companion",
+                "- Sonic Radar III",
+                "- DTS® Sound Unbound",
+                "- BullGuard Internet Security (1-year full version)",
+                "ASUS Exclusive Software",
+                "Armoury Crate",
+                "- AIDA64 Extreme (1 year full version)",
+                "- AURA Creator",
+                "- AURA Sync",
+                "- Fan Xpert 4",
+                "- Two-Way AI Noise Cancelation",
+                "AI Suite 3",
+                "- Easy Optimization with AI Overclocking",
+                "TPU",
+                "EPU",
+                "DIGI+ Power Control",
+                "Turbo app",
+                "MyAsus",
+                "WinRAR",
+                "WEFI BIOS",
+                "AI Overclocking Guide",
+                "ASUS EZ DIY",
+                "- ASUS CrashFree BIOS 3",
+                "- ASUS EZ Flash 3",
+                "- ASUS UEFI BIOS EZ Mode",
+                "MemTest86"
+            ]
+        },
+        "Warranty Information": "3 years",
+        "descriptions": [
+            {
+                "title": "Asus ROG MAXIMUS Z690 FORMULA 12th Gen ATX Motherboard",
+                "details": "The Asus ROG MAXIMUS Z690 FORMULA 12th Gen ATX Motherboard supports Socket LGA1700 for 12th Gen Intel Core, Pentium Gold & Celeron Processors. It features ASUS-exclusive tools including AI Overclocking, AI Cooling, AI Networking, and Two-Way AI Noise-Cancelation for easy configuration. It has 24+1 teamed power stages rated for 105 A, ProCool II power connectors, MicroFine alloy chokes, and premium metallic capacitors. 24+1 teamed power stages rated for 105 A, ProCool II power connectors, MicroFine alloy chokes, and premium metallic capacitors. It comes with onboard Wi-Fi 6E, Marvell AQtion 10Gb, Intel 2.5Gb Ethernet, and ASUS LANGuard. It delivers the fastest Gaming Connectivity: PCIe 5.0, Gen 5 M.2 slots, USB 3.2 Gen 2x2 front-panel connector with Thunderbolt 4 support, and rear triple USB Type-C ports. It also has ROG SupremeFX ALC4082 codec with ESS ES9018Q2C DAC for high-fidelity audio. The Asus ROG MAXIMUS Z690 FORMULA comes with 3 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Asus ROG MAXIMUS Z690 FORMULA 12th Gen Motherboard in Bangladesh?",
+            "details": "The latest price of Asus ROG MAXIMUS Z690 FORMULA 12th Gen Motherboard in Bangladesh is 70,000৳. You can buy the Asus ROG MAXIMUS Z690 FORMULA 12th Gen Motherboard at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamermaster@example.com",
+                "review_comment": "This motherboard is a beast! It handled my 12th Gen Intel Core CPU and RTX 3090 like a champ. Overclocking is a breeze with AI Overclocking. Highly recommended for gaming enthusiasts.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "pcbuilderpro@example.com",
+                "review_comment": "The build quality of this motherboard is top-notch. It's packed with features and has excellent power delivery. The Extreme OC Kit is a great addition for overclockers. I'm impressed with its performance.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "techguru@example.com",
+                "review_comment": "Asus has done it again with the ROG MAXIMUS Z690 FORMULA. The AI Networking really makes a difference in online gaming. The 10 Gb Ethernet is a welcome addition. It's pricey, but you get what you pay for.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "gamingenthusiast@example.com",
+                "review_comment": "Overclocks well, but the price is on the higher side. The onboard Wi-Fi 6E and Thunderbolt 4 are great features. If you're a serious gamer or content creator, this motherboard is worth the investment.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "motherboard",
+        "product_name": "MSI MEG Z790 ACE 13th and 12th Gen E-ATX Motherboard",
+        "price": 74500,
+        "regular_price": 78374,
+        "status": true,
+        "product_code": "00022",
+        "brand": "MSI",
+        "image_url": "https://i.ibb.co/310w7fY/MSI-MEG-Z790-ACE-13th-and-12th-Gen-E-ATX-Motherboard.jpg",
+        "rating": 4.7,
+        "features": {
+            "Model": "MEG Z790 ACE",
+            "Supported CPU": "13th /12th Gen Intel Core / Pentium / Celeron processors (LGA 1700)",
+            "Supported RAM": "4x DDR5, Max 128GB, 7800+MHz (OC)",
+            "Graphics Output": "1x Type-C DisplayPort",
+            "Features": "Dual 2.5G LAN with latest Wi-Fi 6E, Dual Thunderbolt 4"
+        },
+        "specification": {
+            "Basic Information": {
+                "Supported CPU": "Supports 12th/13th Gen Intel Core Processors, Pentium Gold and Celeron Processors LGA 1700",
+                "Chipset": "INTEL Z790",
+                "Form Factor": [
+                    "E-ATX",
+                    "277mmx304.8mm"
+                ],
+                "Audio": [
+                    "Realtek ALC4082 Codec + ESS ES9280AQ Combo DAC/HPA",
+                    "7.1-Channel USB High Performance Audio",
+                    "Supports S/PDIF output",
+                    "Supports up to 32-Bit/384 kHz playback on front panel"
+                ]
+            },
+            "Expansion Slots": {
+                "PCI": [
+                    "3x PCI-E x16 slot",
+                    "PCI_E1 PCIe 5.0 supports up to x16 (From CPU)",
+                    "PCI_E2 PCIe 5.0 supports up to x8 (From CPU)",
+                    "PCI_E3 PCIe 4.0 supports up to x4 (From Chipset)"
+                ]
+            },
+            "Memory": {
+                "Type": "DDR5",
+                "Slots": "4 x DIMM",
+                "Supported Memory": [
+                    "7800+(OC)/ 7600(OC)/ 7400(OC)/ 7200(OC)/ 7000(OC)/ 6800(OC)/ 6600(OC)/ 6400(OC)/ 6200(OC)/ 6000(OC)/ 5800(OC)/ 5600(JEDEC)/ 5400(JEDEC)/ 5200(JEDEC)/ 5000(JEDEC)/ 4800(JEDEC) MHz",
+                    "Max. overclocking frequency: ",
+                    "• 1DPC 1R Max speed up to 7800+ MHz",
+                    "• 1DPC 2R Max speed up to 6600+ MHz",
+                    "• 2DPC 1R Max speed up to 6400+ MHz",
+                    "• 2DPC 2R Max speed up to 5600+ MHz",
+                    "Supports Intel XMP3.0 OC",
+                    "Supports Dual-Controller Dual-Channel mode",
+                    "Supports non-ECC, un-buffered memory"
+                ],
+                "Maximum Memory": "128GB"
+            },
+            "Graphics": {
+                "Graphics": [
+                    "1x Type-C DisplayPort",
+                    "Supports a maximum resolution of 4K 60Hz"
+                ]
+            },
+            "Connector & Ports": {
+                "Display Port (s)": "1x Type-C DisplayPort",
+                "USB (s)": [
+                    "4x USB 2.0 (Front)",
+                    "4x USB 3.2 Gen1 Type A (Front)",
+                    "7x USB 3.2 Gen2 Type A (Rear)",
+                    "1x USB 3.2 Gen2 Type C (Rear)",
+                    "2x USB 3.2 Gen2x2 Type C (Front)"
+                ],
+                "LAN Port (s)": "2x Intel 2.5Gbps LAN",
+                "Wireless Communication module": [
+                    "Intel Wi-Fi 6E",
+                    "The Wireless module is pre-installed in the M.2 (Key-E) slot",
+                    "Supports MU-MIMO TX/RX, 2.4GHz / 5GHz / 6GHz* (160MHz) up to 2.4Gbps",
+                    "Supports 802.11 a/ b/ g/ n/ ac/ ax",
+                    "Supports Bluetooth 5.3, FIPS, FISMA"
+                ],
+                "Supported Storage": [
+                    "5x M.2 slot",
+                    "M.2_1 (From CPU) supports up to PCIe 4.0 x4 , supports 22110/2280/2260 devices",
+                    "M.2_2 (From Chipset) supports up to PCIe 4.0 x4 , supports 2280/2260 devices",
+                    "M.2_3 (From Chipset) supports up to PCIe 4.0 x4 / SATA mode, supports 2280/2260 devices",
+                    "M.2_4 (From CPU) supports up to PCIe 5.0 x4 , supports 2280 devices",
+                    "M.2_5 (From Chipset) supports up to PCIe 4.0 x4 / SATA mode, supports 22110/2280/2260 devices",
+                    "6x SATA 6G port"
+                ],
+                "RAID": [
+                    "Supports RAID 0, RAID 1, RAID 5 and RAID 10 for SATA storage devices",
+                    "Supports RAID 0, RAID 1, RAID 5 and RAID 10 for M.2 NVMe storage devices",
+                    "* SATA_A1~A2 do not support RAID function."
+                ],
+                "Audio": "Audio Connectors",
+                "Internal I/O Ports": [
+                    "1x Power Connector(ATX_PWR)",
+                    "2x Power Connector(CPU_PWR)",
+                    "1x CPU Fan",
+                    "2x Pump Fan",
+                    "5x System Fan",
+                    "2x Front Panel (JFP)",
+                    "1x Chassis Intrusion (JCI)",
+                    "1x Water Flow connector",
+                    "1x Slow Mode Booting Jumper(JSLOW)",
+                    "1x Front Audio (JAUD)",
+                    "2x Thermal Sensor connectors(T_SEN)",
+                    "1x Tuning Controller connector(JDASH)",
+                    "3x Addressable V2 RGB LED connector (JARGB_V2)",
+                    "1x RGB LED connector(JRGB)",
+                    "4x USB 2.0",
+                    "2x USB 3.2 Gen1 Type A",
+                    "2x USB 3.2 Gen 2x2 Type C",
+                    "V-check point"
+                ],
+                "TPM (Trusted Platform Module)": "1x TPM pin header(Support TPM 2.0)"
+            },
+            "Others": {
+                "Special Features": [
+                    "1x EZ LED Control switch",
+                    "4x EZ Debug LED",
+                    "1x 2-Digit Debug Code LED"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "MSI MEG Z790 ACE 13th and 12th Gen E-ATX Motherboard",
+                "details": "The MSI MEG Z790 ACE Motherboard supports 13th /12th Gen Intel Core / Pentium / Celeron processors for LGA 1700 socket. This E-ATX motherboard supports DDR5 Memory, and Dual Channel DDR5 7800+MHz (OC). It features Dual Thunderbolt 4 ports. Thunderbolt USB-C at true 40 Gb/s speeds, 8K display support, Daisy-Chaining, and Multi-Port Accessory Architecture provide reliable connectivity and a better user experience. It comes with 24+1+2 phases power design with 105A Smart Power Stage and dual CPU power connectors ready to unleash maximum performance. It offers 5x M.2 connectors. Onboard quintuple M.2 connectors including one PCIe 5.0 solution for maximum storage performance. The double-sided Shield Frozr design keeps M.2 SSDs safe while preventing throttling, making them run faster. It comes with a Stacked Fin Array, Direct Touch Cross Heat-pipe, Aluminum Backplate, 7W/mK thermal pads, double-sided M.2 Shield Frozr, and Frozr AI software to ensure extreme performance with low temperatures. The MSI MEG Z790 ACE Motherboard is equipped with onboard dual 2.5G LAN with the latest Wi-Fi 6E solution which supports 6GHz spectrum delivering the best online gaming experience. PCIe 5.0 slots, Lightning Gen 5 x4 M.2, Dual Front USB 3.2 Gen 2x2 20G with one 60W USB Power Delivery. MSI MEG Z790 ACE features 8 Layer PCB with 2oz Thickened Copper. It provides higher performance and long-lasting system stability without any compromise. It also offers Audio Boost 5 HD. It is the ultimate audio solution with the latest premium ALC4082 audio processor combining ESS audio DAC and amplifier delivering a breathtaking experience. The MSI MEG Z790 ACE Motherboard comes with a 03-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of MSI MEG Z790 ACE Motherboard in Bangladesh?",
+            "details": "The latest price of MSI MEG Z790 ACE Motherboard in Bangladesh is 74,500৳. You can buy the MSI MEG Z790 ACE Motherboard at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "overclocker@example.com",
+                "review_comment": "Excellent motherboard for enthusiasts. Overclocking options are a dream.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user222@example.com",
+                "review_comment": "Feature-packed, but it's a bit bulky and might not fit in all cases.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "motherboard",
+        "product_name": "ASRock Z790 Pro RS ATX Motherboard",
+        "price": 30700,
+        "regular_price": 33770,
+        "status": true,
+        "product_code": "00023",
+        "brand": "ASRock",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "rating": 4.5,
+        "features": {
+            "Model": "Z790 Pro RS",
+            "Supported CPU": "14th Gen, 13th Gen & 12th Gen Intel Core Processors (LGA1700)",
+            "Supported RAM": "4 x DDR5 DIMMs, up to 6800+(OC)",
+            "Graphics Output": "1x HDMI, 1x DisplayPort, eDP",
+            "Features": "4 Hyper M.2 (PCIe Gen4x4), 8 SATA3"
+        },
+        "specification": {
+            "Basic Information": {
+                "Supported CPU": [
+                    "- Supports 13th Gen & 12th Gen Intel Core Processors (LGA1700)",
+                    "- Supports Intel Hybrid Technology",
+                    "- Supports Intel Turbo Boost Max 3.0 Technology",
+                    "- Supports Intel Thermal Velocity Boost (TVB)",
+                    "- Supports Intel Adaptive Boost Technology (ABT)"
+                ],
+                "Chipset": "Intel Z790",
+                "BIOS": "128Mb AMI UEFI Legal BIOS with GUI support",
+                "Form Factor": [
+                    "- ATX Form Factor: 12.0-in x 9.6-in, 30.5 cm x 24.4 cm",
+                    "- 2oz Copper PCB"
+                ],
+                "Audio": [
+                    "- 7.1 CH HD Audio (Realtek ALC897 Audio Codec)",
+                    "- Nahimic Audio"
+                ]
+            },
+            "Expansion Slots": {
+                "PCI": [
+                    "CPU:",
+                    "- 1 x PCIe 5.0 x16 Slot (PCIE2), supports x16 mode",
+                    "Chipset:",
+                    "- 1 x PCIe 4.0 x16 Slot (PCIE3), supports x4 mode",
+                    "- 2 x PCIe 3.0 x1 Slots (PCIE1 and PCIE4)",
+                    "- 1 x M.2 Socket (Key E), supports type 2230 WiFi/BT PCIe WiFi module and Intel CNVio/CNVio2 (Integrated WiFi/BT) ",
+                    "- Supports AMD CrossFire"
+                ]
+            },
+            "Memory": {
+                "Type": "DDR5",
+                "Slots": "4 x DDR5 DIMMs",
+                "Supported Memory": [
+                    "- Dual Channel DDR5 Memory Technology",
+                    "- Supports DDR5 non-ECC, un-buffered memory up to 6800+(OC)",
+                    "- Supports Intel Extreme Memory Profile (XMP) 3.0"
+                ],
+                "Maximum Memory": "128GB"
+            },
+            "Graphics": {
+                "Graphics": [
+                    "- Intel Xe Graphics Architecture (Gen 12)",
+                    "- 1 x eDP 1.4, supports max. resolution up to Full HD 60Hz",
+                    "- 1 x HDMI 2.1 TMDS Compatible, supports HDCP 2.3 and max. resolution up to 4K 60Hz",
+                    "- 1 x DisplayPort 1.4 with DSC (compressed), supports HDCP 2.3 and max. resolution up to 8K 60Hz / 5K 120Hz"
+                ]
+            },
+            "Connector & Ports": {
+                "HDMI": "1 x HDMI Port",
+                "Display Port (s)": "1 x DisplayPort 1.4",
+                "USB (s)": [
+                    "- 1 x USB 3.2 Gen2x2 Type-C (Front)",
+                    "- 1 x USB 3.2 Gen2 Type-C (Rear)",
+                    "- 1 x USB 3.2 Gen2 Type-A (Rear)",
+                    "- 6 x USB 3.2 Gen1 (2 Rear, 4 Front)",
+                    "- 8 x USB 2.0 (4 Rear, 4 Front)"
+                ],
+                "LAN Port (s)": [
+                    "- 2.5 Gigabit LAN 10/100/1000/2500 Mb/s",
+                    "- Dragon RTL8125BG",
+                    "- Supports Dragon 2.5G LAN Software",
+                    "- Smart Auto Adjust Bandwidth Control",
+                    "- Visual User Friendly UI",
+                    "- Visual Network Usage Statistics",
+                    "- Optimized Default Setting for Game, Browser, and Streaming Modes",
+                    "- User Customized Priority Control"
+                ],
+                "Supported Storage": [
+                    "CPU:",
+                    "- 1 x Hyper M.2 Socket (M2_1, Key M), supports type 2260/2280 PCIe Gen4x4 (64 Gb/s) mode",
+                    "Chipset:",
+                    "- 1 x Hyper M.2 Socket (M2_2, Key M), supports type 2260/2280 PCIe Gen4x4 (64 Gb/s) mode",
+                    "- 1 x Hyper M.2 Socket (M2_3, Key M), supports type 2260/2280 PCIe Gen4x4 (64 Gb/s) mode",
+                    "- 1 x Hyper M.2 Socket (M2_4, Key M), supports type 2260/2280 PCIe Gen4x4 (64 Gb/s) mode",
+                    "- 8 x SATA3 6.0 Gb/s Connectors"
+                ],
+                "RAID": [
+                    "- Supports RAID 0, RAID 1, RAID 5 and RAID 10 for SATA storage devices",
+                    "- Supports RAID 0, RAID 1 and RAID 5 for M.2 NVMe storage devices"
+                ],
+                "Audio": "HD Audio Jacks: Line in / Front Speaker / Microphone",
+                "Internal I/O Ports": [
+                    "- 1 x eDP Signal Connector",
+                    "- 1 x Power LED and Speaker Header",
+                    "- 1 x RGB LED Header",
+                    "- 3 x Addressable LED Headers",
+                    "- 1 x CPU Fan Connector (4-pin)",
+                    "- 1 x CPU/Water Pump Fan Connector (4-pin) (Smart Fan Speed Control)",
+                    "- 5 x Chassis/Water Pump Fan Connectors (4-pin) (Smart Fan Speed Control)",
+                    "- 1 x 24 pin ATX Power Connector",
+                    "- 2 x 8 pin 12V Power Connectors (Hi-Density Power Connector)",
+                    "- 1 x Front Panel Audio Connector",
+                    "- 1 x Thunderbolt AIC Connector (5-pin) (Supports ASRock Thunderbolt 4 AIC Card)",
+                    "- 2 x USB 2.0 Headers (Support 4 USB 2.0 ports)",
+                    "- 2 x USB 3.2 Gen1 Headers (Support 4 USB 3.2 Gen1 ports)",
+                    "- 1 x Front Panel Type C USB 3.2 Gen2x2 Header (20 Gb/s)"
+                ],
+                "TPM (Trusted Platform Module)": "1 x SPI TPM Header"
+            },
+            "Others": {
+                "Special Features": [
+                    "Superb Productivity",
+                    "- PCIe Gen5 (Graphics)",
+                    "Rock-Solid Durability",
+                    "- 14+1+1 Power Phase, 50A Dr.MOS for VCore+GT with Enlarged Heatsink Armor",
+                    "- Flexible Integrated I/O Shield",
+                    "Ultrafast Connectivity",
+                    "- 2.5G LAN EZ Update",
+                    "- ASRock Auto Driver Installer",
+                    "EZ Troubleshooter",
+                    "- ASRock Post Status Checker"
+                ],
+                "Bundled Software": [
+                    "Software",
+                    "- ASRock Motherboard Utility (A-Tuning)",
+                    "- ASRock Dragon 2.5G LAN Software",
+                    "- ASRock Polychrome SYNC",
+                    "UEFI",
+                    "- ASRock EZ Mode",
+                    "- ASRock Full HD UEFI",
+                    "- ASRock My Favorites in UEFI",
+                    "- ASRock Auto Driver Installer",
+                    "- ASRock Instant Flash",
+                    "- ASRock Easy RAID Installer"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASRock Z790 Pro RS 13th Gen & 12th Gen ATX Motherboard",
+                "details": "ASRock Z790 Pro RS motherboard supports 13th Gen & 12th Gen Intel Core Processors (LGA1700), 14+1+1 Phase Power Design, Dr.MOS for VCore+GT. It comes with 4 x DDR5 DIMMs, supports up to 6800+(OC). This Motherboard featured with 1 PCIe 5.0 x16, 1 PCIe 4.0 x16, 3 PCIe 3.0 x1, 1 M.2 Key-E for WiFi. It comes with 1 HDMI, 1 DisplayPort, eDP graphics output options. The ASRock Z790 Pro RS offers 7.1 CH HD Audio (Realtek ALC897 Audio Codec), Nahimic Audio. This ASRock motherboard also has 4 Hyper M.2 (PCIe Gen4x4), 8 SATA3. It comes with 1 USB 3.2 Gen2x2 Type-C (Front), 1 USB 3.2 Gen2 Type-C (Rear), 1 USB 3.2 Gen2 Type-A (Rear), 6 USB 3.2 Gen1 (2 Rear, 4 Front), 8 USB 2.0 (4 Rear, 4 Front), and Realtek 2.5G LAN. The latest PCI Express 5.0 is capable to perform a breathtaking bandwidth of 128GBps, ready to unleash the full potential of future high-end graphic cards. ASRock Z790 Pro RS 13th Gen ATX Motherboard features via USB, Wi-Fi, analog output or even HDMI, Nahimic Audio, which offers you the most engaging listening experience, vibrant and rich with details. This ASRock Z790 Pro RS motherboard is capable of accommodating multiple M.2 storage devices, one of which can support PCI Express 4.0 M.2 SSD. This 13th Gen ASRock motherboard is also capable of performing twice the speed compared to the previous 3rd generation, giving a lightning-fast data transferring experience. The latest ASRock Z790 Pro RS Motherboard comes with 03 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASRock Z790 Pro RS 13th Gen ATX Motherboard in Bangladesh?",
+            "details": "The latest price of ASRock Z790 Pro RS 13th Gen ATX Motherboard in Bangladesh is 30,700৳. You can buy the ASRock Z790 Pro RS 13th Gen ATX Motherboard at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamingshark@example.com",
+                "review_comment": "A true powerhouse of a motherboard! The ASRock Z790 Pro RS delivers top-tier performance and overclocking capabilities. I've pushed my CPU to its limits, and it's been rock-solid stable.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "techgeek@example.com",
+                "review_comment": "Impressive features, and the build quality is top-notch. However, it is a bit on the larger side, so make sure your PC case can accommodate it. The extra space is well worth it for the performance gains.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "musicproducer@example.com",
+                "review_comment": "This motherboard is a beast! The ASRock Z790 Pro RS has excellent audio capabilities and connectivity options. It's a dream come true for my music production setup. No regrets!",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "motherboard",
+        "product_name": "ASRock Z790 Pro RS 13th Gen & 12th Gen ATX Motherboard",
+        "price": 30700,
+        "regular_price": 33770,
+        "status": true,
+        "product_code": "00024",
+        "brand": "ASRock",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "rating": 4.5,
+        "features": {
+            "Model": "ROG STRIX Z790-F GAMING WIFI",
+            "Supported CPU": "14th Gen, 13th Gen & 12th Gen Processors (LGA1700)",
+            "Supported RAM": "4 x DIMM, Max. 128GB, DDR5 7800+(OC)",
+            "Graphics Output": "1 x DisplayPort, 1 x HDMI port",
+            "Features": "4 x M.2 slots, Wi-Fi 6E, Bluetooth v5.3"
+        },
+        "specification": {
+            "Basic Information": {
+                "Supported CPU": [
+                    "Intel Socket LGA1700 for 14th Gen, 13th Gen Intel Core & 12th Gen Intel Core, Pentium Gold and Celeron Processors",
+                    "Supports Intel Turbo Boost Technology 2.0 and Intel Turbo Boost Max Technology 3.0"
+                ],
+                "Chipset": "Intel Z790 Chipset",
+                "BIOS": "256 Mb Flash ROM, UEFI AMI BIOS",
+                "Form Factor": [
+                    "ATX Form Factor",
+                    "12 inch x 9.6 inch ( 30.5 cm x 24.4 cm )"
+                ],
+                "Audio": [
+                    "ROG SupremeFX 7.1 Surround Sound High Definition Audio CODEC ALC4080",
+                    "- Impedance sense for front and rear headphone outputs",
+                    "- Supports: Jack-detection, Multi-streaming, Front Panel Jack-retasking",
+                    "- High quality 120 dB SNR stereo playback output and 113 dB SNR recording input",
+                    "- Supports up to 32-Bit/384 kHz playback*",
+                    "Audio Features",
+                    "- SupremeFX Shielding Technology",
+                    "- Savitech SV3H712 AMP",
+                    "- Rear optical S/PDIF out port",
+                    "- Premium audio capacitors",
+                    "- Audio cover"
+                ]
+            },
+            "Expansion Slots": {
+                "PCI": [
+                    "Intel 13th & 12th Gen Processors",
+                    "1 x PCIe 5.0 x16 slot",
+                    "Intel Z790 Chipset",
+                    "2 x PCIe 4.0 x16 slots (support x4 mode)",
+                    "1 x PCIe 3.0 x1 slot"
+                ]
+            },
+            "Memory": {
+                "Type": "DDR5",
+                "Slots": "4 x DIMM",
+                "Supported Memory": [
+                    "7800+(OC)/ 7600(OC)/ 7400(OC)/ 7200(OC)/ 7000(OC)/ 6800(OC)/ 6600(OC)/ 6400(OC)/ 6200(OC)/ 6000(OC)/5800(OC)/ 5600/ 5400/ 5200/ 5000/ 4800",
+                    "Non-ECC, Un-buffered Memory",
+                    "Dual Channel Memory Architecture",
+                    "Supports Intel Extreme Memory Profile (XMP)",
+                    "OptiMem II"
+                ],
+                "Maximum Memory": "128GB"
+            },
+            "Graphics": {
+                "Graphics": [
+                    "1 x DisplayPort (Supports max. 8K@60Hz as specified in DisplayPort 1.4.)",
+                    "1 x HDMI port (Supports 4K@60Hz as specified in HDMI 2.1.)"
+                ]
+            },
+            "Connector & Ports": {
+                "HDMI": "1 x HDMI Port",
+                "Display Port (s)": "1 x DisplayPort",
+                "USB (s)": [
+                    "Rear USB (Total 12 ports)",
+                    "1 x USB 3.2 Gen 2x2 port (1 x USB Type-C)",
+                    "3 x USB 3.2 Gen 2 ports (2 x Type-A + 1 x USB Type-C)",
+                    "4 x USB 3.2 Gen 1 ports (4 x Type-A)",
+                    "4 x USB 2.0 ports (4 x Type-A)",
+                    "Front USB (Total 7 ports)",
+                    "1 x USB 3.2 Gen 2x2 connector (supports USB Type-C with up to 30W PD Fast-charge)",
+                    "1 x USB 3.2 Gen 1 header supports 2 additional USB 3.2 Gen 1 ports",
+                    "2 x USB 2.0 headers support 4 additional USB 2.0 ports"
+                ],
+                "LAN Port (s)": [
+                    "1 x Intel 2.5Gb Ethernet",
+                    "ASUS LANGuard"
+                ],
+                "Wireless Communication module": [
+                    "Wi-Fi 6E",
+                    "2x2 Wi-Fi 6E (802.11 a/b/g/n/ac/ax)",
+                    "Supports 2.4/5/6GHz frequency band*",
+                    "Bluetooth v5.3"
+                ],
+                "Supported Storage": [
+                    "Total supports 4 x M.2 slots and 4 x SATA 6Gb/s ports",
+                    "Intel 13th & 12th Gen Processors",
+                    "M.2_1 slot (Key M), type 2242/2260/2280/22110 (supports PCIe 4.0 x4 mode)",
+                    "Intel Z790 Chipset",
+                    "M.2_2 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 mode)",
+                    "M.2_3 slot (Key M), type 2242/2260/2280/22110 (supports PCIe 4.0 x4 mode)",
+                    "M.2_4 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 & SATA modes)",
+                    "4 x SATA 6Gb/s ports"
+                ],
+                "RAID": "Intel Rapid Storage Technology supports PCIe RAID 0/1/5/10, SATA RAID 0/1/5/10.",
+                "Audio": "5 x Gold-plated audio jacks",
+                "Internal I/O Ports": [
+                    "Fan and Cooling related",
+                    "1 x 4-pin CPU Fan header",
+                    "1 x 4-pin CPU OPT Fan header",
+                    "1 x 4-pin AIO Pump header",
+                    "5 x 4-pin Chassis Fan headers",
+                    "Power related",
+                    "1 x 24-pin Main Power connector",
+                    "2 x 8-pin +12V Power connectors",
+                    "Storage related",
+                    "4 x M.2 slots (Key M)",
+                    "4 x SATA 6Gb/s ports",
+                    "USB",
+                    "1 x USB 3.2 Gen 2x2 connector (supports USB Type-C with up to 30W PD Fast-charge)",
+                    "1 x USB 3.2 Gen 1 header supports 2 additional USB 3.2 Gen 1 ports",
+                    "2 x USB 2.0 headers support 4 additional USB 2.0 ports",
+                    "Miscellaneous",
+                    "3 x Addressable Gen 2 headers",
+                    "1 x Aura RGB header",
+                    "1 x CPU Over Voltage jumper",
+                    "1 x Front Panel Audio header (AAFP)",
+                    "1 x 20-3 pin System Panel header with Chassis intrude function",
+                    "1 x Start button",
+                    "1 x Thermal Sensor header",
+                    "1 x Thunderbolt header"
+                ]
+            },
+            "Others": {
+                "Special Features": [
+                    "Extreme Engine Digi+",
+                    "- 5K Black Metallic Capacitors",
+                    "ASUS Q-Design",
+                    "- M.2 Q-Latch",
+                    "- PCIe Slot Q-Release",
+                    "- Q-DIMM",
+                    "- Q-LED (CPU [red], DRAM [yellow], VGA [white], Boot Device [yellow green])",
+                    "- Q-Slot",
+                    "ASUS Thermal Solution",
+                    "- M.2 heatsink backplate",
+                    "- M.2 heatsink",
+                    "- VRM heatsink design",
+                    "ASUS EZ DIY",
+                    "- BIOS FlashBack button",
+                    "- BIOS FlashBack LED",
+                    "- Clear CMOS button",
+                    "- CPU Socket lever protector",
+                    "- ProCool II",
+                    "- Pre-mounted I/O shield",
+                    "- SafeSlot",
+                    "- SafeDIMM",
+                    "Aura Sync",
+                    "- Aura RGB header",
+                    "- Addressable Gen 2 headers",
+                    "Front Panel USB 3.2 Gen 2x2 with PD Fast-charge Support",
+                    "- Support: up to 30W charging",
+                    "- Output: 5/9V max. 3A, 12V max. 2.5A",
+                    "- Compatible with PD3.0"
+                ],
+                "Bundled Software": [
+                    "ROG Exclusive Software",
+                    "- GameFirst VI",
+                    "- ROG CPU-Z",
+                    "- Sonic Studio III + Sonic Studio Virtual Mixer + Sonic Suite Companion",
+                    "- Sonic Radar III",
+                    "- DTS Sound Unbound ",
+                    "ASUS Exclusive Software",
+                    "Armoury Crate",
+                    "- AIDA64 Extreme (60 days free trial)",
+                    "- Aura Creator- Aura Sync",
+                    "- Fan Xpert 4 (with AI Cooling II)",
+                    "- Power Saving",
+                    "- Two-Way AI Noise Cancellation",
+                    "AI Suite 3",
+                    "- Easy Optimization with AI Overclocking",
+                    "- TPU",
+                    "- DIGI+ VRM",
+                    "- Turbo app",
+                    "- PC Cleaner",
+                    "MyAsus",
+                    "Norton 360 for Gamers",
+                    "WinRAR ",
+                    "UEFI BIOS",
+                    "AI Overclocking Guide",
+                    "ASUS EZ DIY",
+                    "- ASUS CrashFree BIOS 3",
+                    "- ASUS EZ Flash 3",
+                    "- ASUS UEFI BIOS EZ Mode",
+                    "FlexKey",
+                    "MemTest86"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASUS ROG STRIX Z790-F GAMING WIFI ATX Motherboard",
+                "details": "ASUS ROG STRIX Z790-F GAMING WIFI Motherboard features LGA 1700 socket and Z790 chipset which supports Intel Socket LGA1700 for 14th Gen, 13th Gen Intel Core & 12th Gen Intel Core, Pentium Gold, and Celeron Processors. This motherboard comes with 4 x DIMM that supports DDR5 Dual-Channel RAM up to 128GB of memory with speeds up to 7200 MHz when overclocked. This provides you with increased multitasking and rendering capabilities. It comes with 4xM.2 PCIe and four SATA III storage interfaces allow you to combine an array of storage drives to build a massive gaming library. It also has a single PCIe 5.0 x16 slot that supports resource-intensive graphics cards, while two PCIe 4.0 x16 (in x4 mode) and one PCIe 3.0 x1 slots support a variety of utility cards. Several USB 2.0, 3.2 Gen 1, Gen 2, and Gen 2x2 interfaces are accessible via the back panel and internal headers, providing ample support for peripherals such as mice, keyboards, and controllers as well as resource-demanding devices such as external drives. Bluetooth 5.2 technology can be used by wireless devices to provide a reliable cable-free experience. Use Wi-Fi 6E (802.11ax) to connect to your wireless network, or the integrated 2.5 Gigabit Ethernet port if you prefer a wired connection."
+            },
+            {
+                "title": "AI Overclocking",
+                "details": "The ASUS ROG STRIX Z790-F GAMING WIFI Motherboard can boost performance with automatic AI overclocking and cooling, enhancing your games and productivity without sacrificing thermal capabilities. AI noise cancellation is an audio-focused utility that reduces background noise, allowing others to hear you more clearly when playing team-based games or delivering presentations remotely. GameFirst VI is an artificial intelligence networking tool that prioritizes and optimizes your network connection for smoother online gameplay, which is essential for competitive online titles."
+            },
+            {
+                "title": "Enhanced Power Solution",
+                "details": "The ROG STRIX Z790-F GAMING WIFI 13th Gen Motherboard delivers stable power throughout the entire motherboard, maintaining electrical volume whether performing simple tasks or operating at full power during resource-demanding processes, thanks to 16+1 70A power stages with ProCool II connectors, alloy chokes, and durable capacitors."
+            },
+            {
+                "title": "Comprehensive Cooling",
+                "details": "The ASUS ROG STRIX Z790-F GAMING WIFI motherboard incorporates a large VRM heatsink for capacitors and chokes, as well as integrated double-sided M.2 heatsinks and a unique PCH fanless heatsink, to ensure your system remains cool under heavy loads, delivering better thermal performance while preventing throttling. Fan Xpert 4 software and hybrid fan headers control fans and liquid pump elements for enhanced cooling that can be customized."
+            },
+            {
+                "title": "ROG SupremeFX 7.1 Surround Sound High Definition Audio",
+                "details": "Immerse yourself in your favorite games with the help of high-fidelity audio powered by the Savitech SV3H712 amplifier and ROG SupremeFX 7.1-channel ALC4080 codec. Premium capacitors and audio jacks with gold plating enhance audio conductivity for a dependable signal and reduce static and other interference."
+            },
+            {
+                "title": "Leading Connectivity",
+                "details": "This 14th Gen Motherboard provides reliable connectivity for your peripherals between the internal headers and the backplate. Webcams, microphones, and external storage drives can transfer data at speeds of up to 5 and 10 Gb/s through USB-A and USB-C 3.2 Gen 1 and Gen 2 ports, respectively. For devices that require a lot of resources, like storage arrays and audio interfaces, a USB-C 3.2 Gen 2x2 port offers up to 20 Gb/s data transfer speed. In addition to facilitating data transfer, a front panel USB-C 3.2 Gen 2x2 port provides up to 30W Power Delivery to charge and support peripherals that require a lot of resources. With an internal Thunderbolt 4 header, you can increase your connectivity and take advantage of high-speed connectivity that supports quick transfer rates and Power Delivery technologies."
+            },
+            {
+                "title": "Buy ASUS ROG STRIX Z790-F GAMING WIFI ATX Motherboard from the best Motherboard Shop in BD",
+                "details": "In Bangladesh, you can get the original ASUS ROG STRIX Z790-F GAMING WIFI ATX Motherboard From Star Gadget. We have a large collection of the latest ASUS Motherboard to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The ASUS ROG STRIX Z790-F GAMING WIFI comes with 3 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASRock Z790 Pro RS 13th Gen ATX Motherboard in Bangladesh?",
+            "details": "The latest price of ASRock Z790 Pro RS 13th Gen ATX Motherboard in Bangladesh is 30,700৳. You can buy the ASRock Z790 Pro RS 13th Gen ATX Motherboard at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamerpro@example.com",
+                "review_comment": "This motherboard is a beast! It handled my 14th Gen CPU like a champ and the built-in Wi-Fi 6E is a game-changer for online gaming. Highly recommended!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "techenthusiast@example.com",
+                "review_comment": "ASUS hit it out of the park with the ROG STRIX Z790-F. The AI overclocking is a breeze, and the extensive I/O options make it a versatile choice. It's worth the investment.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "contentcreator@example.com",
+                "review_comment": "I'm a content creator, and this motherboard is a dream come true. The high-quality audio and multiple M.2 slots for fast storage make my work smooth and efficient. Thumbs up!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "budgetbuilder@example.com",
+                "review_comment": "While this motherboard is feature-packed, it's a bit on the expensive side. However, if you can afford it, the performance and features justify the price.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "motherboard",
+        "product_name": "Asus Rog Crosshair X570 VIII Formula AMD ATX Gaming Motherboard",
+        "price": 58500,
+        "regular_price": 62390,
+        "status": true,
+        "product_code": "00025",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "rating": 4.8,
+        "features": {
+            "Model": "Asus Rog Crosshair X570 VIII Formula",
+            "Supports": "Up to AMD Ryzen 5000 series Processors, AMD X570",
+            "Memory": "4 x DDR4, Max 128 GB",
+            "Optimal Power Solution": "14 power stages",
+            "Other": "5-Way Optimization"
+        },
+        "specification": {
+            "Basic Information": {
+                "Supported CPU": "AMD AM4 Socket 3rd and 2nd AMD Ryzen™/2nd and 1st Gen AMD Ryzen™ with Radeon™ Vega Graphics Processors",
+                "Chipset": "AMD X570",
+                "BIOS": "256 Mb Flash ROM, UEFI AMI BIOS, PnP, WfM2.0, SM BIOS 3.2, ACPI 6.2",
+                "Form Factor": [
+                    "ATX Form Factor",
+                    "12 inch x 9.6 inch ( 30.5 cm x 24.4 cm )"
+                ]
+            },
+            "Expansion Slots": {
+                "PCI": [
+                    "3rd Gen AMD Ryzen Processors",
+                    "2 x PCIe 4.0 x16 (x16 or dual x8)",
+                    "2nd Gen AMD Ryzen Processors",
+                    "2 x PCIe 3.0 x16 (x16 or dual x8)",
+                    "2nd and 1st Gen AMD Ryzen with Radeon Vega Graphics Processors",
+                    "1 x PCIe 3.0 x16 (x8 mode)",
+                    "AMD X570 chipset",
+                    "1 x PCIe 4.0 x16 (x4 mode)",
+                    "1 x PCIe 4.0 x1"
+                ],
+                "M.2 Socket": [
+                    "3rd Gen AMD Ryzen Processors :",
+                    "1 x M.2_1 socket 3, with M Key, Type 2242/2260/2280 (PCIE 4.0 x4 and SATA modes) storage devices support",
+                    "2nd Gen AMD Ryzen/2nd and 1st Gen AMD Ryzen with Radeon Vega Graphics Processors :",
+                    "1 x M.2_1 socket 3, with M key, type 2242/2260/2280 storage devices support (SATA & PCIE 3.0 x 4 mode)",
+                    "AMD X570 chipset :",
+                    "1 x M.2_2 socket 3, with M Key, Type 2242/2260/2280/22110(PCIE 4.0 x4 and SATA modes) storage devices support"
+                ],
+                "Memory": {
+                    "Type": "Dual Channel Memory Architecture",
+                    "Slots": "4 x DIMM, DDR4",
+                    "Supported Memory": [
+                        "3rd Gen AMD Ryzen Processors",
+                        "4800(O.C.)/ 4600(O.C)/ 4400(O.C)/ 4266(O.C.)/ 4133(O.C.)/ 4000(O.C.)/ 3866(O.C.)/ 3733(O.C.)/ 3600(O.C.)/ 3466(O.C.)/ 3200/ 3000/ 2933/ 2800/ 2666/ 2400/ 2133 MHz Memory",
+                        "2nd Gen AMD Ryzen Processors",
+                        "3600(O.C.)/ 3466(O.C.)/ 3200(O.C.)/ 3000(O.C.)/ 2933/ 2800/ 2666/ 2400/ 2133 MHz Memory",
+                        "2nd and 1st Gen AMD Ryzen with Radeon Vega Graphics Processors",
+                        "3200(O.C.)/ 3000(O.C.)/ 2933/ 2800/ 2666/ 2400/ 2133 MHz Memory",
+                        "ECC Memory (ECC mode) support varies by CPU"
+                    ],
+                    "Maximum Memory": "128GB"
+                },
+                "Graphics": {
+                    "Graphics": [
+                        "3rd and 2nd Gen AMD Ryzen™ Processors",
+                        "Supports NVIDIA 2-Way SLI Technology",
+                        "Supports AMD 3-Way CrossFireX Technology",
+                        "2nd and 1st Gen AMD Ryzen with Radeon Vega Graphics Processors",
+                        "Supports AMD 2-Way CrossFireX Technology"
+                    ],
+                    "Max Shared Memory": "Max. 128GB"
+                },
+                "Connector & Ports": {
+                    "USB": [
+                        "3rd Gen AMD RyzenTM Processors :",
+                        "4 x USB 3.2 Gen 2 port(s) (4 at back panel, red, Type-A)",
+                        "2nd Gen AMD RyzenTM/2nd and 1st Gen AMD Ryzen with Radeon Vega Graphics Processors :",
+                        "4 x USB 3.2 Gen 1 port(s) (4 at back panel, red, Type-A)",
+                        "AMD X570 chipset :",
+                        "1 x USB 3.2 Gen 2 front panel connector port(s)",
+                        "AMD X570 chipset :",
+                        "4 x USB 3.2 Gen 2 port(s) (3 at back panel, red, Type-A, 1 x Type-C)",
+                        "AMD X570 chipset :",
+                        "8 x USB 3.2 Gen 1 port(s) (4 at back panel, blue, 4 at mid-board)",
+                        "AMD X570 chipset :",
+                        "4 x USB 2.0 port(s)"
+                    ],
+                    "LAN Port (s)": [
+                        "Intel I211-AT",
+                        "Aquantia AQC111C 5G LAN",
+                        "ASUS LAN Guard",
+                        "ROG GameFirst V Technology",
+                        "Wireless Data Network",
+                        "Intel Wi-Fi 6 AX200",
+                        "Supports channel bandwidth: HT20/HT40/HT80/HT160",
+                        "2 x 2 Wi-Fi 6 (802.11 a/b/g/n/ac/ax) with MU-MIMO supports dual frequency band 2.4/5GHz",
+                        "Up to 2.4Gbps transfer speed",
+                        "Bluetooth",
+                        "Bluetooth 5.0"
+                    ],
+                    "Supported Storage": [
+                        "3rd Gen AMD Ryzen Processors :",
+                        "1 x M.2_1 socket 3, with M Key, Type 2242/2260/2280 (PCIE 4.0 x4 and SATA modes) storage devices support",
+                        "2nd Gen AMD Ryzen/2nd and 1st Gen AMD Ryzen with Radeon Vega Graphics Processors :",
+                        "1 x M.2_1 socket 3, with M key, type 2242/2260/2280 storage devices support (SATA & PCIE 3.0 x 4 mode)",
+                        "AMD X570 chipset :",
+                        "1 x M.2_2 socket 3, with M Key, Type 2242/2260/2280/22110(PCIE 4.0 x4 and SATA modes) storage devices support",
+                        "8 x SATA 6Gb/s port(s),",
+                        "Support Raid 0, 1, 10"
+                    ],
+                    "Audio": [
+                        "ROG SupremeFX 8-Channel High Definition Audio CODEC S1220",
+                        "- Supports : Multi-streaming, Front Panel Jack-retasking",
+                        "- High quality 120 dB SNR stereo playback output and 113 dB SNR recording input",
+                        "- SupremeFX Shielding Technology",
+                        "- ESS ES9023P",
+                        "- Supports up to 32-Bit/192kHz playback *",
+                        "Audio Feature :",
+                        "- Gold-plated jacks",
+                        "- Optical S/PDIF out port(s) at back panel",
+                        "- Sonic Radar III",
+                        "- Sonic Studio III + Sonic Studio Link",
+                        "* Due to limitations in HDA bandwidth, 32-Bit/192kHz is not supported for 8-Channel audio."
+                    ]
+                },
+                "Internal I/O Ports": [
+                    "1 x PCH_FAN",
+                    "2 x Aura RGB Strip Header(s)",
+                    "2 x Addressable Gen 2 header(s)",
+                    "2 x USB 2.0 connector(s) support(s) additional 4 USB 2.0 port(s)",
+                    "1 x M.2 Socket 3 with M key, type 2242/2260 storage devices support (both SATA & PCIE mode)",
+                    "1 x M.2 Socket 3 with M Key, type 2242/2260/2280/22110 storage devices support (SATA mode & PCIE mode)",
+                    "8 x SATA 6Gb/s connector(s)",
+                    "1 x CPU Fan connector(s)",
+                    "1 x CPU OPT Fan connector(s)",
+                    "3 x Chassis Fan connector(s)",
+                    "1 x Optional Fan connector(s)",
+                    "1 x AIO_PUMP connector",
+                    "1 x H_AMP fan connector",
+                    "1 x W_PUMP+ connector",
+                    "1 x 24-pin EATX Power connector(s)",
+                    "1 x 8-pin ATX 12V Power connector(s)",
+                    "1 x 4-pin ATX 12V Power connector(s)",
+                    "1 x Front panel audio connector(s) (AAFP)",
+                    "1 x Slow Mode switch(es)",
+                    "1 x LN2 Mode header(s)",
+                    "1 x Power-on button(s)",
+                    "1 x Reset button(s)",
+                    "1 x Node Connector(s)",
+                    "1 x Safe Boot button",
+                    "1 x ReTry button",
+                    "1 x System panel connector",
+                    "1 x W_IN header",
+                    "1 x W_OUT header",
+                    "1 x W_FLOW header",
+                    "1 x Thermal sensor connector",
+                    "1 x Speaker connector",
+                    "1 x USB 3.2 Gen 2 (up to 10Gbps) connector",
+                    "2 x USB 3.2 Gen 1 (up to 5Gbps) connector support additional 4 USB ports"
+                ],
+                "Others": {
+                    "Special Features": [
+                        "ASUS Dual Intelligent Processors 5-Way Optimization by Dual Intelligent Processors 5 :",
+                        "- 5-Way Optimization tuning key perfectly consolidates TPU, EPU, DIGI+ VRM, Fan Expert 4, and Turbo App",
+                        "Gamer's Guardian:",
+                        "- DRAM Overcurrent Protection",
+                        "- 10K Black Metallic Capacitors",
+                        "- ESD Guards on LAN, Audio,and USB ports",
+                        "ASUS SafeSlot - Protect your graphics card Investment",
+                        "LiveDash OLED",
+                        "AURA :",
+                        "- Aura Lighting Control",
+                        "- Aura RGB Strip Headers",
+                        "- Addressable Gen 2 Header",
+                        "ASUS Exclusive Features :",
+                        "- USB BIOS FlashBack™",
+                        "- AI Suite 3",
+                        "- Ai Charger",
+                        "- ASUS CrashFree BIOS 3",
+                        "- Armoury Crate",
+                        "- Pre-mounted I/O Shield",
+                        "- ASUS NODE: hardware control interface",
+                        "- BIOS FlashBack™ Button",
+                        "- Clear CMOS Button",
+                        "ASUS Q-Design :",
+                        "- ASUS Q-LED (CPU, DRAM, VGA, Boot Device LED)",
+                        "- ASUS Q-DIMM",
+                        "- ASUS Q-Connector",
+                        "ROG Exclusive Features",
+                        "ROG RGB Armor",
+                        "Start Button",
+                        "Reset Button",
+                        "ROG Aura",
+                        "- Aura Lighting Control",
+                        "- Aura RGB Strip Headers",
+                        "Extreme Engine Digi+ :",
+                        "- IR3555 PoweIRstage®",
+                        "- MicroFine Alloy Chokes",
+                        "- 10K Black Metallic Capacitors",
+                        "ROG Extreme OC kit :",
+                        "- Safe Boot button",
+                        "- Slow Mode",
+                        "- LN2 Mode",
+                        "UEFI BIOS features :",
+                        "- Tweakers' Paradise",
+                        "- ROG SSD Secure Erase",
+                        "- Graphic Card Information Preview",
+                        "USB BIOS FlashBack™",
+                        "Crosschill EK III",
+                        "ROG Patented Pre-mounted I/O Shield",
+                        "ROG Exclusive Software",
+                        "- Mem Tweakit",
+                        "- RAMCache III",
+                        "- RAMDisk",
+                        "- CPU-Z",
+                        "- GameFirst V",
+                        "- Sonic Studio III + Sonic Studio Link",
+                        "- Sonic Radar III",
+                        "- Overwolf"
+                    ]
+                }
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 Years Warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Asus Rog Crosshair X570 VIII Formula AMD ATX Gaming Motherboard",
+                "details": "ROG Crosshair VIII Formula comes equipped with an optimized power-design layout to handle the prodigious power of the latest AMD Ryzen processors without throttling.â€‹ ROG gives you powerful tools that make optimizing your system fast and easy. For those who relish fine-grained control, the UEFI BIOS has a wealth of advanced options organized into intuitive categories that provide the ability to tweak every aspect of your systemâ€‹. ROG Crosshair VIII Formula offers advanced connectivity to ensure seamless gaming experiences. With the latest ultrafast networking, including Wi-Fi 6 (802.11ax) and dual Ethernet with one 5G port, ROG Crosshair VIII Formula removes all bottlenecks for online and LAN play, minimizing lag and providing an overall smoother experience. Additionally, the M.2 supports AMD StoreMI technology to maximize the speed of your SSD for faster load times, and SupremeFX on-board audio provides superb sound, while saving a PCIe slot.â€‹ THE POWER TO PERSONALIZE ROG provides a range of intuitive software that enables easy control of your advanced gaming hardware and ensures seamless component compatibility. From RGB lighting, networking and audio to storage optimization and more, ROG gives you the power to personalize your system just the way you want.â€‹ The AMD X570 chipset delivers outstanding overclocking capabilities for the latest AMD AM4 socket for 3rd and 2nd Gen AMD Ryzenâ„¢ /2nd and 1st Gen AMD Ryzenâ„¢ with Radeonâ„¢ Vega Graphics Processors. It is optimized for multiple GPU configurations, including NVIDIA SLIÂ® and AMD CrossFireXâ„¢. It also supports x16 PCI ExpressÂ® 4.0/3.0 lanes and provides 10Gb/s USB 3.2 Gen 2 ports and 6 Gb/s SATA ports for faster data retrieval.â€‹ The high-performance 3rd Gen AMD Ryzenâ„¢ processors are based on the next-gen 7nm Zen architecture and support up to 16 processor cores. AMD AM4-socket processors feature dual-channel DDR4 memory, native 10Gb/s USB 3.2 Gen 2 and x16 PCI ExpressÂ® 4.0/3.0 lanes for superb performance.â€‹"
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Asus Rog Crosshair X570 Gaming Motherboard in Bangladesh?",
+            "details": "The latest price of Asus Rog Crosshair X570 Gaming Motherboard in Bangladesh is 58,500৳. You can buy the Asus Rog Crosshair X570 Gaming Motherboard at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamer@example.com",
+                "review_comment": "This motherboard is fantastic! It's a beast with top-tier performance and lots of features. I've been using it for gaming, and it's exceeded my expectations.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "techenthusiast@example.com",
+                "review_comment": "The Asus Rog Crosshair X570 VIII Formula is a solid choice for gamers and enthusiasts. It has excellent connectivity options and a well-thought-out design.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "motherboard",
+        "product_name": "Asus ROG STRIX Z790-A GAMING WIFI DDR5 ATX Motherboard",
+        "price": 57500,
+        "regular_price": 60490,
+        "status": true,
+        "product_code": "00026",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "rating": 4.3,
+        "features": {
+            "Model": "ROG STRIX Z790-A GAMING WIFI",
+            "Supported CPU": "14th Gen, 13th Gen & 12th Gen Processors (LGA1700)",
+            "Supported Memory": "4 x DDR5 7800+(OC), Max. 192GB",
+            "Graphics Output": "1 x DisplayPort, 1 x HDMI",
+            "Features": "1 x Intel 2.5Gb Ethernet, Wi-Fi 6E, Bluetooth v5.3"
+        },
+        "specification": {
+            "Basic Information": {
+                "Supported CPU": [
+                    "Intel Socket LGA1700 for 14th Gen, 13th Gen Intel Core & 12th Gen Intel Core, Pentium Gold and Celeron Processors",
+                    "Supports Intel Turbo Boost Technology 2.0 and Intel® Turbo Boost Max Technology 3.0**",
+                    "* Refer to www.asus.com for CPU support list.",
+                    "** Intel Turbo Boost Max Technology 3.0 support depends on the CPU types."
+                ],
+                "Chipset": "Intel Z790 Chipset",
+                "BIOS": "256 Mb Flash ROM, UEFI AMI BIOS",
+                "Form Factor": [
+                    "ATX Form Factor",
+                    "12 inch x 9.6 inch (30.5 cm x 24.4 cm)"
+                ],
+                "Audio": [
+                    "ROG SupremeFX 7.1 Surround Sound High Definition Audio CODEC ALC4080",
+                    "- Impedance sense for front and rear headphone outputs",
+                    "- Supports: Jack-detection, Multi-streaming, Front Panel Jack-retasking",
+                    "- High quality 120 dB SNR stereo playback output and 113 dB SNR recording input",
+                    "- Supports up to 32-Bit/384 kHz playback",
+                    "Audio Features",
+                    "- SupremeFX Shielding Technology",
+                    "- Savitech SV3H712 AMP",
+                    "- Rear optical S/PDIF out port",
+                    "- Premium audio capacitors",
+                    "- Audio cover"
+                ]
+            },
+            "Expansion Slots": {
+                "PCI": [
+                    "Intel 13th & 12th Gen Processors",
+                    "1 x PCIe 5.0 x16 slot",
+                    "Intel Z790 Chipset",
+                    "2 x PCIe 4.0 x16 slots (support x4 mode)",
+                    "1 x PCIe 3.0 x1 slot",
+                    "* Please check the PCIe bifurcation table on the support site (https://www.asus.com/support/FAQ/1037507/)."
+                ]
+            },
+            "Memory": {
+                "Type": "DDR5",
+                "Slots": "4 x DIMM",
+                "Supported Memory": [
+                    "7800+(OC)/7600(OC)/7400(OC)/7200(OC)/7000(OC)/6800(OC)/6600(OC)/6400(OC)/6200(OC)/6000(OC)/5800(OC)/5600/5400/5200/5000/4800 Non-ECC, Un-buffered Memory",
+                    "Dual Channel Memory Architecture",
+                    "Supports Intel Extreme Memory Profile (XMP)",
+                    "OptiMem II"
+                ],
+                "Maximum Memory": "Max. 192GB"
+            },
+            "Graphics": {
+                "Graphics": [
+                    "1 x DisplayPort**",
+                    "1 x HDMI port***",
+                    "* Graphics specifications may vary between CPU types. Please refer to www.intel.com for any updates.",
+                    "** Supports max. 8K@60Hz as specified in DisplayPort 1.4.",
+                    "*** Supports 4K@60Hz as specified in HDMI 2.1.",
+                    "**** VGA resolution support depends on processors' or graphic cards' resolution."
+                ]
+            },
+            "Connector & Ports": {
+                "HDMI": "1 x HDMI Port",
+                "Display Port (s)": "1 x DisplayPort",
+                "USB (s)": [
+                    "Rear USB (Total 10 ports)",
+                    "1 x USB 3.2 Gen 2x2 port (1 x USB Type-C)",
+                    "3 x USB 3.2 Gen 2 ports (2 x Type-A + 1 x USB Type-C)",
+                    "4 x USB 3.2 Gen 1 ports (4 x Type-A)",
+                    "2 x USB 2.0 ports (2 x Type-A)",
+                    "Front USB (Total 7 ports)",
+                    "1 x USB 3.2 Gen 2x2 connector (supports USB Type-C with up to 30W PD Fast-charge)",
+                    "1 x USB 3.2 Gen 1 header supports 2 additional USB 3.2 Gen 1 ports",
+                    "2 x USB 2.0 headers support 4 additional USB 2.0 ports"
+                ],
+                "LAN Port (s)": [
+                    "1 x Intel 2.5Gb Ethernet",
+                    "ASUS LANGuard"
+                ],
+                "Wireless Communication module": [
+                    "Wi-Fi 6E",
+                    "2x2 Wi-Fi 6E (802.11 a/b/g/n/ac/ax)",
+                    "Supports 2.4/5/6GHz frequency band*",
+                    "Bluetooth v5.3"
+                ],
+                "Supported Storage": [
+                    "Total supports 4 x M.2 slots and 4 x SATA 6Gb/s ports*",
+                    "Intel 13th & 12th Gen Processors",
+                    "M.2_1 slot (Key M), type 2242/2260/2280/22110 (supports PCIe 4.0 x4 mode)",
+                    "Intel® Z790 Chipset",
+                    "M.2_2 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 mode)",
+                    "M.2_3 slot (Key M), type 2242/2260/2280/22110 (supports PCIe 4.0 x4 mode)",
+                    "M.2_4 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 & SATA modes)",
+                    "4 x SATA 6Gb/s ports*"
+                ],
+                "RAID": "Intel Rapid Storage Technology supports PCIe RAID 0/1/5/10, SATA RAID 0/1/5/10.",
+                "Audio": "5 x Gold-plated audio jacks",
+                "Internal I/O Ports": [
+                    "Fan and Cooling related: ",
+                    "1 x 4-pin CPU Fan header",
+                    "1 x 4-pin CPU OPT Fan header",
+                    "1 x 4-pin AIO Pump header",
+                    "5 x 4-pin Chassis Fan headers",
+                    "Power related: ",
+                    "1 x 24-pin Main Power connector",
+                    "2 x 8-pin +12V Power connectors",
+                    "Storage related",
+                    "4 x M.2 slots (Key M)",
+                    "4 x SATA 6Gb/s ports",
+                    "USB: ",
+                    "1 x USB 3.2 Gen 2x2 connector (supports USB Type-C)",
+                    "1 x USB 3.2 Gen 1 header supports 2 additional USB 3.2 Gen 1 ports",
+                    "2 x USB 2.0 headers support 4 additional USB 2.0 ports",
+                    "Miscellaneous: ",
+                    "3 x Addressable Gen 2 headers",
+                    "1 x Aura RGB header",
+                    "1 x CPU Over Voltage jumper",
+                    "1 x Front Panel Audio header (AAFP)",
+                    "1 x 20-3 pin System Panel header with Chassis intrude function",
+                    "1 x Thermal Sensor header",
+                    "1 x Thunderbolt header"
+                ]
+            },
+            "Others": {
+                "Special Features": [
+                    "Extreme Engine Digi+ :",
+                    "- 5K Black Metallic Capacitors",
+                    "ASUS Q-Design :",
+                    "- M.2 Q-Latch",
+                    "- PCIe Slot Q-Release",
+                    "- Q-DIMM",
+                    "- Q-LED (CPU [red], DRAM [yellow], VGA [white], Boot Device [yellow green])",
+                    "- Q-Slot",
+                    "ASUS Thermal Solution :",
+                    "- M.2 heatsink backplate",
+                    "- M.2 heatsink",
+                    "- VRM heatsink design",
+                    "ASUS EZ DIY :",
+                    "- BIOS FlashBack™ button",
+                    "- BIOS FlashBack™ LED",
+                    "- Clear CMOS button",
+                    "- CPU Socket lever protector",
+                    "- ProCool II",
+                    "- Pre-mounted I/O shield",
+                    "- SafeSlot",
+                    "- SafeDIMM",
+                    "Aura Sync :",
+                    "- Aura RGB header",
+                    "- Addressable Gen 2 headers"
+                ],
+                "Bundled Software": [
+                    "ROG Exclusive Software :",
+                    "GameFirst VI",
+                    "ROG CPU-Z",
+                    "Sonic Studio III + Sonic Studio Virtual Mixer + Sonic Suite Companion",
+                    "Sonic Radar III",
+                    "DTS Sound Unbound",
+                    "ASUS Exclusive Software :",
+                    "Armoury Crate",
+                    "AIDA64 Extreme (60 days free trial)",
+                    "Aura Creator",
+                    "Aura Sync",
+                    "Fan Xpert 4 (with AI Cooling II)",
+                    "Power Saving",
+                    "Two-Way AI Noise Cancellation",
+                    "AI Suite 3",
+                    "Easy Optimization with AI Overclocking",
+                    "TPU",
+                    "DIGI+ VRM",
+                    "Turbo app",
+                    "PC Cleaner",
+                    "MyAsus",
+                    "Norton 360 for Gamers",
+                    "WinRAR",
+                    "UEFI BIOS :",
+                    "AI Overclocking Guide",
+                    "ASUS EZ DIY",
+                    "- ASUS CrashFree BIOS 3",
+                    "- ASUS EZ Flash 3",
+                    "- ASUS UEFI BIOS EZ Mode",
+                    "FlexKey :",
+                    "MemTest86"
+                ]
+            }
+        },
+        "Warranty Information": {
+            "Manufacturing Warranty": "3 years"
+        },
+        "descriptions": [
+            {
+                "title": "Asus ROG STRIX Z790-A GAMING WIFI DDR5 ATX Motherboard",
+                "details": "The ASUS ROG STRIX Z790-A GAMING WIFI DDR5 14th, 13th & 12th Gen ATX Motherboard is a top-of-the-line motherboard designed for gamers and enthusiasts looking to build a high-performance PC. It is equipped with an Intel LGA 1700 socket, making it ready for use with 13th-generation Intel Core and 12th-generation Intel Core, Pentium Gold, and Celeron processors. The Asus ROG STRIX Z790-A GAMING WIFI motherboard features a robust power solution with 16 + 1 power stages rated for 80A, dual ProCool II power connectors, high-quality alloy chokes, and durable capacitors, providing stable power to support the latest multicore processors. It also boasts optimized VRM thermals with massive heat sinks connected by an L-shaped heat pipe, high-conductivity thermal pads, and an integrated I/O shroud. With four PCIe 4.0 M.2 slots all with heatsinks, including the tallest having a combo sink extension and backplate for additional cooling, the motherboard provides extensive M.2 support. Additionally, it offers abundant connectivity with a USB 3.2 Gen 2x2 Type-C rear I/O port and additional front panel connector, seven USB 3.2 Gen 2 and Gen 1 ports, PCIe 5.0 x16 SafeSlot, HDMI 2.1, and DisplayPort 1.4. The Asus ROG STRIX Z790-A GAMING WIFI 14th Gen Motherboard is equipped with built-in WiFi 6E (802.11ax) and 2.5Gb Intel Ethernet with ASUS LANGuard for high-performance networking. It also features intelligent control with ASUS-exclusive AI overclocking, AI II cooling, AI networking, and bi-directional AI noise cancellation to simplify setup and improve performance."
+            },
+            {
+                "title": "Buy Asus ROG STRIX Z790-A GAMING WIFI DDR5 ATX Motherboard from the best Motherboard Shop in BD",
+                "details": "In Bangladesh, you can get original Asus ROG STRIX Z790-A GAMING WIFI DDR5 ATX Motherboard From Star Gadget. We have a large collection of latest ASUS Motherboard to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The Asus ROG STRIX Z790-A GAMING WIFI Motherboard comes with 3 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Asus ROG STRIX Z790-A GAMING WIFI DDR5 ATX Motherboard in Bangladesh?",
+            "details": "The latest price of Asus ROG STRIX Z790-A GAMING WIFI DDR5 ATX Motherboard in Bangladesh is 57,500৳. You can buy the Asus ROG STRIX Z790-A GAMING WIFI DDR5 ATX Motherboard at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "A fantastic motherboard with great features and excellent build quality. Highly recommended!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "I love the performance and connectivity options of this motherboard. It's a beast for gaming!",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "motherboard",
+        "product_name": "Asus ROG X570 Crosshair VIII Hero Wi-Fi ATX AM4 Motherboard",
+        "price": 47600,
+        "regular_price": 50075,
+        "status": true,
+        "product_code": "00027",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "rating": 4.2,
+        "features": {
+            "Model": "Asus ROG X570 Crosshair VIII Hero Wi-Fi",
+            "Supported CPU": "Supports AMD Ryzen 5000 Series/ AMD Ryzen 2nd & 3rd Generation Processors",
+            "Power": "Robust power delivery",
+            "Audio": "Industry-leading ROG audio",
+            "Features": "High-performance networking"
+        },
+        "specification": {
+            "Basic Information": {
+                "Supported CPU": "Supports AMD Ryzen 5000 Series/ AMD Ryzen 2nd & 3rd Generation Processors",
+                "Chipset": "AMD X570",
+                "BIOS": "256 Mb Flash ROM, UEFI AMI BIOS, PnP, WfM2.0, SM BIOS 3.2, ACPI 6.2",
+                "Form Factor": [
+                    "ATX Form Factor",
+                    "12 inch x 9.6 inch ( 30.5 cm x 24.4 cm )"
+                ]
+            },
+            "Expansion Slots": {
+                "PCI": [
+                    "3rd Gen AMD Ryzen Processors",
+                    "1 x PCIe 3.0 x16 (x16 mode)",
+                    "AMD B550 Chipset",
+                    "1 x PCIe 3.0 x16 (x4 mode)",
+                    "3 x PCIe 3.0 x1"
+                ],
+                "M.2 Socket": [
+                    "3rd Gen AMD Ryzen Processors :",
+                    "1 x M.2_1 socket 3, with M key, type 2242/2260/2280/22110 storage devices support(SATA & PCIe 4.0 x4 mode)",
+                    "AMD B550 Chipset :",
+                    "1 x M.2_2 socket 3, with M key, type 2242/2260/2280/22110 storage devices"
+                ]
+            },
+            "Memory": {
+                "Type": "Dual Channel Memory Architecture",
+                "Slots": "4 x DIMM slots",
+                "Supported Memory": [
+                    "3rd Gen AMD Ryzen Processors",
+                    "4800(O.C.)/ 4600(O.C)/ 4400(O.C)/ 4266(O.C.)/ 4133(O.C.)/ 4000(O.C.)/ 3866(O.C.)/ 3733(O.C.)/ 3600(O.C.)/ 3466(O.C.)/ 3400(O.C.)/ 3200/ 3000/ 2933/ 2800/ 2666/ 2400/ 2133 MHz Un-buffered Memory",
+                    "2nd Gen AMD Ryzen Processors",
+                    "3600(O.C.)/ 3466(O.C.)/ 3400(O.C.)/ 3200(O.C.)/ 3000(O.C.)/ 2933/ 2800/ 2666/ 2400/ 2133 MHz Un-buffered Memory",
+                    "2nd and 1st Gen AMD Ryzen with Radeon Vega Graphics Processors",
+                    "3200(O.C.)/ 3000(O.C.)/ 2933/ 2800/ 2666/ 2400/ 2133 MHz Un-buffered Memory ECC Memory (ECC mode) support varies by CPU"
+                ],
+                "Maximum Memory": "128GB"
+            },
+            "Graphics": {
+                "Graphics": [
+                    "3rd and 2nd Gen AMD Ryzen /3rd Gen AMD Ryzen with Radeon Graphics Processors",
+                    "Supports NVIDIA 2-Way SLI Technology",
+                    "Supports AMD 3-Way CrossFireX Technology",
+                    "2nd and 1st Gen AMD Ryzen with Radeon Vega Graphics Processors",
+                    "Supports AMD 2-Way CrossFireX Technology"
+                ]
+            },
+            "Connector & Ports": {
+                "USB (s)": [
+                    "3rd Gen AMD RyzenTM Processors :",
+                    "4 x USB 3.2 Gen 2 port(s)",
+                    "2nd Gen AMD RyzenTM/2nd and 1st Gen AMD Ryzen with Radeon Vega Graphics Processors :",
+                    "4 x USB 3.2 Gen 1 port(s)",
+                    "AMD X570 chipset :",
+                    "1 x USB 3.2 Gen 2 front panel connector port(s)",
+                    "AMD X570 chipset :",
+                    "4 x USB 3.2 Gen 2 port(s)",
+                    "AMD X570 chipset :",
+                    "6 x USB 3.2 Gen 1 port(s)",
+                    "AMD X570 chipset :",
+                    "4 x USB 2.0 port(s)"
+                ],
+                "LAN Port (s)": [
+                    "Intel I211-AT",
+                    "Realtek RTL8125-CG 2.5G LAN",
+                    "ASUS LAN Guard",
+                    "ROG GameFirst Technology"
+                ],
+                "Supported Storage": [
+                    "3rd Gen AMD Ryzen Processors :",
+                    "1 x M.2_1 socket 3, with M Key, Type 2242/2260/2280 (PCIE 4.0 x4 and SATA modes) storage devices support",
+                    "2nd Gen AMD Ryzen/3rd, 2nd and 1st Gen AMD Ryzen with Radeon Graphics Processors :",
+                    "1 x M.2_1 socket 3, with M key, type 2242/2260/2280 storage devices support (SATA & PCIE 3.0 x 4 mode)",
+                    "AMD X570 chipset :",
+                    "1 x M.2_2 socket 3, with M Key, Type 2242/2260/2280/22110(PCIE 4.0 x4 and SATA modes) storage devices support",
+                    "8 x SATA 6Gb/s port(s),",
+                    "Support Raid 0, 1, 10"
+                ],
+                "Audio": [
+                    "ROG SupremeFX 8-Channel High Definition Audio CODEC",
+                    "- Impedance sense for front and rear headphone outputs",
+                    "- Supports: Jack-detection, Multi-streaming, Front Panel Jack-retasking",
+                    "- High quality 120 dB SNR stereo playback output and 113 dB SNR recording input",
+                    "- SupremeFX Shielding Technology",
+                    "- ESS ES9023P",
+                    "- Supports up to 32-Bit/192kHz playback",
+                    "Audio Feature :",
+                    "- Sonic Studio III + Sonic Studio Virtual Mixer",
+                    "- DTS Sound Unbound",
+                    "- Optical S/PDIF out port(s) at back panel",
+                    "- Sonic Radar III"
+                ],
+                "Internal I/O Ports": [
+                    "2 x Aura RGB Strip Headers",
+                    "2 x Addressable Gen 2 header(s)",
+                    "2 x USB 2.0 connector(s) support(s) additional 4 USB 2.0 port(s)",
+                    "1 x M.2 Socket 3 with M key, type 2242/2260/2280 storage devices support",
+                    "1 x M.2 Socket 3 with M key, type 2242/2260/2280/22110 storage devices support",
+                    "8 x SATA 6Gb/s connector(s)",
+                    "1 x CPU Fan connector(s)",
+                    "1 x CPU OPT Fan connector(s)",
+                    "3 x Chassis Fan connector(s)",
+                    "1 x AIO_PUMP connector",
+                    "1 x H_AMP fan connector",
+                    "1 x W_PUMP+ connector",
+                    "1 x 4-pin EATX 12 V Power connector",
+                    "1 x 24-pin EATX Power connector(s)",
+                    "1 x 8-pin EATX 12V Power connectors",
+                    "1 x Front panel audio connector(s) (AAFP)",
+                    "1 x Slow Mode switch(es)",
+                    "1 x Reset button(s)",
+                    "1 x Node Connector(s)",
+                    "1 x LN2 Mode jumper(s)",
+                    "1 x Safe Boot button",
+                    "1 x ReTry button",
+                    "1 x System panel connector",
+                    "1 x T_Sensor Connector",
+                    "1 x W_IN header",
+                    "1 x W_OUT header",
+                    "1 x W_FLOW header",
+                    "1 x Start button",
+                    "1 x Speaker connector",
+                    "1 x USB 3.2 Gen 2 (up to 10Gbps) connector",
+                    "1 x USB 3.2 Gen 1 (up to 5Gbps) connector support additional 2 USB ports"
+                ],
+                "TPM (Trusted Platform Module)": "1 x TPM connector(s)"
+            },
+            "Others": {
+                "Special Features": [
+                    "Wireless Data Network:",
+                    "Intel Wi-Fi 6 AX200",
+                    "Supports channel bandwidth: HT20/HT40/HT80/HT160",
+                    "2 x 2 Wi-Fi 6 (802.11 a/b/g/n/ac/ax) with MU-MIMO supports dual frequency band 2.4/5GHz",
+                    "Up to 2.4Gbps transfer speed",
+                    "Bluetooth: Bluetooth 5.0"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 Years Warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Asus ROG X570 Crosshair VIII Hero WI-FI ATX AM4 Motherboard",
+                "details": "ROG Crosshair VIII Hero comes equipped with an optimized power-design layout and all the cooling headers you need to handle the prodigious power of the latest AMD Ryzen processors without performance-zapping thermal throttling.â€‹ ROG gives you powerful tools that make optimizing your system fast and easy. For those who relish fine-grained control, the UEFI BIOS has a wealth of advanced options organized into intuitive categories that provide the ability to tweak every aspect of your systemâ€‹. Conventional motherboards use single-ended sensing tapped from a location that isn't ideal, leading to a large disparity between the actual voltage fed to the CPU and the value reported to the software. The Hero features a differential sensing circuit that simplifies overclocking and tuning by allowing you to track voltages more accurately. The renowned ROG UEFI (BIOS) provides everything you need to configure, tweak, and tune your rig. It offers intelligently simplified options for newcomers to PC DIY, as well as comprehensive features for seasoned veterans. AI Suite 3's dashboard-style control panel lets you fine-tune almost every aspect of your system. Get the best balance between performance, cooling, stability, and efficiency via one simple and intuitive interface.â€‹ The TurboV Processing Unit (TPU) is an intelligent onboard micro-controller that provides an array of system-tuning features, including the ability to fine-tune voltages, monitor system stats and adjust overclocking parameters. ROG Crosshair VIII Hero offers advanced connectivity to ensure seamless gaming experiences. With the latest ultrafast networking, including Wi-Fi 6 (802.11ax) and dual Ethernet with one 2.5G port, ROG Crosshair VIII Hero removes all bottlenecks for online and LAN play, minimizing lag and providing an overall smoother experience. Additionally, the M.2 supports AMD StoreMI technology to maximize the speed of your SSD for faster load times, and SupremeFX onboard audio provides superb sound while saving a PCIe slot.â€‹ ROG provides a range of intuitive software that enables easy control of your advanced gaming hardware and ensures seamless component compatibility. From RGB lighting, networking, and audio to storage optimization and more, ROG gives you the power to personalize your system just the way you want.â€‹ ROG Crosshair VIII Hero offers advanced connectivity to ensure seamless gaming experiences. With the latest ultrafast networking, including Wi-Fi 6 (802.11ax) and dual Ethernet with one 2.5G port, ROG Crosshair VIII Hero removes all bottlenecks for online and LAN play, minimizing lag and providing an overall smoother experience. Additionally, the M.2 supports AMD StoreMI technology to maximize the speed of your SSD for faster load times, and SupremeFX onboard audio provides superb sound while saving a PCIe slot.â€‹ Gear up with ROG components, from graphics and monitors to mice and keyboards, and up your game with complementary aesthetics, control, and compatibility. The ROG ecosystem is more extensive than any competing brand, so enjoy greater choice as your system expands. GameFirst V is a ROG-exclusive tool that optimizes network traffic and your connection for faster, lag-free online gaming. Select the best Wi-Fi channel for maximum stability and minimum interference, team your gateways, and keep tabs on bandwidth-hogging apps, all from an intuitive interface that enables easy, on-the-fly adjustments. Armoury Crate is a new software utility designed to give you centralized control of supported ROG gaming products. From a single intuitive interface, Armoury Crate lets you easily customize RGB lighting and effects for every compatible device in your arsenal and synchronize them with Aura Sync for uniï¬�ed system lighting effects. The software also provides control of settings for a select and growing number of ROG products, including keyboard and mouse preferences as well as laptop overclocking and fan speeds, making it easier to tune the look and feel of your system. Armoury Crate even features dedicated product registration and ROG news areas to help you stay in touch with the ROG gaming community."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Asus ROG X570 Crosshair VIII Hero Wi-Fi Motherboard in Bangladesh?",
+            "details": "The latest price of Asus ROG X570 Crosshair VIII Hero Wi-Fi Motherboard in Bangladesh is 47,600৳. You can buy the Asus ROG X570 Crosshair VIII Hero Wi-Fi Motherboard at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamingpro@example.com",
+                "review_comment": "This motherboard is a beast! The Asus ROG X570 Crosshair VIII Hero Wi-Fi has it all - great overclocking capabilities, excellent build quality, and all the features a gamer could ask for. I've had no issues with it, and it has boosted my gaming performance significantly.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "techenthusiast@example.com",
+                "review_comment": "As a tech enthusiast, I appreciate the attention to detail in this motherboard. The build quality is superb, and it comes with all the modern features you'd expect. The Wi-Fi performance is outstanding, and I've had no trouble with connectivity. The price is on the higher side, but you get what you pay for!",
+                "user_rating": 4
+            },
+            {
+                "user_email": "contentcreator@example.com",
+                "review_comment": "I use the Asus ROG X570 Crosshair VIII Hero Wi-Fi for content creation, and it has been a fantastic choice. The stability and performance are top-notch. The VRM design ensures my CPU stays cool even during demanding tasks. The only drawback is the high price, but if you need a reliable motherboard for work, it's worth the investment.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "motherboard",
+        "product_name": "Asus ROG STRIX Z690-E GAMING WIFI Intel 12th Gen ATX Motherboard",
+        "price": 47500,
+        "regular_price": 49970,
+        "status": true,
+        "product_code": "00028",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "ROG STRIX Z690-E GAMING WIFI",
+            "Intel LGA 1700 socket": "Ready for 12th Gen Intel processors",
+            "Power": "18+1 power stages with 8+8 ProCool II power connectors",
+            "Supports": "On-board Intel WiFi 6E (802.11ax)",
+            "Features": "Integrated I/O cover and VRM heatsinks"
+        },
+        "specification": {
+            "Basic Information": {
+                "Supported CPU": [
+                    "Intel Socket LGA1700 for 12th Gen Intel Core, Pentium Gold, and Celeron Processors",
+                    "Supports Intel Turbo Boost Technology 2.0 and Intel Turbo Boost Max Technology 3.0"
+                ],
+                "Chipset": "Z690",
+                "BIOS": "256 Mb Flash ROM, UEFI AMI BIOS",
+                "Form Factor": [
+                    "ATX",
+                    "(30.5cm x 24.4cm)"
+                ],
+                "Audio": [
+                    "ROG SupremeFX 7.1 Surround Sound High Definition Audio CODEC ALC4080",
+                    "- Impedance sense for front and rear headphone outputs",
+                    "- Supports: Jack-detection, Multi-streaming, Front Panel Jack-retasking",
+                    "- High quality 120 dB SNR stereo playback output and 113 dB SNR recording input",
+                    "- Supports up to 32-Bit/384 kHz playback",
+                    "Audio Features",
+                    "- SupremeFX Shielding Technology",
+                    "- ALC4080 + Savitech SV3H712 AMP",
+                    "- Gold-plated audio jacks",
+                    "- Rear optical S/PDIF out port",
+                    "- Premium audio capacitors",
+                    "- Audio cover"
+                ]
+            },
+            "Expansion Slots": {
+                "PCI": [
+                    "Intel 12th Gen Processors*",
+                    "1 x PCIe 5.0 x16 slot",
+                    "- Intel 12th support PCIe 5.0 x16 mode",
+                    "Intel Z690 Chipset",
+                    "1 x PCIe 3.0 x16 slot (supports x4 mode or x4/x4 mode)",
+                    "1 x PCIe 3.0 x1 slot"
+                ]
+            },
+            "Memory": {
+                "Type": "DDR5",
+                "Slots": "4 x DIMM",
+                "Supported Memory": [
+                    "6400(OC)/ 6200(OC)/ 6000(OC)/ 5800(OC)/ 5600(OC)/ 5400(OC)/ 5200(OC)/ 5000(OC)/ 4800 Non-ECC, Un-buffered Memory",
+                    "Dual Channel Memory Architecture",
+                    "Supports Intel Extreme Memory Profile (XMP)",
+                    "OptiMem II"
+                ],
+                "Maximum Memory": "128GB"
+            },
+            "Graphics": {
+                "Graphics": [
+                    "1 x DisplayPort (Support max. 8K@60Hz as specified in DisplayPort 1.4)",
+                    "1 x HDMI port (Supports 4K@60Hz as specified in HDMI 2.1)"
+                ]
+            },
+            "Connector & Ports": {
+                "HDMI": "1 x HDMI port",
+                "Display Port (s)": "1 x DisplayPort",
+                "USB (s)": [
+                    "Rear USB:",
+                    "Total 10 ports",
+                    "1 x USB 3.2 Gen 2x2 port (1 x USB Type-C)",
+                    "3 x USB 3.2 Gen 2 ports (2 x Type-A + 1 x USB Type-C)",
+                    "4 x USB 3.2 Gen 1 ports (4 x Type-A)",
+                    "2 x USB 2.0 ports (2 x Type-A) ",
+                    "Front USB:",
+                    "Total 7 ports",
+                    "Front USB (Total 7 ports)",
+                    "1 x USB 3.2 Gen 2x2 connector (supports USB Type-C)",
+                    "1 x USB 3.2 Gen 1 header supports additional 2 USB 3.2 Gen 1 ports",
+                    "2 x USB 2.0 headers support additional 4 USB 2.0 ports"
+                ],
+                "LAN Port (s)": "1 x Intel 2.5Gb Ethernet",
+                "Wireless Communication module": [
+                    "2x2 Tri-Band Intel Wi-Fi a/b/g/n/ac/ax/az + BT5.2",
+                    "Wi-Fi 6E",
+                    "2x2 Wi-Fi 6E (802.11 a/b/g/n/ac/ax)",
+                    "Supports 2.4/5/6GHz frequency band*",
+                    "Bluetooth v5.2 hardware ready"
+                ],
+                "Supported Storage": [
+                    "Intel12th Gen Processors",
+                    "M.2_1 slot (Key M), type 2242/2260/2280/22110 (supports PCIe 4.0 x4 mode)",
+                    "Intel Z690 Chipset",
+                    "M.2_2 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 mode)",
+                    "M.2_3 slot (Key M), type 2242/2260/2280/22110 (supports PCIe 4.0 x4 mode)",
+                    "M.2_4 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 & SATA modes)",
+                    "6 x SATA 6Gb/s ports"
+                ],
+                "Audio": "1 x Front Panel Audio header (AAFP)",
+                "Internal I/O Ports": [
+                    "Fan and Cooling related",
+                    "1 x 4-pin CPU Fan header",
+                    "1 x 4-pin CPU OPT Fan header",
+                    "1 x 4-pin AIO Pump header",
+                    "5 x 4-pin Chassis Fan headers",
+                    "Power related",
+                    "1 x 24-pin Main Power connector",
+                    "2 x 8-pin +12V Power connector",
+                    "Storage related",
+                    "4 x M.2 slots (Key M)",
+                    "6 x SATA 6Gb/s ports",
+                    "USB",
+                    "1 x USB 3.2 Gen 2x2 connector (supports USB Type-C)",
+                    "1 x USB 3.2 Gen 1 header supports additional 2 USB 3.2 Gen 1 ports",
+                    "2 x USB 2.0 headers support additional 4 USB 2.0 ports",
+                    "Miscellaneous",
+                    "3 x Addressable Gen 2 headers",
+                    "1 x AURA RGB header",
+                    "1 x BMC header",
+                    "1 x CPU Over Voltage jumper",
+                    "1 x Front Panel Audio header (AAFP)",
+                    "1 x SPI TPM header (14-1pin)",
+                    "1 x 20-3 pin System Panel header with Chassis intrude function",
+                    "1 x Thermal Sensor header",
+                    "1 x Thunderbolt header"
+                ]
+            },
+            "Others": {
+                "Special Features": [
+                    "Extreme Engine Digi+",
+                    "- 5K Black Metallic Capacitors",
+                    "ASUS Q-Design",
+                    "- M.2 Q-Latch",
+                    "- PCIe Slot Q-Release",
+                    "- Q-DIMM",
+                    "- Q-LED (CPU [red], DRAM [yellow], VGA [white], Boot Device [yellow green])",
+                    "- Q-Slot",
+                    "ASUS Thermal Solution",
+                    "- M.2 heatsink backplate",
+                    "- M.2 heatsink",
+                    "ASUS EZ DIY",
+                    "- BIOS FlashBack button",
+                    "- BIOS FlashBack LED",
+                    "- Clear CMOS button",
+                    "-CPU Socket lever protector",
+                    "- ProCool II",
+                    "- Pre-mounted I/O shield",
+                    "- SafeSlot",
+                    "- SafeDIMM",
+                    "AURA Sync",
+                    "- AURA RGB header",
+                    "- Addressable Gen 2 RGB headers",
+                    "ASUS HYDRANODE",
+                    "- 1 x Chassis fan support* (CHA_FAN1P)",
+                    "* Visit ASUS Website for the latest compatibility list.",
+                    "TPM header"
+                ],
+                "Bundled Software": [
+                    "ROG Exclusive Software",
+                    "- ROG CPU-Z",
+                    "- GameFirst VI",
+                    "- Sonic Studio III + Sonic Studio Virtual Mixer + Sonic Suite Companion",
+                    "- Sonic Radar III",
+                    "- DTS Sound Unbound",
+                    "- Anti-virus software",
+                    "ASUS Exclusive Software",
+                    "Armoury Crate",
+                    "- AIDA64 Extreme (60 days free trial)",
+                    "- AURA Creator",
+                    "- AURA Sync",
+                    "- Fan Xpert 4",
+                    "- Two-Way AI Noise Cancelation",
+                    "AI Suite 3",
+                    "- 5-Way Optimization with AI Overclocking",
+                    "TPU",
+                    "EPU",
+                    "DIGI+ VRM",
+                    "Turbo app",
+                    "MyAsus",
+                    "WinRAR",
+                    "UEFI BIOS",
+                    "AI Overclocking Guide",
+                    "ASUS EZ DIY",
+                    "- ASUS CrashFree BIOS 3",
+                    "- ASUS EZ Flash 3",
+                    "- ASUS UEFI BIOS EZ Mode",
+                    "FlexKey",
+                    "MemTest86"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Asus ROG STRIX Z690-E GAMING WIFI Intel 12th Gen ATX Motherboard",
+                "details": "The Asus ROG STRIX Z690-E GAMING WIFI Motherboard features Intel LGA 1700 socket Ready for 12th Gen Intel Core, Pentium Gold, and Celeron Processors. Asus Prime series motherboards are expertly engineered to unleash the full potential of 12th Generation Intel processors. It comes with an enhanced power solution. 16+1 power stages with 8+8 ProCool II power connectors, high-quality alloy chokes, and durable capacitors to support multi-core processors. It features an Integrated I/O cover and VRM heatsinks with high conductivity thermal pad, L-shaped Heatpipe, four onboard M.2 heatsinks, and M.2 backplate for the M.2_1 slot. It features onboard Intel WiFi 6E (802.11ax) and Intel 2.5 Gb Ethernet with ASUS LANGuard. The Asus Asus ROG STRIX Z690-E GAMING WIFI WIFI is supported with DDR5 memory, PCIe 5.0, Intel 2.5 Gb Ethernet, USB 3.2 Gen2x2 Type-C, front panel USB 3.2 Gen 2 Type-C, Thunderbolt 4 header support, 4 PCIe 4.0 M.2. It comes with ASUS-exclusive AI Overclocking, AI Cooling, AI Networking, and Two-Way AI Noise Cancelation to simplify setup and improve performance. With four strategically placed M.2 slots, ROG Strix Z690-E Gaming WiFi leverages mighty CPU and chipset bandwidth to deliver lightning-fast PCIe 4.0 data transfers, Intel NVM Express RAID, and high-capacity drive options that blaze past traditional SATA-based SSDs. The Asus ROG STRIX Z690-E GAMING WIFI offers a sleek, futuristic-looking build with a black and white finish, space-shuttle-inspired design elements, metallic nameplates, and PCB cover. Asus 5-Way Optimization makes your PC smart. Along with taking care of complex tuning and dynamically optimizing essential aspects of your system, it provides overclocking profiles that are tailored for your rig. The Asus Asus ROG STRIX Z690-E GAMING WIFI comes with 3 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Asus ROG STRIX Z690-E GAMING WIFI Intel 12th Gen Motherboard in Bangladesh?",
+            "details": "The latest price of Asus ROG STRIX Z690-E GAMING WIFI Intel 12th Gen Motherboard in Bangladesh is 47,500৳. You can buy the Asus ROG STRIX Z690-E GAMING WIFI Intel 12th Gen Motherboard at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Great motherboard, easy to install and works perfectly. I love the design!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "This motherboard is a beast! Handles all my tasks and games without any issues.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "The Wi-Fi connectivity is fast, and the audio quality is impressive. No complaints here!",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "motherboard",
+        "product_name": "MSI MPG Z790 CARBON WIFI ATX Motherboard",
+        "price": 54000,
+        "regular_price": 59400,
+        "status": true,
+        "product_code": "00029",
+        "brand": "MSI",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "MPG Z790 CARBON WIFI",
+            "Supported CPU": "13th / 12th Gen Intel Core / Pentium / Celeron processors (LGA 1700)",
+            "Supported RAM": "4x DDR5, Max 128GB, 7600+(OC) MHz",
+            "Graphics Output": "1x HDMI",
+            "Features": "2.5G LAN and Intel Wi-Fi 6E Solution"
+        },
+        "specification": {
+            "Basic Information": {
+                "Supported CPU": "Supports 14th/13th/12th Gen Intel Core Processors, Pentium Gold and Celeron Processors, LGA 1700",
+                "Chipset": "INTEL Z790",
+                "Form Factor": [
+                    "ATX",
+                    "243.84mmx304.8mm"
+                ],
+                "Audio": [
+                    "Realtek ALC4080 Codec",
+                    "7.1-Channel USB High Performance Audio",
+                    "Supports up to 32-Bit/384 kHz playback on front panel"
+                ]
+            },
+            "Expansion Slots": {
+                "PCI": [
+                    "2x PCI-E x16 slot",
+                    "1x PCI-E x1 slot",
+                    "PCI_E1 PCIe 5.0 supports up to x16 (From CPU)",
+                    "PCI_E2 PCIe 3.0 supports up to x1 (From Chipset)",
+                    "PCI_E3 PCIe 4.0 supports up to x4 (From Chipset)"
+                ]
+            },
+            "Memory": {
+                "Type": "DDR5",
+                "Slots": "4 x DIMM",
+                "Supported Memory": [
+                    "7600+(OC)/ 7400 (OC)/ 7200(OC)/ 7000(OC)/ 6800(OC)/ 6600(OC)/ 6400(OC)/ 6200(OC)/ 6000(OC)/ 5800(OC)/ 5600(JEDEC)/ 5400(JEDEC)/ 5200(JEDEC)/ 5000(JEDEC) /4800(JEDEC) MHz",
+                    "Max. overclocking frequency:",
+                    "• 1DPC 1R Max speed up to 7600+ MHz",
+                    "• 1DPC 2R Max speed up to 6600+ MHz",
+                    "• 2DPC 1R Max speed up to 6400+ MHz",
+                    "• 2DPC 2R Max speed up to 5600+ MHz",
+                    "Supports Intel XMP3.0 OC",
+                    "Supports Dual-Controller Dual-Channel mode",
+                    "Supports non-ECC, un-buffered memory"
+                ],
+                "Maximum Memory": "128GB"
+            },
+            "Graphics": {
+                "Graphics": [
+                    "1x HDMI",
+                    "Support HDMI 2.1 with HDR, maximum resolution of 4K 60Hz"
+                ]
+            },
+            "Connector & Ports": {
+                "HDMI": "1x HDMI",
+                "USB (s)": [
+                    "4x USB 2.0 (Front)",
+                    "2x USB 3.2 Gen1 Type A (Rear)",
+                    "2x USB 3.2 Gen1 Type A (Front)",
+                    "6x USB 3.2 Gen2 Type A (Rear)",
+                    "1x USB 3.2 Gen2 Type C (Rear)",
+                    "1x USB 3.2 Gen2x2 Type C (Rear)",
+                    "1x USB 3.2 Gen2x2 Type C (Front)"
+                ],
+                "LAN Port (s)": "Intel 2.5Gbps LAN",
+                "Wireless Communication module": [
+                    "Intel Wi-Fi 6E",
+                    "The Wireless module is pre-installed in the M.2 (Key-E) slot",
+                    "Supports MU-MIMO TX/RX, 2.4GHz / 5GHz / 6GHz* (160MHz) up to 2.4Gbps",
+                    "Supports 802.11 a/ b/ g/ n/ ac/ ax ",
+                    "Supports Bluetooth 5.3, FIPS, FISMA"
+                ],
+                "Supported Storage": [
+                    "5x M.2 slot",
+                    "M.2_1 (From CPU) supports up to PCIe 4.0 x4 , supports 2280/2260 devices",
+                    "M.2_2 (From CPU) supports up to PCIe 5.0 x4 , supports 22110/2280/2260 devices",
+                    "M.2_3 (From Chipset) supports up to PCIe 4.0 x4 , supports 2280/2260 devices",
+                    "M.2_4 (From Chipset) supports up to PCIe 4.0 x4 , supports 2280/2260 devices",
+                    "M.2_5 (From Chipset) supports up to PCIe 4.0 x4 / SATA mode, supports 2280/2260 devices",
+                    "6x SATA 6G port"
+                ],
+                "RAID": [
+                    "Supports RAID 0, RAID 1, RAID 5 and RAID 10 for SATA storage devices",
+                    "Supports RAID 0, RAID 1, RAID 5 and RAID 10 for M.2 NVMe storage devices",
+                    "* SATA_A1~A2 do not support RAID function."
+                ],
+                "Audio Connectors": "Audio Connectors",
+                "Internal I/O Ports": [
+                    "1x Power Connector(ATX_PWR)",
+                    "2x Power Connector(CPU_PWR)",
+                    "1x CPU Fan",
+                    "1x Pump Fan",
+                    "5x System Fan",
+                    "2x Front Panel (JFP)",
+                    "1x Chassis Intrusion (JCI)",
+                    "1x Front Audio (JAUD)",
+                    "1x TBT connector (JTBT, supports RTD3)",
+                    "1x Tuning Controller connector(JDASH)",
+                    "2x Addressable V2 RGB LED connector (JARGB_V2)",
+                    "1x RGB LED connector(JRGB)",
+                    "4x USB 2.0",
+                    "2x USB 3.2 Gen1 Type A",
+                    "1x USB 3.2 Gen 2x2 Type C"
+                ],
+                "TPM (Trusted Platform Module)": "1x TPM pin header(Support TPM 2.0)"
+            },
+            "Others": {
+                "Special Features": [
+                    "1x EZ LED Control switch",
+                    "1x 2-Digit Debug Code LED",
+                    "4x EZ Debug LED"
+                ]
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "MSI MPG Z790 CARBON WIFI ATX Motherboard",
+                "details": "The MSI MPG Z790 CARBON WIFI Motherboard supports 14th/13th /12th Gen Intel Core / Pentium / Celeron processors for LGA 1700 socket. This ATX motherboard, which uses the Intel Z790 chipset and the LGA 1700 socket, has four DDR4 RAM slots that allow twin-channel memory and speeds up to 7600+(OC) MHz. It comes with PCIe 5.0 slot, Lightning Gen 5 x4 M.2, USB 3.2 Gen 2x2. It also enables RAID 0, 1, 5, and 10 through SATA or 0, 1, and 5 via M.2. GPUs and other adaptor cards may be installed through PCIe 5.0 x16, PCIe 4.0 x16, PCIe 3.0 x16, and PCIe 3.0 x1 slots. It comes with an enlarged heatsink with a heat pipe, MOSFET thermal pads rated for 7W/mk, additional choke thermal pads, and M.2 Shield Frozr are built for a high-performance system and non-stop gaming experience. The 14th Gen Motherboard is equipped with 2.5 GbE Intel LAN and Wi-Fi 6E; quickly connects to wireless peripherals with Bluetooth 5.2. Upgraded network solution for professional and multimedia use. Delivers a secure, stable, and fast network connection. The Realtek ALC4080 audio codec offers 7.1 channel surround sound, and the rear ports can be used for analog or digital output. Connect connected peripherals through two USB 2.0, two USB 3.2 Gen 1, and three USB 3.2 Gen 2x2 Type-A ports, or a USB 3.2 Gen 2x2 Type-C port. DisplayPort and HDMI are used to output video. A Flash BIOS button is also located on the rear I/O panel, and internal headers support front-panel USB 3.2 Gen 2 Type-C and USB 3.2 Gen 1 and 2.0 Type-A ports, RGB connections, chassis intrusion, a TPM module, and other features. The MSI MPG Z790 CARBON WIFI 14th Gen Motherboard comes with a 03-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of MSI MPG Z790 CARBON WIFI ATX Motherboard in Bangladesh?",
+            "details": "The latest price of MSI MPG Z790 CARBON WIFI ATX Motherboard in Bangladesh is 54,000৳. You can buy the MSI MPG Z790 CARBON WIFI ATX Motherboard at the best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Great motherboard, easy to install and works perfectly. I love the design!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "This motherboard is a beast! Handles all my tasks and games without any issues.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "The Wi-Fi connectivity is fast, and the audio quality is impressive. No complaints here!",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "motherboard",
+        "product_name": "MSI MEG Z590 ACE Gaming Intel 10th Gen and 11th Gen ATX Motherboard",
+        "price": 53300,
+        "regular_price": 56072,
+        "status": true,
+        "product_code": "00030",
+        "brand": "MSI",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "MEG Z590 ACE Gaming",
+            "Supported CPU": "11th and 10th Gen Intel Core / Pentium Celeron processors",
+            "Supported Memory": "DDR4 Memory, up to 5600(OC) MHz",
+            "Socket": "Quadruple M.2, LGA 1200 socket",
+            "Features": "2.5G LAN with latest Wi-Fi 6E"
+        },
+        "specification": {
+            "Basic Information": {
+                "Supported CPU": [
+                    "Supports 10th Gen Intel Core Processors, 11th Gen Intel Core Processors, Pentium Gold and Celeron® Processors1",
+                    "Processor socket LGA1200"
+                ],
+                "Chipset": "Intel Z590 Chipset",
+                "Form Factor": "ATX Form Factor",
+                "Audio": [
+                    "7.1-Channel High Definition Audio",
+                    "Supports S/PDIF output"
+                ]
+            },
+            "Expansion Slots": {
+                "PCI": [
+                    "3x PCIe x16 slots",
+                    "Support x16/x0/x4, x8/x8/x4, x8/x4+x4/x4",
+                    "PCI_E1 & PCI_E3 slots (From CPU)",
+                    "Support up to PCIe 4.0 for 11th Gen Intel CPU",
+                    "Support up to PCIe 3.0 for 10th Gen Intel CPU",
+                    "PCI_E5 slot (From Z590 chipset)",
+                    "Supports up to PCIe 3.0",
+                    "2x PCIe 3.0 x1 slots (From Z590 chipset)"
+                ],
+                "M.2 Socket": "4x M.2 slots (Key M)"
+            },
+            "Memory": {
+                "Type": "DDR4",
+                "Slots": "4x DDR4 memory slots",
+                "Supported Memory": [
+                    "Supports 1R 2133/ 2666/ 2933 MHz for 10th Gen Intel CPU (by JEDEC & POR)1",
+                    "Supports 1R 2133/ 2666/ 2933/ 3200 MHz for 11th Gen Intel CPU (by JEDEC & POR)1",
+                    "Max overclocking frequency:",
+                    "1DPC 1R Max speed up to 5600 MHz",
+                    "1DPC 2R Max speed up to 4800+ MHz",
+                    "2DPC 1R Max speed up to 4400+ MHz",
+                    "2DPC 2R Max speed up to 4000+ MHz",
+                    "Supports Dual-Channel mode",
+                    "Supports non-ECC, un-buffered memory",
+                    "Supports Intel Extreme Memory Profile (XMP)"
+                ],
+                "Maximum Memory": "support up to 128GB"
+            },
+            "Graphics": {
+                "Graphics": "1x HDMI 2.0b with HDR port, supports a maximum resolution of 4K 60Hz1"
+            },
+            "Connector & Ports": {
+                "USB (s)": [
+                    "3x USB 3.2 Gen 2 10Gbps ports (2 Type-A port on the back panel, 1 Type-C internal connector)",
+                    "6x USB 3.2 Gen 1 5Gbps ports (4 Type-A port on the back panel, 2 ports available through internal USB connector)",
+                    "2x USB 2.0 Type-A ports on the back panel",
+                    "Hub-GL850G",
+                    "4x USB 2.0 ports through internal USB connectors"
+                ],
+                "LAN Port (s)": "1x Intel I225V 2.5Gbps LAN controller",
+                "Supported Storage": [
+                    "6x SATA 6Gb/s ports (from Z590 chipset)",
+                    "4x M.2 slots (Key M)",
+                    "M2_2, M2_3, M2_4 slots (from Z590 chipset)"
+                ],
+                "Audio": "1x Front panel audio connector",
+                "Internal I/O Ports": [
+                    "1x 24-pin ATX main power connector",
+                    "2x 8-pin ATX 12V power connectors",
+                    "1x 6-pin PCIE power connector",
+                    "6x SATA 6Gb/s connectors",
+                    "4x M.2 slots (M-Key)",
+                    "1x USB 3.2 Gen 2 10Gbps Type-C connector",
+                    "1x USB 3.2 Gen 1 5Gbps connector (supports additional 2 USB 3.2 Gen 1 5Gbps ports)",
+                    "2x USB 2.0 connectors (supports additional 4 USB 2.0 ports)",
+                    "1x 4-pin CPU fan connector",
+                    "1x 4-pin water-pump fan connector",
+                    "6x 4-pin system fan connectors",
+                    "1x Front panel audio connector",
+                    "2x System panel connectors",
+                    "1x Chassis Intrusion connector",
+                    "1x Tuning Controller connector"
+                ],
+                "TPM (Trusted Platform Module)": "1x TPM module connector"
+            },
+            "Others": {
+                "Special Features": "Intel Wi-Fi 6E AX210"
+            }
+        },
+        "Warranty Information": {
+            "Manufacturing Warranty": "03 years warranty"
+        },
+        "descriptions": [
+            {
+                "title": "MSI MEG Z590 ACE Gaming Intel 10th Gen and 11th Gen ATX Motherboard",
+                "details": "MSI MEG Z590 ACE Gaming Motherboard Supports 11th and 10th Gen Intel Core Pentium Celeron processors for LGA 1200 socket, DDR4 Memory, up to 5600(OC) MHz, The motherboard has Thunderbolt USB-C at true 40 Gb/s speeds, 8K display support, Daisy-Chaining and Multi-Port Accessory Architecture provide reliable connectivity and better user experience. The Motherboard comes with Extreme Power Design, that INTERSIL digital PWM, 16+2+1 phases with 90A Smart Power Stage, dual CPU power connectors and exclusive Mirrored Power Arrangement to unleash the true power of your processors. The Motherboard has Outstanding Cooling Solution, that Aluminum Cover, VRM Heat-pipe, 7W/mK thermal pads, M.2 Shield Frozr and Aluminum Backplate ensure the extreme performance with low temp. It has 2.5G LAN with latest Wi-Fi 6E Onboard 2.5G LAN with LAN manager and latest Wi-Fi 6E solution which supports 6GHz spectrum delivering the best online gaming experience. The Motherboard has One button with multiple hardware control. Reset Computer, Safe Boot, Turbo Fan and EZ LED control functions with just one click. It is also featured with 8 Layer PCB with 2oz Thickened Copper, that Provides higher performance and long-lasting system stability without any compromise. Here, the Ultimate audio solution with latest premium ALC4082 audio processor combining ESS audio DAC and amplifier deliver the breathtaking experience. This latest MSI MEG Z590 ACE Gaming Intel 10th Gen and 11th Gen ATX Motherboard has 03 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of MSI MEG Z590 ACE Gaming 10th Gen and 11th Gen ATX Motherboard in Bangladesh?",
+            "details": "The latest price of MSI MEG Z590 ACE Gaming 10th Gen and 11th Gen ATX Motherboard in Bangladesh is 53,300৳. You can buy the MSI MEG Z590 ACE Gaming 10th Gen and 11th Gen ATX Motherboard at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Great motherboard, easy to install and works perfectly. I love the design!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "This motherboard is a beast! Handles all my tasks and games without any issues.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "The Wi-Fi connectivity is fast, and the audio quality is impressive. No complaints here!",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "motherboard",
+        "product_name": "GIGABYTE Z790 AERO G ATX Motherboard",
+        "price": 45500,
+        "regular_price": 47886,
+        "status": true,
+        "product_code": "00031",
+        "brand": "GIGABYTE",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Z790 AERO G",
+            "Supported CPU": "14th Gen, 13th Gen & 12th Gen Processors (LGA1700)",
+            "Supported RAM": "4 x DDR5 DIMMs, up to 7600(O.C.)",
+            "Graphics Output": "1 x USB Type-C, 1 x HDMI",
+            "Features": "Intel 2.5GbE LAN & Wi-Fi 6E 802.11ax"
+        },
+        "specification": {
+            "Basic Information": {
+                "Supported CPU": [
+                    "LGA1700 socket: Support for the 14th, 13th and 12th Generation Intel Core, Pentium Gold and Celeron Processors",
+                    "L3 cache varies with CPU"
+                ],
+                "Chipset": "Intel Z790 Express Chipset",
+                "BIOS": [
+                    "1 x 256 Mbit flash",
+                    "Use of licensed AMI UEFI BIOS",
+                    "PnP 1.0a, DMI 2.7, WfM 2.0, SM BIOS 2.7, ACPI 5.0"
+                ],
+                "Form Factor": "ATX Form Factor; 30.5cm x 24.4cm",
+                "Audio": [
+                    "Realtek ALC1220-VB CODEC",
+                    "* The back panel line out jack supports DSD audio.",
+                    "High Definition Audio",
+                    "2/4/5.1/7.1-channel",
+                    "* You can change the functionality of an audio jack using the audio software. To configure 7.1-channel audio, access the audio software for audio settings.",
+                    "Support for S/PDIF Out"
+                ]
+            },
+            "Expansion Slots": {
+                "PCI": [
+                    "CPU:",
+                    "1 x PCI Express x16 slot, supporting PCIe 5.0 and running at x16 (PCIEX16)",
+                    "* The PCIEX16 slot shares bandwidth with the M2C_CPU connector. The PCIEX16 slot operates at up to x8 mode when a device is installed in the M2C_CPU connector",
+                    "* For optimum performance, if only one PCI Express graphics card is to be installed, be sure to install it in the PCIEX16 slot.",
+                    "Chipset:",
+                    "2 x PCI Express x16 slots, supporting PCIe 4.0 and running at x4 (PCIEX4_1, PCIEX4_2)",
+                    "Support for AMD CrossFire technology (PCIEX16 and PCIEX4)"
+                ]
+            },
+            "Memory": {
+                "Type": "DDR5",
+                "Slots": "4 x DIMM sockets",
+                "Supported Memory": [
+                    "Support for DDR5 7600(O.C.) /7400(O.C.) /7200(O.C.) /7000(O.C.) /6800(O.C.) /6600(O.C.) / 6400(O.C.) / 6200(O.C.) / 6000(O.C.) / 5800(O.C.) / 5600(O.C.) / 5400(O.C.) / 5200(O.C.) / 4800 / 4000 memory modules",
+                    "Dual channel memory architecture",
+                    "Support for ECC Un-buffered DIMM 1Rx8/2Rx8 memory modules (operate in non-ECC mode)",
+                    "Support for non-ECC Un-buffered DIMM 1Rx8/2Rx8/1Rx16 memory modules",
+                    "Support for Extreme Memory Profile (XMP) memory modules"
+                ],
+                "Maximum Memory": "128GB (32 GB single DIMM capacity)"
+            },
+            "Graphics": {
+                "Graphics": [
+                    "Integrated Graphics Processor-Intel HD Graphics support:",
+                    "1 x USB Type-C port, supporting USB 3.2 Gen 2 and DisplayPort video outputs and a maximum resolution of 4096x2304@60 Hz",
+                    "* Support for drawing tablets and 20V@3A of power delivery.",
+                    "* Support for DisplayPort 1.4 version and HDR.",
+                    "1 x HDMI port, supporting a maximum resolution of 4096x2160@60 Hz",
+                    "* Support for HDMI 2.0 version and HDCP 2.3."
+                ]
+            },
+            "Connector & Ports": {
+                "Display Port (s)": "1 x DisplayPort",
+                "USB (s)": [
+                    "Chipset:",
+                    "2 x USB Type-C ports, with USB 3.2 Gen 2x2 support (1 port on the back panel, 1 port available through the internal USB header)",
+                    "1 x USB Type-C port on the back panel, with USB 3.2 Gen 2 support",
+                    "2 x USB 3.2 Gen 2 Type-A ports (red) on the back panel",
+                    "2 x USB 3.2 Gen 1 ports available through the internal USB header",
+                    "2 x USB 2.0/1.1 ports on the back panel",
+                    "Chipset+USB 3.2 Gen 1 Hub:",
+                    "4 x USB 3.2 Gen 1 ports on the back panel",
+                    "Chipset+USB 2.0 Hub:",
+                    "4 x USB 2.0/1.1 ports available through the internal USB headers"
+                ],
+                "LAN Port (s)": "Intel 2.5GbE LAN chip (2.5 Gbps/1 Gbps/100 Mbps)",
+                "Wireless Communication module": [
+                    "Intel Wi-Fi 6E AX211",
+                    "WIFI a, b, g, n, ac, ax, supporting 2.4/5/6 GHz carrier frequency bands",
+                    "BLUETOOTH 5.3",
+                    "Support for 11ax 160MHz wireless standard and up to 2.4 Gbps data rate"
+                ],
+                "Supported Storage": [
+                    "CPU:",
+                    "1 x M.2 connector (Socket 3, M key, type 25110/2280 PCIe 5.0 x4/x2 SSD support) (M2C_CPU)",
+                    "1 x M.2 connector (Socket 3, M key, type 22110/2280 PCIe 4.0 x4/x2 SSD support) (M2A_CPU)",
+                    "Chipset:",
+                    "1 x M.2 connector (Socket 3, M key, type 22110/2280 PCIe 4.0 x4/x2 SSD support) (M2Q_SB)",
+                    "1 x M.2 connector (Socket 3, M key, type 2280 PCIe 4.0 x4/x2 SSD support) (M2P_SB)",
+                    "1 x M.2 connector (Socket 3, M key, type 2280 SATA and PCIe 4.0 x4/x2 SSD support) (M2M_SB)",
+                    "4 x SATA 6Gb/s connectors"
+                ],
+                "RAID": [
+                    "RAID 0, RAID 1, RAID 5, and RAID 10 support for NVMe SSD storage devices",
+                    "RAID 0, RAID 1, RAID 5, and RAID 10 support for SATA storage devices"
+                ],
+                "Audio": "2 x audio jacks",
+                "Internal I/O Ports": [
+                    "1 x 24-pin ATX main power connector",
+                    "1 x 8-pin ATX 12V power connector",
+                    "1 x 4-pin ATX 12V power connector",
+                    "1 x CPU fan header",
+                    "1 x water cooling CPU fan header",
+                    "4 x system fan headers",
+                    "2 x system fan/water cooling pump headers",
+                    "2 x addressable LED strip headers",
+                    "2 x RGB LED strip headers",
+                    "5 x M.2 Socket 3 connectors",
+                    "4 x SATA 6Gb/s connectors",
+                    "1 x front panel header",
+                    "1 x front panel audio header",
+                    "1 x USB Type-C header, with USB 3.2 Gen 2x2 support",
+                    "1 x USB 3.2 Gen 1 header",
+                    "2 x USB 2.0/1.1 headers",
+                    "1 x noise detection header",
+                    "2 x Thunderbolt add-in card connectors",
+                    "1 x serial port header",
+                    "1 x Q-Flash Plus button",
+                    "1 x reset button",
+                    "1 x reset jumper",
+                    "2 x temperature sensor headers",
+                    "1 x Clear CMOS jumper"
+                ],
+                "TPM (Trusted Platform Module)": "1 x Trusted Platform Module header (For the GC-TPM2.0 SPI/GC-TPM2.0 SPI 2.0 module only)"
+            },
+            "Others": {
+                "Special Features": [
+                    "Support for GIGABYTE Control Center (GCC)",
+                    "* Available applications in GCC may vary by motherboard model. Supported functions of each application may also vary depending on motherboard specifications.",
+                    "Support for Q-Flash",
+                    "Support for Q-Flash Plus",
+                    "Support for Smart Backup"
+                ]
+            },
+            "Bundled Software": [
+                "Norton Internet Security (OEM version)",
+                "LAN bandwidth management software"
+            ],
+            "Warranty Information": {
+                "Manufacturing Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "GIGABYTE Z790 AERO G ATX Motherboard",
+                "details": "The GIGABYTE Z790 AERO G ATX Motherboard comes with Intel Socket LGA 1700 that supports 13th and 12th Gen Series Processors. The motherboard comes with 4x SMD DIMMs with XMP 3.0 Memory Module Support. It offers support for DDR5 7600(O.C.) /7400(O.C.) /7200(O.C.) /7000(O.C.) /6800(O.C.) /6600(O.C.) / 6400(O.C.) / 6200(O.C.) / 6000(O.C.) / 5800(O.C.) / 5600(O.C.) / 5400(O.C.) / 5200(O.C.) / 4800 / 4000 memory modules. The sockets support up to 128 GB (32 GB single DIMM capacity) of system memory. It comes with a GIGABYTE VisionLINK port, and you can transfer data, video, and power charging via a single USB Type-C cable. The 14th Gen motherboard is equipped with the PCIe 5.0 x16 slot and M.2 socket designed to optimize multitasking and large workloads, which is also ready for a new PCIe 5.0 graphics card or storage device. It supports new PCIe 5.0 SSD with up to type 25110 M.2 slot designed to provide high power M.2 PCIe 5.0 SSD solutions. A total of five onboard M.2 slots are available for data-intensive tasks and creative work without additional configuration. The GIGABYTE Z790 AERO G is equipped with Intel 2.5Gb Ethernet provides an immediate boost to overall network performance, smooth video editing, and fast data transfers. Wi-Fi 6E brings the ability to conduct AR/VR experiences, get creative with fewer dropped connections, and download large files at faster speeds without lag. The advanced cooling solution also provides the perfect aesthetic heatsink design to keep your PC at an optimal temperature, preventing you from unexpected system crashes during the creative process. The GIGABYTE Z790 AERO G 14th Gen Motherboard comes with 3 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of GIGABYTE Z790 AERO G ATX Motherboard in Bangladesh?",
+            "details": "The latest price of GIGABYTE Z790 AERO G ATX Motherboard in Bangladesh is 45,500৳. You can buy the GIGABYTE Z790 AERO G ATX Motherboard at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Great motherboard, easy to install and works perfectly. I love the design!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "This motherboard is a beast! Handles all my tasks and games without any issues.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "The Wi-Fi connectivity is fast, and the audio quality is impressive. No complaints here!",
+                "user_rating": 4
+            }
+        ]
+    }
+]

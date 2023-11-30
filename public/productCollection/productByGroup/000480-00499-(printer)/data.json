@@ -1,0 +1,502 @@
+[
+    {
+        "category": "printer",
+        "product_name": "HP LaserJet Enterprise MFP M528dn Multifunctional Mono Laser Printer",
+        "price": 350000,
+        "regular_price": 363000,
+        "status": true,
+        "product_code": "00480",
+        "brand": "HP",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "LaserJet Enterprise MFP M528dn",
+            "Function": "Print, copy, scan and optional fax",
+            "Print Technology": "Laser",
+            "Supported Sizes": "Various supported sizes; Automatic Duplexer",
+            "Print speed": "Up to 45, Up to 52 ppm (HP High Speed)"
+        },
+        "specification": {
+            "General": {
+                "Functions": "Print, Scan, Copy, Fax",
+                "Printer Type": "Multifunctional",
+                "Output Color": "Color"
+            },
+            "Print": {
+                "Technology": "Laser",
+                "Print Speed": [
+                    "45 ppm (Black)",
+                    "34 ipm (Black Duplex)"
+                ],
+                "Print Resolution": "Black: 1200 x 1200 dpi",
+                "First Print Out Time": "6 Seconds (Black)",
+                "Duty Cycle up to (Yield)": [
+                    "Monthly Duty Cycle: 150,000 Pages",
+                    "7500 Pages (Recommended)"
+                ],
+                "Duplex": "Yes"
+            },
+            "Copy": {
+                "Copy Speed": "6.5 cpm (Black), 2 cpm (Color)",
+                "Copy Resolution": "600 x 600 dpi (Color)",
+                "Copy Color": "Color"
+            },
+            "Scan": {
+                "Scan Type": "Flatbed Scanner with Automatic Document Feeder (ADF)",
+                "Scan Resolution": "ADF/Flatbed 600 dpi (Optical)"
+            },
+            "Paper Information": {
+                "Paper Size": "Tray 1: letter, legal, executive, statement, 3 x 5 in, 4 x 6 in, 5 x 7 in, 5 x 8 in, 8.5 x 13 in, envelopes (No. 9, No. 10, Monarch); Tray 2: letter, legal, executive, statement, 5 x 7 in, 5 x 8 in, 8.5 x 13 in; Optional 550-sheet tray: letter, legal, executive, statement, 5 x 7 in, 5 x 8 in, 8.5 x 13 in; Optional Automatic Duplexer: letter, legal, 8.5 x 13 in",
+                "Paper Type": "Tray 1: A4, A5, A6, RA4, B5 (JIS), B6 (JIS), 10 x 15 cm, Oficio (216 x 340), 16K, postcards (JIS single and double), envelopes (B5, C5, C6, DL); Tray 2: A4, A5, A6, RA4, B5 (JIS), B6 (JIS), Oficio (216 x 340), 16K, postcards (JIS double); Optional 550-sheet Tray: A4, A5, A6, RA4, B5 (JIS), B6 (JIS), Oficio (216 x 340), 16K, postcards (JIS double); Optional Automatic Duplexer: A4, RA4, Oficio (216 x 340)",
+                "Paper Weight": [
+                    "Input Tray 1: 60 to 199 gsm / 16 to 54 lb",
+                    "Input Tray 2: 60 to 120 gsm / 16 to 32 lb"
+                ],
+                "Input Capacity": [
+                    "Input Tray 1: 100 x Sheet",
+                    "Input Tray 2: 550 x Sheet"
+                ],
+                "Output Capacity": "Output Tray: 250 x Sheet"
+            },
+            "Technical Specs": {
+                "Processor": "1.2 GHz",
+                "Memory": "1.25 GB",
+                "Display": [
+                    "Display Size: 8\"",
+                    "Display Type: Touchscreen"
+                ],
+                "Connectivity": "RJ45, USB-B",
+                "Power Consumption": [
+                    "629 W (Maximum)",
+                    "28.8 W (Ready)",
+                    "5.3 W (Sleep)",
+                    "0.74 W (Off)"
+                ]
+            },
+            "Physical Specs": {
+                "Dimension": "19 x 19.6 x 19.5\" / 48.2 x 49.7 x 49.6 cm",
+                "Weight": "47.18 lb / 21.4 kg"
+            },
+            "Support": {
+                "Toner/ Cartridge/ Refill": "HP 89A Black Original LaserJet Toner Cartridge (~5,000 pages) CF289A; HP89X High Yield Black Original LaserJet Toner Cartridge (~10,000 pages) CF289X; HP89Y Extra High Yield Black Original LaserJet Toner Cartridge (~20,000 pages) CF289Y",
+                "Software": "Windows 11; Windows 10; Windows 8; Windows 8.1; Windows 7; Windows Client OS; Android; iOS; Mobile OS; macOS 10.12 Sierra; macOS 10.13 High Sierra; macOS 10.14 Mojave"
+            },
+            "Warranty Information": {
+                "Warranty": "01 year warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "HP LaserJet Enterprise MFP M528dn Multifunctional Mono Laser Printer",
+                "details": "The HP M528DN Multifunctional LaserJet Enterprise Printer is a business-oriented laser printer with great performance. It provides efficient black printing with a 1200 x 1200 dpi resolution, delivering sharp and clear text. Its duplex printing function allows it to print on both sides of the page instantly, saving time and decreasing paper waste. The printer is suitable with a variety of printing environments since it supports languages such as HP PCL 5, HP PCL 6, HP Postscript Level 3 (Emulation), and Native PDF. It offers a rapid print speed of 45 ppm for black documents and a duplex print speed of 34 ipm. The printer offers a short first print time of 6 seconds for black prints, allowing you to print your papers right away. It can handle high-volume printing demands with a monthly duty cycle of 150,000 pages and a suggested monthly volume of 7,500 pages. The HP M528DN is ideal for office locations where space is limited, with dimensions of 19 x 19.6 x 19.5\" (W x H x D) and a weight of 47.18 lb. It combines high-quality printing, scanning, and copying capabilities with advanced functionality and reliability, making it an excellent choice for enterprises with high-volume printing requirements."
+            },
+            {
+                "title": "Efficient Printing with Duplex Capability",
+                "details": "The HP M528DN provides bright and sharp black printouts with a print resolution of 1200 x 1200 dpi. Its quick printing speed of 45 ppm (black) allows for quick document generation, increasing job productivity. The printer also offers duplex printing, which allows for automated double-sided printing while conserving paper and money."
+            },
+            {
+                "title": "Wide Format Support and Large Paper Capacity",
+                "details": "The HP M528DN has two input trays and one output tray for diverse media handling. It supports a broad range of media sizes, from 2.99 x 5\" to a maximum of 8.5 x 14.02\", and is capable of handling a wide range of document types. The printer has a large paper capacity, with 100 sheets in Input Tray 1, 550 pages in Input Tray 2, and up to 250 sheets in the output tray. It also accepts unique media, such as envelopes."
+            },
+            {
+                "title": "Flatbed Scanner with ADF and High Resolution",
+                "details": "The HP M528DN scans documents efficiently due to its integrated flatbed scanner and automated document feeding (ADF). The scanner has a maximum optical resolution of 600 dpi, which ensures precise and detailed scans. It supports color and grayscale scanning modes, as well as a wide range of file formats such as JPEG, Multi-Page TIFF, PDF, PDF/A, TIFF, and XPS. The copier feature provides for simple duplicating, with choices for up to 9999 copies, duplex copying, and a color document copy quality of 600 x 600 dpi."
+            },
+            {
+                "title": "Seamless Connectivity and User-Friendly Interface",
+                "details": "The HP M528DN provides seamless communication through RJ45 and USB-B connectors, making it simple to integrate into network infrastructures. It is compatible with a wide range of common operating systems, including Android, Windows, iOS, and macOS. The printer has an 8-inch touchscreen display with an easy-to-use interface for navigation and control."
+            },
+            {
+                "title": "Optimal Operating Conditions and Energy Efficiency",
+                "details": "The temperature range for the HP M528DN is 42 to 65°F, with a suggested humidity range of 30 to 70%. It draws 629 W at full load but has energy-saving capabilities that reduce power consumption during standby and sleep modes. During operation, the printer produces a maximum acoustic noise level of 6.8 BA and 54 dBA under pressure."
+            },
+            {
+                "title": "Buy HP M528DN Multifunctional LaserJet Enterprise Printer from Star Gadget",
+                "details": "In Bangladesh, you can get original HP M528DN Multifunctional LaserJet Enterprise Printer From Star Gadget. We have a large collection of latest HP Printer to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The HP M528DN Multifunctional LaserJet Enterprise Printer comes with 01 Year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of HP M528DN LaserJet Enterprise Printer in Bangladesh?",
+            "details": "The latest price of HP M528DN LaserJet Enterprise Printer in Bangladesh is 350,000৳. You can buy the HP M528DN LaserJet Enterprise Printer at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Excellent multifunctional printer for business use.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Fast and reliable. Great for high-volume printing.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "printer",
+        "product_name": "Epson EcoTank L15160 A3 Wi-Fi Duplex All-in-One Ink Tank Printer",
+        "price": 140000,
+        "regular_price": 150820,
+        "status": true,
+        "product_code": "00481",
+        "brand": "EPSON",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "EcoTank L15160",
+            "Functions": "Print, Scan, Copy, Fax",
+            "Print speed": "Up to 25.0 ipm(Black) / 12.0 ipm(Colour)",
+            "Page Yield": "7,500 for black and 6,000 pages",
+            "Connectivity": "USB, LAN, WiFi, Ethernet"
+        },
+        "specification": {
+            "General": {
+                "Functions": "Print, Scan, Copy, Fax with ADF",
+                "Printer Type": "Multi Function Color Ink Printer",
+                "Output Color": "Color"
+            },
+            "Print": {
+                "Technology": "PrecisionCore Heat-Free Technology",
+                "Resolution": "4,800 x 2,400 DPI",
+                "Duplex": "Automatic"
+            },
+            "Copy": {
+                "Copy Speed": [
+                    "ISO 29183, A4 Simplex Flatbed (Black / Colour):",
+                    "Up to 23.0 ipm / 23.0 ipm",
+                    "ISO 24735, A4 Simplex ADF (Black / Colour):",
+                    "Up to 22.5 ipm / 25.5 ipm",
+                    "ISO 24735, A4 Duplex ADF (Black / Colour):",
+                    "Up to 19 ipm / 19 ipm"
+                ],
+                "Copy Resolution": [
+                    "600 x 600 dpi",
+                    "A3 (Maximum)"
+                ]
+            },
+            "Scan": {
+                "Scan Type": [
+                    "Scanner Type: Flatbed color image scanner",
+                    "Sensor Type: CIS"
+                ],
+                "Scan Resolution": [
+                    "1200 x 2400 dpi",
+                    "Scanner Bit Depth (Colour): 48-bit input, 24-bit output",
+                    "Scanner Bit Depth (Grayscale): 16-bit input, 8-bit output",
+                    "Scanner Bit Depth (Black & White): 16-bit input, 1-bit output"
+                ],
+                "Maximum Scan Size": "297.18 x 431.8 mm (11.7 x 17\")",
+                "Duplex Scan": "Yes"
+            },
+            "Fax": {
+                "Transmission Speed (kbps)": "33.6 kbps",
+                "Max Resolution": "200 x 200 dpi"
+            },
+            "Paper Information": {
+                "Paper Size": [
+                    "A3+, A3, A4, A5, A6, B4, B5, Tabloid, Legal, Letter, Half Letter, 5x7\", 4x6\", 3.5x5\"",
+                    "Envelopes: #10, DL, C6, C4"
+                ],
+                "Input Capacity": [
+                    "Cassette 1: Up to 250 sheets, A4 Plain paper (80 g/m2), 50 sheets, Premium Glossy Photo Paper",
+                    "Rear Slot: 50 sheets for A4 Plain paper (80 g/m2), 20 sheets for",
+                    "Cassette 2: Up to 250 sheets, A4 Plain paper (80g/m2)"
+                ],
+                "Output Capacity": "Up to 125 sheets, A4 Plain Paper, 20 sheets, Premium Glossy Photo Paper",
+                "ADF": "Yes"
+            },
+            "Technical Specs": {
+                "Display": "4.3 Inch Colour LCD Touch Screen",
+                "Connectivity": [
+                    "USB, LAN, WiFi",
+                    "Ethernet, Wi-Fi IEEE 802.11b/g/n, Wi-Fi Direct"
+                ]
+            },
+            "Physical Specs": {
+                "Dimension": "515 x 500 x 350mm",
+                "Weight": "20.9kg"
+            },
+            "Support": {
+                "Toner/ Cartridge/ Refill": [
+                    "Maintenance Box: C12C934601",
+                    "Pigment Black Ink Bottle: C13T06G198",
+                    "Pigment Cyan Ink Bottle: C13T06G298",
+                    "Pigment Magenta Ink Bottle: C13T06G398",
+                    "Pigment Yellow Ink Bottle : C13T06G498"
+                ],
+                "Software": "Windows XP / Vista / 7 / 8 / 8.1 / 10, Windows Server 2003 / 2008 / 2012 / 2016 / 2019 Mac OS X 10.6.8 or later"
+            },
+            "Special Features": {
+                "Others": "Mobile Printing- Apple AirPrint, Mopria Print Service, Epson iPrint, Epson Email Print, Remote Print Driver, Scan to Cloud"
+            },
+            "Warranty Information": {
+                "Warranty": "01-year warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "Epson EcoTank L15160 A3 Wi-Fi Duplex All-in-One Ink Tank Printer",
+                "details": "The Epson EcoTank L15160 A3 Wi-Fi Duplex All-in-One Ink Tank Printer is the perfect choice for businesses requiring fast and high-volume A3 color printing. This printer is specifically designed to minimize costs associated with duplex printing and scanning, supporting up to A3 size documents. With the utilization of the latest pigment ink technology known as DURABrite ET INK, the printer produces sharp, clear, and long-lasting prints that are resistant to water damage. The compact design of the Epson EcoTank L15160 allows it to easily fit into any office space, taking up minimal room. Epson understands the importance of both quality and cost savings, which is why they pay close attention to even the smallest details when developing their products. Featuring a fast color print speed of up to 25.0 ipm (Simplex), this printer ensures efficient and time-saving printing processes. It can handle prints up to A3+ size for simplex printing, accommodating larger documents and projects. The automatic duplex printing feature enables the printer to print on both sides of the paper automatically, further reducing paper waste and saving valuable resources. With an ultra-high page yield of 7,500 pages for black ink and 6,000 pages for color ink, the Epson EcoTank L15160 ensures a longer period of uninterrupted printing before ink replacement is required. This contributes to improved productivity and reduced operating costs for businesses. The printer offers versatile connectivity options, including Wi-Fi, Wi-Fi Direct, and Ethernet, providing flexibility and convenience in setting up and accessing the printer from multiple devices. The Epson Connect feature allows users to print and scan remotely through various applications such as Epson iPrint, Epson Email Print, and Remote Print Driver. Additionally, the Scan to Cloud functionality enables easy and direct scanning of documents to cloud storage services. The Epson EcoTank L15160 A3 Wi-Fi Duplex All-in-One Ink Tank Printer is a reliable and efficient solution for businesses seeking high-quality A3 color printing. It combines fast printing speeds, duplex functionality, cost-effective ink usage, and versatile connectivity options to meet the demands of modern businesses while ensuring excellent print quality and reduced operating costs."
+            },
+            {
+                "title": "Buy Epson EcoTank L15160 A3 Wi-Fi Duplex All-in-One Ink Tank Printer from the best Epson Printer Shop in BD",
+                "details": "In Bangladesh, you can get original Epson EcoTank L15160 A3 Wi-Fi Duplex All-in-One Ink Tank Printer From Star Gadget. We have a large collection of latest Epson Printer to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The Epson EcoTank L15160 A3 Wi-Fi Duplex All-in-One Ink Tank Printer comes with a 1-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Epson EcoTank L15160 A3 All-in-One Ink Tank Printer in Bangladesh?",
+            "details": "The latest price of Epson EcoTank L15160 A3 All-in-One Ink Tank Printer in Bangladesh is 140,000৳. You can buy the Epson EcoTank L15160 A3 All-in-One Ink Tank Printer at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Excellent printer for high-volume A3 printing.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Fast and efficient duplex printing saves on paper costs.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "printer",
+        "product_name": "Canon imageRUNNER IR 2206 Monochrome A3 Laser Multifunctional Photocopier",
+        "price": 102000,
+        "regular_price": 109590,
+        "status": true,
+        "product_code": "00482",
+        "brand": "Canon",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "imageRUNNER 2206",
+            "Functions": "Print, Copy, Scan",
+            "Print Speed (A4)": "Up to 22ppm",
+            "Display": "3.5\" LCD Touchscreen Monitor",
+            "Features": "10,200 Pages with included Toner"
+        },
+        "specification": {
+            "General": {
+                "Functions": "Copy, Print, Scan",
+                "Printer Type": "Multifunction Mono Laser Photocopier",
+                "Output Color": "Black & White"
+            },
+            "Print": {
+                "Technology": "Monochrome Laser Beam Printing",
+                "Print Speed": [
+                    "22 ppm (A4)",
+                    "11 ppm (A3)",
+                    "11 ppm (A4R)",
+                    "13 ppm (A5R)"
+                ],
+                "Print Resolution": "600 dpi x 600 dpi",
+                "Warm-Up Time": "Warm-up Time (From Power On): 14 secs or less",
+                "First Print Out Time": [
+                    "From Power On: 13 Seconds or Less",
+                    "From Sleep Mode: 4.3 Seconds"
+                ],
+                "Duplex": "Manual"
+            },
+            "Copy": {
+                "Copy Speed": [
+                    "22 ppm (A4)",
+                    "11 ppm (A3)",
+                    "11 ppm (A4R)",
+                    "13 ppm (A5R)"
+                ],
+                "Copy Resolution": "600 x 600 dpi"
+            },
+            "Scan": {
+                "Scan Type": "Standard Flatbed (Platen)",
+                "Scan Resolution": [
+                    "BW Scan: 600 x 600 dpi",
+                    "CL Scan: 300 x 600 dpi"
+                ],
+                "Maximum Scan Size": "297 x 431.8 mm"
+            },
+            "Paper Information": {
+                "Paper Size": [
+                    "Multi-purpose tray:",
+                    "Standard size: A3, B4, A4, A4R, B5, B5R, A5, A5R, Envelope [No.10 (COM10), Monarch, DL, ISO-C5]",
+                    "Custom size: 95 mm x 148 mm to 297 mm x 431.8 mm",
+                    "Upper Cassette 1:",
+                    "Standard size: A3, B4, A4, A4R, B5, B5R, A5R"
+                ],
+                "Paper Type": [
+                    "Multi-purpose tray:",
+                    "Plain, Recycled, Thick, Colour, Transparency, Label, Envelope, Bond, Pre-punched",
+                    "Cassette 1:",
+                    "Plain, Recycled, Colour, Pre-punched"
+                ],
+                "Paper Weight": [
+                    "Multi-purpose tray: 64 to 128 gsm",
+                    "Upper Cassette 1: 64 to 90 gsm"
+                ],
+                "Input Capacity": [
+                    "Paper-Supply-Capacity (A4, 80gsm)",
+                    "Standard: 330 sheets",
+                    "Paper Cassette: 250-sheet",
+                    "Multi-purpose tray: 80-sheet",
+                    "Maximum: 330 sheets"
+                ],
+                "Output Capacity": "Paper-Output-Capacity (A4, 80gsm): 250 sheets"
+            },
+            "Technical Specs": {
+                "Processor": "Canon Dual Custom Processor/400 MHZ",
+                "Memory": "256MB (RAM)",
+                "Display": "3.5-inch LCD touchscreen display",
+                "Power Consumption": [
+                    "220-240 V (±10 %), 50/60 Hz (±2 Hz), 2.7 Amp",
+                    "Maximum: Approx. 1.5 kW",
+                    "Printing: 435 W",
+                    "Standby: 10.1 W",
+                    "Sleep Mode: Approx. 2.0 W",
+                    "Plugin Off: Approx. 0.1W",
+                    "Typical Electricity Consumption (TEC) rating: 0.8 kWh"
+                ]
+            },
+            "Physical Specs": {
+                "Color": "White",
+                "Dimension": "622 mm x 589 mm x 499 mm (standard configuration)",
+                "Weight": "Approx. 28.7 kg (standard configuration, toner included)"
+            },
+            "Support": {
+                "Toner/ Cartridge/ Refill": "Canon NPG-59 Black Toner Cartridge",
+                "Software": [
+                    "Windows 10/8.1/7, Windows Server 2008/2008 R2/2012/2012 R2/ 2016,",
+                    "Mac OS X 10.9.5 or later"
+                ]
+            },
+            "Special Features": {
+                "Others": "Scan Functions- MF Scan Utility, an application compatible with TWAIN/WIA"
+            },
+            "Warranty Information": {
+                "Warranty": "01 year Service Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "Canon imageRUNNER IR 2206 Monochrome A3 Laser Multifunctional Photocopier",
+                "details": "Packed with time saving features, the imageRUNNER 2206 speeds up everyday document handling, offering print, scan and copy in a single compact device. Its durable design makes it ideal for busy, cost-conscious small offices or workgroups. Out-of-the-box solution enables setup in minutes with the built-in setup guide. Reliable and productive document handling device, designed to speed up any office tasks. Small footprint as either desktop or standalone device, ideal for busy, space-limited offices."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Canon imageRunner 2206 Laser Printer in Bangladesh?",
+            "details": "The latest price of Canon imageRunner 2206 Laser Printer in Bangladesh is 102,000৳. You can buy the Canon imageRunner 2206 Laser Printer at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Excellent multifunctional photocopier for small offices.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Fast and reliable performance. A great addition to our office.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "printer",
+        "product_name": "HP Color LaserJet Pro MFP M479fdw Multifunction Color Laser Printer",
+        "price": 102000,
+        "regular_price": 108500,
+        "status": true,
+        "product_code": "00483",
+        "brand": "HP",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "W1A80A",
+            "Model": "LaserJet Pro MFP M479fdw",
+            "Print Speed": "27 ppm (black)",
+            "Resolution": "4800x1200 dpi (black)",
+            "Connectivity": "USB 2.0"
+        },
+        "specification": {
+            "General": {
+                "Functions": "Print, Scan, Copy, Fax",
+                "Printer Type": "Multi function Color Laser Printer",
+                "Output Color": "Color"
+            },
+            "Print": {
+                "Technology": "Laser",
+                "Print Speed": "Black/color: Up to 27 ppm",
+                "Print Resolution": [
+                    "black: 600 x 600 dpi, Up to 38,400 x 600 enhanced dpi",
+                    "color: 600 x 600 dpi, Up to 38,400 x 600 enhanced dpi"
+                ],
+                "Warm-Up Time": "5.5 ppm (Color)",
+                "First Print Out Time": "9.7sec (B), 11.3sec (C)",
+                "Duty Cycle up to (Yield)": "50000 Pages",
+                "Duplex": "Yes"
+            },
+            "Copy": {
+                "Copy Speed": "27cpm (B & C)",
+                "Copy Resolution": "600 x 600dpi"
+            },
+            "Scan": {
+                "Scan Type": [
+                    "Laser",
+                    "29ppm (B), 20ppm (C)"
+                ],
+                "Scan Resolution": "1200 x 1200dpi",
+                "Maximum Scan Size": "A4"
+            },
+            "Fax": {
+                "Transmission Speed (kbps)": "33.6Kbps",
+                "Max Resolution": "300 x 300dpi"
+            },
+            "Paper Information": {
+                "Paper Size": "A4, A5, A6, B5 (JIS), B6 (JIS), 16K (195 x 270 mm, 184 x 260 mm, 197 x 273 mm), 10 x 15 cm, Oficio (216 x 340 mm), postcards (JIS single, JIS double), envelopes (DL, C5, B5)",
+                "Paper Type": "Paper (bond, brochure, colored, glossy, letterhead, photo, plain, preprinted, pre punched, recycled, rough), postcards, labels, envelopes",
+                "Input Capacity": "300Sheets (50-sheet multipurpose tray, 250-sheet input tray)",
+                "Output Capacity": "150Sheets",
+                "ADF": "Yes, 50 sheets"
+            },
+            "Technical Specs": {
+                "Processor": "1200MHz",
+                "Memory": "512MB",
+                "Display": "4.3 Inch intuitive touchscreen Color Graphic Display (CGD)",
+                "Connectivity": "USB, LAN, WiFi",
+                "Power Consumption": [
+                    "110-volt input voltage: 110 to 127 VAC (+/- 10%), 60 Hz (+/- 3 Hz)",
+                    "220-volt input voltage: 220 to 240 VAC (+/- 10%), 50/60 Hz (+/- 3 Hz)"
+                ]
+            },
+            "Physical Specs": {
+                "Color": "White",
+                "Dimension": "416 x 400 x 472mm",
+                "Weight": "23.4Kg"
+            },
+            "Support": {
+                "Toner/ Cartridge/ Refill": "HP 414A/415A/416A Black (2,400 Pages), HP 414A/415A/416A Cyan, Magenta, Yellow, (2,100 Pages), HP 414x/415x/416x Black (7,500 Pages), HP 414x/415x/416x Cyan, Magenta ,Yellow, (6,000 Pages) (Please make sure your existing & mentioned toner/cartridge model are same before buying new one)",
+                "Software": "Windows 7, 8, 8.1, 10, Server 2008 R2, 2012, 2012 R2, 2016, Mobile OS, iOS, Android, Mac, Apple macOS Sierra v10.12, Apple macOS High Sierra v10.13, Apple macOS Mojave v10.14"
+            },
+            "Warranty Information": {
+                "Warranty": "1 Year Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "HP Color LaserJet Pro MFP M479fdw Multifunction Color Laser Printer",
+                "details": "Winning in business means working smarter. The HP Color LaserJet Pro MFP M479 is designed to let you focus your time where it's most effective-growing your business and staying ahead of the competition. HP Office Laser Multifunction Printers are designed for SMBs and small workteams in larger companies, delivering enhanced productivity, simplified workflows and reduced costs. Dynamic security enabled printer. Only intended to be used with cartridges using an HP original chip. Cartridges using a non-HP chip may not work, and those that work today may not work in the future. Scan files directly to Microsoft SharePoint, email, USB, and network folders. Help save time by automating all the steps in a complicated workflow and apply saved settings. Print effortlessly from any device, virtually anywhere, to any HP printer securely through the cloud. A suite of embedded security features help protect your MFP from being an entry point for attacks. Help ensure security of confidential information with optional PIN/Pull printing to retrieve print jobs. Optional HP JetAdvantage Security Manager lets you set configurationThwart potential attacks and take immediate action with instant notification of security issues. Set up this MFP fast, and easily manage device settings to help increase overall printing efficiency.Tackle tasks quickly and easily with the simple 4.3\" (10.9cm) color touchscreen.Print Microsoft office formatted files in addition to PDFs right off your USB drive. Avoid interruptions with an HP LaserJet MFP designed to be streamlined for maximum productivity. Avoid frustrating reprints, wasted supplies, and service calls using Original HP toner cartridges.Help save paper right out of the box. The duplex print setting is set at default paper savings mode. Saves up to 18% energy over prior products. Help save energy with HP Auto-on/Auto-off technology."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of HP Color LaserJet Pro MFP M479fdw Laser Printer in Bangladesh?",
+            "details": "The latest price of HP Color LaserJet Pro MFP M479fdw Laser Printer in Bangladesh is 102,000৳. You can buy the HP Color LaserJet Pro MFP M479fdw Laser Printer at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Excellent multifunctional color laser printer for the office.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Fast and reliable performance. Easy to use.",
+                "user_rating": 5
+            }
+        ]
+    }
+]

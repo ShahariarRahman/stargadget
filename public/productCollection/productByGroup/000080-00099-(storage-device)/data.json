@@ -1,0 +1,827 @@
+[
+    {
+        "category": "storage-device",
+        "product_name": "Samsung 870 EVO 2TB 2.5 Inch SATA III Internal SSD",
+        "price": 16299,
+        "regular_price": 18790,
+        "status": true,
+        "product_code": "00080",
+        "brand": "Samsung",
+        "image_url": "https://i.ibb.co/p0sJb1Z/Samsung-870-EVO-2-TB-2-5-Inch-SATA-III-Internal-SSD.jpg",
+        "rating": 4.7,
+        "features": {
+            "MPN": "MZ-77E2T0",
+            "Model": "870 EVO",
+            "Speed": "Up to 560MB/s read & 530MB/s write",
+            "MTBF": "1.5 Million Hours Reliability (MTBF)",
+            "Form Factor": "2.5 inch",
+            "Interface": "SATA 6 Gb/s"
+        },
+        "specification": {
+            "Key Features": {
+                "Capacity": "2TB",
+                "Form Factor": "2.5 inch",
+                "Interface": "SATA 6 Gb/s Interface, compatible with SATA 3 Gb/s & SATA 1.5 Gb/s interface",
+                "Sequential R/W": [
+                    "Up to 560 MB/s Sequential Read (Performance may vary based on system)",
+                    "Up to 530 MB/s Sequential Write (Performance may vary based on system)"
+                ],
+                "MTBF": "1.5 Million Hours Reliability (MTBF)"
+            },
+            "Physical Specification": {
+                "Dimension": "100 X 69.85 X 6.8 (mm)",
+                "Weight": "Approx. 46.0g"
+            },
+            "Temperature": {
+                "Operating Temperature": "0 - 70 ℃ Operating Temperature",
+                "Shock resistance": "1,500 G & 0.5 ms (Half sine)"
+            },
+            "Warranty": {
+                "Manufacturing Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Samsung 870 EVO 2TB 2.5 Inch SATA III Internal SSD",
+                "details": "The latest 870 EVO inherits the legacy of Samsung pioneering SSD technology, that boasting upgraded performance, reliability, and compatibility to suit the needs of anyone from contents creators, IT professionals. Samsung 870 EVO Internal SSD comes with Highly reliable and sustainable performance. This SSD features Up to 560 MB/s sequential read and 530 MB/s write, Up to 2,400 TBW guaranteed endurance."
+            },
+            {
+                "title": "Excellence in performance",
+                "details": "The Samsung 870 EVO achieves the maximum SATA interface limit of 560/530 MB/s sequential speeds. you can now enjoy professional-level SSD performance. Intelligent Turbo Write accelerates write speeds and maintains long-term high performance with a larger variable buffer."
+            },
+            {
+                "title": "Industry-defining reliability",
+                "details": "This SSD Provides up to 2,400 TBW under a 3 years limited warranty and also meets the industry leading standards of reliability. It withstands tasks from everyday computing to 8K video processing and comes equipped with the latest 6th Gen. V-NAND and MKX controller that ensures a stable host experience."
+            },
+            {
+                "title": "More Compatible than ever",
+                "details": "The new 870 EVO SSD passed compatibility tests with major host systems and applications, including chipset, motherboards, NAS, and video recording devices. The EVO series, the 870 EVO proven versatility is compatible with the systems and tasks of any user. The Samsung 870 EVO 2TB comes with 3 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Samsung 870 EVO 2TB 2.5\" SATA III Internal SSD in Bangladesh?",
+            "details": "The latest price of Samsung 870 EVO 2TB 2.5\" SATA III Internal SSD in Bangladesh is 16,299৳. You can buy the Samsung 870 EVO 2TB 2.5\" SATA III Internal SSD at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "storageenthusiast@example.com",
+                "review_comment": "Blazing fast SSD with ample storage. My PC boots up in seconds!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user456@example.com",
+                "review_comment": "Reliable and affordable SSD, but it could be a bit faster for the price.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "storage-device",
+        "product_name": "Transcend 225S 2TB 2.5 Inch SATA III SSD",
+        "price": 15000,
+        "regular_price": 16500,
+        "status": true,
+        "product_code": "00081",
+        "brand": "Transcend",
+        "image_url": "https://i.ibb.co/ccKQq3Y/Transcend-225-S-2-TB-2-5-Inch-SATA-III-SSD.jpg",
+        "rating": 4.6,
+        "features": {
+            "MPN": "TS2TSSD225S",
+            "Model": "225S",
+            "Capacity": "2TB",
+            "Interface": "SATA III 6Gb/s",
+            "Flash Type": "top-notch 3D NAND flash",
+            "Sequential Read/Write": "up to 560/500 MB/s"
+        },
+        "specification": {
+            "Key Features": {
+                "Capacity": "2TB",
+                "Form Factor": "2.5 inch",
+                "Flash Type": "3D NAND",
+                "Interface": "SATA III 6Gb/s",
+                "Sequential R/W": [
+                    "Read: 560 MB/s",
+                    "Write: 500 MB/s"
+                ],
+                "MTBF": "2,000,000 hour(s)"
+            },
+            "Physical Specification": {
+                "Dimension": "100 mm x 69.85 mm x 6.8 mm",
+                "Weight": "45 g"
+            },
+            "Temperature": {
+                "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)"
+            },
+            "Warranty": {
+                "Manufacturing Warranty": "03 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Transcend 225S 2TB 2.5 Inch SATA III SSD",
+                "details": "The Transcend 225S 2TB 2.5 Inch SATA III SSD is extremely durable and stable, with fast transfer speeds, making it excellent for upgrading your laptop or desktop! With up to 2TB of storage space and firmware optimization, you may save a lot of data. It is intended for use with both desktop and laptop computers. With a single simple installation, you may experience faster program processing speeds, significantly improving PC performance. With a storage capacity of 2TB, you may keep a large number of images, audio files, and other media assets. Taking full use of the SATA III 6Gb/s interface and high-quality 3D NAND to flash, the Transcend 2TB SSD225S SATA Solid State Drive boosts its performance using SLC caching technology, giving up to 560MB/s read and 500MB/s write. The Transcend 225S 2TB 2.5 Inch SATA III SSD comes with a 03-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Transcend 225S 2TB SATA III SSD in Bangladesh?",
+            "details": "The latest price of Transcend 225S 2TB SATA III SSD in Bangladesh is 15,000৳. You can buy the Transcend 225S 2TB SATA III SSD at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "pcuser222@example.com",
+                "review_comment": "Great value for the storage capacity. It's not the fastest, but it gets the job done.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "techreviewer@example.com",
+                "review_comment": "Decent SSD for the price, but there are faster options out there.",
+                "user_rating": 3
+            }
+        ]
+    },
+    {
+        "category": "storage-device",
+        "product_name": "Seagate Firecuda 120 1TB 2.5\" SATA Gaming SSD",
+        "price": 15700,
+        "regular_price": 17040,
+        "status": true,
+        "product_code": "00082",
+        "brand": "Seagate",
+        "image_url": "https://i.ibb.co/gZhhrB1/Seagate-Firecuda-120-1-TB-2-5inch-SATA-Gaming-SSD.jpg",
+        "rating": 4.7,
+        "features": {
+            "MPN": "ZA1000GM1A001",
+            "Model": "Firecuda 120",
+            "NAND Flash Memory Type": "3D triple-level cell (TLC)",
+            "TRIM": "Halogen Free, TRIM support, S.M.A.R.T.",
+            "Form Factor": "2.5",
+            "Interface": "SATA 6Gb/s",
+            "Data Transfer Rate": "600 MBps"
+        },
+        "specification": {
+            "Key Features": {
+                "Capacity": "1TB",
+                "Form Factor": "2.5\" (7 mm)",
+                "Flash Type": "3D triple-level cell (TLC)",
+                "Interface": "SATA 6Gb/s",
+                "Sequential R/W": [
+                    "Sequential Read: 560 MB/s",
+                    "Sequential Write: 540 MB/s"
+                ],
+                "MTBF": "1.8 Million Hours"
+            },
+            "Physical Specification": {
+                "Dimension": "7 x 70.10 x 100.35 mm",
+                "Weight": "50 g"
+            },
+            "Temperature": {
+                "Operating Temperature": "0°C - 70°C"
+            },
+            "Warranty": {
+                "Manufacturing Warranty": "05 years warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Seagate Firecuda 120 1TB 2.5\" SATA Gaming SSD",
+                "details": "Seagate Firecuda 120 Gaming SSD comes with SATA 6 Gb/s Interface, 2.5\" Form Factor (7mm), 560 MB/s (Read) & 540 MB/s (Write) Speed for more responsive downloads, installs, and multitasking, get maximum, top-level SSD speed with SATA III 6Gb/s. Seagate Firecuda 120 SATA SSD speeds that are up to 30x faster than hard drives and long-term high endurance of 0.7 DWPD. Game confidently with the durability of up to 1400TB total bytes written (TBW). You can enjoy the long-term high endurance of 0.7 DWPD. And also get Game confidently with the durability of up to 5600TB Total Bytes Written (TBW). This Gaming SSD comes with With a robust 1.8 million hours MTBF (Mean Time Between Failures). The new Seagate Firecuda 120 500GB SATA III 2.5 Inch Internal Gaming SSD has 05 years warranty. The new Seagate Firecuda 120 SSD offers 05 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Seagate Firecuda 120 1TB 2.5\" SATA Gaming SSD in Bangladesh?",
+            "details": "The latest price of Seagate Firecuda 120 1TB 2.5\" SATA Gaming SSD in Bangladesh is 15,700৳. You can buy the Seagate Firecuda 120 1TB 2.5\" SATA Gaming SSD at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamingenthusiast@example.com",
+                "review_comment": "The Seagate FireCuda 120 is a game-changer for load times. My games load faster than ever, and the 1TB capacity is perfect for my gaming library. Highly recommended for gamers!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "productivitypro@example.com",
+                "review_comment": "I use this SSD for both gaming and work, and it's been outstanding in both scenarios. The speed and reliability are top-notch, and the 2.5\" form factor is convenient for various setups.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "casualgamer@example.com",
+                "review_comment": "Upgraded to the FireCuda 120, and I couldn't be happier. Games and applications load quickly, and the 1TB capacity is perfect for my needs. It's a fantastic all-around SSD.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "techsavvy@example.com",
+                "review_comment": "The Seagate FireCuda 120 is a reliable and speedy SSD. It's perfect for gaming, and the 2.5\" form factor makes it versatile for different systems. I've had a great experience with it so far.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "storage-device",
+        "product_name": "Seagate IronWolf 125 1TB 2.5-inch SATA III SSD",
+        "price": 22000,
+        "regular_price": 24200,
+        "status": true,
+        "product_code": "0083",
+        "brand": "Seagate",
+        "image_url": "https://i.ibb.co/gZhhrB1/Seagate-Firecuda-120-1-TB-2-5inch-SATA-Gaming-SSD.jpg",
+        "rating": 4.5,
+        "features": {
+            "MPN": "ZA1000NM1A002",
+            "Model": "IronWolf 125",
+            "Capacity": "1TB",
+            "Interface": "SATA III, 6.0 GB/s",
+            "Form Factor": "2.5 inch",
+            "Sequential R/W": "560MB/s / 540MB/s"
+        },
+        "specification": {
+            "Key Features": {
+                "Capacity": "1TB",
+                "Form Factor": "2.5 Inch",
+                "Flash Type": "Tri-Level Cell (TLC)",
+                "Interface": "SATA III 6Gb/s",
+                "Sequential R/W": [
+                    "Read Speed",
+                    "Random: 95,000 IOPS 4 kB Files",
+                    "Sequential: 560 MB/s 128 kB Files",
+                    "Write Speed",
+                    "Random: 90,000 IOPS 4 kB Files",
+                    "Sequential: 540 MB/s 128 kB Files"
+                ],
+                "MTBF": "1.8 Million Hours"
+            },
+            "Physical Specification": {
+                "Dimension": "3.94 x 2.76 x 0.28 inches / 10 x 7 x 0.7 cm",
+                "Weight": "50g"
+            },
+            "Temperature": {
+                "Operating Temperature": "32 to 158°F / 0 to 70°C",
+                "Storage Temperature": "-40 to 185°F / -40 to 85°C",
+                "Shock resistance": "1500g/0.5ms"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "5-Year Warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Seagate IronWolf 125 1TB 2.5-inch SATA III SSD",
+                "details": "The Seagate IronWolf 125 1TB 2.5-inch SATA III SSD is designed for demanding workloads and multi-user NAS settings, and it provides powerhouse performance with 24/7, always-on capabilities. This 1TB SSD is compatible with Windows 10, 8.1, and Unix and features a SATA III 6 Gb/s interface, a 2.5-inch / 7mm form factor, sustained sequential read rates of up to 560 MB/s, and sustained sequential write speeds of up to 540 MB/s. It's IronWolf 125 SSD also boasts an MTBF rating of 1.8 million hours, 1 in 10^17 non-recoverable read errors per bit read, a Total Bytes Written (TBW) capacity of up to 700TB, and 3D TLC NAND flash memory."
+            },
+            {
+                "title": "High Endurance",
+                "details": "The Seagate IronWolf 125 1TB 2.5-inch SATA III SSD durability and performance are suited for severe workloads and multi-user NAS systems."
+            },
+            {
+                "title": "IronWolf Health Management",
+                "details": "The Seagate IronWolf 125 1TB 2.5-inch SATA III SSD Built-in data protection monitors your drive health in a compatible NAS, notifying you to intervene before a catastrophic event occurs."
+            },
+            {
+                "title": "Data Recovery",
+                "details": "This Seagate IronWolf 125 1TB 2.5-inch SATA III SSD comes with three years of Seagate Rescue Data Recovery Services, which protects against unexpected data loss caused by power outages, natural disasters, human mistakes, viruses, and other factors."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Seagate IronWolf 125 1TB 2.5-inch SATA III SSD in Bangladesh?",
+            "details": "The latest price of Seagate IronWolf 125 1TB 2.5-inch SATA III SSD in Bangladesh is 22,000৳. You can buy the Seagate IronWolf 125 1TB 2.5-inch SATA III SSD at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "techgeek@example.com",
+                "review_comment": "Blazing fast SSD! Perfect for my NAS setup.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "storageguru@example.com",
+                "review_comment": "Reliable and efficient. It's a great addition to any NAS system.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "storage-device",
+        "product_name": "Samsung 870 QVO 4TB 2.5\" SATA III SSD",
+        "price": 31899,
+        "regular_price": 34610,
+        "status": true,
+        "product_code": "00084",
+        "brand": "Samsung",
+        "image_url": "https://example.com/samsung-870-qvo-4tb-ssd.jpg",
+        "rating": 4.6,
+        "features": {
+            "MPN": "MZ-77Q4TB",
+            "Model": "870 QVO",
+            "Read/Write speeds": "Up to 560/530 MB/s",
+            "Interface": "SATA 6 Gb/s",
+            "Form Factor": "2.5 inch",
+            "Capacity": "4TB",
+            "Reliability (MTBF)": "1.5 Million Hours"
+        },
+        "specification": {
+            "Key Features": {
+                "Capacity": "4TB",
+                "Form Factor": "2.5-inch SATA",
+                "Interface": "SATA 6 Gbps, compatible with SATA 3 Gbps & 1.5 Gbps interfaces",
+                "Sequential R/W": [
+                    "Sequential Read Speed: Up to 560 MB/s Sequential Read",
+                    "Sequential Write Speed: Up to 530 MB/s Sequential Write"
+                ],
+                "MTBF": "1.5 Million Hours Reliability (MTBF)"
+            },
+            "Physical Specification": {
+                "Dimension": "3.94\" X 2.76\" X 0.27\"",
+                "Weight": "0.19 lbs."
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "03 years warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Samsung 870 QVO 4TB 2.5\" SATA III SSD",
+                "details": "The Samsung 870 QVO comes with a 4TB Capacity. This SSD features an expanded SATA interface limit of 560/530 MB/s sequential speeds, the 870 QVO improves random access speed and sustained performance. Intelligent TurboWrite accelerates write speeds and maintains long-term high performance with a larger variable buffer. The Samsung 870 QVO 4TB SSD increases reliability up to 360 TBW (terabytes written) using a refined ECC (error-correcting code) algorithm for stable performance. Upgrading to 870 QVO is now easier than ever for anyone with a desktop PC or laptop that supports a standard 2.5-inch SATA form factor. Simply plug in the 870 QVO into a SATA slot and let the updated migration software take care of the rest. This SSD comes with SATA 6 Gbps Interface, compatible with SATA 3 Gbps & 1.5 Gbps interfaces. It supports Trim, S.M.A.R.T., GC (Garbage Collection), WWN Support, etc. This SSD is compatible with Windows10/ Windows 8/ Windows 7/ Windows Server 2003 (32 bit and 64 bit), Vista (SP1 and above), XP (SP2 and above), MAC OSX, and Linux operating system. The new Samsung 870 QVO SSD has 03 years of warranty."
+            },
+            {
+                "title": "Buy Samsung 870 QVO 4TB 2.5\" SATA III SSD in Bangladesh",
+                "details": "In Bangladesh, you can get the original Samsung 870 QVO 4TB 2.5\" SATA III SSD from Star Gadget. We have a large collection of the latest Samsung SSDs to purchase for your desktop or laptop. Order online or visit your nearest Star Gadget showroom to get yours at the lowest price."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Samsung 870 QVO 4TB 2.5\" SATA III SSD in Bangladesh?",
+            "details": "The latest price of Samsung 870 QVO 4TB 2.5\" SATA III SSD in Bangladesh is 31,899৳. You can buy the Samsung 870 QVO 4TB 2.5\" SATA III SSD at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "techguru@example.com",
+                "review_comment": "Fast and reliable SSD. Perfect for storing a large amount of data.",
+                "user_rating": 4.8
+            },
+            {
+                "user_email": "pcenthusiast@example.com",
+                "review_comment": "Great performance, and the 4TB capacity is fantastic for my storage needs.",
+                "user_rating": 4.9
+            }
+        ]
+    },
+    {
+        "category": "storage-device",
+        "product_name": "Transcend SSD220Q 2TB 2.5'' SATA SSD",
+        "price": 13500,
+        "regular_price": 14850,
+        "status": true,
+        "product_code": "00085",
+        "brand": "Transcend",
+        "image_url": "https://example.com/image.jpg",
+        "rating": 4.6,
+        "features": {
+            "MPN": "TS2TSSD220Q",
+            "Model": "SSD220Q",
+            "Flash Type": "QLC NAND flash",
+            "Quality": "Guaranteed Endurance and Reliability",
+            "Form Factor": "2.5 inches",
+            "Interfaces": "SATA III 6 Gb/s"
+        },
+        "specification": {
+            "Key Features": {
+                "Capacity": "2TB",
+                "Form Factor": "2.5 inches",
+                "Flash Type": "QLC NAND flash",
+                "Interface": "SATA III 6 Gb/s",
+                "Sequential R/W": "up to 550/500 MB/s",
+                "MTBF": "2,000,000 hours",
+                "Others": [
+                    "Microsoft Windows 7 or later",
+                    "Linux Kernel 2.6.31 or later"
+                ]
+            },
+            "Physical Specification": {
+                "Dimension": "100 mm x 69.85 mm x 6.8 mm (3.94\" x 2.75\" x 0.28\"",
+                "Weight": "45 g (1.59 oz)"
+            },
+            "Temperature": {
+                "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+                "Shock resistance": "Yes"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Transcend SSD220Q 2TB 2.5'' SATA SSD",
+                "details": "Transcend SSD220Q 2TB 2.5'' SATA SSD comes with the latest QLC NAND technology. The SSD220Q delivers greater performance and reliability. This new Transcend SSD220Q SSD Featuring with QLC NAND Flash, density per cell boosts 33%. More storage capacity is unleashed for more data. This 2TB SSD is taking full advantage of the SATA III 6 Gb/s interface and built-in SLC caching technology, The Transcend's SSD220Q achieves exceptional transfer speeds of up to 550 MB/s read and 500 MB/s write. This SSD also offers great terabytes written (TBW) values (up to 400 TBW) indicating the total amount of data. Here, RAID engine and LDPC coding detects and corrects transfer errors to prevent data corruption, Relocates existing data to release memory blocks. By Wear-leveling you can Distributes data evenly across memory cells to prolong SSD's lifespan. It's Intelligently shuts down SATA interface when not in use to prolong device's battery life. This new Solid-state drives dominate the market for PC upgrades because they are faster and lighter than traditional hard disk drives. SSDs also consume less power, create less noise when in operation, and are more shock-resistant than hard drives. the latest gaming consoles in just three easy steps. It is a perfect choice for upgrading desktops, laptops. This new Transcend SSD220Q comes with 03 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Transcend SSD220Q 2TB 2.5'' SATA SSD in Bangladesh?",
+            "details": "The latest price of Transcend SSD220Q 2TB 2.5'' SATA SSD in Bangladesh is 13,500৳. You can buy the Transcend SSD220Q 2TB 2.5'' SATA SSD at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "pcuser1@example.com",
+                "review_comment": "Excellent SSD, fast and reliable. Highly recommended!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "gamer123@example.com",
+                "review_comment": "Great storage capacity. It has improved my system's performance.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "storage-device",
+        "product_name": "ZADAK TWSS3 1TB SATA3 2.5\" SSD",
+        "price": 9700,
+        "regular_price": 9700,
+        "status": true,
+        "product_code": "00086",
+        "brand": "ZADAK",
+        "image_url": "https://example.com/zadak-twss3-1tb-ssd.jpg",
+        "rating": 4.7,
+        "features": {
+            "MPN": "ZS1TBTWSS3-1",
+            "Model": "TWSS3",
+            "Read/write speed": "Up to 560/540 MB/s",
+            "Flash Type": "3D TLC",
+            "Interface": "SATA III 6Gb/s",
+            "Capacity": "1TB"
+        },
+        "specification": {
+            "Key Features": {
+                "Capacity": "1TB",
+                "Form Factor": "2.5\"",
+                "Flash Type": "3D TLC",
+                "Interface": "SATA III 6Gb/s",
+                "Sequential R/W": "Up to 560/540 MB/s",
+                "MTBF": "1,500,000 hours"
+            },
+            "Physical Specification": {
+                "Dimension": "100mm x 69.9mm x 7mm"
+            },
+            "Temperature": {
+                "Operating Temperature": "0°C ~ +70°C",
+                "Storage Temperature": "-40 ~ +85°C",
+                "Shock resistance": "1500G/0.5msec"
+            },
+            "Warranty": {
+                "Manufacturing Warranty": [
+                    "600 TBW/5-Year Limited Warranty",
+                    "(The SSD is based on the TBW or Warranty Period)"
+                ]
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ZADAK TWSS3 1TB SATA3 2.5\" SSD",
+                "details": "The ZADAK TWSS3 1TB SATA3 2.5\" SSD is a high-speed SSD that comes with the SATA III 6Gbps interface. It can reach the sequential read and write speed of up to 560/540 MB/s. 3D NAND technology not only for higher capacities but also to help reduce cell-to-cell interference for enhanced reliability. It effectively eliminates Power Consumption Optimized Durability and Performance at High Stability, High Capacity with Enhanced Reliability making It a primal Choice for PC Upgrade. It operates with low power, 95% less than conventional computer hard drives. It comes with Optimized Durability and Performance at High Stability. Advanced Wear Leveling, ECC, and supports TRIM command to extend the lifespan with stability and maintain the performance highly efficient even after long-term usage. It can withstand critical vibration criteria at 15G, and shock at 1500G. There’s no need to worry about hard drive failure and data corruption even on the go. The ZADAK TWSS3 offers 5-Year Limited Warranty."
+            },
+            {
+                "title": "Buy ZADAK TWSS3 1TB SATA3 2.5\" SSD Shop in BD",
+                "details": "In Bangladesh, you can get the original ZADAK TWSS3 1TB SATA3 2.5\" SSD From Star Gadget. We have a large collection of the latest ZADAK SSDs to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The ZADAK TWSS3 1TB SATA3 SSD comes with 5 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ZADAK TWSS3 1TB SATA3 SSD in Bangladesh?",
+            "details": "The latest price of ZADAK TWSS3 1TB SATA3 SSD in Bangladesh is 9,700৳. You can buy the ZADAK TWSS3 1TB SATA3 SSD at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamersquad@example.com",
+                "review_comment": "Blazing fast SSD, excellent value for the price.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "pcenthusiast@example.com",
+                "review_comment": "Reliable and speedy storage solution. Highly recommended.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "storage-device",
+        "product_name": "Kingston A400 960GB 2.5 inch SATA 3 Internal SSD",
+        "price": 8700,
+        "regular_price": 9152,
+        "status": true,
+        "product_code": "00087",
+        "brand": "Kingston",
+        "image_url": "https://example.com/kingston-a400-960gb-ssd.jpg",
+        "rating": 4.5,
+        "features": {
+            "MPN": "SA400S37/960G",
+            "Model": "A400 960GB 2.5 inch SATA 3 Internal SSD",
+            "Interface": "SATA Rev 3.0 Internal SSD",
+            "Read/write speed": "Up to 500 MB/s Read Speed",
+            "Sequential Read Speed": "Up to 500 MB/s Read Speed",
+            "Sequential Write Speed": "Up to 450 MB/s Write Speed",
+            "Data Transfer Rate": "Faster than a HDD"
+        },
+        "specification": {
+            "Key Features": {
+                "Capacity": "960 GB",
+                "Form Factor": "2.5 Inch",
+                "Flash Type": "3D NAND",
+                "Interface": "SATA Rev. 3.0 (6Gb/s) – with backwards compatibility to SATA Rev. 2.0 (3Gb/s)",
+                "Sequential R/W": "500MB/s read, 450MB/s write",
+                "MTBF": "1 million hours"
+            },
+            "Physical Specification": {
+                "Dimension": "100.0mm x 69.9mm x 7.0mm",
+                "Weight": "41.9g"
+            },
+            "Temperature": {
+                "Operating Temperature": "0°C~70°C",
+                "Storage Temperature": "-40°C~85°C",
+                "Shock resistance": [
+                    "Operating: 2.17G Peak (7–800Hz)",
+                    "Non-operating: 20G Peak (10–2000Hz)"
+                ]
+            },
+            "Warranty": {
+                "Manufacturing Warranty": "03 Years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Kingston A400 960GB 2.5 inch SATA 3 Internal SSD",
+                "details": "Kingston A400 960GB is a 2.5 inch SATA 3 supported Internal SSD. It delivers a hi-performance hi-speed with good reading and writing speed. This SSD is part of Kingston's A400 Series SATA 3. This SSD has SATA Rev. 3.0 (6Gbps) with backwards compatibility to SATA Rev. 2.0 (3Gbps) as the connection Interface. It is available in 2.5 Inch SATA Versions. Kingston’s A400 solid-state drive dramatically improves the responsiveness of your existing system with incredible boot, loading, and transfer times compared to mechanical hard drives. Powered by a latest-gen controller for read and write speeds of up to 500MB/s and 450MB/s, this SSD is 10x faster than a traditional hard drive for higher performance, ultra-responsive multi-tasking, and an overall faster system. Also more reliable and durable than a hard drive, A400 is available in multiple capacities from 120GB to 1.92TB. These 2.5-inch SSDs work with lower power, lower heat, and quicker loading time. This SSD is Ideal for laptops & small form factor PCs. The efficient performance and SATA Rev 3.0 design make A400 ideal for thin notebooks and systems with limited space. Easily integrate into designs with SATA Rev 3.0 connectors. Perfect for thin laptops and small form factor PCs. Kingston’s A400 solid-state drive dramatically improves the responsiveness of your existing system with incredible boot, loading, and transfer times compared to mechanical hard drives. Powered by a latest-gen controller for read and write speeds of up to 500MB/s and 450MB/s, this SSD is 10x faster than a traditional hard drive for higher performance, ultra-responsive multi-tasking, and an overall faster system. A400 is also more reliable and durable than a regular hard drive. This SSD is from the A400 Series that is available in various capacities ranging from 120GB up to 1.92TB to meet your data storage requirements and give you all the space you need for applications, documents, photos, videos, and more. This model is available in 960 GB capacity. The form factor is 2.5 Inch SATA Rev 3.0. The Endurance reading is 160TBW. The Power Consumption reading is 0.279W on average. The Vibration reading for this SSD is 2.17G Peak (7–800Hz) when operating and 20G Peak (10–2000Hz) when non-operating. Storage temperature Range for this SSD is -40°C~85°C and the operating temperature is 0°C~70°C. The dimension of this SSD is 100.0 x 69.9 x 7.0 mm. The weight is around 41.9g. Kingston A400 960GB 2.5 inch SATA 3 Internal SSD offers 3 years of warranty."
+            },
+            {
+                "title": "Buy Kingston A400 960GB 2.5 inch SATA 3 Internal SSD Shop in BD",
+                "details": "In Bangladesh, you can get the original Kingston A400 960GB 2.5 inch SATA 3 Internal SSD From Star Gadget. We have a large collection of the latest Kingston SSDs to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The Kingston A400 960GB 2.5 inch SATA 3 Internal SSD comes with 3 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Kingston A400 960GB 2.5 inch SATA 3 Internal SSD in Bangladesh?",
+            "details": "The latest price of Kingston A400 960GB 2.5 inch SATA 3 Internal SSD in Bangladesh is 8,700৳. You can buy the Kingston A400 960GB 2.5 inch SATA 3 Internal SSD at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "techgeek@example.com",
+                "review_comment": "A significant improvement in system speed and responsiveness after upgrading to this SSD.",
+                "user_rating": 4.5
+            },
+            {
+                "user_email": "gamingenthusiast@example.com",
+                "review_comment": "Great value for the price. Perfect for gaming and fast data access.",
+                "user_rating": 4.8
+            }
+        ]
+    },
+    {
+        "category": "storage-device",
+        "product_name": "Gigabyte UD PRO 1TB 2.5 inch SATA III SSD",
+        "price": 8499,
+        "regular_price": 8941,
+        "status": true,
+        "product_code": "00088",
+        "brand": "GIGABYTE",
+        "image_url": "https://example.com/gigabyte-ud-pro-1tb-ssd.jpg",
+        "rating": 4.2,
+        "features": {
+            "Model": "Gigabyte UD PRO 1TB",
+            "Form Factor": "2.5-inch internal SSD",
+            "Interface": "SATA 6.0Gb/s",
+            "Sequential Read speed": "530 MB/s",
+            "Sequential Write speed": "500 MB/s"
+        },
+        "specification": {
+            "Key Features": {
+                "Capacity": "1TB",
+                "Form Factor": "2.5 inches",
+                "Flash Type": "3D NAND Flash",
+                "Interface": "SATA 6.0Gb/s",
+                "Sequential R/W": [
+                    "Sequential Read speed : 530 MB/s",
+                    "Sequential Write speed : 500 MB/s"
+                ]
+            },
+            "Warranty": {
+                "Manufacturing Warranty": "03 Years Warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Gigabyte UD PRO 1TB 2.5 inch SATA III SSD",
+                "details": "GIGABYTE UD PRO series SSDs adopt 3D TLC NAND flash and also has higher bit capacity. Its sequential read speed: 530 MB/s and sequential write speed: 500 MB/s. It is endurance and reliability compared to 2D TLC flash. On the other hand, its interface is SATA 6.0Gb/s and 2.5-inch form factor. Moreover, with an optimized controller and firmware, GIGABYTE UD PRO series SSDs provide excellent performance for a smooth PC experience.\n\nThis powerful device comes with 3 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Gigabyte UD PRO 1TB 2.5 inch SSD in Bangladesh?",
+            "details": "The latest price of Gigabyte UD PRO 1TB 2.5 inch SSD in Bangladesh is 8,499৳. You can buy the Gigabyte UD PRO 1TB 2.5 inch SSD at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "pcuser@example.com",
+                "review_comment": "Reliable and affordable SSD. Improved my system's speed significantly.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "storage-device",
+        "product_name": "Transcend TS1TSSD230S 1TB 3D TLC SATAIII 2.5\" SSD",
+        "price": 8200,
+        "regular_price": 9170,
+        "status": true,
+        "product_code": "00089",
+        "brand": "Transcend",
+        "image_url": "https://example.com/transcend-ts1tssd230s-1tb-ssd.jpg",
+        "rating": 4.5,
+        "features": {
+            "Model": "TS1TSSD230S",
+            "Interface": "SATA III 6Gb/s",
+            "Flash Type": "3D NAND TLC",
+            "Capacity": "1TB"
+        },
+        "specification": {
+            "Key Features": {
+                "Capacity": "1 TB",
+                "Form Factor": "2.5\"",
+                "Flash Type": "3D NAND flash",
+                "Interface": "SATA III 6Gb/s",
+                "Sequential R/W": [
+                    "Read: 560 MB/s",
+                    "Write: 520 MB/s"
+                ],
+                "MTBF": "1,000,000 hour(s)"
+            },
+            "Physical Specification": {
+                "Dimension": "100 mm x 69.85 mm x 6.8 mm (3.94\" x 2.75\" x 0.28\")",
+                "Weight": "53 g (1.87 oz)"
+            },
+            "Temperature": {
+                "Operating Temperature": "0°C (32°F) ~ 70°C (158°F)",
+                "Shock resistance": "Yes"
+            },
+            "Warranty": {
+                "Manufacturing Warranty": "05 years warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Transcend TS1TSSD230S 1TB 3D TLC SATAIII 2.5\" SSD",
+                "details": "Transcend TS1TSSD230S SSD uses the latest 3D NAND technology that features vertical, stacked expansion of storage cells. In this SSD, It has SATA III 6Gb/s interface, 560 MB/s maximum read sequential, 520 MB/s maximum write sequential with 1,000,000 hour(s) MTBF. This SSD Operating Temperature about 0°C (32°F) ~ 70°C (158°F). The System Requirement for this SSD are Microsoft Windows 7, Microsoft Windows 8, Microsoft Windows 10, Linux Kernel 2.6.31 or later. In this SSD TRIM & NCQ Command, S.M.A.R.T., DDR3 DRAM Cache, Advanced Garbage Collection, DevSleep Mode, RAID Engine and LDPC Coding technologies are used. It also provides 05 years of warranty. By using high-quality flash memory and enhanced firmware algorithms, the SSD230S delivers greater performance and reliability."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Transcend TS1TSSD230S 1TB 3D TLC SATAIII 2.5\" SSD in Bangladesh?",
+            "details": "The latest price of Transcend TS1TSSD230S 1TB 3D TLC SATAIII 2.5\" SSD in Bangladesh is 8,200৳. You can buy the Transcend TS1TSSD230S 1TB 3D TLC SATAIII 2.5\" SSD at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "pcuser@example.com",
+                "review_comment": "Fast and reliable SSD. Great value for the price.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "techenthusiast@example.com",
+                "review_comment": "Impressive performance and durability. Highly recommended.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "storage-device",
+        "product_name": "Samsung 970 EVO Plus 2TB NVMe M.2 SSD",
+        "price": 15950,
+        "regular_price": 17250,
+        "status": true,
+        "product_code": "00090",
+        "brand": "Samsung",
+        "image_url": "https://example.com/samsung-970-evo-plus-2tb-ssd.jpg",
+        "rating": 4.8,
+        "features": {
+            "Model": "970 EVO Plus",
+            "Form Factor": "M.2 (2280)",
+            "Read/Write Speed": "3,500/3,300 MB/s",
+            "Interface": "PCIe Gen 3.0 x4, NVMe 1.3",
+            "Capacity": "2TB"
+        },
+        "specification": {
+            "Key Features": {
+                "Capacity": "2 TB",
+                "Form Factor": "M.2 (2280)",
+                "Flash Type": "Samsung V-NAND 3-bit MLC",
+                "Interface": "PCIe Gen 3.0 x4, NVMe 1.3",
+                "Sequential R/W": [
+                    "SEQUENTIAL READ Up to 3,500 MB/s",
+                    "SEQUENTIAL WRITE Up to 3,300 MB/s"
+                ],
+                "MTBF": "1.5 Million Hours Reliability"
+            },
+            "Physical Specification": {
+                "Dimension": "3.16\" x 0.87\" x 0.09\"",
+                "Weight": "0.3 oz"
+            },
+            "Temperature": {
+                "Operating Temperature": "0 - 70 ℃",
+                "Shock resistance": "1,500 G & 0.5 ms (Half sine)"
+            },
+            "Warranty": {
+                "Manufacturing Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Samsung 970 EVO Plus 2TB NVMe M.2 SSD",
+                "details": "The Samsung 970 EVO Plus 2TB NVMe M.2 SSD delivers breakthrough speeds, best-in-class reliability. It is powered by the latest V-NAND technology and firmware optimization. It maximizes the potential of NVMe bandwidth for unbeatable computing. The 970 EVO Plus reaches sequential read/write speeds up to 3,500/3,300 MB/s. It brings greater NAND performance and higher power efficiency. It has a compact M.2 (2280) form factor, greatly expanding storage capacity and saving space for other components. Samsung's advanced nickel-coated controller and heat spreader on the 970 EVO Plus enable superior heat dissipation. The Dynamic Thermal Guard automatically monitors and maintains optimal operating temperatures to minimize performance drops. The Samsung 970 EVO Plus offers up to 1,200 TBW with a 3 years warranty."
+            },
+            {
+                "title": "Buy Samsung 970 EVO Plus 2TB NVMe M.2 SSD in BD",
+                "details": "In Bangladesh, you can get the Samsung 970 EVO Plus 2TB NVMe M.2 SSD from Star Gadget. We have a large collection of the latest Samsung SSDs to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the best price. The Samsung 970 EVO Plus 2TB SSD is now available at the price of 15,950৳."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Samsung 970 EVO Plus 2TB SSD in Bangladesh?",
+            "details": "The latest price of Samsung 970 EVO Plus 2TB SSD in Bangladesh is 15,950৳. You can buy the Samsung 970 EVO Plus 2TB SSD at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "techenthusiast@example.com",
+                "review_comment": "Blazing fast NVMe SSD with excellent reliability. Highly recommended.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "gamerpro@example.com",
+                "review_comment": "Great storage solution for gaming. Lightning-fast speeds.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "storage-device",
+        "product_name": "PNY CS2140 1TB Gen4 M.2 NVMe SSD",
+        "price": 13900,
+        "regular_price": 14960,
+        "status": true,
+        "product_code": "00091",
+        "brand": "PNY",
+        "image_url": "https://example.com/pny-cs2140-1tb-nvme-ssd.jpg",
+        "rating": 4.5,
+        "features": {
+            "Model": "CS2140",
+            "Read Speed": "Up to 3,600 MB/s",
+            "Write Speed": "Up to 3,200 MB/s",
+            "Interface": "PCIe Gen4 x4",
+            "Flash Type": "3D Flash Memory"
+        },
+        "specification": {
+            "Key Features": {
+                "Capacity": "1TB",
+                "Form Factor": "M.2 2280",
+                "Flash Type": "3D Flash Memory",
+                "Interface": "PCIe Gen4 x4",
+                "Sequential R/W": [
+                    "Max Sequential Read Speed: 3,600 MB/s",
+                    "Max Sequential Write Speed: 3,200 MB/s"
+                ],
+                "MTBF": "1,500,000 Hours"
+            },
+            "Physical Specification": {
+                "Dimension": "22 x 80 x 4 mm (Max)",
+                "Weight": "6.6g"
+            },
+            "Temperature": {
+                "Operating Temperature": "0°C ~ 70°C",
+                "Storage Temperature": "-40°C ~ 85°C"
+            },
+            "Warranty": {
+                "Manufacturing Warranty": "03 years Warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "PNY CS2140 1TB Gen4 M.2 NVMe SSD",
+                "details": "The PNY SSD featured with 1TB capacity, Sequential Read of up to 3,600 MB/s and Write of up to 3,200 MB/s, Faster boot up, quicker application launch, and improved overall system performance, Reliable storage. It comes with Low power consumption, cool and quiet operation. This PNY SSD featured with Form Factor M.2, Interface PCIe Gen4 x4, Max Sequential Read Speed 3,600 MB/s, Max Sequential Write Speed 3,200 MB/s, NAND Type 3D Flash Memory. You can do more work in less time with NVMe Gen4 x4; boot up, power down, and load applications up to 6 times faster compared to SATA based SSD’s. Designed to deliver the performance you demand, and with no moving parts, the PNY CS2140 is highly durable, less likely to fail, and supports a 5-year limited warranty or TBW. The latest PNY CS2140 SSD comes with 03 years Warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of PNY CS2140 1TB M.2 NVMe SSD in Bangladesh?",
+            "details": "The latest price of PNY CS2140 1TB M.2 NVMe SSD in Bangladesh is 13,900৳. You can buy the PNY CS2140 1TB M.2 NVMe SSD at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "techenthusiast@example.com",
+                "review_comment": "Blazing fast NVMe SSD, excellent for gaming and heavy workloads.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "pcbuilder@example.com",
+                "review_comment": "Reliable and super-fast storage solution. Great value for the performance.",
+                "user_rating": 4
+            }
+        ]
+    }
+]

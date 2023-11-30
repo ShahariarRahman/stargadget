@@ -1,0 +1,166 @@
+[
+    {
+        "category": "office-equipment",
+        "product_name": "Panasonic LH-86QM3VS 86-inch Pro Commercial Display",
+        "price": 672500,
+        "regular_price": 739750,
+        "status": true,
+        "product_code": "00240",
+        "brand": "Panasonic",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "LH-86QM3VS",
+            "Display": "4K UHD (3840 X 2160) IPS LED",
+            "Screen Size/Aspect Ratio": "217.42 cm / 16:9",
+            "Brightness": "500 Cd/m2, Operations - 24/7",
+            "Features": "Built-in Wifi, HTML5.0 Auto launch Browser"
+        },
+        "specification": {
+            "Main Feature": {
+                "Panel Size": "217.42 cm",
+                "Resolution": "3840 x 2160 (16:9) - UHD",
+                "Brightness": "500 cd/m²",
+                "Aspect Ratio": "16:9"
+            },
+            "Computer Specification": {
+                "Interface": [
+                    "HDMI Input: 4 x HDMI",
+                    "USB Input: 4 x USB (2 x 2.0, 1 x 2.0 internal, 1 x Type C)",
+                    "DP Input: DP 1.2a x 1",
+                    "DP Output: DP 1.2a x 1",
+                    "VGA Input: 1 x 15pin Dsub",
+                    "Video Output: DP 1.2a",
+                    "Audio Input: Line In L/R",
+                    "Audio Output: M3 Jack, Optic SPDIF",
+                    "External Control 1: RS232(DE-9F)",
+                    "External Control 2: Ethernet(RJ45)",
+                    "External IR Sensor: RJ12"
+                ]
+            },
+            "Physical Specification": {
+                "Dimension": [
+                    "Product Dimensions (WxDxH): 192.8 x 8.0 x 109.9 cm",
+                    "Vesa Mounting: 60.0 x 40.0 cm - M8",
+                    "Bezel Width: B:12 | T:12 | L/R:12 mm"
+                ],
+                "Weight": "Product Weight: 62.7 kg",
+                "Power": [
+                    "Power Consumption: 328 W",
+                    "Power Supply: 110 VAC - 240 VAC - 50/60 Hz",
+                    "Deep Standby: ≤0.5 W"
+                ]
+            },
+            "Manufacture Warranty": {
+                "Warranty": "1 year"
+            }
+        },
+        "description": [
+            {
+                "title": "Panasonic LH-86QM3VS 86-inch Pro Commercial Display",
+                "details": "The Panasonic LH-86QM3VS has excellent image quality with 4K resolution and anti-glare technology, as well as wide viewing angles, making it ideal for conference rooms and signage applications. The 4K Professional grade IPS panel provides great dependability and smooth performance for continuous use. Resilience to work indefinitely OPS slots enabled high-resolution displays for easy networking and system compatibility. Expandable compatibilities HTML5 browser built-in CEC HDMI Connectivity through wireless Clock in real-time USB browser auto-launch Content Scheduler with Auto-Play for a Single Display Input AUTO-DETECT QM3 SERIES DISPLAY FEATURES Simple to use, soon after installation Use safely by completely managing the entire system Wireless connectivity HDMI-CEC compliant devices may be connected to the display through an HDMI cable, allowing the compatible devices' basic functioning (such as power ON/OFF) to be managed by the display's remote control. When there is a problem, the failover and failback features avoid image interruption. To prevent picture interruption, it is equipped with failover and failback features, as well as two-system input switching. A wide screen display with wireless networking transfers pictures and sound from Windows PCs and Android smartphones 1:1, and display resolutions up to full HD and seamless video playback are supported. Signage operations of several types are feasible. When a USB memory holding data is attached, the QM3 Series may begin displaying images automatically. The display device may be utilized as digital signage without the need for a set-top box or a computer. Regarding USB Media Insert a USB Memory Stick holding video or still picture content into the main unit for automated file sequence playing. JPG, JPEG, JPE, BMP, AVI, MKV, ASF, WMV, TS, MTS, MP4, 3GP, MOV, FLV, F4V, STILL IMAGE, MOTION IMAGE Backup Input Failover Failback Main Input When the signals abruptly stop, Backup Input Failover Main Input Failover with Immediate Recovery Backup Input Failover Main Input When the signals are re-established The original picture is shown. Content Scheduling on Android and Windows To edit the playlist, use the Remote Control. To edit the playlist, use the main unit's remote control to adjust the playing sequence and time for the content recorded on the USB Memory stick. Set the playback sequence and time with the included remote control. 1st Playlist 9:00 12:00 19:00 Power on Power off Playlist 2 Playlist 3 VIDEO VIDEO FEATURES + STILL STILL SIGNAGE SOFTWARE FEATURES OPS SPECIFICATIONS Supports a variety of platforms Android and Windows Using audit trail data and proof-of-play, you may assess the functioning of your digital signage system. END-TO-END SOLUTIONS FOR MULTICOLOR CONTENT Project Consulting and Installation Support for Content Management Software Solution with Added Value Platform for advertising Add and manage an infinite number of devices via Panasonic's hosted cloud option or permanent on-premise solution. The Panasonic LH-86QM3VS 86-inch Pro Commercial Display comes with a 01-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Panasonic LH-86QM3VS 86-inch Pro Commercial Display in Bangladesh?",
+            "details": "The latest price of Panasonic LH-86QM3VS 86-inch Pro Commercial Display in Bangladesh is 672,500৳. You can buy the Panasonic LH-86QM3VS 86-inch Pro Commercial Display at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Great commercial display with excellent image quality.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Perfect for signage and conference rooms.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "Impressive 4K resolution and smooth performance for continuous use.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "office-equipment",
+        "product_name": "Epson EB-2155W 5000 Lumens LCD Projector",
+        "price": 197000,
+        "regular_price": 217000,
+        "status": true,
+        "product_code": "00241",
+        "brand": "Epson",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Epson EB-2155W",
+            "Resolution": "XGA 1024x768",
+            "Brightness": "3,200lm",
+            "Lamp Life": "10,000 hours",
+            "Contrast Ratio": "16,000:1"
+        },
+        "specification": {
+            "Projection Features": {
+                "Display Type": "3LCD",
+                "Resolution": "XGA 1024x768",
+                "Brightness": "3,200lm",
+                "Projection Distance": [
+                    "Zoom: Wide: 50\" - 108\" [0.54 - 1.22 m]",
+                    "Zoom: Tele: 37\" - 80\" [0.54 - 1.22 m]"
+                ],
+                "Contrast Ratio": "16,000:1",
+                "Image Size": "30 inches - 300 inches"
+            },
+            "Lamp Details": {
+                "Type": "UHE",
+                "Lamp Power": "215W",
+                "Lamp Life": "(Normal/Eco)*1; 5,000 hours / 10,000 hours"
+            },
+            "Audio": {
+                "Built-in Speaker": "Sound Output: 16W Monaural"
+            },
+            "Connectivity": {
+                "Interface": [
+                    "Analog Input: D-Sub 15 pin; 2 (Blue), Composite; RCA x 1 (Yellow),S-Video; Mini DIN x 1",
+                    "Digital Input: HDMI; 1"
+                ],
+                "Power": "Power Supply Voltage: 100 - 240 V AC ±10%, 50/60 Hz",
+                "Bluetooth": "No"
+            },
+            "External Features": {
+                "Color": "White",
+                "Weight": "3.7kg",
+                "Dimension": "314.5 x 344 x 94 mm"
+            },
+            "Warranty": {
+                "Manufacturing Warranty": "02 years Parts & Service warranty /Lamp: 12 Months or 1000hrs warranty"
+            },
+            "description": [
+                {
+                    "title": "Epson EB-2155W 5000 Lumens LCD Projector",
+                    "details": "Leave the lights on and take control whether in the meeting room or classroom. Epson EB-2155W 5000 Lumens LCD Projector is engineered to shine outstandingly even in well-lit environments to enrich your presentation experience. The Epson EB-2155W Projector allows a wide variety of input methods so you can project Full HD content from a wide-range of devices. Your brilliant Full HD presentations are made even better and more convenient with the new gesture-control function that allows you to navigate between your slides without the use of a peripheral device."
+                }
+            ]
+        },
+        "price_info": {
+            "title": "What is the price of Epson EB-2155W Projector in Bangladesh?",
+            "details": "The latest price of Epson EB-2155W Projector in Bangladesh is 197,000৳. You can buy the Epson EB-2155W Projector at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive brightness and image quality.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Easy to set up and use. Great value for the price.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "The gesture-control function is a fantastic addition.",
+                "user_rating": 4
+            }
+        ]
+    }
+]

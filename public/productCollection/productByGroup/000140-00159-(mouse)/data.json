@@ -1,0 +1,268 @@
+[
+    {
+        "category": "mouse",
+        "product_name": "ASUS P707 ROG Spatha X Dual-mode RGB Gaming Mouse",
+        "price": 15300,
+        "regular_price": 16800,
+        "status": true,
+        "product_code": "00140",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "P707 ROG Spatha X",
+            "Keys": "Programmable 12-buttons",
+            "Resolution": "19,000 DPI",
+            "Connection Type": "Play in wired or wireless modes",
+            "Features": "ROG Micro Switches",
+            "Others": "Solidly-built magnesium alloy chassis"
+        },
+        "specification": {
+            "Main Features": {
+                "Keys": "12 Programmable buttons",
+                "Connection Type": [
+                    "USB 2.0 ROG Paracord Type-C to USB cable",
+                    "RF 2.4GHz Wireless connection"
+                ],
+                "Optical Sensor Resolution": "19,000 DPI",
+                "Cable Length": "2 M",
+                "Others": [
+                    "Customizable ASUS Aura RGB LED lighting effects",
+                    "Easy-swap switchable socket design",
+                    "3D-printing-friendly design",
+                    "Aura Sync"
+                ]
+            },
+            "Gaming Features": {
+                "Acceleration": "30g a",
+                "Bonus": [
+                    "Max Speed: 400 ips",
+                    "Max Acceleration: 50 g"
+                ],
+                "Built-in Memory": "Built-in flash memory",
+                "Button": "Programmable 12-buttons",
+                "Color Option": "Programmable RGB lighting",
+                "Graphical UI": "Armoury Crate",
+                "Tracking Method": "2000Hz USB polling rate",
+                "Mechanical Switches": "ROG Micro Switches"
+            },
+            "Physical Specifications": {
+                "Color": "Black",
+                "Dimension(LxWxH)": "89 x 137 x 45mm",
+                "Battery Life": "li-polymer"
+            },
+            "Warranty Information": {
+                "Warranty": "01 year warranty"
+            },
+            "description": [
+                {
+                    "title": "ASUS P707 ROG Spatha X Dual-mode RGB Gaming Mouse",
+                    "details": "ASUS P707 ROG Spatha X is a Dual-mode RGB Gaming Mouse from ASUS. This wireless gaming mouse features dual-mode connectivity, allowing you to play wirelessly via RF 2.4 GHz or traditionally with a wired USB-CÂ® connection. A specially tuned 19,000 dpi sensor lets you take down opponents swiftly with extreme accuracy, while 12 programmable buttons ensure all commands are at your fingertips. In addition, ROG Spatha X features exclusive push-fit switch sockets, ROG Micro Switch, Aura Sync RGBs, and a magnetic charging dock."
+                },
+                {
+                    "title": "Dual-Mode Connectivity with Ultimate Accuracy",
+                    "details": "This mouse has Dual-mode connectivity lets you play your way. ROG Spatha X utilizes an RF 2.4 GHz connection with high data throughput to ensure your commands are tracked accurately in-game. And once the battery runs out, just hook it up and continue the fight while charging, all without losing responsiveness and performance. A highly tuned 19,000 dpi optical sensor delivers unrivaled accuracy with a 400 IPS speed, and 50G acceleration."
+                },
+                {
+                    "title": "Up to 12 Programmable Buttons",
+                    "details": "The 12 programmable buttons on ROG Spatha X put a myriad of commands in the palm of your hand, with six side buttons arranged to resemble the iconic ROG eye. The placement of each button has been carefully considered so theyâ€™re within reach, and all have been designed to provide a tactile click feel for intuitive, responsive control."
+                },
+                {
+                    "title": "ROG Micro Switch",
+                    "details": "The ROG Micro Switch features a gold-plated electro-junction and a 70-million-click lifespan to improve durability and extend the lifespan of the mouse. Strict ROG manufacturing standards ensure that each mouse button keeps force deviation within +/- 5 gram-force for a consistent click feel."
+                },
+                {
+                    "title": "Advanced Power Solution",
+                    "details": "ROG Spatha X offers phenomenal battery life, giving you up to 67 hours of playtime on a full charge. And if the battery does run low, just 15 minutes of charging via USB-C or the charging dock provides up to 12 hours of intense wireless gaming."
+                },
+                {
+                    "title": "Exclusive Push-Fit Switch Socket with DPI On-The-Scroll",
+                    "details": "Exclusive push-fit switch sockets make it easy to drop in new switches; so you can tailor operating force and feedback to preference, or replace worn or broken switches. A unique DPI On-The-Scroll feature lets you easily adjust mouse sensitivity without accessing software. Just press and hold the DPI button for three seconds and then spin the scroll wheel and click the button again to set and save the sensitivity level. You can also just click the button to cycle through four different DPI levels."
+                },
+                {
+                    "title": "ROG Paracord and Aura RGB Lighting",
+                    "details": "The extremely flexible and lightweight ROG Paracord is designed to minimize snags and maximize movement. The raised port of ROG Spatha X provides space between the cable and tabletop or mousepad surface, minimizing cable drag and noise. ROG Aura RGB lighting is integrated into the logo, the scroll wheel and side buttons of ROG Spatha X. Lighting can be customized with a near-endless spectrum of colors and a range of dynamic effects. In addition, up to five profiles can be stored onboard, so your preferences travel with you."
+                },
+                {
+                    "title": "Armoury Crate",
+                    "details": "Armoury Crate is an enhanced driver-based, peripherals-configuration utility that offers extensive controls. An intuitive UI lets you easily tune ROG Spatha X to suit your gameplay style â€” adjust performance and surface calibration settings, program and map buttons, customize lighting effects, and more. You can even track hardware stats during gameplay for data analysis. ASUS P707 ROG Spatha X Dual-mode RGB Gaming Mouse offers 1 Year warranty."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of ASUS P707 ROG Spatha X Dual-mode Mouse in Bangladesh?",
+                "details": "The latest price of ASUS P707 ROG Spatha X Dual-mode Mouse in Bangladesh is 15,300৳. You can buy the ASUS P707 ROG Spatha X Dual-mode Mouse at the best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "user1@example.com",
+                    "review_comment": "Great mouse, comfortable to use and highly customizable with the RGB lighting.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user2@example.com",
+                    "review_comment": "The dual-mode feature is fantastic. I can switch between wireless and wired modes easily.",
+                    "user_rating": 4
+                },
+                {
+                    "user_email": "user3@example.com",
+                    "review_comment": "The 19,000 DPI sensor is super accurate, and the 12 programmable buttons are a gamer's dream.",
+                    "user_rating": 5
+                }
+            ]
+        }
+    },
+    {
+        "category": "mouse",
+        "product_name": "Logitech G903 Lightspeed HERO RGB Wireless Gaming Mouse",
+        "price": 11000,
+        "regular_price": 11572,
+        "status": true,
+        "product_code": "00141",
+        "brand": "Logitech",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "910-005676",
+            "Model": "G903 Lightspeed",
+            "Wireless Technology": "Lightspeed",
+            "Connectivity": "Wireless, Connector: USB",
+            "Lightsync RGB": "2 zones",
+            "Resolution": "200 - 12,000 dpi"
+        },
+        "specification": {
+            "Main Features": {
+                "Connection Type": [
+                    "Wireless/ USB",
+                    "Wireless report rate: 1000 Hz (1ms)",
+                    "Wireless technology: LIGHTSPEED Wireless",
+                    "USB data format: 16 bits/axis",
+                    "USB report rate: 1000 Hz (1ms)"
+                ],
+                "Optical Sensor Resolution": "200 -12,000 dpi",
+                "Cable Length": "1.80 m",
+                "Resolution": "200 - 12,000 dpi"
+            },
+            "Gaming Features": {
+                "Acceleration": [
+                    "Zero smoothing/acceleration/filtering",
+                    "Max. acceleration: >40G 3Tested on Logitech G240 Gaming Mouse Pad"
+                ],
+                "Built-in Memory": "Onboard memory: 5 profiles",
+                "Button": "Mechanical Button Tensioning System",
+                "Tracking Method": [
+                    "Sensor: PMW3366",
+                    "Resolution: 200 - 12,000 dpi"
+                ]
+            },
+            "Physical Specifications": {
+                "Color": "Black",
+                "Dimension(LxWxH)": [
+                    "Height: 130.3 mm",
+                    "Width: 66.5 mm",
+                    "Depth: 40.4 mm"
+                ],
+                "Weight": "110 g mouse only",
+                "Battery Life": [
+                    "Default lighting: 24 hours",
+                    "No lighting: 32 hours"
+                ]
+            },
+            "Warranty Information": {
+                "Warranty": "01 year warranty"
+            },
+            "description": [
+                {
+                    "title": "Logitech G903 Lightspeed HERO RGB Wireless Gaming Mouse",
+                    "details": "Logitech G903 Lightspeed HERO RGB Wireless Gaming Mouse comes with Sensor: PMW3366, Resolution: 200 â€“ 12,000 dpi, Zero smoothing/acceleration/filtering, Max. acceleration: >40G 3 Tested on Logitech G240 Gaming Mouse Pad, Max. speed: >400 IPS 4Tested on Logitech G240 Gaming Mouse Pad. This gaming mouse featured with USB data format: 16 bits/axis, USB report rate: 1000 Hz (1ms), Wireless report rate: 1000 Hz (1ms), Wireless technology: LIGHTSPEED Wireless, Microprocessor: 32-bit ARM. This Logitech G903 Lightspeed HERO RGB Wireless Gaming Mouse compatible with Windows 7 or later, macOS 10.11 or later, Chrome OSTM. And it has 01 year warranty."
+                }
+            ],
+            "price_info": {
+                "title": "What is the price of Logitech G903 Lightspeed HERO RGB Wireless Gaming Mouse in Bangladesh?",
+                "details": "The latest price of Logitech G903 Lightspeed HERO RGB Wireless Gaming Mouse in Bangladesh is 11,000৳. You can buy the Logitech G903 Lightspeed HERO RGB Wireless Gaming Mouse at the best price from our website or visit any of our showrooms."
+            },
+            "reviews": [
+                {
+                    "user_email": "user1@example.com",
+                    "review_comment": "Excellent wireless mouse. The HERO sensor is very precise, and it's comfortable to use for extended periods.",
+                    "user_rating": 5
+                },
+                {
+                    "user_email": "user2@example.com",
+                    "review_comment": "Love the Lightsync RGB lighting zones. Customizable and adds a nice touch to the setup.",
+                    "user_rating": 4
+                },
+                {
+                    "user_email": "user3@example.com",
+                    "review_comment": "Impressive battery life, especially with no lighting. A great gaming mouse overall.",
+                    "user_rating": 5
+                }
+            ]
+        }
+    },
+    {
+        "category": "mouse",
+        "product_name": "Razer Viper 8KHz Ambidextrous Esports Gaming Mouse",
+        "price": 8400,
+        "regular_price": 9060,
+        "status": true,
+        "product_code": "00142",
+        "brand": "RAZER",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "RZ01-03580100-R3M1",
+            "Model": "Viper 8KHz",
+            "Sensor": "Razer 8000Hz HyperPolling Technology",
+            "Resolution": "Razer Focus+ 20K DPI Optical Sensor",
+            "Features": "2nd-gen Razer Optical Mouse Switch",
+            "Keys": "8 Programmable Buttons"
+        },
+        "specification": {
+            "Main Features": {
+                "Keys": "7+1",
+                "Connection Type": "Wired - Speedflex Cable",
+                "Optical Sensor Resolution": "20,000"
+            },
+            "Gaming Features": {
+                "Acceleration": "50G",
+                "Built-in Memory": "ON-BOARD MEMORY PROFILES: 5",
+                "Button": "7+1",
+                "Color Option": "Razer Chroma™ RGB",
+                "Switch Lifecycle": "70 Million Clicks",
+                "Tracking Method": "Optical"
+            },
+            "Physical Specifications": {
+                "Color": "Black",
+                "Dimension(LxWxH)": "126.73 x 57.6 x 37.81 mm",
+                "Weight": "71 g"
+            },
+            "Warranty Information": {
+                "Warranty": "01 Year Warranty (Need to submit product box for warranty claim)"
+            }
+        },
+        "description": [
+            {
+                "title": "Razer Viper 8KHz Ambidextrous Esports Gaming Mouse",
+                "details": "The Razer Viper 8KHz is an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen Razer Optical Switches, itâ€™s time to rise to the occasion and leave it all on the floor. Razer HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rateâ€” sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond. Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, Razer HyperPolling Technology ensures ultra-smooth cursor movement in a difference thatâ€™s even more apparent on high refresh rate monitors. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by Razer HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, whatâ€™s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor. Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal key binds, macros, and twice the inputs via the Razer HyperShift function. This latest Razer Viper 8KHz Ambidextrous Esports Gaming Mouse has 01 Year Warranty (Need to submit product box for warranty claim)."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Razer Viper 8KHz Ambidextrous Mouse in Bangladesh?",
+            "details": "The latest price of Razer Viper 8KHz Ambidextrous Mouse in Bangladesh is 8,400৳. You can buy the Razer Viper 8KHz Ambidextrous Mouse at the best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive polling rate and low latency. Perfect for esports.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "The lightweight design makes it easy to handle. Great for competitive gaming.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "The 20K DPI sensor is incredibly accurate. A solid choice for gamers.",
+                "user_rating": 5
+            }
+        ]
+    }
+]

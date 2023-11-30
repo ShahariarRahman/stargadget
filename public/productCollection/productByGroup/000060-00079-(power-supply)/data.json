@@ -1,0 +1,880 @@
+[
+    {
+        "category": "power-supply",
+        "product_name": "ASUS ROG Strix 1000G 1000W 80 Plus Gold Power Supply",
+        "price": 27000,
+        "regular_price": 29730,
+        "status": true,
+        "product_code": "00060",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/Lv6Nr3v/ASUS-ROG-Strix-1000-G-1000-W-80-Plus-Gold-Power-Supply.jpg",
+        "rating": 4.5,
+        "features": {
+            "Model": "ROG Strix 1000G",
+            "Cooling": "ROG heat-sinks & Axial-tech fan design",
+            "Fan": "Dual ball fan for 0dB Technology",
+            "Certifications": "80 Plus Gold Certification",
+            "Other": "Cosmetic Customization"
+        },
+        "specification": {
+            "Key Features": {
+                "Efficiency (Approx.)": "80Plus Gold",
+                "Certification": "80 Plus Gold Certification",
+                "Fan Size": "135mm"
+            },
+            "Output": {
+                "Modular Type": "Fully modular",
+                "Total Power": "1000W",
+                "Peak Power": "25A 25A 83A 0.3A 3A",
+                "AC Input": "100-240Vac",
+                "DC Output": "+3.3V +5V +12V -12V +5Vsb"
+            },
+            "Connector": {
+                "Main Power": "24/20-pin x 1",
+                "CPU": "4+4-pin x 2",
+                "PCI-E": "6+2-pin x 6",
+                "SATA": 8,
+                "Molex": 6
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "10 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASUS ROG Strix 1000G 1000W 80 Plus Gold Power Supply",
+                "details": "The ASUS ROG Strix 1000G 80 Plus Gold Power Supply brings premium cooling performance to heavyweight gaming rigs. This PSU features a dual ball bearing setup that will last up to twice as long as a sleeve bearing design. ROG heat-sinks cover critical components. Lower temps result in a longer lifespan and reduced noise. The Power supply comes with an onboard controller that brings the 135mm fan to a standstill when total draw power (TDP) is below 40%, letting you enjoy light gaming in relative silence. Above 40% TDP, the fans automatically start up again. The integrated ROG heat-sinks have 2x more volume than traditional designs, resulting in significantly lower temperatures inside Strix PSUs. This extends the lifespan of components and allows 0dB operation for a longer duration than standard designs. ASUS ROG Strix 1000G 1000W 80 Plus Gold Power Supply's heat-sinks are so effective that fan noise stays whisper quiet, even under full load. Axial-tech fan design features a smaller fan hub that facilitates longer blades and a barrier ring that increases downward air pressure. It supports cosmetic customization that is enabled by a magnetic logo and stickers that help you re-skin the visible side to your liking.  It has earned an 80 Plus Gold Certification as the result of Japanese capacitors and other premium components. It ensures reliability and comes with a 10-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASUS ROG Strix 1000G Power Supply in Bangladesh?",
+            "details": "The latest price of ASUS ROG Strix 1000G Power Supply in Bangladesh is 27,000৳. You can buy the ASUS ROG Strix 1000G Power Supply at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "pcbuilder456@example.com",
+                "review_comment": "Reliable power supply with plenty of wattage. The ROG branding is a nice touch.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "userpower@example.com",
+                "review_comment": "Expensive, but it delivers stable power. The build quality is top-notch.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "power-supply",
+        "product_name": "NZXT C1200 80 Plus Gold Full Modular 1200 Watt Power Supply",
+        "price": 24500,
+        "regular_price": 26950,
+        "status": true,
+        "product_code": "00061",
+        "brand": "NZXT",
+        "image_url": "https://i.ibb.co/3yGNy6v/NZXT-C1200-80-Plus-Gold-Full-Modular-1200-Watt-Power-Supply.jpg",
+        "rating": 4.5,
+        "features": {
+            "MPN": "PA-2G1BB-UK",
+            "Model": "C1200",
+            "Type": "ATX12V v3.0",
+            "Output Capacity": "1200W",
+            "Certifications": "80 PLUS Gold",
+            "Fan Size": "135mm Fan",
+            "Cooling": "fluid-dynamic bearing"
+        },
+        "specification": {
+            "Key Features": {
+                "Efficiency (Approx.)": [
+                    "20% loading: 87% @115Vac",
+                    "50% loading: 90.5% @115Vac",
+                    "100% loading: 87.5% @115Vac"
+                ],
+                "Certification": "80 Plus Gold",
+                "Fan Size": "135mm Black Fan",
+                "Others": [
+                    "Dimensions: 135 x 135 x 25 mm",
+                    "Speed: 0-2300 ± 10% RPM",
+                    "Airflow: 93.02 CFM (Tpy.)",
+                    "Noise: 44.5 dBA max",
+                    "Bearing: Fluid Dynamic Bearing (FDB)"
+                ]
+            },
+            "Output": {
+                "Modular Type": "Full modular",
+                "AC Input": "100 - 240Vac: 14A-7A 50Hz-60Hz",
+                "Total Power": "1000W",
+                "Peak Power": "25A 25A 83A 0.3A 3A",
+                "DC Output": [
+                    "+3.3V and +5V: 22A (120W)",
+                    "+12V: 100A (1200W)",
+                    "-12V: 0.3A (3.6W)",
+                    "5Vsb: 3A (15W)",
+                    "Total: 1200W"
+                ]
+            },
+            "Connector": {
+                "Main Power": "24-pin ATX power: 600 mm, Nylon sleeving",
+                "CPU": [
+                    "4+4-pin CPU power: 700 mm, Nylon sleeving",
+                    "8-Pin CPU Power Cable: 700mm, Nylon sleeving"
+                ],
+                "PCI-E": "6+2-pin PCIe power: 650 + 150 mm, Nylon sleeving",
+                "SATA": "500 + 150 mm"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "10-years warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "NZXT C1200 80 Plus Gold Full Modular 1200 Watt Power Supply",
+                "details": "The NZXT C1200 80 Plus Gold Full Modular 1200 Watt Power Supply – a powerful and efficient solution for delivering reliable and consistent power to your high-performance gaming and computing systems. Designed to adhere to the ATX v3.0 power standard, this PSU brings top-notch performance and features that cater to the needs of demanding users. With its remarkable 16-pin PCIe 12VHPWR connector, the NZXT C1200 Gold can deliver an impressive 600 watts of power to NVIDIA 40-series graphics cards using just a single cable. This capability ensures that your graphics-intensive applications and games receive the power they need to run at peak performance without any bottlenecks. NZXT has gone above and beyond to guarantee that their C1200 power supply meets the highest standards of quality and reliability. Each unit is built and thoroughly tested, ensuring trouble-free installation and optimal operation. This meticulous approach gives users the peace of mind that their power supply can withstand heavy loads and extended usage without faltering. The NZXT C1200 Gold boasts an exceptional 90.5% efficiency peak at 50% load, resulting in reduced temperatures, energy consumption, and noise levels. This high efficiency not only saves power but also aids in keeping the overall system cooler during intense tasks, leading to improved performance and system stability. For those seeking a quieter computing experience, the Zero Fan Mode of the NZXT C1200 is a game-changer. When the power supply is operating under light loads, the fan automatically stops, minimizing system noise and creating a more serene computing environment. The power supply features a 135mm PWM fan with a fluid dynamic bearing, designed to offer whisper-quiet operation and a long lifespan. This combination of quietness and longevity ensures that your power supply will serve you reliably for years to come. The NZXT C1200 is constructed using high-quality Japanese 105°C capacitors, known for their durability and ability to handle prolonged usage under demanding conditions. These premium components contribute to the overall reliability and performance of the power supply, making it an excellent choice for enthusiasts and professionals alike. The NZXT C1200 80 Plus Gold Full Modular 1200 Watt Power Supply is a top-tier option for power-hungry systems, especially those equipped with high-end NVIDIA 40-series graphics cards. Its full modularity allows for clean cable management, and its high efficiency, quiet operation, and stringent quality standards make it a standout choice for users who prioritize performance, reliability, and noise reduction."
+            },
+            {
+                "title": "Buy NZXT C1200 80 Plus Gold Full Modular 1200 Watt Power Supply from the best Power Supply Shop in BD",
+                "details": "In Bangladesh, you can get original NZXT C1200 80 Plus Gold Full Modular 1200 Watt Power Supply From Star Gadget. We have a large collection of the latest NZXT Power Supply to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The NZXT C1200 80 Plus Gold Full Modular 1200 Watt Power Supply comes with 10 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of NZXT C1200 80 Plus Gold Full Modular 1200 Watt Power Supply in Bangladesh?",
+            "details": "The latest price of NZXT C1200 80 Plus Gold Full Modular 1200 Watt Power Supply in Bangladesh is 24,500৳. You can buy the NZXT C1200 80 Plus Gold Full Modular 1200 Watt Power Supply at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamingrig@example.com",
+                "review_comment": "Sleek and efficient power supply. Modular design makes cable management a breeze.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user7890@example.com",
+                "review_comment": "A bit on the pricey side, but it's worth it for a clean and organized build.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "power-supply",
+        "product_name": "Corsair HX1500i 1500W 80+ Platinum Full-Modular ATX Power Supply",
+        "price": 45000,
+        "regular_price": 49480,
+        "status": true,
+        "product_code": "00062",
+        "brand": "Corsair",
+        "image_url": "https://i.ibb.co/N6CGjp0/Corsair-HX1500i-1500-W-80-Platinum-Full-Modular-ATX-Power-Supply.jpg",
+        "rating": 4.8,
+        "features": {
+            "MPN": "CP-9020215-UK",
+            "Model": "HX1500i 1500W",
+            "Modular": "Fully Modular",
+            "Power (W)": "1500 Watts",
+            "Certifications": "80 Plus Platinum",
+            "Cooling": "Fluid Dynamic Bearing"
+        },
+        "specification": {
+            "Key Features": {
+                "Continuous Power": "1500 Watts",
+                "Certification": "80 PLUS Efficiency Platinum",
+                "Fan Size": "140mm Fluid Dynamic Bearing"
+            },
+            "Output": {
+                "Modular Type": "Fully Modular"
+            },
+            "Connector": {
+                "Main Power": "ATX Connector x1",
+                "CPU": "EPS12V Connector x 3",
+                "PCI-E": "PCIe Connector x 10",
+                "SATA": "SATA Connector x16"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "10 Years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Corsair HX1500i 1500W 80+ Platinum Full-Modular ATX Power Supply",
+                "details": "The Corsair HXi Series Fully Modular Power Supply is Ultra-Low Noise with three EPS12V connections and employs the finest quality components to produce 80 PLUS Platinum efficient power. With three EPS12V ports and completely modular wiring, HXi Series platinum power supplies provide every connection needed to support today's most demanding PC upgrades now and in the future, including the newest generation of power-hungry graphics cards and CPUs. The HXi Series PSUs have a 140mm fluid dynamic bearing fan with Zero RPM mode support for long-lasting fan performance and near-silent operation when the fan shuts off at low and medium loads, only spinning as fast as needed. HXi PSUs are 80 PLUS Platinum certified and use quality 100% Japanese 105°C electrolytic capacitors for outstanding power delivery and long-term dependability with low power consumption, reduced noise, and lower temperatures. CORSAIR iCUE software integrates your whole setup, resulting in a fully immersive ecology with straightforward control. The Corsair HX1500i 1500W 80+ Platinum Full-Modular ATX Power Supply comes with a 10-year warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Corsair HX1500i 1500W 80+ Platinum Full-Modular ATX Power Supply in Bangladesh?",
+            "details": "The latest price of Corsair HX1500i 1500W 80+ Platinum Full-Modular ATX Power Supply in Bangladesh is 45,000৳. You can buy the Corsair HX1500i 1500W 80+ Platinum Full-Modular ATX Power Supply at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "enthusiastpc@example.com",
+                "review_comment": "The Corsair HX1500i is an absolute beast! It provides a solid and stable power source for my high-end gaming rig. The full-modular design makes cable management a breeze, and the 80+ Platinum efficiency is a huge plus.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "systembuilder@example.com",
+                "review_comment": "I build PCs professionally, and this power supply is a go-to for my high-performance builds. The 1500W capacity ensures there's enough power for even the most demanding components. It's a reliable workhorse.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "gamer_x@example.com",
+                "review_comment": "The Corsair HX1500i is perfect for extreme gaming setups. It delivers clean and consistent power, ensuring my graphics card and CPU run at their best. Plus, the full-modular cables keep my case tidy.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "overclocker@example.com",
+                "review_comment": "I'm a dedicated overclocker, and this power supply can handle anything I throw at it. The efficiency rating means less wasted power and heat, which is crucial when pushing the limits of my hardware.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "power-supply",
+        "product_name": "ASUS ROG THOR 1600T 1600W 80Plus Titanium Full Modular Power Supply",
+        "price": 95000,
+        "regular_price": 104500,
+        "status": true,
+        "product_code": "00063",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/Lv6Nr3v/ASUS-ROG-Strix-1000-G-1000-W-80-Plus-Gold-Power-Supply.jpg",
+        "rating": 4.5,
+        "features": {
+            "MPN": "ROG-THOR-1600T-GAMING",
+            "Model": "ROG THOR 1600T",
+            "Capacity": "1600W",
+            "Efficiency": "80+ Platinum certification for energy efficiency",
+            "Certifications": "Lambda A++ Certification",
+            "Display": "OLED Power Display"
+        },
+        "specification": {
+            "Key Features": {
+                "Efficiency (Approx.)": "80Plus Platinum",
+                "Certification": "Lambda A++ Certification",
+                "Fan Size": "135mm Axial-tech fan with PWM control",
+                "Lighting Effect": "ARGB"
+            },
+            "Output": {
+                "Modular Type": "Fully modular",
+                "Total Power": "1600W",
+                "Peak Power": "20A 20A 133.3A 0.3A 3A",
+                "AC Input": "100-240Vac",
+                "DC Output": "+3.3V +5V +12V -12V +5Vsb"
+            },
+            "Connector": {
+                "Main Power": "MB 24/20-pin x 1",
+                "CPU": "CPU 4+4-pin x 2",
+                "PCI-E": "PCI-E 12-pin x 1, PCI-E 6+2-pin x 8",
+                "SATA": "SATA x 12",
+                "Molex": "PERIPHERAL x 6"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "10 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASUS ROG THOR 1600T 1600W 80Plus Titanium Full Modular Power Supply",
+                "details": "The ASUS ROG THOR 1600T is a high-performance power supply designed for extreme gaming and computing setups. It is equipped with top-of-the-line features and premium components to deliver maximum power efficiency, superior cooling, and reduced noise levels. To achieve the prestigious 80 Plus Titanium Certification, the power supply is constructed with 100% Japanese capacitors and other high-quality components. This ensures exceptional power efficiency and reliability, making it an ideal choice for power-hungry systems. The ROG THOR 1600T is known for its ROG heatsinks, which cover critical components and contribute to lower temperatures. By effectively dissipating heat, these heatsinks not only enhance the power supply's performance but also help to minimize operational noise. The power supply is equipped with a 135mm Axial-tech fan that features PWM control. This advanced cooling system not only delivers effective heat dissipation but also operates at reduced noise levels. The fan adjusts its speed according to the thermal demands, keeping the system cool without creating unnecessary noise. The ASUS ROG THOR 1600T features an OLED display, which provides real-time monitoring of power draw. This allows users to keep track of power consumption and ensure that their system is running optimally. The power supply incorporates Gallium nitride (GaN) MOSFETs, which offer improved efficiency and lower switching losses compared to traditional silicon transistors. This enables the ROG THOR 1600T to deliver massive amounts of current while minimizing wasteful energy consumption. To ensure precise control and rapid response to load changes, a digital controller is integrated into the power supply, enabling lightning-fast adjustments to the GaN power array. The PWM-controlled Axial-tech fan is designed to optimize airflow, allowing it to move 21% more air compared to conventional fans. This results in efficient cooling for critical components, even at lower fan speeds. Additionally, when the PSU load is below 50%, the fan automatically shuts off, further reducing noise levels during low-demand scenarios. The ASUS ROG THOR 1600T 1600W 80Plus Titanium Full Modular Power Supply is a top-of-the-line choice for enthusiasts and gamers who demand exceptional performance, efficient power delivery, effective cooling, and reduced noise levels. With its premium components, advanced features, and thoughtful design, it stands as a powerful solution for high-end rigs that require nothing short of the best."
+            },
+            {
+                "title": "Buy ASUS ROG THOR 1600T 1600W 80Plus Titanium Full Modular Power Supply from the best Power Supply Shop in BD",
+                "details": "In Bangladesh, you can get the original ASUS ROG THOR 1600T 1600W 80Plus Titanium Full Modular Power Supply from Star Gadget. We have a large collection of the latest ASUS Power Supply to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The ASUS ROG THOR 1600T 1600W 80Plus Titanium Power Supply comes with 10 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASUS ROG THOR 1600T 1600W 80Plus Titanium Power Supply in Bangladesh?",
+            "details": "The latest price of ASUS ROG THOR 1600T 1600W 80Plus Titanium Power Supply in Bangladesh is 95,000৳. You can buy the ASUS ROG THOR 1600T 1600W 80Plus Titanium Power Supply at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "pcbuilder123@example.com",
+                "review_comment": "Outstanding power supply! Keeps my high-end rig running smoothly.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "gamerguy456@example.com",
+                "review_comment": "A bit pricey but worth every penny. The OLED display is a cool feature.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "power-supply",
+        "product_name": "MSI MEG Ai1300P PCIE5 1300W 80 Plus Platinum Fully Modular Power Supply",
+        "price": 36500,
+        "regular_price": 39500,
+        "status": true,
+        "product_code": "00064",
+        "brand": "MSI",
+        "rating": 4.5,
+        "image_url": "https://i.ibb.co/Lv6Nr3v/ASUS-ROG-Strix-1000-G-1000-W-80-Plus-Gold-Power-Supply.jpg",
+        "features": {
+            "Model": "MEG Ai1300P PCIE5",
+            "Output Capacity": "1300W",
+            "Modular": "Full modular design",
+            "Efficiency Rating": "80 PLUS Platinum (up to 92%)",
+            "Supports": "Supports Nvidia GeForce RTX 40 Series GPU"
+        },
+        "specification": {
+            "Key Features": {
+                "Continuous Power": "1200W",
+                "Efficiency (Approx.)": "92%",
+                "Certification": "80 PLUS Platinum",
+                "Fan Size": "120mm hydraulic bearing fan"
+            },
+            "Input": {
+                "Voltage": "100-240~",
+                "Frequency Range": "50Hz - 60Hz"
+            },
+            "Output": {
+                "Modular Type": "Fully Modular",
+                "Total Power": "1300W",
+                "Peak Power": "2600W (*up to 200% of the PSU's rated power for 100μs)"
+            },
+            "Connector": {
+                "Main Power": "24Pin",
+                "CPU": "ATX (20+4PIN) x 1",
+                "PCI-E": "PCI-E 5.0 (16 pin) x 1 (600W), PCI-E (6+2 pin) x 8",
+                "SATA": "SATA (15 pin) x 16",
+                "Molex": "4Pin x 4",
+                "Floppy": "1"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "10 Years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "MSI MEG Ai1300P PCIE5 1300W 80 Plus Platinum Fully Modular Power Supply",
+                "details": "The MSI MEG Ai1300P PCIE5 1300W Power Supply is a cutting-edge solution designed to meet the power demands of high-performance gaming and computing systems. This power supply is engineered to deliver outstanding performance, efficiency, and reliability to ensure your system operates at its best. The MSI MEG Ai1300P features full support for Nvidia GeForce RTX™ 40 Series graphics cards, making it an excellent choice for gamers and content creators looking to harness the power of the latest GPU technology. With ATX 3.0 support, this power supply is compatible with a wide range of motherboards, ensuring seamless integration into your system setup. The PCIe 5.0 readiness and native 16-pin connector guarantee high-speed data transfer and efficient power delivery to the latest PCIe 5.0 compatible devices. This power supply is its software synchronization capability with MSI Center. Through the MSI Center software, you can monitor and control various aspects of your system, including power usage and efficiency, providing an optimized and efficient computing experience. The fully modular design allows for easy cable management, enabling you to use only the cables you need, reducing clutter, and improving airflow within your case. Moreover, the inclusion of sleeve cables adds a touch of style to your build while maintaining a clean and organized appearance. The MSI MEG Ai1300P boasts an 80 PLUS Platinum certification, ensuring that it operates at high-efficiency levels, converting more power from the outlet into usable energy for your components. This not only reduces electricity consumption but also minimizes heat output, leading to quieter and cooler operation. Reliability is a priority, and this power supply delivers 100% Japanese 105°C capacitors and an Active PFC (Power Factor Correction) design, enhancing stability and longevity. Additionally, the power supply features an industrial-level protection system with OVP (Over Voltage Protection), OCP (Over Current Protection), OPP (Over Power Protection), OTP (Over Temperature Protection), SCP (Short Circuit Protection), and UVP (Under Voltage Protection). These protections safeguard your components from potential damage caused by electrical anomalies. The implementation of an LLC Half Bridge Topology with DC-DC module design ensures precise and efficient power delivery to your components, contributing to overall system stability and performance. The MSI MEG Ai1300P PCIE5 1300W 80 Plus Platinum Fully Modular Power Supply is a premium choice for enthusiasts and professionals seeking a reliable and high-performance power solution for their gaming and computing systems. With its top-notch features and advanced technologies, it sets a new standard for power supplies in the market."
+            },
+            {
+                "title": "Buy MSI MEG Ai1300P PCIE5 1300W 80 Plus Platinum Fully Modular Power Supply from the best Power Supply Shop in BD",
+                "details": "In Bangladesh, you can get the original MSI MEG Ai1300P PCIE5 1300W 80 Plus Platinum Fully Modular Power Supply from Star Gadget. We have a large collection of the latest MSI Power Supply to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The MSI MEG Ai1300P PCIE5 1300W 80 Plus Platinum Power Supply comes with 10 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of MSI MEG Ai1300P PCIE5 1300W 80 Plus Platinum Power Supply in Bangladesh?",
+            "details": "The latest price of MSI MEG Ai1300P PCIE5 1300W 80 Plus Platinum Power Supply in Bangladesh is 36,500৳. You can buy the MSI MEG Ai1300P PCIE5 1300W 80 Plus Platinum Power Supply at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Outstanding power supply! Great for gaming and high-performance tasks.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "I love the fully modular design and the 80 PLUS Platinum efficiency.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "power-supply",
+        "product_name": "ASUS ROG LOKI SFX-L 1000W 80 Plus Platinum Power Supply",
+        "price": 35500,
+        "regular_price": 39050,
+        "status": true,
+        "product_code": "00065",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/Lv6Nr3v/ASUS-ROG-Strix-1000-G-1000-W-80-Plus-Gold-Power-Supply.jpg",
+        "rating": 3.9,
+        "features": {
+            "MPN": "ROG-LOKI-1000P-SFX-L-GAMING",
+            "Model": "ROG LOKI SFX-L 1000W",
+            "Intel Form Factor": "SFX-L",
+            "Capacity": "1000W",
+            "Efficiency": "80Plus Platinum",
+            "AURA SYNC": "ARGB"
+        },
+        "specification": {
+            "Key Features": {
+                "Efficiency (Approx.)": "90% at 20% Load, 92% at 50% Load, 89% at 100% Load",
+                "Certification": "80Plus Platinum Certification",
+                "Fan Size": "120 mm",
+                "Lighting Effect": "ARGB"
+            },
+            "Output": {
+                "Modular Type": "Fully modular",
+                "Total Power": "1000W",
+                "AC Input": "100-240Vac",
+                "DC Output": "+3.3V +5V +12V -12V +5Vsb"
+            },
+            "Connector": {
+                "Main Power": "24/20-pin x 1",
+                "CPU": "4+4-pin x 2",
+                "PCI-E": "PCI-E 16-pin x 1, PCI-E 8-pin x 3",
+                "SATA": "SATA x 6",
+                "PERIPHERAL": "PERIPHERAL x 4"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "10 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASUS ROG LOKI SFX-L 1000W 80 Plus Platinum Power Supply",
+                "details": "The ASUS ROG LOKI SFX-L 1000W 80 Plus Platinum Power Supply is a high-performance power supply designed for Intel Form Factor and ATX 3.0 standards. With dimensions of 125 x 125 x 63.5 mm, it is a compact power supply that fits easily into small-form-factor builds. It has an efficiency rating of 80Plus Platinum, which means it is highly efficient and reduces energy consumption. The ASUS ROG LOKI SFX-L 1000W 80 Plus Platinum Power Supply comes equipped with a range of protection features, including OPP/OVP/UVP/SCP/OCP/OTP, ensuring that your system components remain safe from overloading, short-circuits, and other potential hazards. It also meets ROHS standards, making it free from hazardous materials that can harm the environment. This power supply has an AC input range of 100-240Vac and a DC output voltage of +3.3V, +5V, +12V, -12V, and +5Vsb, with a maximum load of 20A, 20A, 62.5A, 0.8A, and 2.5A respectively. The combined load capacity is 110W, 110W, 1000W, 9.6W, and 12.5W. The total output power is 1000W, which is sufficient for most high-end gaming PCs and workstations. The ASUS ROG LOKI SFX-L 1000W 80 Plus Platinum Power Supply comes with a range of connectors, including MB 24/20-pin x 1, CPU 4+4-pin x 2, PCI-E 16-pin x 1, PCI-E 8-pin x 3, SATA x 6, and PERIPHERAL x 4, making it compatible with a wide range of motherboards and other components. It also features AURA SYNC and ARGB lighting for customizable aesthetics and an 0dB fan button for silent operation."
+            },
+            {
+                "title": "Buy ASUS ROG LOKI SFX-L 1000W 80 Plus Platinum Power Supply from the best Power Supply Shop in BD",
+                "details": "In Bangladesh, you can get original ASUS ROG LOKI SFX-L 1000W 80 Plus Platinum Power Supply from Star Gadget. We have a large collection of the latest ASUS Power Supply to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The ASUS ROG LOKI SFX-L 1000W Power Supply comes with 10 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASUS ROG LOKI SFX-L 1000W 80 Plus Platinum Power Supply in Bangladesh?",
+            "details": "The latest price of ASUS ROG LOKI SFX-L 1000W 80 Plus Platinum Power Supply in Bangladesh is 35,500৳. You can buy the ASUS ROG LOKI SFX-L 1000W 80 Plus Platinum Power Supply at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "customer1@example.com",
+                "review_comment": "Great power supply for my compact PC. Efficient and quiet operation.",
+                "user_rating": 4
+            },
+            {
+                "user_email": "customer2@example.com",
+                "review_comment": "High-quality build and good value for the price. Happy with my purchase.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "power-supply",
+        "product_name": "ASUS TUF Gaming 1200G 1200W 80 Plus Gold Full Modular Power Supply",
+        "price": 34000,
+        "regular_price": 37400,
+        "status": true,
+        "product_code": "00066",
+        "brand": "Asus",
+        "rating": 4.2,
+        "image_url": "https://i.ibb.co/Lv6Nr3v/ASUS-ROG-Strix-1000-G-1000-W-80-Plus-Gold-Power-Supply.jpg",
+        "features": {
+            "MPN": "TUF-GAMING-1200G",
+            "Model": "TUF Gaming 1200G",
+            "Total Output": "1200W",
+            "Intel Form Factor": "ATX12V",
+            "Efficiency": "80Plus Gold",
+            "Protection Features": "OPP/OVP/UVP/SCP/OCP/OTP"
+        },
+        "specification": {
+            "Key Features": {
+                "Efficiency (Approx.)": "80Plus Gold",
+                "Fan Size": "135mm"
+            },
+            "Output": {
+                "Modular Type": "Fully modular",
+                "Total Power": "1200W",
+                "Peak Power": "25A 25A 99A 0.8A 3A",
+                "AC Input": "100-240Vac",
+                "DC Output": "+3.3V +5V +12V -12V +5Vsb"
+            },
+            "Connector": {
+                "Main Power": "24/20-pin x 1",
+                "CPU": "4+4-pin x 2",
+                "PCI-E": "PCI-E 16-pin x 1, PCI-E 8-pin x 4",
+                "SATA": "5"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "10 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASUS TUF Gaming 1200G 1200W 80 Plus Gold Full Modular Power Supply",
+                "details": "The ASUS TUF Gaming 1200G 1200W 80 Plus Gold Power Supply will take your gaming setup to new heights. This outstanding power supply unit exemplifies longevity, performance, and dependability. It has gained Military-grade Certification owing to capacitors and chokes that have passed extensive tests, assuring that it can withstand even the most demanding gameplay circumstances. Its dual ball fan bearings offer unmatched longevity, potentially lasting up to twice as long as traditional designs. Moreover, it's built to withstand extreme environments, thanks to a protective PCB coating that shields against moisture, dust, and extreme temperatures. With an 80 Plus Gold Certification, it delivers both efficiency and reliability, backed by premium Japanese capacitors and high-quality components. The innovative axial-tech fan design keeps your system cool during intense gaming sessions, while fully modular etched cables simplify cable management. With military-grade components, including capacitors rated for 105°C operation and a remarkable lifespan of up to 170,000 hours, the ASUS TUF Gaming 1200W Gold Power Supply empowers you to build your gaming setup with unwavering confidence."
+            },
+            {
+                "title": "Buy ASUS TUF Gaming 1200G 1200W 80 Plus Gold Full Modular Power Supply Shop in BD",
+                "details": "In Bangladesh, you can get original ASUS TUF Gaming 1200G 1200W 80 Plus Gold Full Modular Power Supply From Star Gadget. We have a large collection of the latest ASUS Power Supply to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The ASUS TUF Gaming 1200G 1200W 80 Plus Gold Power Supply comes with 10 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASUS TUF Gaming 1200G 1200W 80 Plus Gold Power Supply in Bangladesh?",
+            "details": "The latest price of ASUS TUF Gaming 1200G 1200W 80 Plus Gold Power Supply in Bangladesh is 34,000৳. You can buy the ASUS TUF Gaming 1200G 1200W 80 Plus Gold Power Supply at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamer123@example.com",
+                "review_comment": "Great power supply for gaming rigs. Highly efficient and reliable.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "pcbuilder456@example.com",
+                "review_comment": "Reliable and sturdy PSU. The modular design is a plus.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "power-supply",
+        "product_name": "MSI MPG A750GF 750W 80 Plus Gold Full Modular Power Supply",
+        "price": 11600,
+        "regular_price": 12203,
+        "status": true,
+        "product_code": "00067",
+        "brand": "MSI",
+        "rating": 4.8,
+        "image_url": "https://i.ibb.co/Lv6Nr3v/ASUS-ROG-Strix-1000-G-1000-W-80-Plus-Gold-Power-Supply.jpg",
+        "features": {
+            "Model": "MPG A750GF 750W",
+            "Supports": "NVIDIA GeForce RTX 30 Series GPUs",
+            "Cable Design": "Fully modular cable design",
+            "Capacitor": "Japanese 105oC capacitor",
+            "Certification": "80 Plus Gold Certification"
+        },
+        "specification": {
+            "Key Features": {
+                "Efficiency (Approx.)": "Up to 90%",
+                "Certification": "80 Plus Gold",
+                "Fan Size": "140 mm"
+            },
+            "Input": {
+                "Voltage": "100~240 Vac",
+                "Frequency Range": "47Hz ~ 63Hz",
+                "Current": "115Vac/ 10.0A max. 230Vac/5.0A max."
+            },
+            "Output": {
+                "Modular Type": "Fully Modular",
+                "Total Power": "1000W"
+            },
+            "Connector": {
+                "Main Power": "ATX CONNECTOR x1",
+                "CPU": "EPS CONNECTOR x2",
+                "PCI-E": "PCI-E CONNECTOR x6",
+                "SATA": "SATA CONNECTOR x8",
+                "Floppy": "PERIPHERAL / FDD CONNECTOR x5"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "10 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "MSI MPG A750GF 750W 80 Plus Gold Full Modular Power Supply",
+                "details": "The MSI MPG A750GF 750W Power Supply is a powerhouse able to support even the latest graphics card and provide an abundant source of dedicated power. The power supply is rated with an 80 Plus Gold rating that has a power supply efficiency of above 90%. The capacitors used in the MSI MPG A750GF 750W Power Supply are all Japanese that are able to withstand 105Â° C temperature.  It enables the power supply to provide the cleanest of power without any hiccups. The connecting plugs have copper connector terminals to improve the flow of current rapidly and efficiently without any loss."
+            },
+            {
+                "title": "Support for All",
+                "details": "The MPG gaming power supply can support the NVIDIA GeForce RTXâ„¢ 30/20 Series and AMD GPUs. Prepared for the highest of requirements, the MPG power supplyâ€™s IO supports can support different and versatile ways of connection according to the power connector design of different graphics cards."
+            },
+            {
+                "title": "Only Power Supply You Need",
+                "details": "Organizing cables are often the most bothersome part of building a PC. With the MPG gaming power supplyâ€™s fully modular design, it means that only the connectors required by the build need to be used, significantly reducing cable clutter and simplifying the systemâ€™s overall build."
+            },
+            {
+                "title": "Best Managed PC",
+                "details": "All of the MPG gaming power supply cables are flat and in black. The flat cables make cable management easier and less of a headache! Thanks to the flat cables, the entire system can be more organized and has more room for unobstructed airflow. Use the cables you need, and store the rest in the included cable bag."
+            },
+            {
+                "title": "High Rate of Power Delivery",
+                "details": "The MPG gaming power supplyâ€™s 160mm-long and 150mm-wide dimensions ensure a comfortable and easy fit in most PC cases, effectively providing more space for cable management and airflow to the rest of the system."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of MSI MPG A750GF 750W Power Supply in Bangladesh?",
+            "details": "The latest price of MSI MPG A750GF 750W Power Supply in Bangladesh is 11,600৳. You can buy the MSI MPG A750GF 750W Power Supply at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamingpro456@example.com",
+                "review_comment": "Fantastic power supply! The cooling performance is top-notch, and it's super quiet.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "pcbuilder789@example.com",
+                "review_comment": "This PSU is worth every penny. The 140 mm fan is a game-changer for cooling.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "power-supply",
+        "product_name": "Corsair RM1200x SHIFT 1200W 80 PLUS Gold Fully Modular ATX Power Supply",
+        "price": 27300,
+        "regular_price": 31350,
+        "status": true,
+        "product_code": "00068",
+        "brand": "Corsair",
+        "rating": 4.8,
+        "image_url": "https://i.ibb.co/Lv6Nr3v/ASUS-ROG-Strix-1000-G-1000-W-80-Plus-Gold-Power-Supply.jpg",
+        "features": {
+            "MPN": "CP-9020254-NA",
+            "Model": "RM1200x SHIFT",
+            "Continuous Power": "1200 Watt",
+            "Fan Size": "140mm",
+            "Efficiency": "80 PLUS Gold",
+            "Modular": "Fully modular"
+        },
+        "specification": {
+            "Key Features": {
+                "Continuous Power": "1200 Watts",
+                "Efficiency (Approx.)": "80 PLUS Efficiency Gold",
+                "Fan Size": "140mm"
+            },
+            "Output": {
+                "Modular Type": "Fully",
+                "Total Power": "1200W",
+                "AC Input": "100–240V"
+            },
+            "Connector": {
+                "Main Power": "3 x ATX12V Version",
+                "PCI-E": "8",
+                "SATA": "16",
+                "Floppy": "1"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "5 years warranty"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Corsair RM1200x SHIFT 1200W 80 PLUS Gold Fully Modular ATX Power Supply",
+                "details": "The Corsair RM1200x SHIFT 1200W Fully Modular Power Supply has a novel side cable interface that keeps all of your connections within easy reach, resulting in extraordinarily convenient 80 PLUS Gold efficiency. RMx SHIFT simplifies clean PC builds and upgrades with completely modular micro-fit connectors and ATX 3.0 compatibility. RMx SHIFT power supplies feature Japanese 105°C-rated electrolytic capacitors for extended life and durability, which are supported by a ten-year guarantee. A 140mm fluid dynamic bearing fan employs a precisely designed fan curve for maximum performance and dependability while producing little noise, and Zero RPM mode support provides almost silent operation at low and medium loads. Put an RMx SHIFT Series PSU on your side for quiet, efficient, and easily available power."
+            },
+            {
+                "title": "ATX 3.0 Certified",
+                "details": "The Corsair RM1200x SHIFT 1200W Fully Modular Power Supply ATX 3.0 standard necessitates a high level of dependability and power economy. While many CORSAIR PSUs fulfill these specifications, the RMx SHIFT Series PSUs are specifically approved for ATX 3.0 compliance. PCIe 5.0 12VHPWR GPU connections are supplied for usage with contemporary graphics cards such as the NVIDIA GeForce RTX 40 Series."
+            },
+            {
+                "title": "Corsair Type 5 Micro-Fit Connectors",
+                "details": "The Corsair RM1200x SHIFT 1200W Fully Modular Power Supply Type 5 Gen 1 PSU connections are micro-fit, allowing you to connect only the cables your system needs while taking up less space."
+            },
+            {
+                "title": "140mm FAN With Zero RPM Mode Support",
+                "details": "The Corsair RM1200x SHIFT 1200W Fully Modular Power Supply A low-friction, fluid dynamic bearing 140mm fan with Zero RPM mode support keeps your PSU cool while being almost silent when not under high load."
+            },
+            {
+                "title": "80 Plus Gold Certified",
+                "details": "The Corsair RM1200x SHIFT1200W Fully Modular Power Supply delivers consistent power at up to 90% efficiency and is Cybernetics-certified for lower power consumption, less noise, and cooler temperatures."
+            },
+            {
+                "title": "105°C-RATED CAPACITORS",
+                "details": "The Corsair RM1200x SHIFT 1200W Fully Modular Power Supply is constructed with 100% Industrial-grade, 105°C-rated Japanese electrolytic capacitors for consistent power and dependability."
+            },
+            {
+                "title": "Case Compatibility",
+                "details": "The power supply and connections are compatible with any PC case that supports the ATX PSU standard and is at least 210mm (8.3\") wide. When placed in the case, the PSU must also be accessible from the side."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Corsair RM1200x SHIFT 1200W Fully Modular Power Supply in Bangladesh?",
+            "details": "The latest price of Corsair RM1200x SHIFT 1200W Fully Modular Power Supply in Bangladesh is 27,300৳. You can buy the Corsair RM1200x SHIFT 1200W Fully Modular Power Supply at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamer456@example.com",
+                "review_comment": "Excellent power supply, very reliable and efficient.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "pcbuilder789@example.com",
+                "review_comment": "Great choice for gaming rigs, the modular design is a plus.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "power-supply",
+        "product_name": "ASUS TUF Gaming 1000G 1000W 80 Plus Gold Power Supply",
+        "price": 27000,
+        "regular_price": 29700,
+        "status": true,
+        "product_code": "00069",
+        "brand": "Asus",
+        "rating": 4.6,
+        "image_url": "https://i.ibb.co/Lv6Nr3v/ASUS-ROG-Strix-1000-G-1000-W-80-Plus-Gold-Power-Supply.jpg",
+        "features": {
+            "MPN": "TUF-GAMING-1000G",
+            "Model": "TUF Gaming 1000G",
+            "Total Output": "1000W",
+            "Intel Form Factor": "ATX12V",
+            "Efficiency": "80Plus Gold",
+            "Protection Features": "OPP/OVP/UVP/SCP/OCP/OTP"
+        },
+        "specification": {
+            "Key Features": {
+                "Efficiency (Approx.)": "80Plus Gold",
+                "Fan Size": "135mm"
+            },
+            "Output": {
+                "Modular Type": "Fully modular",
+                "Total Power": "1000W",
+                "Peak Power": "25A 25A 83.3A 0.8A 3A",
+                "AC Input": "100-240Vac",
+                "DC Output": "+3.3V +5V +12V -12V +5Vsb"
+            },
+            "Connector": {
+                "Main Power": "24/20-pin x 1",
+                "CPU": "4+4-pin x 2",
+                "PCI-E": "PCI-E 16-pin x 1, PCI-E 8-pin x 4",
+                "SATA": "5"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "10 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASUS TUF Gaming 1000G 1000W 80 Plus Gold Power Supply",
+                "details": "The ASUS TUF Gaming 1000G 1000W 80 Plus Gold Power Supply is a top-of-the-line PSU that delivers efficient and reliable power to your gaming rig. But not just any ordinary power supply, the TUF Gaming 1000W Gold is specifically designed to withstand the test of time. Its feature of this power supply is its Military-grade Certification, achieved through rigorous tests performed on its capacitors and chokes. This ensures that the PSU can endure harsh environments and conditions, making it a resilient and dependable choice. the dual ball fan bearings of the TUF Gaming 1000W Gold are built to last up to twice as long as sleeve bearing designs. This means that you can count on the PSU to keep your system running smoothly for years to come. The power supply is also equipped with a protective PCB coating that safeguards against moisture, dust, and extreme temperatures, further enhancing its durability and longevity. The 80 Plus Gold Certification is a testament to the quality of the Japanese capacitors and other premium components used in the power supply. This certification means that the PSU is highly efficient, consuming less power and producing less heat than lower-rated power supplies. The axial-tech fan design of the TUF Gaming 1000W Gold features a smaller fan hub that allows for longer blades, resulting in improved airflow and reduced noise. The barrier ring around the fan increases downward air pressure, further improving cooling performance. To keep your gaming rig organized and clutter-free, the TUF Gaming 1000W Gold comes with fully modular etched cables that can be easily removed or added as needed."
+            },
+            {
+                "title": "Buy ASUS TUF Gaming 1000G 1000W 80 Plus Gold Power Supply from the best Power Supply Shop in BD",
+                "details": "In Bangladesh, you can get original ASUS TUF Gaming 1000G 1000W 80 Plus Gold Power Supply From Star Gadget. We have a large collection of the latest ASUS Power Supply to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The ASUS TUF Gaming 1000G 1000W 80 Plus Gold Power Supply comes with 10 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASUS TUF Gaming 1000G 1000W 80 Plus Gold Power Supply in Bangladesh?",
+            "details": "The latest price of ASUS TUF Gaming 1000G 1000W 80 Plus Gold Power Supply in Bangladesh is 27,000৳. You can buy the ASUS TUF Gaming 1000G 1000W 80 Plus Gold Power Supply at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamer456@example.com",
+                "review_comment": "Reliable and efficient power supply. Handles demanding games with ease.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "pcenthusiast789@example.com",
+                "review_comment": "The modular design is a lifesaver for cable management. Highly recommended!",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "power-supply",
+        "product_name": "Antec Signature PLATINUM 1300 1300W 80 Plus Platinum Fully Modular Power Supply",
+        "price": 27000,
+        "regular_price": 29080,
+        "status": true,
+        "product_code": "00070",
+        "brand": "Antec",
+        "image_url": "https://i.ibb.co/Lv6Nr3v/ASUS-ROG-Strix-1000-G-1000-W-80-Plus-Gold-Power-Supply.jpg",
+        "features": {
+            "MPN": "X8000A506-18",
+            "Model": "SP1300 Platinum",
+            "Output Capacity": "1300W",
+            "Fan": "135 x 135 x 25(mm) FDB Silent Fan",
+            "Certifications": "80 Plus Platinum",
+            "Type": "ATX, Fully Modular"
+        },
+        "specification": {
+            "Key Features": {
+                "Efficiency (Approx.)": "At 20% / 50% / 100% load AC 115V internal, the power efficiency should be at least 90% / 92% / 89%",
+                "Certification": "80 Plus Platinum",
+                "Fan Size": "135 x 135 x 25(mm) FDB Silent Fan"
+            },
+            "Input": {
+                "Voltage": "100-240",
+                "Frequency Range": "47Hz ~ 63Hz",
+                "Current": "15A ~ 7.5A"
+            },
+            "Output": {
+                "Modular Type": "Fully",
+                "Total Power": "1300W"
+            },
+            "Connector": {
+                "Main Power": "1 x MB 24(20+4) Pin",
+                "CPU": "2 x 8(4+4) Pin EPS 12V",
+                "PCI-E": "12 x 8(6+2) Pin PCI-E",
+                "SATA": "14 x SATA",
+                "Molex": "5 x Molex",
+                "Floppy": "1 x FDD"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "10 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "Antec Signature PLATINUM 1300 1300W 80 Plus Platinum Fully Modular Power Supply",
+                "details": "The Antec Signature PLATINUM 1300 is an 80 Plus Platinum Power Supply that is equipped with superior features that ensure peak performance for the enthusiast and gaming-oriented segment, the Signature power supply Series boasts unparalleled stability and 80 PLUS Platinum-certified efficiencies. At 20% / 50% / 100% load AC 115V internal, the power efficiency should be at least 90% / 92% / 89%. It has an output capacity of 1300w. Advanced thermal control with the Zero RPM mode enables the optimal balance between silence and cooling. It ensures a longer-lasting and quieter system by using thermal sensors to activate the fan only when you need it. The CircuitShield suite of industrial-grade protections ensures that the power delivered to your system is safe and reliable in any environment. Signature Series are a great choice for a reliable and efficient PC system for gamers and professionals. The Antec Signature PLATINUM 1300 features whisper-quiet, fluid dynamic bearing 135mm fan that provides high airflow with durability and longevity. It also has a server-class full-bridge LLC design with a synchronous rectification based on a DC-DC topology. It allows 2 Signature PSUs to work in tandem to power the most demanding systems. It is a fully modular PSU. It enables users to use only the cables which are needed and help clear out excess cables that can obstruct and reduce airflow. The Antec Signature PLATINUM 1300 comes with 10 years of warranty."
+            },
+            {
+                "title": "Buy Antec Signature PLATINUM 1300 80 Plus Platinum Power Supply in BD",
+                "details": "In Bangladesh, you can get the original Antec Signature PLATINUM 1300 80 Plus Platinum Power Supply From Star Gadget. We have a large collection of the latest Antec Power Supply to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Antec Signature PLATINUM 1300 80 Plus Platinum Power Supply in Bangladesh?",
+            "details": "The latest price of Antec Signature PLATINUM 1300 80 Plus Platinum Power Supply in Bangladesh is 27,000৳. You can buy the Antec Signature PLATINUM 1300 80 Plus Platinum Power Supply at the best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamemaster@example.com",
+                "review_comment": "Excellent power supply with great efficiency and reliability. Highly recommended!",
+                "user_rating": 4.7
+            }
+        ]
+    },
+    {
+        "category": "power-supply",
+        "product_name": "MSI MPG A1000G 1000W 80 Plus Gold Full Modular Power Supply",
+        "price": 19500,
+        "regular_price": 20890,
+        "status": true,
+        "product_code": "00071",
+        "brand": "MSI",
+        "image_url": "https://i.ibb.co/Lv6Nr3v/ASUS-ROG-Strix-1000-G-1000-W-80-Plus-Gold-Power-Supply.jpg",
+        "features": {
+            "Model": "MPG A1000G 1000W",
+            "Output Capacity": "1000W",
+            "Fan Bearing": "Fluid Dynamic Bearing",
+            "Efficiency Rating": "80 PLUS Gold (up to 90%)",
+            "Supports": "NVIDIA GeForce RTX 30 Series GPUs"
+        },
+        "specification": {
+            "Key Features": {
+                "Efficiency (Approx.)": "Up to 90%",
+                "Certification": "80 Plus Gold",
+                "Fan Size": "135 mm"
+            },
+            "Input": {
+                "Voltage": "100~240 Vac",
+                "Frequency Range": "50~60 Hz"
+            },
+            "Output": {
+                "Modular Type": "Fully Modular",
+                "Total Power": "1000W"
+            },
+            "Connector": {
+                "Main Power": "ATX CONNECTOR x1",
+                "CPU": "EPS CONNECTOR x2",
+                "PCI-E": "PCI-E CONNECTOR x 7",
+                "SATA": "SATA CONNECTOR x 12",
+                "Molex": "4",
+                "Floppy": "PERIPHERAL / FDD CONNECTOR x 1"
+            },
+            "Warranty Information": {
+                "Manufacturing Warranty": "10 Years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "MSI MPG A1000G 1000W 80 Plus Gold Full Modular Power Supply",
+                "details": "The MSI MPG A1000G 1000W 80 Plus Gold Full Modular Power Supply is a high-quality power supply unit designed to run your Computer components dependably and efficiently. This power supply unit is particularly designed to support the NVIDIA GeForce RTX 30 Series GPUs, ensuring that your gaming or graphic design system functions smoothly and without power problems. The fully modular cable design of the MSI MPG A1000G 80 Plus Gold Full Modular Power Supply ensures that you can easily manage and connect cables as needed, while the flat cable equipment allows for easy cable routing and improved airflow within your PC case. The 80 Plus Gold certification of the power supply ensures high efficiency, with up to 90% energy conversion efficiency at 50% load. This translates to less energy wasted as heat, leading to a more cost-effective and eco-friendly system. The MSI MPG A1000G 80 Plus Gold Full Modular Power Supply also features 100% all Japanese 105oC capacitors, ensuring long-lasting and stable performance even under heavy loads. The active PFC design further enhances power efficiency by correcting power factors to reduce power loss. This power supply has an industrial-level protection system with OVP (Over Voltage Protection), OCP (Over Current Protection), OPP (Over Power Protection), OTP (Over Temperature Protection), SCP (Short Circuit Protection), and UVP (Under Voltage Protection), ensuring your system is well-protected from any unexpected power-related issues. The power supply's LLC Half Bridge Topology with DC-DC module design ensures stable and reliable power delivery, while also improving efficiency and reducing noise levels. The MSI MPG A1000G 80 Plus Gold Full Modular Power Supply is an excellent choice for anyone looking for a high-quality power supply unit for their PC."
+            },
+            {
+                "title": "Buy MSI MPG A1000G 1000W 80 Plus Gold Full Modular Power Supply from the best Power Supply Shop in BD",
+                "details": "In Bangladesh, you can get original MSI MPG A1000G 1000W 80 Plus Gold Full Modular Power Supply From Star Gadget. We have a large collection of the latest MSI Power Supply to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The MSI MPG A1000G 1000W Power Supply comes with 10 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of MSI MPG A1000G 1000W Power Supply in Bangladesh?",
+            "details": "The latest price of MSI MPG A1000G 1000W Power Supply in Bangladesh is 19,500৳. You can buy the MSI MPG A1000G 1000W Power Supply at best price from our website or visit any of our showrooms."
+        },
+        "questions": [],
+        "reviews": [
+            {
+                "user_email": "gamemaster@example.com",
+                "review_comment": "MSI MPG A1000G is an excellent power supply with great efficiency and reliability. Highly recommended!",
+                "user_rating": 4.7
+            }
+        ]
+    }
+]

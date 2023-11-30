@@ -1,0 +1,413 @@
+[
+    {
+        "category": "gimbal",
+        "product_name": "DJI RS 3 Pro Gimbal Stabilizer Combo",
+        "price": 121000,
+        "regular_price": 133100,
+        "status": true,
+        "product_code": "00360",
+        "brand": "Dji",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "RS 3 Pro",
+            "Stabilization": "3rd-Gen DJI RS Stabilization Algorithm",
+            "Arms": "Extended carbon fiber axis arms",
+            "Payload": "4.5kg (10lbs) max tested payload",
+            "Display": "1.8\" OLED full-color touchscreen",
+            "Features": "Automated Axis Locks"
+        },
+        "specification": {
+            "General": {
+                "Dimension": [
+                    "16.3 x 8.6 x 7.7\" / 415 x 218 x 195 mm",
+                    "10.9 x 10.6 x 2.7\" / 276 x 268 x 68 mm (Folded)"
+                ],
+                "Weight": "2.5 lb / 1143 g",
+                "Model": "RS 3 Pro",
+                "Compatibility": [
+                    "On Compatible Models",
+                    "1 x 1/4\"-20 Male"
+                ]
+            },
+            "Battery": {
+                "Type": "1 x Built-In",
+                "Capacity": "1950 mAh / 30 Wh",
+                "Energy": "12 Hours",
+                "Voltage": "15.4 VDC",
+                "Operating Temperature": "-4 to 113°F / -20 to 45°C",
+                "Charging Time": "1.5 Hours",
+                "Ports": [
+                    "3 x USB-C (Control) Output",
+                    "1 x USB-C (Power)"
+                ],
+                "Mount": [
+                    "1 x 1/4\"-20 Female",
+                    "1 x Cold Shoe Mount"
+                ]
+            },
+            "Gimbal": {
+                "Mechanical Range": [
+                    "Pan axis: 360° continuous rotation",
+                    "Roll axis: -95° to +240°",
+                    "Tilt axis: -112° to +214°"
+                ],
+                "Max Controllable Speed": [
+                    "Pan: 360°/s",
+                    "Tilt: 360°/s",
+                    "Roll: 360°/s"
+                ],
+                "Maximum Load": "9.9 lb / 4.5 kg",
+                "Wireless": [
+                    "Bluetooth 5.0",
+                    "2.4 GHz (2.4 - 2.484)"
+                ]
+            },
+            "Warranty": {
+                "Warranty": "No warranty"
+            },
+            "Camera": {
+                "ISO Range": [
+                    "iOS 11.0 or above",
+                    "Android 7.0 or above"
+                ]
+            }
+        },
+        "description": [
+            {
+                "title": "DJI RS 3 Pro Gimbal Stabilizer Combo",
+                "details": "DJI RS 3 Pro Gimbal Stabilizer Combo is now more potent than the RS 2 gimbal. It is made of a carbon silver body. and weight is 3.3. And it can take up 10 10lb weight. So it can easily carry Sony FX6 or Canon C70 with an attached 24-70mm zoom lens. Its arms are constructed from layered sheets of uncut carbon fiber. For this, this gimbal is so low weight and easy to shoot all time. This Gilmer has a fine-tuning knob. So this can be a special kit for a camera."
+            },
+            {
+                "title": "Automated Axis Locks",
+                "details": "DJI RS 3 Pro gambler allows you to work within 2 seconds by simply pressing and holding the power button. The three axes unlock and the gimbal expands automatically. After finishing your work, you can automatically lock the axes and turn them into sleep mode just by pressing the power button within a moment."
+            },
+            {
+                "title": "Wireless Shutter Control",
+                "details": "This feature allows you to use mirror control mode and unlocks seamless wireless control from anywhere on set. DJI RS 3 Pro's this camera control feature allows you to control the core menu operations for the sonny mirrorless camera. You do not need to detach your camera. In this gimbal, a gyroscopic sensor can turn on the remote monitor without additional accessories. This feature allows you to accomplish more complex camera movement when you move in a vehicle or with a jib."
+            },
+            {
+                "title": "Enhanced Battery and Fast Charging",
+                "details": "DJI RS 3 Pro's new battery grip provides up to 12-hour runtime. So you can continuously shoot all day long. It needs only 2.5 hours of charging time as it supports 18W PD fast charging."
+            },
+            {
+                "title": "Large 1.8\" OLED Touchscreen",
+                "details": "DJI RS 3 Pro has 1.8 inches OLED full-color touchscreen. It gives a 28% larger display than RS 2. This OLED screen offers higher brightness than the LCD screen with low power consumption."
+            },
+            {
+                "title": "Third-Gen RS Stabilization Algorithm",
+                "details": "DJI RS 3 Pro has used a third Gen RS stabilization algorithm. It provides you with 20% more stability than the previous version. So, by using this you can easily manage low-angle shoots, running scenarios, and high and low positions."
+            },
+            {
+                "title": "Buy DJI RS 3 Pro Gimbal Stabilizer Combo from the best Shop in BD",
+                "details": "In Bangladesh, you can get the original DJI RS 3 Pro Stabilizer Combo From Star Gadget. We have a large collection of DJI Gimbal Stabilizers to purchase for your camera. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The RS 3 Pro Gimbal Stabilizer Combo comes with no warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of DJI RS 3 Pro Gimbal Stabilizer Combo in Bangladesh?",
+            "details": "The latest price of DJI RS 3 Pro Gimbal Stabilizer Combo in Bangladesh is 121,000৳. You can buy the DJI RS 3 Pro Gimbal Stabilizer Combo at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive gimbal with excellent features and performance.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Perfect for professional use, highly recommended.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "gimbal",
+        "product_name": "DJI RS 3 Pro Gimbal Stabilizer",
+        "price": 93500,
+        "regular_price": 102850,
+        "status": true,
+        "product_code": "00361",
+        "brand": "Dji",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "RS 3 Pro",
+            "Display": "1.8\" OLED full-color touchscreen",
+            "Payload": "Lightweight Design with 4.5 kg Payload",
+            "Transmitter": "Supports Wireless Transmitter, LiDAR",
+            "Supports": "Sony FX6/Canon C70 Cameras"
+        },
+        "specification": {
+            "General": {
+                "Dimension": [
+                    "16.3 x 8.6 x 7.7\" / 415 x 218 x 195 mm",
+                    "10.9 x 10.6 x 2.7\" / 276 x 268 x 68 mm (Folded)"
+                ],
+                "Weight": "2.5 lb / 1143 g",
+                "Model": "RS 3 Pro",
+                "Compatibility": [
+                    "On Compatible Models",
+                    "1 x 1/4\"-20 Male"
+                ]
+            },
+            "Battery": {
+                "Type": "1 x Built-In",
+                "Capacity": "1950 mAh / 30 Wh",
+                "Energy": "12 Hours",
+                "Voltage": "15.4 VDC",
+                "Operating Temperature": "-4 to 113°F / -20 to 45°C",
+                "Charging Time": "1.5 Hours",
+                "Ports": [
+                    "3 x USB-C (Control) Output",
+                    "1 x USB-C (Power)"
+                ],
+                "Mount": [
+                    "1 x 1/4\"-20 Female",
+                    "1 x Cold Shoe Mount"
+                ]
+            },
+            "Gimbal": {
+                "Mechanical Range": [
+                    "Pan axis: 360° continuous rotation",
+                    "Roll axis: -95° to +240°",
+                    "Tilt axis: -112° to +214°"
+                ],
+                "Max Controllable Speed": [
+                    "Pan: 360°/s",
+                    "Tilt: 360°/s",
+                    "Roll: 360°/s"
+                ],
+                "Maximum Load": "9.9 lb / 4.5 kg",
+                "Wireless": [
+                    "Bluetooth 5.0",
+                    "2.4 GHz (2.4 - 2.484)"
+                ]
+            },
+            "Warranty": {
+                "Warranty": "No warranty"
+            },
+            "Camera": {
+                "ISO Range": [
+                    "iOS 11.0 or above",
+                    "Android 7.0 or above"
+                ]
+            }
+        },
+        "description": [
+            {
+                "title": "DJI RS 3 Pro Gimbal Stabilizer",
+                "details": "The DJI RS 3 Pro Gimbal Stabilizer surpasses the RS 2 gimbal in terms of power. Its body is crafted from carbon silver, weighing in at 3.3 pounds. It has the capacity to support up to 10 pounds of weight, enabling effortless handling of setups such as the Sony FX6 or Canon C70 with a 24-70mm zoom lens attached. The gimbal's arms are meticulously constructed using layers of uncut carbon fiber, resulting in its lightweight nature and facilitating smooth shooting experiences. Additionally, this gimbal features a precision adjustment knob, further enhancing its versatility as a camera accessory."
+            },
+            {
+                "title": "Automated Axis Locks",
+                "details": "This DJI RS 3 Pro Gimbal allows you to work within 2 seconds by simply pressing and holding the power button. The three axes unlock and the gimbal expands automatically. After finishing your work, you can automatically lock the axes and turn them into sleep mode just by pressing the power button within a moment."
+            },
+            {
+                "title": "Wireless Shutter Control",
+                "details": "This functionality makes it feasible to use mirror control mode and to provide seamless wireless control from wherever on set. You may control the primary menu features of the Sonny mirrorless camera by using the DJI RS 3 Pro's camera control features. The camera doesn't need to be removed from its mount. In this gimbal, a gyroscopic sensor may be used to turn on the remote monitor without the use of any additional gear. This functionality enables you to create more complex camera movement when driving or utilizing a jib."
+            },
+            {
+                "title": "Enhanced Battery and Fast Charging",
+                "details": "DJI RS 3 Pro's new battery grip provides up to 12-hour runtime. So you can continuously shoot all day long. It needs only 2.5 hours of charging time as it supports 18W PD fast charging."
+            },
+            {
+                "title": "Large 1.8\" OLED Touchscreen",
+                "details": "The DJI RS 3 Pro has 1.8 inches OLED full-color touchscreen. It gives a 28% larger display than RS 2. This OLED screen offers higher brightness than the LCD screen with low power consumption."
+            },
+            {
+                "title": "Third-Gen RS Stabilization Algorithm",
+                "details": "The DJI RS 3 Pro employs a third-generation RS stabilization algorithm, delivering 20% enhanced stability compared to its predecessor. This enables seamless handling of low-angle shots, running sequences, and various high and low positions."
+            },
+            {
+                "title": "Buy DJI RS 3 Pro Gimbal Stabilizer from the best Shop in BD",
+                "details": "In Bangladesh, you can get the original DJI RS 3 Pro Gimbal Stabilizer From Star Gadget. We have a large collection of DJI Gimbal Stabilizers to purchase for your camera. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The RS 3 Pro Gimbal Stabilizer comes with no warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of DJI RS 3 Pro Gimbal Stabilizer in Bangladesh?",
+            "details": "The latest price of DJI RS 3 Pro Gimbal Stabilizer in Bangladesh is 93,500৳. You can buy the DJI RS 3 Pro Gimbal Stabilizer at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive gimbal with excellent features and performance.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Perfect for professional use, highly recommended.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "gimbal",
+        "product_name": "DJI RS 3 Gimbal Stabilizer Combo",
+        "price": 70000,
+        "regular_price": 77000,
+        "status": true,
+        "product_code": "00362",
+        "brand": "Dji",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "RS 3 Combo",
+            "Display": "1.4\" Full-Color OLED Touchscreen",
+            "Battery": "12-Hour Operation Time, PD Fast Charging",
+            "Payload": "Lightweight Design with 3 Kg Payload",
+            "Combo Includes": "Focus Motor, Case, Cables"
+        },
+        "specification": {
+            "General": {
+                "Dimension": [
+                    "Folded: 254x230x68 mm (LxWxH, excluding camera, grip, and the Extended Grip/Tripod)",
+                    "Unfolded: 364x187x170 mm (LxWxH, height includes the grip and excludes the Extended Grip/Tripod)"
+                ],
+                "Weight": [
+                    "Gimbal: Approx. 990 g (2.18 lbs)",
+                    "Grip: Approx. 200 g (0.44 lbs)",
+                    "Extended Grip/Tripod (Plastic): Approx. 183 g (0.4 lbs)",
+                    "Upper and Lower Quick-Release Plates: Approx. 107 g (0.23 lbs)"
+                ],
+                "Model": "BHX711-3000-7.2V"
+            },
+            "Battery": {
+                "Type": "2S",
+                "Capacity": "3000 mAh",
+                "Energy": "17.64 Wh",
+                "Voltage": "7.2 VDC",
+                "Charging Temperature": "5° to 40°C (41° to 104°F)",
+                "Operating Temperature": "-10° to 45° C (14° to 113° F)",
+                "Operating Time": "10 hours",
+                "Charging Time": "Approx. 2.5 hours",
+                "Ports": "USB-C Charging Port"
+            },
+            "Gimbal": {
+                "Mechanical Range": [
+                    "Pan Axis: 360° continuous rotation",
+                    "Roll Axis: -95° to +240°",
+                    "Tilt Axis: -110° to +210°"
+                ],
+                "Max Controllable Speed": [
+                    "Pan: 360°/s",
+                    "Tilt: 360°/s",
+                    "Roll: 360°/s"
+                ],
+                "Maximum Load": "0.4-2 kg (0.8-4.4 lbs)",
+                "Wireless": "Bluetooth 5.1"
+            },
+            "Warranty": {
+                "Warranty": "No Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "DJI RS 3 Gimbal Stabilizer Combo",
+                "details": "The DJI RS 3 Gimbal Stabilizer Combo is a professional-grade camera stabilization system designed to provide smooth and steady footage for filmmakers and videographers. With its advanced features and versatile design, it offers exceptional performance and convenience. The DJI RS 3 is its 1.4\" full-color OLED touchscreen. This high-resolution display allows for easy access to various settings and controls, making it convenient to adjust parameters and monitor your shots in real time. The gimbal stabilizer offers an impressive 12-hour operation time, ensuring extended shooting sessions without the need for frequent battery changes. Additionally, it supports PD fast charging, which means you can quickly recharge the device and minimize downtime between shoots. Designed with portability in mind, the DJI RS 3 features a lightweight design while still maintaining a robust construction. It has a maximum payload capacity of 3 kg (6.6 lbs), making it compatible with a wide range of camera setups, including mirrorless cameras, DSLRs, and even small cinema cameras. The combo package of the DJI RS 3 includes several accessories to enhance your shooting experience. It comes with a focus motor, which enables precise and accurate focusing control, ensuring your shots are always sharp and in focus. Additionally, a protective case is included to safely transport and store the gimbal, protecting it from any potential damage. The combo also includes various cables to connect your camera and other devices to the gimbal, ensuring seamless integration. Whether you're shooting professional films, or documentaries, or capturing memorable moments, the DJI RS 3 Gimbal Stabilizer Combo offers exceptional stability, versatility, and convenience, making it a valuable tool for filmmakers and videographers alike."
+            },
+            {
+                "title": "Buy DJI RS 3 Gimbal Stabilizer Combo from Star Gadget",
+                "details": "In Bangladesh, you can get original DJI RS 3 Gimbal Stabilizer Combo From Star Gadget. We have a large collection of latest DJI Gimbal to purchase for your mobile phone. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The DJI RS 3 Gimbal Stabilizer Combo comes with no warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of DJI RS 3 Gimbal Stabilizer Combo in Bangladesh?",
+            "details": "The latest price of DJI RS 3 Gimbal Stabilizer Combo in Bangladesh is 65,100৳. You can buy the DJI RS 3 Gimbal Stabilizer Combo at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive gimbal with excellent features and performance.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Perfect for professional use, highly recommended.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "gimbal",
+        "product_name": "DJI RS 3 Gimbal Stabilizer",
+        "price": 65000,
+        "regular_price": 71500,
+        "status": true,
+        "product_code": "00363",
+        "brand": "Dji",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "RS 3 Combo",
+            "Display": "1.8\" Full-Color OLED Touchscreen",
+            "Battery": "12h Max Battery Life",
+            "Payload": "3kg (6.6lbs) Tested Payload",
+            "Stabilization": "3rd-Gen RS Stabilization Algorithm"
+        },
+        "specification": {
+            "General": {
+                "Dimension": [
+                    "Folded: 254x230x68 mm (LxWxH, excluding camera, grip, and the Extended Grip/Tripod)",
+                    "Unfolded: 364x187x170 mm (LxWxH, height includes the grip and excludes the Extended Grip/Tripod)"
+                ],
+                "Weight": [
+                    "Gimbal: Approx. 990 g (2.18 lbs)",
+                    "Grip: Approx. 200 g (0.44 lbs)",
+                    "Extended Grip/Tripod (Plastic): Approx. 183 g (0.4 lbs)",
+                    "Upper and Lower Quick-Release Plates: Approx. 107 g (0.23 lbs)"
+                ],
+                "Model": "BHX711-3000-7.2V"
+            },
+            "Battery": {
+                "Type": "2S",
+                "Capacity": "3000 mAh",
+                "Energy": "17.64 Wh",
+                "Voltage": "7.2 VDC",
+                "Charging Temperature": "5° to 40°C (41° to 104°F)",
+                "Operating Temperature": "-10° to 45° C (14° to 113° F)",
+                "Operating Time": "10 hours",
+                "Charging Time": "Approx. 2.5 hours",
+                "Ports": "USB-C Charging Port"
+            },
+            "Gimbal": {
+                "Mechanical Range": [
+                    "Pan Axis: 360° continuous rotation",
+                    "Roll Axis: -95° to +240°",
+                    "Tilt Axis: -110° to +210°"
+                ],
+                "Max Controllable Speed": [
+                    "Pan: 360°/s",
+                    "Tilt: 360°/s",
+                    "Roll: 360°/s"
+                ],
+                "Maximum Load": "0.4-2 kg (0.8-4.4 lbs)",
+                "Wireless": "Bluetooth 5.1"
+            },
+            "Warranty": {
+                "Warranty": "No Warranty"
+            }
+        },
+        "description": [
+            {
+                "title": "DJI RS 3 Gimbal Stabilizer",
+                "details": "The DJI RS 3 Gimbal Stabilizer is a cutting-edge camera accessory designed to provide smooth and stable footage for professional filmmakers and videographers. Boasting a lightweight design, the gimbal is highly portable and easy to carry around, making it an excellent choice for on-the-go shooting. The DJI RS 3 is its impressive 3kg payload capacity, which allows it to support popular camera models like the Sony a7S III and Canon R5. This high payload capacity ensures that filmmakers can mount their preferred cameras with ease and capture high-quality footage without any worries about stability. Navigating through the gimbal's settings and functions is made effortless with the inclusion of an advanced 1.8\" OLED touchscreen. Users can easily access various controls and settings, facilitating quick adjustments and mode switching on the fly. The Instant Mode Switching feature is particularly handy for filmmakers who need to adapt swiftly to different shooting scenarios. With a simple tap or click, the gimbal can switch between various modes, ensuring that users can capture the perfect shot without any delays. For seamless and convenient transmission of images and footage, the DJI RS 3 supports a wireless image transmitter. This feature enables filmmakers to review their shots in real-time on a connected device, providing instant feedback and enhancing the overall shooting experience. The gimbal offers motion control functionality when paired with a smartphone. This allows users to execute precise camera movements remotely, offering creative possibilities and dynamic shots without the need for complex rigging or additional equipment. Filmmakers will appreciate the extended 12-hour operation time of the DJI RS 3, ensuring that they can capture all the desired footage throughout their shooting sessions. The PD fast charging capability further minimizes downtime and keeps users ready for action. Fine-tuning the gimbal's performance is made easier with the inclusion of a dedicated knob on the tilt axis. This fine-tuning option allows users to adjust the gimbal's tilt angle with precision, ensuring optimal balance and stability for different camera setups. It also offers creative functions such as \"Time Tunnel,\" adding an artistic touch to the footage. This feature creates captivating visual effects that can elevate the overall production value of the videos. The DJI RS 3 Gimbal Stabilizer is a feature-packed and versatile tool that empowers filmmakers and videographers to unleash their creativity and capture stunning, stable footage with ease. Its lightweight design, high payload capacity, advanced controls, and creative functions make it a valuable addition to any filmmaker's toolkit."
+            },
+            {
+                "title": "Buy DJI RS 3 Gimbal Stabilizer from Star Gadget",
+                "details": "In Bangladesh, you can get original DJI RS 3 Gimbal Stabilizer Combo From Star Gadget. We have a large collection of latest DJI Gimbal to purchase for your mobile phone. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The DJI RS 3 Gimbal Stabilizer Combo comes with no warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of DJI RS 3 Gimbal Stabilizer in Bangladesh?",
+            "details": "The latest price of DJI RS 3 Gimbal Stabilizer in Bangladesh is 65,000৳. You can buy the DJI RS 3 Gimbal Stabilizer at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Impressive gimbal with excellent features and performance.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "Perfect for professional use, highly recommended.",
+                "user_rating": 4
+            }
+        ]
+    }
+]

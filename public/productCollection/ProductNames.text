@@ -1,0 +1,633 @@
+processor:
+    00000. Intel Core i9 14900K 14th Gen Raptor Lake Processor
+    00001. Intel Core i7 14700K 14th Gen Raptor Lake Processor
+    00002. Intel Core i5 14600K 14th Gen Raptor Lake Processor 
+    00003. Intel 13th Gen Core i9 13900K Raptor Lake Processor
+    00004. Intel 13th Gen Core i7 13700K Raptor Lake Processor
+    00005. Intel 13th Gen Core i5 13600K Raptor Lake Processor
+    00006. Intel 13th Gen Core i3-13100 Raptor Lake Processor
+    00007. AMD Ryzen 9 7950X Processor
+    00008. AMD Ryzen 9 7900X Processor
+    00009. AMD Ryzen 9 5950X Processor 
+    00010. AMD Ryzen 9 5900X Processor
+    00011. AMD Ryzen 7 7700X Processor 
+    00012. 
+    00014. 
+    00015. 
+    00016. 
+    00017. 
+    00018. 
+    00019. 
+motherboard:
+    00020. ASUS ROG STRIX Z790-E GAMING WIFI ATX Motherboard
+    00021. Asus ROG MAXIMUS Z690 FORMULA 12th Gen ATX Motherboard
+    00022. MSI MEG Z790 ACE 13th and 12th Gen E-ATX Motherboard
+    00023. ASRock Z790 Pro RS ATX Motherboard
+    00024. ASUS ROG STRIX Z790-F GAMING WIFI ATX Motherboard
+    00025. Asus Rog Crosshair X570 VIII Formula AMD ATX Gaming Motherboard
+    00026. Asus ROG STRIX Z790-A GAMING WIFI DDR5 ATX Motherboard
+    00027. Asus ROG X570 Crosshair VIII Hero WI-FI ATX AM4 Motherboard
+    00028. Asus ROG STRIX Z690-E GAMING WIFI Intel 12th Gen ATX Motherboard
+    00029. MSI MPG Z790 CARBON WIFI ATX Motherboard
+    00030. MSI MEG Z590 ACE Gaming Intel 10th Gen and 11th Gen ATX Motherboard
+    00031. GIGABYTE Z790 AERO G ATX Motherboard
+    00032. 
+    00033.
+    00034.
+    00035.
+    00036.
+    00037.
+    00038.
+    00039.
+ram:
+    00040. TEAM T-FORCE DELTA RGB 32GB (16GBx2) 8000MHz DDR5 Gaming RAM White
+    00041. Corsair VENGEANCE 32GB DDR5 5200MHz C40 RAM
+    00042. Kingston FURY Beast 32GB DDR5 6000MHz RGB Desktop RAM
+    00043. Corsair DOMINATOR PLATINUM RGB 16GB DDR5 7200MHz Desktop RAM
+    00044. G.Skill Trident Z5 RGB 32GB DDR5 6000MHz Desktop RAM
+    00045. G.Skill Trident Z NEO RGB 32GB DDR4 3600MHz Gaming Desktop RAM
+    00046. Kingston FURY Renegade 16GB DDR5 6800MHz RGB Desktop RAM Kit
+    00047. Apacer NOX RGB 16GB DDR4 3600MHz RAM
+    00048. Team Elite Plus Red 16GB 3200MHz DDR4 U-DIMM Desktop RAM
+    00049. G.Skill Ripjaws V 32GB DDR4 3200MHz Desktop RAM (Black)
+    00050. G.SKILL Trident Z Royal RGB 8GB DDR4 4600MHz Desktop RAM
+    00051. TEAM T-Force DELTA TUF Gaming RGB 16GB 3200MHz DDR4 CL16 RAM
+    00052. 
+    00053.
+    00054.
+    00055.
+    00056.
+    00057.
+    00058.
+    00059.
+power-supply:
+    00060. ASUS ROG Strix 1000G 1000W 80 Plus Gold Power Supply
+    00061. NZXT C1200 80 Plus Gold Full Modular 1200 Watt Power Supply 
+    00062. Corsair HX1500i 1500W 80+ Platinum Full-Modular ATX Power Supply 
+    00063. ASUS ROG THOR 1600T 1600W 80Plus Titanium Full Modular Power Supply
+    00064. MSI MEG Ai1300P PCIE5 1300W 80 Plus Platinum Fully Modular Power Supply   
+    00065. ASUS ROG LOKI SFX-L 1000W 80 Plus Platinum Power Supply
+    00066. ASUS TUF Gaming 1200G 1200W 80 Plus Gold Full Modular Power Supply
+    00067. MSI MPG A750GF 750W 80 Plus Gold Full Modular Power Supply
+    00068. Corsair RM1200x SHIFT 1200W 80 PLUS Gold Fully Modular ATX Power Supply
+    00069. ASUS TUF Gaming 1000G 1000W 80 Plus Gold Power Supply
+    00070. Antec Signature PLATINUM 1300 1300W 80 Plus Platinum Fully Modular Power Supply
+    00071. MSI MPG A1000G 1000W 80 Plus Gold Full Modular Power Supply
+    00072. 
+    00073. 
+    00074. 
+    00075. 
+    00076. 
+    00077. 
+    00078. 
+    00079. 
+storage-device:
+    00080. Samsung 870 EVO 2TB 2.5 Inch SATA III Internal SSD
+    00081. Transcend 225S 2TB 2.5 Inch SATA III SSD
+    00082. Seagate Firecuda 120 1TB 2.5" SATA Gaming SSD
+    00083. Seagate IronWolf 125 1TB 2.5-inch SATA III SSD
+    00084. Samsung 870 QVO 4TB 2.5" SATA III SSD
+    00085. Transcend SSD220Q 2TB 2.5'' SATA SSD
+    00086. ZADAK TWSS3 1TB SATA3 2.5" SSD
+    00087. Kingston A400 960GB 2.5 inch SATA 3 Internal SSD
+    00088. Gigabyte UD PRO 1TB 2.5 inch SATA III SSD
+    00089. Transcend TS1TSSD230S 1TB 3D TLC SATAIII 2.5" SSD
+    00090. Samsung 970 EVO Plus 2TB NVMe M.2 SSD
+    00091. PNY CS2140 1TB Gen4 M.2 Nvme SSD
+    00092. 
+    00093. 
+    00094. 
+    00095. 
+    00096. 
+    00097. 
+    00098. 
+    00099. 
+monitor:
+    00100. MSI G2722 27" FHD 170Hz 1ms IPS Esports Gaming Monitor
+    00101. ASUS TUF Gaming VG279Q3A 27" IPS 180HZ FHD 1ms Gaming Monitor
+    00102. HP Z24f G3 23.8" IPS FHD Monitor
+    00103. LG 32GQ950-B 32 Inch UltraGear 4K UHD 144Hz 1ms G-SYNC Nano IPS Gaming Monitor
+    00104. LG 27GP95R-B 27 Inch UltraGear 4K UHD 144Hz G-Sync Nano IPS Gaming Monitor
+    00105. ASUS ROG Swift 360Hz PG259QN 24.5" 1ms G-Sync FHD Gaming Monitor
+    00106. ASUS ProArt Display PA328QV 31.5" WQHD Professional Monitor
+    00107. LG 32GP850-B 32" UltraGear 165Hz G-SYNC QHD Nano IPS Gaming Monitor
+    00108. Dell UltraSharp U2422HE 24 inch FHD Type-C IPS Monitor
+    00109. ASUS TUF Gaming VG259QM 24.5inch FHD 280Hz G-SYNC Overclockable Monitor
+    00110. Xiaomi RMMNT27NU 27" 4K Professional Monitor
+    00111. GIGABYTE GS27Q 27 inch QHD 2K 165Hz Gaming Monitor
+    00112. 
+    00113. 
+    00114. 
+    00115. 
+    00116. 
+    00117. 
+    00118. 
+    00119. 
+gpu:
+    00120. GIGABYTE GeForce RTX 4090 GAMING OC 24GB GDDR6X Graphics Card
+    00121. ASUS TUF Gaming GeForce RTX 4080 16GB GDDR6X OC Edition Graphics Card
+    00122. MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G GDDR6X Graphics Card
+    00123. 
+    00124. 
+    00125. 
+    00126. 
+    00127. 
+    00128. 
+    00129. 
+    00130.
+    00131. 
+    00132. 
+    00133. 
+    00134. 
+    00135. 
+    00136. 
+    00137. 
+    00138. 
+    00139. 
+mouse:
+    00140. ASUS P707 ROG Spatha X Dual-mode RGB Gaming Mouse
+    00141. Logitech G903 Lightspeed HERO RGB Wireless Gaming Mouse
+    00142. Razer Viper 8KHz Ambidextrous Esports Gaming Mouse
+    00143. 
+    00144. 
+    00145. 
+    00146. 
+    00147. 
+    00148. 
+    00149. 
+    00150.
+    00151. 
+    00152. 
+    00153. 
+    00154. 
+    00155. 
+    00156. 
+    00157. 
+    00158. 
+    00159. 
+keyboard:
+    00160. Asus RA05 TUF Gaming K3 RGB Mechanical Keyboard
+    00161. Corsair K70 RGB Rapidfire Mechanical Gaming Keyboard Cherry MX-Low Profile Speed
+    00162. Logitech G613 Wireless Mechanical Gaming Keyboard
+    00163. 
+    00164. 
+    00165. 
+    00166. 
+    00167. 
+    00168. 
+    00169. 
+    00170.
+    00171. 
+    00172. 
+    00173. 
+    00174. 
+    00175. 
+    00176. 
+    00177. 
+    00178. 
+    00179. 
+desktop:
+    00180. Intel 14th Gen Core i9 14900K Desktop PC
+    00181. Intel 13th Gen Core i9 13900K Gaming Desktop PC
+    00182. AMD Ryzen 9 7950X Gaming Desktop PC
+    00183. AMD Ryzen 9 7900X Desktop PC
+    00184. Apple Mac Mini M2 chip with 8-core Processor, 10-Core GPU, 8GB Memory, 512GB Storage
+    00185. 
+    00186. 
+    00187. 
+    00188. 
+    00189. 
+    00190.
+    00191. 
+    00192. 
+    00193. 
+    00194. 
+    00195. 
+    00196. 
+    00197. 
+    00198. 
+    00199. 
+laptop:
+    00200. MSI Titan GT77HX 13VI Core i9 13th Gen 64GB RAM 4TB SSD RTX 4090 16GB Graphics 17.3" 4K UHD 144Hz Gaming Laptop
+    00201. MSI Creator Z16 HX Studio B13VFTO Core i7 13th Gen RTX 4060 8GB Graphics 16" 2K QHD Gaming Laptop
+    00202. MSI Stealth 16 Mercedes-AMG A13VF Core i9 13th Gen RTX 4060 8GB Graphics 16” UHD+ OLED Gaming Laptop
+    00203. 
+    00204. 
+    00205.  
+    00206. 
+    00207. 
+    00208. 
+    00209. 
+    00210.
+    00211. 
+    00212. 
+    00213. 
+    00214. 
+    00215. 
+    00216. 
+    00217. 
+    00218. 
+    00219. 
+phone:
+    00220. iPhone 15 Pro Max 512GB Natural Titanium (Singapore Unofficial)
+    00221. iPhone 14 Pro Max 256GB Space Black (Singapore)
+    00222. Samsung Galaxy S23 Ultra Smartphone (12/512GB)
+    00223. OnePlus 11 5G Smartphone (16/256GB)
+    00224. HUAWEI P50 Pro Smartphone (8/256GB)
+    00225. 
+    00226. 
+    00227. 
+    00228. 
+    00229. 
+    00230.
+    00231. 
+    00232. 
+    00233. 
+    00234. 
+    00235. 
+    00236. 
+    00237. 
+    00238. 
+    00239. 
+office-equipment:                                                     
+    00240. Panasonic LH-86QM3VS 86-inch Pro Commercial Display
+    00241. Epson EB-2155W 5000 Lumens LCD Projector
+    00242. 
+    00243. 
+    00244. 
+    00245. 
+    00246. 
+    00247. 
+    00248. 
+    00249. 
+    00250.
+    00251. 
+    00252. 
+    00253. 
+    00254. 
+    00255. 
+    00256. 
+    00257. 
+    00258. 
+    00259. 
+network-security:
+    00260. Tenda TX9 Pro AX3000 Dual-band Gigabit Wi-Fi 6 Router
+    00261. TP-Link Archer AX53 AX3000 Dual Band Gigabit Wi-Fi 6 Router
+    00262. ESET Home Office Security Pack New 1-year 5-user
+    00263. Microsoft Windows 11 Professional 64 Bit ENG Intl 1PK DSP OEI DVD
+    00264. 
+    00265. 
+    00266. 
+    00267. 
+    00268. 
+    00269. 
+    00270.
+    00271. 
+    00272. 
+    00273. 
+    00274. 
+    00275. 
+    00276. 
+    00277. 
+    00278. 
+    00279. 
+accessories-gadget:
+    00280. 
+    00281. 
+    00282. 
+    00283. 
+    00284. 
+    00285. 
+    00286. 
+    00287. 
+    00288. 
+    00289. 
+    00290.
+    00291. 
+    00292. 
+    00293. 
+    00294. 
+    00295. 
+    00296. 
+    00297. 
+    00298. 
+    00299. 
+tv:
+    00300. Samsung 85QN900B 85" Neo QLED 8K Smart TV 
+    00301. Xiaomi Redmi Max 98" 4K Android Smart LED TV (China Version)
+    00302. Sony Bravia XR 77A80J 77" 4K Ultra HD Android Smart OLED Alexa Compatible Google TV
+    00303. LG A2 77-inch SELF-LIT OLED 4K UHD Smart Television
+    00304. 
+    00305. 
+    00306. 
+    00307. 
+    00308. 
+    00309. 
+    00310.
+    00311. 
+    00312. 
+    00313. 
+    00314. 
+    00315. 
+    00316. 
+    00317. 
+    00318. 
+    00319. 
+ac:
+    00320. Gree GS-30XFV32 2.5 Ton Split Type Inverter Air Conditioner
+    00321. General ASGA24FMTB 2 Ton Split Air Conditioner
+    00322. ELITE 2 Ton Split type Non-Inverter Air Conditioner
+    00323. 
+    00324. 
+    00325. 
+    00326. 
+    00327. 
+    00328. 
+    00329. 
+    00330.
+    00331. 
+    00332. 
+    00333. 
+    00334. 
+    00335. 
+    00336. 
+    00337. 
+    00338. 
+    00339. 
+
+// extra for featured section
+drone:
+    00340. DJI Matrice 300 RTK Commercial Drone
+    00341. DJI Mavic 2 Enterprise Dual Edition Drone 
+    00342. DJI Mavic 2 Enterprise Zoom Edition Drone 
+    00343. DJI P4 Multispectral Drone
+    00344. 
+    00345. 
+    00346. 
+    00347. 
+    00348. 
+    00349. 
+    00350.
+    00351. 
+    00352. 
+    00353. 
+    00354. 
+    00355. 
+    00356. 
+    00357. 
+    00358. 
+    00359. 
+gimbal:
+    00360. DJI RS 3 Pro Gimbal Stabilizer Combo
+    00361. DJI RS 3 Pro Gimbal Stabilizer
+    00362. DJI RS 3 Gimbal Stabilizer Combo
+    00363. DJI RS 3 Gimbal Stabilizer
+    00364. 
+    00365. 
+    00366. 
+    00367. 
+    00368. 
+    00369. 
+    00370.
+    00371. 
+    00372. 
+    00373. 
+    00374. 
+    00375. 
+    00376. 
+    00377. 
+    00378. 
+    00379. 
+laptop-battery:
+    00380. Laptop Battery For Apple MacBook Pro A1707/A1820
+    00381. Laptop Battery For Apple MacBook A1706/A1819
+    00382. MaxGreen RC30-0270 Laptop Battery For Razer
+    00383. MaxGreen RC30-0287 Laptop Battery For Razer
+    00384. 
+    00385. 
+    00386. 
+    00387. 
+    00388. 
+    00389. 
+    00390.
+    00391. 
+    00392. 
+    00393. 
+    00394. 
+    00395. 
+    00396. 
+    00397. 
+    00398. 
+    00399. 
+power-station:
+    00400. EcoFlow DELTA Max 1600 Portable Power Station
+    00401. EcoFlow DELTA Portable Power Station
+    00402. EcoFlow RIVER Max Portable Power Station
+    00403. EcoFlow RIVER 2 Portable Power Station
+    00404. 
+    00405. 
+    00406. 
+    00407. 
+    00408. 
+    00409. 
+    00410.
+    00411. 
+    00412. 
+    00413. 
+    00414. 
+    00415. 
+    00416. 
+    00417. 
+    00418. 
+    00419. 
+vr:
+    00420. Meta Quest Pro 256 GB All-in-One VR Headset
+    00421. Meta Quest 3 128GB All-in-One VR Headset
+    00422. Sony PlayStation VR2 Horizon Call of the Mountain Bundle
+    00423. Sony PlayStation VR2
+    00424. 
+    00425. 
+    00426. 
+    00427. 
+    00428. 
+    00429. 
+    00430.
+    00431. 
+    00432. 
+    00433. 
+    00434. 
+    00435. 
+    00436. 
+    00437. 
+    00438. 
+    00439. 
+smart-watch:
+    00440. Apple Watch Ultra GPS + Cellular 49mm Titanium Case with Green Alpine Loop
+    00441. Apple Watch Series 9 45mm Smart Watch
+    00442. Apple Watch Series 8 GPS 45mm Silver Aluminum Case Sport Band
+    00443. Apple Watch Series 8 41mm Midnight Aluminum Case Sport Band
+    00444. 
+    00445. 
+    00446. 
+    00447. 
+    00448. 
+    00449. 
+    00450.
+    00451. 
+    00452. 
+    00453. 
+    00454. 
+    00455. 
+    00456. 
+    00457. 
+    00458. 
+    00459. 
+action-camera:
+    00460. GoPro HERO12 Creator Edition 27MP Waterproof Touch Screen 5.3K Action Camera
+    00461. GoPro HERO11 Black Creator Edition 27MP 5.3K Waterproof Touch Screen Action Camera
+    00462. DJI Pocket 2 Creator Combo 3 Axis Gimbal Stabilizer Action Camera
+    00463. GoPro HERO12 27MP Waterproof Touch Screen 5.3K Action Camera
+    00464. 
+    00465. 
+    00466. 
+    00467. 
+    00468. 
+    00469. 
+    00470.
+    00471. 
+    00472. 
+    00473. 
+    00474. 
+    00475. 
+    00476. 
+    00477. 
+    00478. 
+    00479. 
+printer:
+    00480. HP LaserJet Enterprise MFP M528dn Multifunctional Mono Laser Printer
+    00481. Epson EcoTank L15160 A3 Wi-Fi Duplex All-in-One Ink Tank Printer
+    00482. Canon imageRUNNER IR 2206 Monochrome A3 Laser Multifunctional Photocopier
+    00483. HP Color LaserJet Pro MFP M479fdw Multifunction Color Laser Printer
+    00484. 
+    00485. 
+    00486. 
+    00487. 
+    00488. 
+    00489. 
+    00490.
+    00491. 
+    00492. 
+    00493. 
+    00494. 
+    00495. 
+    00496. 
+    00497. 
+    00498. 
+    00499. 
+headphone:
+    00500. Beyerdynamic DT 1990 Pro Open Studio Headphone 
+    00501. Jabra Evolve2 75 MS DUO Bluetooth & USB Type A Head Set Black (Without Stand)
+    00502. Asus ROG Fusion II 500 Wired Over-Ear Gaming Headphone
+    00503. RODE NTH-100M Professional Over-ear Headset
+    00504. 
+    00505. 
+    00506. 
+    00507. 
+    00508. 
+    00509. 
+    00510.
+    00511. 
+    00512. 
+    00513. 
+    00514. 
+    00515. 
+    00516. 
+    00517. 
+    00518. 
+    00519. 
+earbuds:
+    00520. JBL Tour Pro 2 Smart True Wireless Earbuds
+    00521. Jabra Evolve2 Buds USB-A ANC Earbuds
+    00522. Apple AirPods Pro 2nd Generation
+    00523. Apple AirPods 3rd generation with Charging Case
+    00524. 
+    00525. 
+    00526. 
+    00527. 
+    00528. 
+    00529. 
+    00530.
+    00531. 
+    00532. 
+    00533. 
+    00534. 
+    00535. 
+    00536. 
+    00537. 
+    00538. 
+    00539. 
+bluetooth-speaker:
+    00540. Edifier S3000Pro Bookshelf Bluetooth Speaker
+    00541. Sony GTK-PG10 High Power Audio System Wireless Party Speaker
+    00542. Edifier R1580MB Active 2.0 Bluetooth Studio Bookshelf Speaker
+    00543. F&D R27BT Multimedia Bluetooth Speaker
+    00544. 
+    00545. 
+    00546. 
+    00547. 
+    00548. 
+    00549. 
+    00550.
+    00551. 
+    00552. 
+    00553. 
+    00554. 
+    00555. 
+    00556. 
+    00557. 
+    00558. 
+    00559. 
+cc-camera:
+    00560. Dahua DH-HAC-HFW2401TP-Z-A 4MP Water-Proof HDCVI IR Bullet Camera
+    00561. Dahua DH-HAC-HFW1509MHP-A-LED 5MP Color HDCVI Bullet Camera
+    00562. Hikvision DS-2CD2021G1-I 2 MP WDR Fixed Mini Bullet Network Camera
+    00563. Hikvision DS-2CD1023G0-IUF 2 MP Fixed Bullet Network Camera
+    00564. 
+    00565. 
+    00566. 
+    00567. 
+    00568. 
+    00569. 
+    00570.
+    00571. 
+    00572. 
+    00573. 
+    00574. 
+    00575. 
+    00576. 
+    00577. 
+    00578. 
+    00579. 
+gaming-console:
+    00580. Microsoft Xbox Series X 16GB Memory 1TB SSD Gaming Console
+    00581. Sony PlayStation 5 Gaming Console Analog Edition (Japan Edition)
+    00582. Sony PlayStation 5 Digital Edition Gaming Console
+    00583. Sony PS4 Slim Jet Black, 8GB GDDR5, 1TB Gaming Console
+    00584. 
+    00585. 
+    00586. 
+    00587. 
+    00588. 
+    00589. 
+    00590.
+    00591. 
+    00592. 
+    00593. 
+    00594. 
+    00595. 
+    00596. 
+    00597. 
+    00598. 
+    00599.
+
+ 

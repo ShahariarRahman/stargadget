@@ -1,0 +1,395 @@
+[
+    {
+        "category": "desktop",
+        "product_name": "Intel 14th Gen Core i9 14900K Desktop PC",
+        "price": 214100,
+        "regular_price": 235510,
+        "status": true,
+        "product_code": "00180",
+        "brand": "INTEL",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Intel 14th Gen Core i9 14900K",
+            "Processor": "Intel 14th Gen Core i9 14900K Raptor Lake Processor",
+            "Motherboard": "GIGABYTE Z790 AERO G ATX Motherboard",
+            "RAM": "CORSAIR DOMINATOR PLATINUM RGB DDR5 32GB DDR5 5600MHz CL40",
+            "Storage": "Samsung 990 Pro 2TB PCIe 4.0 M.2 NVMe SSD"
+        },
+        "specification": {
+            "Basic Information": {
+                "Processor": [
+                    "Intel 14th Gen Core i9 14900K Raptor Lake Processor",
+                    "03 Years Warranty"
+                ],
+                "Motherboard": [
+                    "GIGABYTE Z790 AERO G ATX Motherboard",
+                    "03 Years Warranty"
+                ],
+                "RAM": [
+                    "CORSAIR DOMINATOR PLATINUM RGB DDR5 32GB DDR5 5600MHz CL40 Desktop RAM",
+                    "Life time Warranty"
+                ],
+                "Storage": [
+                    "Samsung 990 Pro 2TB PCIe 4.0 M.2 NVMe SSD",
+                    "03 Years Warranty"
+                ],
+                "Casing": [
+                    "Value-Top T5 Custom Premium Extended XXL E-ATX Gaming Tower Casing",
+                    "No Warranty"
+                ],
+                "Power Supply": [
+                    "Antec HCG 1000 Gold Fully Modular Power Supply",
+                    "10 Years Warranty"
+                ],
+                "CPU Cooler": [
+                    "Asus ROG STRIX LC II ARGB 360MM CPU Cooler",
+                    "05 Years Warranty"
+                ]
+            }
+        },
+        "description": [
+            {
+                "title": "Intel 14th Gen Core i9 14900K Desktop PC",
+                "details": "The Intel 14th Gen Core i9 14900K Desktop PC is the ideal gaming machine. This PC boasts lightning-fast speed and flawless multitasking thanks to the newest Raptor Lake Core i9 14900K Processor. The GIGABYTE Z790 AERO G 13th & 12th Gen ATX Motherboard delivers steady and consistent performance, while the CORSAIR DOMINATOR PLATINUM RGB DDR5 32GB DDR5 5600MHz CL40 Desktop RAM gives enough memory for even the most demanding games and programs. The Value-Top T5 Custom Premium Extended XXL E-ATX Gaming Tower Casing offers plenty of space for additional components and cooling solutions, while the Asus ROG STRIX LC II ARGB 360MM CPU Cooler keeps your processor running cool and quiet. The Samsung 990 Pro 2TB PCIe 4.0 M.2 NVMe SSD provides lightning-fast storage, and the Antec HCG 1000 Gold Fully Modular Power Supply ensures stable and efficient power delivery. With this PC, you'll be able to take your gaming to the next level and experience the ultimate in performance and reliability.\nFor More Details Please Visit:\nIntel 14th Gen Core i9 14900K Raptor Lake Processor\nGIGABYTE Z790 AERO G ATX Motherboard\nCORSAIR DOMINATOR PLATINUM RGB DDR5 32GB DDR5 5600MHz CL40 Desktop RAM\nSamsung 990 Pro 2TB PCIe 4.0 M.2 NVMe SSD\nAsus ROG STRIX LC II ARGB 360MM CPU Cooler\nAntec HCG 1000 Gold Fully Modular Power Supply\nValue-Top T5 Custom Premium Extended XXL E-ATX Gaming Tower Casing"
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Intel 14th Gen Core i9 14900K Desktop PC in Bangladesh?",
+            "details": "The latest price of Intel 14th Gen Core i9 14900K Desktop PC in Bangladesh is 214,100৳. You can buy the Intel 14th Gen Core i9 14900K Desktop PC at the best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Incredible performance and super-fast SSD. Great for gaming and multitasking.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "The CPU cooler keeps the temperature low, even under heavy loads. Impressive build quality.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "Fast RAM and plenty of storage space. Excellent for gaming and content creation.",
+                "user_rating": 5
+            }
+        ]
+    },
+    {
+        "category": "desktop",
+        "product_name": "Intel 13th Gen Core i9 13900K Gaming Desktop PC",
+        "price": 374999,
+        "regular_price": 418330,
+        "status": true,
+        "product_code": "00181",
+        "brand": "INTEL",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "13th Gen Gaming Desktop PC",
+            "Processor": "Intel 13th Gen Core i9 13900K Raptor Lake",
+            "Motherboard": "GIGABYTE Z790 UD AX ATX",
+            "RAM": "Kingston FURY Beast 16GB",
+            "Storage": "Samsung PM9A1 2TB NVMe SSD",
+            "Graphics Card": "Colorful iGame GeForce RTX 4080 16GB Vulcan OC-V GDDR6X"
+        },
+        "specification": {
+            "Basic Information": {
+                "Processor": [
+                    "Intel 13th Gen Core i9 13900K Raptor Lake Processor",
+                    "03 Years Warranty (No Warranty for Fan or Cooler)"
+                ],
+                "Motherboard": [
+                    "GIGABYTE Z790 UD AX ATX Motherboard",
+                    "03 Years Warranty"
+                ],
+                "RAM": [
+                    "Kingston FURY Beast 16GB 6000MHz DDR5 RGB Desktop RAM",
+                    "Life time warranty"
+                ],
+                "Graphics Card": [
+                    "Colorful iGame GeForce RTX 4080 16GB Vulcan OC-V GDDR6X Graphics Card",
+                    "03 years warranty"
+                ],
+                "Storage": [
+                    "Samsung PM9A1 2TB M.2 PCIe Gen 4.0 NVMe SSD",
+                    "03 years warranty"
+                ],
+                "Casing": [
+                    "Lian Li LANCOOL III Mid-Tower E-ATX Gaming Case",
+                    "No warranty"
+                ],
+                "Power Supply": [
+                    "Corsair RM1000e 1000W 80 Plus Gold Fully Modular Power Supply",
+                    "05 Years Warranty"
+                ],
+                "CPU Cooler": [
+                    "Corsair iCUE H150i ELITE CAPELLIX XT RGB Liquid CPU Cooler",
+                    "05 Years Warranty"
+                ]
+            }
+        },
+        "description": [
+            {
+                "title": "Intel 13th Gen Core i9 13900K Gaming Desktop PC",
+                "details": "The Intel 13th Gen Core i9-13900K Gaming Desktop PC is a high-performance powerhouse designed for gaming enthusiasts. It features the Intel 13th Gen Core i9-13900K Raptor Lake Processor paired with the GIGABYTE Z790 UD AX ATX Motherboard and comes equipped with 16GB of Kingston FURY Beast 6000MHz DDR5 RGB Desktop RAM. The PC boasts a spacious 2TB Samsung PM9A1 M.2 PCIe Gen 4.0 NVMe SSD for lightning-fast storage access. To keep the CPU cool during intensive tasks, it utilizes the Corsair iCUE H150i ELITE CAPELLIX XT RGB Liquid CPU Cooler. The PC is housed in the stylish Lian Li LANCOOL III Mid-Tower E-ATX Gaming Case. For graphics power, it features the Colorful iGame GeForce RTX 4080 16GB Vulcan OC-V GDDR6X Graphics Card. The PC is powered by the Corsair RM1000e 1000W 80 Plus Gold Fully Modular Power Supply, providing reliable and efficient power delivery for a seamless gaming experience.\nFor More Details Please Visit:\nIntel 13th Gen Core i9 13900K Raptor Lake Processor\nGIGABYTE Z790 UD AX ATX Motherboard\nKingston FURY Beast 16GB 6000MHz DDR5 RGB Desktop RAM\nSamsung PM9A1 2TB M.2 PCIe Gen 4.0 NVMe SSD\nCorsair iCUE H150i ELITE CAPELLIX XT RGB Liquid CPU Cooler\nLian Li LANCOOL III Mid-Tower E-ATX Gaming Case\nColorful iGame GeForce RTX 4080 16GB Vulcan OC-V GDDR6X Graphics Card\nCorsair RM1000e 1000W 80 Plus Gold Fully Modular Power Supply"
+            },
+            {
+                "title": "What is the price of Intel 13th Gen Core i9 13900K Gaming Desktop PC in Bangladesh?",
+                "details": "The latest price of Intel 13th Gen Core i9 13900K Gaming Desktop PC in Bangladesh is 374,999৳. You can buy the Intel 13th Gen Core i9 13900K Gaming Desktop PC at best price from our website or visit any of our showrooms."
+            }
+        ],
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Incredible gaming performance and super-fast storage. Highly recommended!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "This PC runs all the latest games with ease. It's a beast!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "I'm impressed with the cooling system; my CPU never overheats even during long gaming sessions.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "desktop",
+        "product_name": "AMD Ryzen 9 7950X Gaming Desktop PC",
+        "price": 374898,
+        "regular_price": 412388,
+        "status": true,
+        "product_code": "00182",
+        "brand": "AMD",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Ryzen 9 7950X Gaming Desktop PC",
+            "Processor": "AMD Ryzen 9 7950X",
+            "Motherboard": "GIGABYTE B650M AORUS ELITE AX DDR5 AMD AM5 Micro-ATX",
+            "RAM": "Kingston FURY Beast 16GB 6000MHz",
+            "Storage": "Samsung PM9A1 2TB SSD",
+            "Graphics Card": "Colorful iGame GeForce RTX 4080 16GB Vulcan OC-V GDDR6X"
+        },
+        "specification": {
+            "Basic Information": {
+                "Processor": [
+                    "AMD Ryzen 9 7950X Processor",
+                    "3 Years Warranty (No Warranty for Fan or Cooler)"
+                ],
+                "Motherboard": [
+                    "GIGABYTE B650M AORUS ELITE AX DDR5 AMD AM5 Micro-ATX",
+                    "3 Years Warranty"
+                ],
+                "RAM": [
+                    "Kingston FURY Beast 16GB 6000MHz DDR5 RGB Desktop RAM",
+                    "Lifetime Warranty"
+                ],
+                "Graphics Card": [
+                    "Colorful iGame GeForce RTX 4080 16GB Vulcan OC-V GDDR6X Graphics Card",
+                    "2 Years Warranty"
+                ],
+                "Storage": [
+                    "Samsung PM9A1 2TB M.2 PCIe Gen 4.0 NVMe SSD",
+                    "3 Years Warranty"
+                ],
+                "Casing": [
+                    "Lian Li LANCOOL III RGB Mid-Tower E-ATX Gaming Case",
+                    "No Warranty"
+                ],
+                "Power Supply": [
+                    "Antec HCG 1000 Gold Fully Modular Power Supply",
+                    "10 years warranty"
+                ],
+                "CPU Cooler": [
+                    "Corsair iCUE H150i ELITE CAPELLIX XT RGB Liquid CPU Cooler",
+                    "5 Year Warranty"
+                ]
+            }
+        },
+        "description": [
+            {
+                "title": "AMD Ryzen 9 7950X Gaming Desktop PC",
+                "details": "The AMD Ryzen 9 7950X Gaming Desktop PC is powered by the mighty AMD Ryzen 9 7950X processor and backed by the GIGABYTE B650M AORUS ELITE AX DDR5 AMD AM5 Micro-ATX Motherboard. Experience seamless multitasking and smooth gaming with Kingston FURY Beast 16GB 6000MHz DDR5 RGB Desktop RAM. Store all your favorite games and media on the lightning-fast Samsung PM9A1 2TB M.2 PCIe Gen 4.0 NVMe SSD. Prepare for jaw-dropping visuals and mind-blowing frame rates with the Colorful iGame GeForce RTX 4080 16GB Vulcan OC-V GDDR6X Graphics Card. The Antec HCG 1000 Gold Fully Modular Power Supply ensures stable and reliable power delivery for the most demanding gaming sessions. Keep your CPU running cool with the Corsair iCUE H150i ELITE CAPELLIX XT RGB Liquid CPU Cooler. All these top-notch components are housed in the sleek and stylish Lian Li LANCOOL III RGB Mid-Tower E-ATX Gaming Case.\n\nFor More Details Please Visit:\n\nAMD Ryzen 9 7950X Processor\n\nGIGABYTE B650M AORUS ELITE AX DDR5 AMD AM5 Micro-ATX Motherboard\n\nKingston FURY Beast 16GB 6000MHz DDR5 RGB Desktop RAM\n\nSamsung PM9A1 2TB M.2 PCIe Gen 4.0 NVMe SSD\n\nColorful iGame GeForce RTX 4080 16GB Vulcan OC-V GDDR6X Graphics Card\n\nAntec HCG 1000 Gold Fully Modular Power Supply\n\nCorsair iCUE H150i ELITE CAPELLIX XT RGB Liquid CPU Cooler\n\nLian Li LANCOOL III RGB Mid-Tower E-ATX Gaming Case.\n\nFor More Details Please Visit:\n\nAMD Ryzen 9 7950X Processor\n\nGIGABYTE B650M AORUS ELITE AX DDR5 AMD AM5 Micro-ATX Motherboard\n\nKingston FURY Beast 16GB 6000MHz DDR5 RGB Desktop RAM\n\nSamsung PM9A1 2TB M.2 PCIe Gen 4.0 NVMe SSD\n\nColorful iGame GeForce RTX 4080 16GB Vulcan OC-V GDDR6X Graphics Card\n\nAntec HCG 1000 Gold Fully Modular Power Supply\n\nCorsair iCUE H150i ELITE CAPELLIX XT RGB Liquid CPU Cooler\n\nLian Li LANCOOL III RGB Mid-Tower E-ATX Gaming Case\n\n"
+            },
+            {
+                "title": "What is the price of AMD Ryzen 9 7950X Gaming Desktop PC in Bangladesh?",
+                "details": "The latest price of AMD Ryzen 9 7950X Gaming Desktop PC in Bangladesh is 374,898৳. You can buy the AMD Ryzen 9 7950X Gaming Desktop PC at the best price from our website or visit any of our showrooms."
+            }
+        ],
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Incredible gaming performance and super-fast storage. Highly recommended!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "This PC runs all the latest games with ease. It's a beast!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "I'm impressed with the cooling system; my CPU never overheats even during long gaming sessions.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "desktop",
+        "product_name": "AMD Ryzen 9 7900X Desktop PC",
+        "price": 141250,
+        "regular_price": 155375,
+        "status": true,
+        "product_code": "00183",
+        "brand": "AMD",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "Ryzen 9 7900X Desktop PC",
+            "Processor": "AMD Ryzen 7 7800X3D Processor",
+            "Motherboard": "Asus TUF GAMING B650M-PLUS WIFI DDR5 AM5 mATX",
+            "RAM": "Corsair VENGEANCE RGB 16GB DDR5 6000MHz",
+            "Storage": "Samsung 980 Pro 1TB PCIe 4.0 M.2 NVMe SSD"
+        },
+        "specification": {
+            "Basic Information": {
+                "Processor": [
+                    "AMD Ryzen 9 7900X Processor",
+                    "3 Years Warranty (No Warranty for Fan or Cooler)"
+                ],
+                "Motherboard": [
+                    "MSI PRO B650M-A WIFI DDR5 AMD AM5 mATX Motherboard",
+                    "3 Years Warranty"
+                ],
+                "RAM": [
+                    "Corsair VENGEANCE RGB 16GB DDR5 6000MHz RAM",
+                    "Lifetime Warranty"
+                ],
+                "Storage": [
+                    "Samsung 980 Pro 1TB PCIe 4.0 M.2 NVMe SSD",
+                    "3 Years Warranty"
+                ],
+                "Casing": [
+                    "Corsair 4000D AirFlow Mid Tower ATX Casing",
+                    "No Warranty"
+                ],
+                "Power Supply": [
+                    "Corsair CV650 650Watt 80 Plus Bronze Certified Power Supply",
+                    "05 Years Warranty"
+                ],
+                "CPU Cooler": [
+                    "Asus ROG STRIX LC II ARGB 360MM CPU Cooler",
+                    "6 Years Warranty"
+                ]
+            }
+        },
+        "description": [
+            {
+                "title": "AMD Ryzen 9 7900X Desktop PC",
+                "details": "The AMD Ryzen 9 7900X Desktop PC is a high-performance system designed for seamless multitasking and immersive gaming experiences. Powered by the AMD Ryzen 9 7900X Processor, this PC delivers exceptional speed and responsiveness. The MSI PRO B650M-A WIFI AM5 Micro-ATX Motherboard ensures reliable connectivity, while the Corsair VENGEANCE RGB 16GB DDR5 6000MHz RAM provides smooth and efficient performance. The Asus ROG STRIX LC II ARGB 360MM CPU Cooler keeps the system cool during intense gaming sessions. With the Corsair 4000D AirFlow Mid Tower ATX Casing, your components stay protected and well-ventilated. The Samsung 980 Pro 1TB PCIe 4.0 M.2 NVMe SSD offers ample storage space and lightning-fast data transfer speeds. The Corsair CV650 650Watt 80 Plus Bronze Certified Power Supply ensures stable and efficient power delivery. Upgrade your gaming experience with the AMD Ryzen 9 7900X Desktop PC.\n\nFor More Details Please Visit:\n\nAMD Ryzen 9 7900X Processor\nMSI PRO B650M-A WIFI DDR5 AMD AM5 mATX Motherboard\nCorsair VENGEANCE RGB 16GB DDR5 6000MHz RAM\nAsus ROG STRIX LC II ARGB 360MM CPU Cooler\nCorsair 4000D AirFlow Mid Tower ATX Casing\nSamsung 980 Pro 1TB PCIe 4.0 M.2 NVMe SSD\nCorsair CV650 650Watt 80 Plus Bronze Certified Power Supply\n"
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of AMD Ryzen 9 7900X Desktop PC in Bangladesh?",
+            "details": "The latest price of AMD Ryzen 9 7900X Desktop PC in Bangladesh is 141,250৳. You can buy the AMD Ryzen 9 7900X Desktop PC at the best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Incredible gaming performance and super-fast storage. Highly recommended!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "This PC runs all the latest games with ease. It's a beast!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "I'm impressed with the cooling system; my CPU never overheats even during long gaming sessions.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "desktop",
+        "product_name": "Apple Mac Mini M2 chip with 8-core Processor, 10-Core GPU, 8GB Memory, 512GB Storage",
+        "price": 120000,
+        "regular_price": 126750,
+        "status": true,
+        "product_code": "00184",
+        "brand": "Apple",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "MMFK3LL/A",
+            "Model": "Apple Mac Mini M2 chip",
+            "Processor": "10-Core GPU, 16-Core Neural Engine",
+            "RAM": "8GB Unified",
+            "Storage": "512GB SSD",
+            "Connectivity": "Wi-Fi 6E (802.11ax), Bluetooth 5.3 Gigabit Ethernet"
+        },
+        "specification": {
+            "Basic Information": {
+                "Processor": "Apple M2 chip, 8-core CPU with 4 performance & 4 efficiency cores",
+                "Storage": [
+                    "8GB unified memory",
+                    "512GB Storage"
+                ],
+                "Power Supply": "150 W with IEC",
+                "Network & Wireless Connectivity": [
+                    "802.11ax Wi-Fi 6 wireless networking IEEE",
+                    "802.11a/b/g/n/ac compatible, Bluetooth 5.3 wireless technology"
+                ],
+                "Operating System": "macOS"
+            },
+            "Input Devices": {
+                "External I/O Ports": [
+                    "2 x USB-A 3.0 / 3.1/3.2 Gen 1",
+                    "2 x Thunderbolt 4 (Supports DisplayPort and Power Delivery)",
+                    "1 x HDMI Output",
+                    "1 x 1/8\" / 3.5 mm Headphone/Line Output"
+                ]
+            },
+            "Physical Details": {
+                "Dimension": "7.75 x 7.75 x 1.41\" / 19.68 x 19.68 x 3.58 cm",
+                "Weight": "2.6 lb / 1.2 kg"
+            },
+            "Warranty Information": {
+                "Warranty": "01 year International warranty."
+            }
+        },
+        "description": [
+            {
+                "title": "Apple Mac Mini M2 chip with 8-core Processor, 10-Core GPU, 8GB Memory, 512GB Storage",
+                "details": "The Apple Mac mini is now equipped with Apple's pro-level M2 chip, making it suited for a variety of jobs like editing huge photos and 8K ProRes video as well as more demanding applications like immersive gaming and rich presentations. The Apple M2, which makes use of 2nd-Generation 5nm process technology, merges the CPU, GPU, Neural Engine, I/O, and more into a single system on a chip (SoC). Users will be able to concurrently playback up to two streams of 8K ProRes 422 video at 30 frames per second or up to 12 streams of 4K ProRes 422 video at 30 frames per second, which is an increase of up to 2.4x over the previous generation Mac mini with M1. Filter and function performance in Adobe Photoshop is also boosted up to 50%. This is possible thanks to the M2's faster next-generation CPU and GPU, higher bandwidth memory, and a more powerful media engine for improved performance and power efficiency that includes an advanced thermal system for greater sustained performance. Adding to the Mac mini's power is 8GB of RAM and, thanks to the addition of Wi-Fi 6E (802.11ax), wireless networking will operate at up to 2.4 Gb/s. The 10-Core GPU produces images that are crisp and clear, and you can export video to an external monitor using either the built-in HDMI port or the system's Thunderbolt 4 ports, which support native DisplayPort output. With one 6K/60Hz monitor using Thunderbolt 4 and a second 5K/60Hz display using Thunderbolt 4, or a 4K/60Hz display using HDMI, this Mac mini enables up to two simultaneous displays. A 512GB SSD is included in this Mac mini for file storage. There are two Thunderbolt 4 / USB 4 ports, 10 Gb/s USB 3.1 Gen 2 ports, charging ports, and power ports for external peripherals if you want to add external peripherals. There are still two 5 Gb/s USB 3.1 Gen 1 Type-A ports available for connecting additional devices to this machine. For wired networking, a Gigabit Ethernet connector is already there. Wi-Fi 6E (802.11ax) can be used for wireless access. You can connect more compatible devices, such as keyboards, mice, and headsets, using Bluetooth 5.3 technology. Using a 3.5mm headphone jack, the sound is output. An integrated 150W power supply that uses 100-240 VAC at 50-60 Hz powers Apple's Mac mini."
+            },
+            {
+                "title": "Buy Apple Mac Mini M2 chip with 8-core Processor, 10-Core GPU, 8GB Memory, 512GB Storage from the best Apple Mac Mini Shop in BD",
+                "details": "In Bangladesh, you can get original Apple Mac Mini M2 chip with 8-core Processor, 512GB Storage From Star Gadget. We have a large collection of the latest Apple Mac Mini to purchase. Order Online Or Visit your Nearest Star Gadget Shop to get yours at the lowest price. The Apple Mac Mini comes with 01-year International warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of Apple Mac Mini M2 chip with 8-core Processor, 512GB Storage in Bangladesh?",
+            "details": "The latest price of Apple Mac Mini M2 chip with 8-core Processor, 512GB Storage in Bangladesh is 120,000৳. You can buy the Apple Mac Mini M2 chip with 8-core Processor, 512GB Storage at the best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Superb performance in a compact form. Excellent choice for creative work!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "This Mac Mini handles 4K video editing effortlessly. Very satisfied!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "Impressive speed and power for such a small device. A solid investment.",
+                "user_rating": 5
+            }
+        ]
+    }
+]

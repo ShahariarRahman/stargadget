@@ -1,0 +1,253 @@
+[
+    {
+        "category": "gpu",
+        "product_name": "GIGABYTE GeForce RTX 4090 GAMING OC 24GB GDDR6X Graphics Card",
+        "price": 240000,
+        "regular_price": 258500,
+        "status": true,
+        "product_code": "00120",
+        "brand": "GIGABYTE",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "GV-N4090GAMING OC-24GD",
+            "Model": "GeForce RTX 4090 GAMING OC 24G",
+            "Stream Processors": "NVIDIA Ada Lovelace Streaming Multiprocessors",
+            "Core Clock": "4th Gen Tensor Cores, 3rd Gen RT Cores",
+            "Memory Bus": "384 bit",
+            "Card Bus": "PCI-E 4.0 x16",
+            "Output": "DisplayPort 1.4 x3, HDMI 2.1 x1"
+        },
+        "specification": {
+            "Video Memory Specifications": {
+                "Type": "GDDR6X",
+                "Size": "24 GB",
+                "Resolution": "7680x4320",
+                "Core Clock": "TBD",
+                "Memory Clock": "21 Gbps",
+                "BUS Type": "384 bit",
+                "Memory Interface": "PCI-E 4.0 x 16",
+                "Stream Processors": "NVIDIA Ada Lovelace Streaming Multiprocessors",
+                "CUDA Cores": 16384
+            },
+            "Interface": {
+                "Display Port": "DisplayPort 1.4 x3",
+                "HDMI": "HDMI 2.1 x1"
+            },
+            "Power Specifications": {
+                "Connectors": "16 pin x1",
+                "Recommended PSU": "1000W"
+            },
+            "Display Option": {
+                "Multi Display": 4
+            },
+            "Application Programming Interfaces": {
+                "DirectX": "12 Ultimate",
+                "OpenGL": "4.6"
+            },
+            "Physical Specifications": {
+                "Dimensions": "L=358.5 W=162.8 H=75.1 mm",
+                "Others": "PCB Form: ATX"
+            },
+            "Warranty": {
+                "Manufacturing Warranty": "3 Years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "GIGABYTE GeForce RTX 4090 GAMING OC 24GB GDDR6X Graphics Card",
+                "details": "The GIGABYTE GeForce RTX 4090 GAMING OC 24GB Graphics Card is integrated with a 24GB GDDR6X 384-bit memory interface and it features NVIDIA Ada Lovelace Streaming Multiprocessors. It is equipped with advanced 4th Generation Tensor Cores for up to 2X AI performance and 3rd Generation RT Cores for up to 2X ray tracing performance. GIGABYTE GeForce RTX 4090 GAMING OC 24G is equipped with some special features such as a WINDFORCE cooling system, RGB Fusion, 4 video outputs, and a Protection metal backplate. The WINDFORCE cooling system features three 110mm newly designed bionic shark fans, alternate spinning, 13 composite copper heat pipes, a large vapor chamber directly touching the GPU, 3D active fans, and Screen cooling, which together provide high-efficiency heat dissipation. The double ball bearing structure has better heat endurance and efficiency than the sleeve structure. The 3D Active Fan provides semi-passive cooling, and the fans will remain off when the GPU is in a low load or low power game. The legendary three-ring lighting provides excellent visual enjoyment. You can choose any lighting effect or synchronize it with other devices in the GIGABYTE CONTROL CENTER. The GIGABYTE GeForce RTX 4090 GAMING OC 24GB Graphics Card features Dual Bios. The factory default setting is OC mode, which provides users with the best performance. However, switching to silent mode will enjoy a quieter experience. The metal backplate not only provides an aesthetical shape but also enhances the structure of the graphics card to provide complete protection. The GIGABYTE GeForce RTX 4090 GAMING OC 24G comes with 3 years of warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of GIGABYTE GeForce RTX 4090 GAMING OC 24GB Graphics Card in Bangladesh?",
+            "details": "The latest price of GIGABYTE GeForce RTX 4090 GAMING OC 24GB Graphics Card in Bangladesh is 240,000৳. You can buy the GIGABYTE GeForce RTX 4090 GAMING OC 24GB Graphics Card at the best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Great graphics card, handles all my gaming needs with ease. Highly recommended!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "This card is a beast! Runs all my favorite games at max settings without breaking a sweat.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "The cooling system is excellent, and it looks great in my PC. No complaints here!",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "gpu",
+        "product_name": "ASUS TUF Gaming GeForce RTX 4080 16GB GDDR6X OC Edition Graphics Card",
+        "price": 205000,
+        "regular_price": 225500,
+        "status": true,
+        "product_code": "00121",
+        "brand": "Asus",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "MPN": "TUF-RTX4080-O16G-GAMING",
+            "Model": "TUF Gaming GeForce RTX 4080 16GB GDDR6X OC Edition",
+            "OC mode": "2625 MHz",
+            "Default mode": "2595 MHz(Boost Clock)",
+            "Core Clock": "4th Gen Tensor Cores, 3rd Gen RT Cores",
+            "Output": "3x DisplayPort 1.4a, 2x HDMI 2.1a"
+        },
+        "specification": {
+            "Video Memory Specifications": {
+                "Type": "GDDR6X",
+                "Size": "16GB",
+                "Resolution": "Digital Max Resolution 7680 x 4320",
+                "Core Clock": [
+                    "OC mode: 2625 MHz",
+                    "Default mode: 2595 MHz(Boost Clock)"
+                ],
+                "BUS Type": "PCI Express 4.0",
+                "Memory Interface": "256-bit",
+                "Stream Processors": "NVIDIA Ada Lovelace Streaming Multiprocessors"
+            },
+            "Interface": {
+                "Display Port": "Yes x 3 (Native DisplayPort 1.4a)",
+                "HDMI": "Yes x 2 (Native HDMI 2.1a)",
+                "HDCP": "Yes (2.3)"
+            },
+            "Power Specifications": {
+                "Connectors": "1 x 16-pin",
+                "Recommended PSU": "750W"
+            },
+            "Display Option": "Multi Display 4",
+            "Application Programming Interfaces": {
+                "OpenGL": "OpenGL 4.6"
+            },
+            "Physical Specifications": {
+                "Dimensions": "348.2 x 160 x 72.6 mm",
+                "Others": [
+                    "Slot: 3.65 slot",
+                    "AURA SYNC: ARGB"
+                ]
+            },
+            "Warranty": {
+                "Manufacturing Warranty": "3 Years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "ASUS TUF Gaming GeForce RTX 4080 16GB GDDR6X OC Edition Graphics Card",
+                "details": "The ASUS TUF Gaming GeForce RTX 4080 16GB GDDR6X OC Edition Graphics Card comes in with NVIDIA Ada Lovelace Streaming Multiprocessors. It delivers up to 2x performance and power efficiency. The ASUS TUF Gaming GeForce RTX 4080 16GB GDDR6X OC Edition brings a whole new meaning to going with the flow. Inside and out, every element of the card gives the monstrous GPU headroom to breathe freely and achieve ultimate performance. The ASUS TUF Gaming GeForce RTX 4080 16GB GDDR6X OC Edition comes with 4th Generation Tensor Cores for up to 2X AI performance and 3rd Generation RT Cores for up to 2X ray tracing performance. It features Axial-tech fans scaled up for 23% more airflow. Axial-tech Fan is tuned up with more fan blades and a reversed rotational direction for the center fan. It offers a new patented vapor chamber with a milled heat spreader for lower GPU temps. The GPU has a 3.5-slot design with a massive fin array optimized for airflow from the three Axial-tech fans. It features a diecast shroud, frame, and backplate that add rigidity and are vented to further maximize airflow and heat dissipation. The ASUS TUF Gaming GeForce RTX 4080 16GB GDDR6X OC Edition Graphics Card offers digital power control with high-current power stages and 15K capacitors to fuel maximum performance. The graphics card is loaded with GPU Tweak III software which provides intuitive performance tweaking, thermal controls, and system monitoring. The Latest ASUS TUF Gaming GeForce RTX 4080 16GB GDDR6X OC Edition comes with 03 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of ASUS TUF Gaming GeForce RTX 4080 16GB OC Edition Graphics Card in Bangladesh?",
+            "details": "The latest price of ASUS TUF Gaming GeForce RTX 4080 16GB OC Edition Graphics Card in Bangladesh is 205,000৳. You can buy the ASUS TUF Gaming GeForce RTX 4080 16GB OC Edition Graphics Card at best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Great graphics card, delivers excellent performance for gaming and graphics work.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "The OC mode is fantastic, and it runs all my games smoothly at high settings.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "Impressive cooling design, my GPU stays cool even under heavy load.",
+                "user_rating": 4
+            }
+        ]
+    },
+    {
+        "category": "gpu",
+        "product_name": "MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G GDDR6X Graphics Card",
+        "price": 117900,
+        "regular_price": 128500,
+        "status": true,
+        "product_code": "00122",
+        "brand": "MSI",
+        "image_url": "https://i.ibb.co/7XTkydQ/ASRock-Z790-Pro-RS-13th-Gen-12th-Gen-ATX-Motherboard.jpg",
+        "features": {
+            "Model": "GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G",
+            "Extreme Performance": "2745 MHz (MSI Center)",
+            "Boost": "2730 MHz",
+            "Memory": "12GB GDDR6X",
+            "Output": "DisplayPort 1.4 x3, HDMI x1"
+        },
+        "specification": {
+            "Video Memory Specifications": {
+                "Type": "GDDR6X",
+                "Size": "12GB",
+                "Resolution": "7680x4320",
+                "Core Clock": [
+                    "Extreme Performance: 2745 MHz (MSI Center)",
+                    "Boost: 2730 MHz"
+                ],
+                "Boost": "2730 MHz",
+                "Memory Clock": "21 Gbps",
+                "BUS Type": "192-bit",
+                "Memory Interface": "PCI Express Gen 4",
+                "CUDA Cores": "7680 Units"
+            },
+            "Interface": {
+                "Display Port": "DisplayPort x 3 (v1.4a)",
+                "HDMI": "HDMI x 1",
+                "HDCP": "Yes"
+            },
+            "Power Specifications": {
+                "Connectors": "16-pin x 1",
+                "Recommended PSU": "700W",
+                "Consumption": "285W"
+            },
+            "Display Option": {
+                "Multi Display": 4
+            },
+            "Application Programming Interfaces": {
+                "DirectX": "12 Ultimate",
+                "OpenGL": "4.6"
+            },
+            "Physical Specifications": {
+                "Dimensions": "307 x 125 x 51 mm",
+                "Others": "1091 g / 1850 g"
+            },
+            "Warranty": {
+                "Manufacturing Warranty": "3 years"
+            }
+        },
+        "descriptions": [
+            {
+                "title": "MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G GDDR6X Graphics Card",
+                "details": "The MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G Graphics Card is a high-performance graphics card that will improve your gaming and content creation experiences. It boasts rapid ray tracing, AI-accelerated performance with DLSS 3, and powerful creative capabilities thanks to the NVIDIA GeForce RTX 4070 Ti GPU and the Ada Lovelace architecture. This MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G offers seamless gaming and efficient content rendering with a boost frequency of 2730 MHz and 12GB of GDDR6X memory working at 21 Gbps. The card has three DisplayPort 1.4a and one HDMI 2.1 connector for communication, and it supports 4K@120Hz HDR and 8K@60Hz HDR with Variable Refresh Rate (VRR). Its TRI FROZR 3 Thermal Design, which includes TORX Fan 5.0 and a copper baseplate with Core Pipes, assures effective cooling, while Afterburner, the world's most popular graphics card overclocking program, allows you to fine-tune performance. This card is a great option for gamers and creative professionals alike, thanks to its sleek white appearance and modern technology."
+            },
+            {
+                "title": "Buy MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G GDDR6X Graphics Card from Star Gadget",
+                "details": "In Bangladesh, you can get original MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G GDDR6X Graphics Card From Star Gadget. We have a large collection of latest MSI Graphics Card to purchase for your Desktop PC. Order Online Or Visit your Nearest Star Gadget Shop to get yours at lowest price. The MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G Graphics Card comes with 3 years warranty."
+            }
+        ],
+        "price_info": {
+            "title": "What is the price of MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G Graphics Card in Bangladesh?",
+            "details": "The latest price of MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G Graphics Card in Bangladesh is 117,900৳. You can buy the MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G Graphics Card at the best price from our website or visit any of our showrooms."
+        },
+        "reviews": [
+            {
+                "user_email": "user1@example.com",
+                "review_comment": "Great graphics card, runs all my games smoothly. The white design looks fantastic!",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user2@example.com",
+                "review_comment": "This card is a beast! Handles high-end gaming and 3D rendering without breaking a sweat.",
+                "user_rating": 5
+            },
+            {
+                "user_email": "user3@example.com",
+                "review_comment": "Impressive performance and quiet operation. Definitely worth the price.",
+                "user_rating": 4
+            }
+        ]
+    }
+]
